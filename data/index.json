@@ -1,0 +1,1031 @@
+[
+ {
+  "id": 1,
+  "part": 1,
+  "icon": "🗺️",
+  "title": {
+   "ca": "Els territoris de parla catalana",
+   "en": "Catalan-speaking areas",
+   "ko": "카탈루냐어 사용 지역",
+   "es": "Los territorios de habla catalana"
+  },
+  "summary": {
+   "en": "Catalan is not only spoken in Catalonia: it is used in four different countries, from the Pyrenees to the Balearic Islands and even a city in Sardinia. This chapter shows where Catalan lives and what legal status it has in each place, so you understand the map behind the language you are learning.",
+   "ko": "카탈루냐어는 카탈루냐에서만 쓰이는 언어가 아니에요. 피레네 산맥에서 발레아레스 제도, 그리고 사르데냐의 한 도시까지 네 나라에 걸쳐 사용돼요. 이 장에서는 카탈루냐어가 어디에서 쓰이는지, 지역마다 법적 지위가 어떻게 다른지 알아봐요.",
+   "es": "El catalán no se habla solo en Cataluña: se usa en cuatro países distintos, desde los Pirineos hasta las Islas Baleares e incluso en una ciudad de Cerdeña. Este capítulo muestra dónde vive el catalán y qué estatus legal tiene en cada lugar."
+  },
+  "nEx": 12,
+  "sections": [
+   {
+    "id": "1.1",
+    "ca": "On es parla català?",
+    "en": "Where is Catalan spoken?",
+    "ko": "카탈루냐어는 어디에서 쓰일까?",
+    "es": "¿Dónde se habla catalán?"
+   },
+   {
+    "id": "1.2",
+    "ca": "L’estatus legal del català",
+    "en": "The legal status of Catalan",
+    "ko": "카탈루냐어의 법적 지위",
+    "es": "El estatus legal del catalán"
+   },
+   {
+    "id": "1.3",
+    "ca": "Català i valencià",
+    "en": "Catalan and Valencian",
+    "ko": "카탈루냐어와 발렌시아어",
+    "es": "Catalán y valenciano"
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "part": 1,
+  "icon": "📜",
+  "title": {
+   "ca": "El català entre les llengües romàniques",
+   "en": "Catalan among the other Romance languages",
+   "ko": "로망스어 속의 카탈루냐어",
+   "es": "El catalán entre las lenguas románicas"
+  },
+  "summary": {
+   "en": "Catalan grew out of Latin, like Spanish, French, Italian and Portuguese, but its long history of invasions, kingdoms and writers gave it its own personality. This chapter tells the story of Catalan from the Romans to the modern standard language, and introduces the people who shaped it.",
+   "ko": "카탈루냐어는 스페인어, 프랑스어, 이탈리아어, 포르투갈어처럼 라틴어에서 나왔지만, 여러 침략과 왕국, 작가들의 긴 역사 덕분에 고유한 개성을 갖게 되었어요. 이 장에서는 로마 시대부터 현대 표준어까지 카탈루냐어의 이야기와 그 언어를 만든 사람들을 소개해요.",
+   "es": "El catalán nació del latín, como el castellano, el francés, el italiano y el portugués, pero su larga historia de invasiones, reinos y escritores le dio una personalidad propia. Este capítulo cuenta la historia del catalán desde los romanos hasta la lengua estándar moderna."
+  },
+  "nEx": 12,
+  "sections": [
+   {
+    "id": "2.1",
+    "ca": "Els orígens: del llatí al català",
+    "en": "Origins: from Latin to Catalan",
+    "ko": "기원: 라틴어에서 카탈루냐어로",
+    "es": "Los orígenes: del latín al catalán"
+   },
+   {
+    "id": "2.2",
+    "ca": "Els primers textos i l’edat d’or",
+    "en": "First texts and the golden age",
+    "ko": "최초의 문헌과 황금기",
+    "es": "Los primeros textos y la edad de oro"
+   },
+   {
+    "id": "2.3",
+    "ca": "Decadència i recuperació",
+    "en": "Decline and recovery",
+    "ko": "쇠퇴와 부흥",
+    "es": "Decadencia y recuperación"
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "part": 1,
+  "icon": "📱",
+  "title": {
+   "ca": "El català al segle XXI",
+   "en": "Catalan in the twenty-first century",
+   "ko": "21세기의 카탈루냐어",
+   "es": "El catalán en el siglo XXI"
+  },
+  "summary": {
+   "en": "How alive is Catalan today? This chapter looks at the numbers: how many people live in Catalan-speaking areas, how many can understand, speak, read and write it, and how the language is used at school, in books, newspapers, radio, TV and on the internet.",
+   "ko": "오늘날 카탈루냐어는 얼마나 살아 있을까요? 이 장에서는 숫자로 살펴봐요. 카탈루냐어 지역에 몇 명이 살고, 얼마나 많은 사람이 이해하고 말하고 읽고 쓸 수 있는지, 그리고 학교, 책, 신문, 라디오, TV, 인터넷에서 어떻게 쓰이는지 알아봐요.",
+   "es": "¿Qué vitalidad tiene hoy el catalán? Este capítulo mira las cifras: cuánta gente vive en las zonas catalanohablantes, cuántos lo entienden, hablan, leen y escriben, y cómo se usa en la escuela, los libros, la prensa, la radio, la tele e internet."
+  },
+  "nEx": 12,
+  "sections": [
+   {
+    "id": "3.1",
+    "ca": "Quanta gent sap català?",
+    "en": "How many people know Catalan?",
+    "ko": "카탈루냐어를 아는 사람은 얼마나 될까?",
+    "es": "¿Cuánta gente sabe catalán?"
+   },
+   {
+    "id": "3.2",
+    "ca": "El català a l’escola i als llibres",
+    "en": "Catalan at school and in books",
+    "ko": "학교와 책 속의 카탈루냐어",
+    "es": "El catalán en la escuela y en los libros"
+   },
+   {
+    "id": "3.3",
+    "ca": "Mitjans de comunicació i internet",
+    "en": "Media and the internet",
+    "ko": "미디어와 인터넷",
+    "es": "Medios de comunicación e internet"
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "part": 1,
+  "icon": "🗣️",
+  "title": {
+   "ca": "Els dialectes principals",
+   "en": "Main dialects",
+   "ko": "주요 방언",
+   "es": "Los dialectos principales"
+  },
+  "summary": {
+   "en": "Catalan sounds a little different in Barcelona, Lleida, València or Palma. This chapter explains the big east–west division, the most famous differences in vowels, verb endings and articles, and why this course uses Central Catalan as its model.",
+   "ko": "카탈루냐어는 바르셀로나, 레이다, 발렌시아, 팔마에서 조금씩 다르게 들려요. 이 장에서는 동부와 서부의 큰 구분, 모음·동사 어미·관사의 대표적인 차이, 그리고 이 과정이 왜 중부 카탈루냐어를 기준으로 삼는지 설명해요.",
+   "es": "El catalán suena un poco distinto en Barcelona, Lleida, València o Palma. Este capítulo explica la gran división este–oeste, las diferencias más conocidas en vocales, terminaciones verbales y artículos, y por qué este curso usa el catalán central como modelo."
+  },
+  "nEx": 11,
+  "sections": [
+   {
+    "id": "4.1",
+    "ca": "Oriental i occidental",
+    "en": "Eastern and Western Catalan",
+    "ko": "동부 방언과 서부 방언",
+    "es": "Oriental y occidental"
+   },
+   {
+    "id": "4.2",
+    "ca": "Diferències en els verbs",
+    "en": "Differences in verbs",
+    "ko": "동사의 차이",
+    "es": "Diferencias en los verbos"
+   },
+   {
+    "id": "4.3",
+    "ca": "L’article salat i l’estàndard",
+    "en": "The 'salty' article and the standard",
+    "ko": "'짠 관사'와 표준어",
+    "es": "El artículo salado y el estándar"
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "part": 1,
+  "icon": "🔤",
+  "title": {
+   "ca": "Pronúncia i ortografia",
+   "en": "Pronunciation and spelling",
+   "ko": "발음과 철자",
+   "es": "Pronunciación y ortografía"
+  },
+  "summary": {
+   "en": "Catalan spelling looks tricky at first (ny, ll, l·l, tx, ix, ç…), but it follows clear patterns. This chapter teaches how vowels change when they are not stressed, when to write à, è, é, ò, ó, í, ú, and how each consonant spelling sounds, so you can read any word aloud and spell what you hear.",
+   "ko": "카탈루냐어 철자(ny, ll, l·l, tx, ix, ç…)는 처음엔 어려워 보이지만 분명한 규칙이 있어요. 이 장에서는 강세 없는 모음이 어떻게 바뀌는지, 언제 à, è, é, ò, ó, í, ú를 쓰는지, 각 자음 철자가 어떻게 소리 나는지 배워서 어떤 단어든 읽고 들은 대로 쓸 수 있게 돼요.",
+   "es": "La ortografía catalana parece difícil al principio (ny, ll, l·l, tx, ix, ç…), pero sigue patrones claros. Este capítulo enseña cómo cambian las vocales átonas, cuándo escribir à, è, é, ò, ó, í, ú y cómo suena cada grafía consonántica, para que puedas leer cualquier palabra y escribir lo que oyes."
+  },
+  "nEx": 20,
+  "sections": [
+   {
+    "id": "5.1",
+    "ca": "Les vocals i els accents",
+    "en": "Vowels and written accents",
+    "ko": "모음과 강세 부호",
+    "es": "Las vocales y los acentos"
+   },
+   {
+    "id": "5.2",
+    "ca": "Llegir i pronunciar les consonants",
+    "en": "Reading and pronouncing consonants",
+    "ko": "자음 읽기와 발음",
+    "es": "Leer y pronunciar las consonantes"
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "part": 2,
+  "icon": "🧩",
+  "title": {
+   "ca": "Classes de paraules",
+   "en": "Word classes",
+   "ko": "품사",
+   "es": "Clases de palabras"
+  },
+  "summary": {
+   "en": "This chapter looks at the building blocks of every noun phrase: nouns, adjectives, articles, stressed pronouns, possessives, demonstratives and quantifiers. You will see how gender and number agreement ties them together and where Catalan behaves differently from English. Mastering these forms makes every sentence you build more accurate.",
+   "ko": "이 장에서는 명사구를 이루는 기본 요소인 명사, 형용사, 관사, 강세형 대명사, 소유사, 지시사, 수량사를 살펴봐요. 성·수 일치가 이들을 어떻게 묶어 주는지, 그리고 카탈루냐어가 영어와 어디서 다른지 알게 될 거예요. 이 형태들을 익히면 모든 문장을 더 정확하게 만들 수 있어요.",
+   "es": "Este capítulo trata las piezas básicas de todo sintagma nominal: sustantivos, adjetivos, artículos, pronombres tónicos, posesivos, demostrativos y cuantificadores. Verás cómo la concordancia de género y número los une y en qué se diferencia el catalán del inglés. Dominar estas formas hará tus frases más correctas."
+  },
+  "nEx": 44,
+  "sections": [
+   {
+    "id": "6.1",
+    "ca": "Els noms",
+    "en": "Nouns",
+    "ko": "명사",
+    "es": "Los sustantivos"
+   },
+   {
+    "id": "6.2",
+    "ca": "Els adjectius",
+    "en": "Adjectives",
+    "ko": "형용사",
+    "es": "Los adjetivos"
+   },
+   {
+    "id": "6.3",
+    "ca": "Els articles",
+    "en": "Articles",
+    "ko": "관사",
+    "es": "Los artículos"
+   },
+   {
+    "id": "6.4",
+    "ca": "Els pronoms personals forts",
+    "en": "Personal (stressed) pronouns",
+    "ko": "인칭 대명사(강세형)",
+    "es": "Los pronombres personales tónicos"
+   },
+   {
+    "id": "6.5",
+    "ca": "Possessius i demostratius",
+    "en": "Possessives and demonstratives",
+    "ko": "소유사와 지시사",
+    "es": "Posesivos y demostrativos"
+   },
+   {
+    "id": "6.6",
+    "ca": "Els quantificadors",
+    "en": "Quantifiers",
+    "ko": "수량사",
+    "es": "Los cuantificadores"
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "part": 2,
+  "icon": "🔁",
+  "title": {
+   "ca": "Sintagmes verbals",
+   "en": "Verb phrases",
+   "ko": "동사구",
+   "es": "Sintagmas verbales"
+  },
+  "summary": {
+   "en": "This chapter is the engine room of Catalan: how verbs change for person, tense and mood, how adverbs add detail, and how the small unstressed pronouns (em, el, li, ho, en, hi…) replace whole phrases. Because Catalan usually drops subject pronouns, getting verb endings and pronouns right is what makes you understood.",
+   "ko": "이 단원은 카탈루냐어의 엔진실이에요. 동사가 인칭·시제·법에 따라 어떻게 바뀌는지, 부사가 어떻게 정보를 더하는지, 그리고 작은 약형 대명사(em, el, li, ho, en, hi…)가 어떻게 구 전체를 대신하는지 배워요. 카탈루냐어는 보통 주어를 생략하므로 동사 어미와 대명사를 정확히 써야 뜻이 통해요.",
+   "es": "Este capítulo es la sala de máquinas del catalán: cómo cambian los verbos según la persona, el tiempo y el modo, cómo los adverbios añaden detalles y cómo los pequeños pronombres átonos (em, el, li, ho, en, hi…) sustituyen frases enteras. Como el catalán suele omitir el sujeto, acertar con las terminaciones y los pronombres es clave para que te entiendan."
+  },
+  "nEx": 45,
+  "sections": [
+   {
+    "id": "7.1a",
+    "ca": "Les conjugacions i el present d’indicatiu",
+    "en": "Conjugation groups and the present indicative",
+    "ko": "동사 활용 그룹과 직설법 현재",
+    "es": "Las conjugaciones y el presente de indicativo"
+   },
+   {
+    "id": "7.1b",
+    "ca": "Els temps de passat: imperfet i passat perifràstic",
+    "en": "Past tenses: imperfect and periphrastic past",
+    "ko": "과거 시제: 불완료 과거와 우언적 과거",
+    "es": "Los tiempos de pasado: imperfecto y pasado perifrástico"
+   },
+   {
+    "id": "7.1c",
+    "ca": "El futur, el condicional i els temps compostos",
+    "en": "Future, conditional and compound tenses",
+    "ko": "미래, 조건법과 복합 시제",
+    "es": "El futuro, el condicional y los tiempos compuestos"
+   },
+   {
+    "id": "7.1d",
+    "ca": "Temps i aspecte: quin passat faig servir?",
+    "en": "Tense and aspect: which past do I use?",
+    "ko": "시제와 상: 어떤 과거를 쓸까?",
+    "es": "Tiempo y aspecto: ¿qué pasado uso?"
+   },
+   {
+    "id": "7.1e",
+    "ca": "El subjuntiu: formes i usos",
+    "en": "The subjunctive: forms and uses",
+    "ko": "접속법: 형태와 용법",
+    "es": "El subjuntivo: formas y usos"
+   },
+   {
+    "id": "7.1f",
+    "ca": "L’imperatiu, el participi i el gerundi",
+    "en": "Imperative, past participle and gerund",
+    "ko": "명령법, 과거분사와 현재분사",
+    "es": "El imperativo, el participio y el gerundio"
+   },
+   {
+    "id": "7.2a",
+    "ca": "Els adverbis: posició i manera",
+    "en": "Adverbs: position and manner",
+    "ko": "부사: 위치와 방법",
+    "es": "Los adverbios: posición y modo"
+   },
+   {
+    "id": "7.2b",
+    "ca": "Adverbis de quantitat, lloc, temps i lògica",
+    "en": "Adverbs of degree, place, time and logic",
+    "ko": "정도·장소·시간·논리 부사",
+    "es": "Adverbios de cantidad, lugar, tiempo y lógica"
+   },
+   {
+    "id": "7.3a",
+    "ca": "Els pronoms febles: formes i ús bàsic",
+    "en": "Unstressed pronouns: forms and basic use",
+    "ko": "약형 대명사: 형태와 기본 용법",
+    "es": "Los pronombres átonos: formas y uso básico"
+   },
+   {
+    "id": "7.3b",
+    "ca": "Ho, en i hi",
+    "en": "Ho, en and hi",
+    "ko": "ho, en, hi",
+    "es": "Ho, en e hi"
+   },
+   {
+    "id": "7.3c",
+    "ca": "Combinacions de pronoms i posició",
+    "en": "Pronoun combinations and position",
+    "ko": "대명사 결합과 위치",
+    "es": "Combinaciones de pronombres y posición"
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "part": 2,
+  "icon": "🧭",
+  "title": {
+   "ca": "Les preposicions",
+   "en": "Prepositions",
+   "ko": "전치사",
+   "es": "Las preposiciones"
+  },
+  "summary": {
+   "en": "Prepositions link two parts of a sentence and show relations of place, movement, time, cause or purpose. Catalan has a small group of short unstressed prepositions (a, en, de, amb, per, per a) that you use all the time, and a bigger group of stressed and compound ones (contra, durant, davant de, abans de…). Choosing the right one is one of the trickiest parts of Catalan for learners.",
+   "ko": "전치사는 문장의 두 부분을 이어 주며 장소, 이동, 시간, 원인, 목적 같은 관계를 나타내요. 카탈루냐어에는 아주 자주 쓰는 짧은 비강세 전치사(a, en, de, amb, per, per a)와 강세가 있는 전치사·복합 전치사(contra, durant, davant de, abans de 등)가 있어요. 알맞은 전치사를 고르는 것은 학습자에게 가장 까다로운 부분 중 하나예요.",
+   "es": "Las preposiciones unen dos partes de la oración y expresan relaciones de lugar, movimiento, tiempo, causa o finalidad. El catalán tiene un pequeño grupo de preposiciones átonas muy frecuentes (a, en, de, amb, per, per a) y otro más amplio de preposiciones tónicas y compuestas (contra, durant, davant de, abans de…). Elegir la correcta es uno de los puntos más difíciles para quien aprende catalán."
+  },
+  "nEx": 24,
+  "sections": [
+   {
+    "id": "8.1",
+    "ca": "Les preposicions àtones",
+    "en": "Unstressed (atonic) prepositions",
+    "ko": "비강세 전치사",
+    "es": "Las preposiciones átonas"
+   },
+   {
+    "id": "8.2",
+    "ca": "Les preposicions tòniques simples i compostes",
+    "en": "Simple and compound stressed prepositions",
+    "ko": "강세 단순 전치사와 복합 전치사",
+    "es": "Las preposiciones tónicas simples y compuestas"
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "part": 2,
+  "icon": "🧩",
+  "title": {
+   "ca": "La derivació: crear paraules a partir d’altres paraules",
+   "en": "Derivation: Creating words from other words",
+   "ko": "파생: 단어로 새 단어 만들기",
+   "es": "La derivación: crear palabras a partir de otras palabras"
+  },
+  "summary": {
+   "en": "Catalan builds lots of new words by adding prefixes and suffixes to existing ones. Some affixes only add a nuance (small, big, very, ‑ish, again, former…), while others change the word class, turning verbs into nouns, adjectives into nouns, nouns into verbs and so on. Knowing these patterns helps you guess the meaning of new words and expand your vocabulary fast.",
+   "ko": "카탈루냐어는 기존 단어에 접두사와 접미사를 붙여 새 단어를 많이 만들어요. 어떤 접사는 뉘앙스만 더하고(작은, 큰, 아주, ~스러운, 다시, 전(前)~ 등), 어떤 접사는 품사를 바꿔 동사를 명사로, 형용사를 명사로, 명사를 동사로 만들어요. 이 규칙을 알면 처음 보는 단어의 뜻을 짐작하고 어휘를 빠르게 늘릴 수 있어요.",
+   "es": "El catalán crea muchas palabras nuevas añadiendo prefijos y sufijos a palabras existentes. Algunos afijos solo aportan un matiz (pequeño, grande, muy, ‑izo, de nuevo, ex…), y otros cambian la categoría: convierten verbos en nombres, adjetivos en nombres, nombres en verbos, etc. Conocer estos patrones te ayuda a adivinar el significado de palabras nuevas y a ampliar tu vocabulario."
+  },
+  "nEx": 24,
+  "sections": [
+   {
+    "id": "9.1",
+    "ca": "Els afixos qualificatius",
+    "en": "Qualifying affixes",
+    "ko": "의미를 더하는 접사",
+    "es": "Los afijos calificativos"
+   },
+   {
+    "id": "9.2",
+    "ca": "Els afixos que canvien la categoria",
+    "en": "Category‑changing affixes",
+    "ko": "품사를 바꾸는 접사",
+    "es": "Los afijos que cambian la categoría"
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "part": 2,
+  "icon": "🔗",
+  "title": {
+   "ca": "Els compostos",
+   "en": "Compounds",
+   "ko": "합성어",
+   "es": "Los compuestos"
+  },
+  "summary": {
+   "en": "A compound is one word built from two stems, like English ‘dishwasher’. Catalan usually puts the main part on the left and the describing part on the right, which is the opposite of English. In this chapter you meet the four main patterns: verb + noun, noun + noun, noun + verb and noun + adjective.",
+   "ko": "합성어는 영어 ‘dishwasher’처럼 두 어간을 합쳐 만든 한 단어예요. 카탈루냐어는 보통 중심이 되는 부분을 왼쪽에, 꾸며 주는 부분을 오른쪽에 두는데, 영어와 반대예요. 이 장에서는 네 가지 주요 유형인 동사 + 명사, 명사 + 명사, 명사 + 동사, 명사 + 형용사를 배워요.",
+   "es": "Un compuesto es una palabra formada por dos raíces, como lavaplatos. El catalán suele poner el elemento principal a la izquierda y el que lo describe a la derecha, al revés que el inglés. En este capítulo verás los cuatro tipos principales: verbo + nombre, nombre + nombre, nombre + verbo y nombre + adjetivo."
+  },
+  "nEx": 20,
+  "sections": [
+   {
+    "id": "10.1",
+    "ca": "Verb + nom",
+    "en": "Verb + noun",
+    "ko": "동사 + 명사",
+    "es": "Verbo + nombre"
+   },
+   {
+    "id": "10.2",
+    "ca": "Nom + nom",
+    "en": "Noun + noun",
+    "ko": "명사 + 명사",
+    "es": "Nombre + nombre"
+   },
+   {
+    "id": "10.3",
+    "ca": "Nom (o pronom) + verb",
+    "en": "Noun (or pronoun) + verb",
+    "ko": "명사(또는 대명사) + 동사",
+    "es": "Nombre (o pronombre) + verbo"
+   },
+   {
+    "id": "10.4",
+    "ca": "Nom + adjectiu / adjectiu + nom",
+    "en": "Noun + adjective / adjective + noun",
+    "ko": "명사 + 형용사 / 형용사 + 명사",
+    "es": "Nombre + adjetivo / adjetivo + nombre"
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "part": 3,
+  "icon": "🔀",
+  "title": {
+   "ca": "L’ordre de les paraules",
+   "en": "Word order",
+   "ko": "어순",
+   "es": "El orden de las palabras"
+  },
+  "summary": {
+   "en": "Catalan’s basic word order is subject–verb–object, just like English, but it is much more flexible. Catalan likes to put new or important information at the end of the sentence, and it moves elements around in questions, subordinate clauses and emphatic structures. Learning these patterns helps you understand who does what, even when the order surprises you.",
+   "ko": "카탈루냐어의 기본 어순은 영어처럼 주어–동사–목적어이지만 훨씬 자유로워요. 카탈루냐어는 새롭거나 중요한 정보를 문장 끝에 두는 것을 좋아하고, 의문문, 종속절, 강조 구문에서 요소의 위치를 바꿔요. 이런 규칙을 익히면 어순이 낯설어도 누가 무엇을 하는지 이해할 수 있어요.",
+   "es": "El orden básico del catalán es sujeto–verbo–objeto, como en inglés, pero es mucho más flexible. El catalán tiende a colocar la información nueva o importante al final de la oración y mueve los elementos en las preguntas, las subordinadas y las estructuras enfáticas. Conocer estos patrones te ayuda a entender quién hace qué, aunque el orden te sorprenda."
+  },
+  "nEx": 22,
+  "sections": [
+   {
+    "id": "11.1",
+    "ca": "Els conceptes bàsics",
+    "en": "The basics",
+    "ko": "기본 개념",
+    "es": "Los conceptos básicos"
+   },
+   {
+    "id": "11.2",
+    "ca": "L’ordre en contextos específics",
+    "en": "Word order in specific contexts",
+    "ko": "특정 맥락의 어순",
+    "es": "El orden en contextos específicos"
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "part": 3,
+  "icon": "🪢",
+  "title": {
+   "ca": "Relacionar elements",
+   "en": "Relating elements",
+   "ko": "요소 연결하기",
+   "es": "Relacionar elementos"
+  },
+  "summary": {
+   "en": "This chapter shows how to join ideas. Coordination links equal elements with words like i, o, però and sinó. Subordination makes one clause depend on another: noun clauses with que or si, relative clauses with que, qui, què, on or el qual, and adverbial clauses that express time, cause, purpose, concession, consequence and condition. These tools let you write longer, more natural sentences.",
+   "ko": "이 장에서는 생각을 연결하는 방법을 배워요. 등위 접속은 i, o, però, sinó 같은 말로 대등한 요소를 이어요. 종속은 한 절을 다른 절에 기대게 해요: que나 si가 이끄는 명사절, que, qui, què, on, el qual이 이끄는 관계절, 그리고 시간·원인·목적·양보·결과·조건을 나타내는 부사절이 있어요. 이것들을 알면 더 길고 자연스러운 문장을 쓸 수 있어요.",
+   "es": "Este capítulo muestra cómo unir ideas. La coordinación enlaza elementos del mismo nivel con palabras como i, o, però y sinó. La subordinación hace que una oración dependa de otra: subordinadas sustantivas con que o si, relativas con que, qui, què, on o el qual, y adverbiales de tiempo, causa, finalidad, concesión, consecuencia y condición. Con ellas podrás escribir frases más largas y naturales."
+  },
+  "nEx": 26,
+  "sections": [
+   {
+    "id": "12.1",
+    "ca": "La coordinació",
+    "en": "Coordination",
+    "ko": "등위 접속",
+    "es": "La coordinación"
+   },
+   {
+    "id": "12.2",
+    "ca": "Les oracions subordinades",
+    "en": "Subordinate clauses",
+    "ko": "종속절",
+    "es": "Las oraciones subordinadas"
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "part": 4,
+  "icon": "💬",
+  "title": {
+   "ca": "La intenció",
+   "en": "Intention",
+   "ko": "의도 표현",
+   "es": "La intención"
+  },
+  "summary": {
+   "en": "This chapter shows how Catalan speakers affirm, deny, ask, exclaim and give orders. You will learn emphatic 'sí que', the position of 'no', negative words like 'res' and 'ningú', question words, exclamations with 'que' and 'quin', and polite ways to ask someone to do something.",
+   "ko": "이 장에서는 카탈루냐어로 긍정하고, 부정하고, 질문하고, 감탄하고, 명령하는 방법을 배워요. 강조의 'sí que', 'no'의 위치, 'res'·'ningú' 같은 부정어, 의문사, 'que'·'quin'을 쓴 감탄문, 그리고 정중하게 부탁하는 표현을 익혀요.",
+   "es": "Este capítulo muestra cómo se afirma, se niega, se pregunta, se exclama y se dan órdenes en catalán. Aprenderás el enfático 'sí que', la posición de 'no', palabras negativas como 'res' y 'ningú', los interrogativos, las exclamaciones con 'que' y 'quin' y maneras corteses de pedir algo."
+  },
+  "nEx": 24,
+  "sections": [
+   {
+    "id": "13.1",
+    "ca": "L’afirmació",
+    "en": "Affirmation",
+    "ko": "긍정",
+    "es": "La afirmación"
+   },
+   {
+    "id": "13.2",
+    "ca": "La negació",
+    "en": "Negation",
+    "ko": "부정",
+    "es": "La negación"
+   },
+   {
+    "id": "13.3",
+    "ca": "Les preguntes",
+    "en": "Questions",
+    "ko": "의문문",
+    "es": "Las preguntas"
+   },
+   {
+    "id": "13.4",
+    "ca": "L’exclamació",
+    "en": "Exclamation",
+    "ko": "감탄문",
+    "es": "La exclamación"
+   },
+   {
+    "id": "13.5",
+    "ca": "Donar ordres",
+    "en": "Giving orders",
+    "ko": "명령하기",
+    "es": "Dar órdenes"
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "part": 4,
+  "icon": "🎯",
+  "title": {
+   "ca": "Focalitzar",
+   "en": "Focusing",
+   "ko": "초점 맞추기",
+   "es": "Focalizar"
+  },
+  "summary": {
+   "en": "Sometimes we want to put the spotlight on the object, hide who does the action, or highlight one part of a sentence. This chapter explains the passive with ser + participle, impersonal sentences (weather verbs, 'hom', 'es', 3rd person plural) and the very common pronominal passive (es venen pisos), and finally cleft sentences like 'És la Marta qui ha trucat'.",
+   "ko": "가끔은 목적어에 초점을 맞추거나, 누가 행동했는지 숨기거나, 문장의 한 부분을 강조하고 싶을 때가 있어요. 이 장에서는 ser + 과거분사 수동태, 비인칭문(날씨 동사, 'hom', 'es', 3인칭 복수), 아주 흔한 대명 수동태(es venen pisos), 그리고 'És la Marta qui ha trucat' 같은 분열문을 배워요.",
+   "es": "A veces queremos poner el foco en el objeto, ocultar quién realiza la acción o destacar una parte de la frase. Este capítulo explica la pasiva con ser + participio, las oraciones impersonales (verbos meteorológicos, 'hom', 'es', 3.ª persona del plural), la frecuentísima pasiva refleja (es venen pisos) y las oraciones escindidas como 'És la Marta qui ha trucat'."
+  },
+  "nEx": 20,
+  "sections": [
+   {
+    "id": "14.1",
+    "ca": "La passiva",
+    "en": "Passive",
+    "ko": "수동태",
+    "es": "La pasiva"
+   },
+   {
+    "id": "14.2",
+    "ca": "Oracions impersonals i passiva pronominal",
+    "en": "Impersonal sentences and pronominal passive",
+    "ko": "비인칭문과 대명 수동태",
+    "es": "Oraciones impersonales y pasiva refleja"
+   },
+   {
+    "id": "14.3",
+    "ca": "Les oracions escindides",
+    "en": "Cleft sentences",
+    "ko": "분열문",
+    "es": "Las oraciones escindidas"
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "part": 4,
+  "icon": "🔎",
+  "title": {
+   "ca": "Definir",
+   "en": "Defining",
+   "ko": "정의하기",
+   "es": "Definir"
+  },
+  "summary": {
+   "en": "This chapter is about saying what something is and what it is like. You will review how articles define nouns and then study copulative sentences: when to use ser, estar or haver-hi, how to talk about place and time, and verbs like semblar or quedar-se that work like 'to be'.",
+   "ko": "이 장은 무엇이 무엇인지, 어떤지를 말하는 방법을 다뤄요. 관사가 명사를 한정하는 방식을 복습하고, 계사문(ser, estar, haver-hi의 선택), 장소와 시간 표현, 그리고 'to be'처럼 쓰이는 semblar, quedar-se 같은 동사를 배워요.",
+   "es": "Este capítulo trata de decir qué es algo y cómo es. Repasarás cómo los artículos definen los sustantivos y estudiarás las oraciones copulativas: cuándo usar ser, estar o haver-hi, cómo hablar de lugar y tiempo, y verbos como semblar o quedar-se que funcionan como 'ser'."
+  },
+  "nEx": 21,
+  "sections": [
+   {
+    "id": "15.1",
+    "ca": "L’article",
+    "en": "The article",
+    "ko": "관사",
+    "es": "El artículo"
+   },
+   {
+    "id": "15.2",
+    "ca": "Les oracions copulatives",
+    "en": "Copulative sentences (ser, estar, semblar…)",
+    "ko": "계사문 (ser, estar, semblar…)",
+    "es": "Las oraciones copulativas (ser, estar, semblar…)"
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "part": 4,
+  "icon": "⚖️",
+  "title": {
+   "ca": "Comparar",
+   "en": "Comparing",
+   "ko": "비교하기",
+   "es": "Comparar"
+  },
+  "summary": {
+   "en": "This chapter teaches you how to compare people, things and actions: 'as… as', 'more… than', 'less… than', special forms like millor and pitjor, superlatives (the tallest, very tall, -íssim) and comparisons between whole clauses (més del que et penses).",
+   "ko": "이 장에서는 사람, 사물, 행동을 비교하는 법을 배워요: '~만큼', '~보다 더', '~보다 덜', millor와 pitjor 같은 특수 형태, 최상급(가장 키 큰, 아주 큰, -íssim), 그리고 절과 절의 비교(més del que et penses)까지 다뤄요.",
+   "es": "Este capítulo enseña a comparar personas, cosas y acciones: 'tan… como', 'más… que', 'menos… que', formas especiales como millor y pitjor, superlativos (el más alto, altísimo, -íssim) y comparaciones entre oraciones (més del que et penses)."
+  },
+  "nEx": 21,
+  "sections": [
+   {
+    "id": "16.1",
+    "ca": "Comparar elements simples",
+    "en": "Comparing single elements",
+    "ko": "단일 요소 비교",
+    "es": "Comparar elementos simples"
+   },
+   {
+    "id": "16.2",
+    "ca": "Comparar oracions",
+    "en": "Clauses",
+    "ko": "절의 비교",
+    "es": "Comparar oraciones"
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "part": 4,
+  "icon": "🎩",
+  "title": {
+   "ca": "Els tractaments",
+   "en": "Treatments",
+   "ko": "호칭과 경어",
+   "es": "Los tratamientos"
+  },
+  "summary": {
+   "en": "How do you address a friend, a teacher, your grandparents or a king? This chapter explains the three levels of politeness in Catalan (tu, vós, vostè), how each one changes verbs, pronouns and possessives, honorific titles like Sa Majestat, and why titles such as senyor or doctora need an article.",
+   "ko": "친구, 선생님, 조부모님, 왕에게는 어떻게 말을 걸까요? 이 장에서는 카탈루냐어의 세 가지 공손함 단계(tu, vós, vostè), 각각이 동사·대명사·소유사에 미치는 영향, Sa Majestat 같은 존칭, 그리고 senyor나 doctora 같은 호칭 앞에 관사가 필요한 이유를 설명해요.",
+   "es": "¿Cómo te diriges a un amigo, a un profesor, a tus abuelos o a un rey? Este capítulo explica los tres niveles de cortesía en catalán (tu, vós, vostè), cómo cambian los verbos, pronombres y posesivos, los tratamientos honoríficos como Sa Majestat y por qué títulos como senyor o doctora llevan artículo."
+  },
+  "nEx": 17,
+  "sections": [
+   {
+    "id": "17.1",
+    "ca": "Graus de cortesia",
+    "en": "Degrees of politeness",
+    "ko": "공손함의 단계",
+    "es": "Grados de cortesía"
+   },
+   {
+    "id": "17.2",
+    "ca": "Relacions gramaticals dels pronoms de cortesia",
+    "en": "Grammatical relations of polite pronouns",
+    "ko": "경어 대명사의 문법 관계",
+    "es": "Relaciones gramaticales de los pronombres de cortesía"
+   },
+   {
+    "id": "17.3",
+    "ca": "Els honorífics",
+    "en": "Honorifics",
+    "ko": "존칭",
+    "es": "Los honoríficos"
+   },
+   {
+    "id": "17.4",
+    "ca": "Títols davant del cognom",
+    "en": "Titles before surnames",
+    "ko": "성 앞의 호칭",
+    "es": "Títulos ante el apellido"
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "part": 4,
+  "icon": "❗",
+  "title": {
+   "ca": "Els intensificadors",
+   "en": "Emphasizers",
+   "ko": "강조 표현",
+   "es": "Los intensificadores"
+  },
+  "summary": {
+   "en": "Native speakers love to add extra force to what they say. This chapter shows how to emphasize one word (mateix, propi, fins i tot, la mar de, un munt de, qui-sap-lo, the prefix rede-) and how to emphasize a whole statement (és clar que, i tant que, segur que, per descomptat) or play something down with rai.",
+   "ko": "원어민은 말에 힘을 더하는 걸 좋아해요. 이 장에서는 한 단어를 강조하는 방법(mateix, propi, fins i tot, la mar de, un munt de, qui-sap-lo, 접두사 rede-)과 문장 전체를 강조하는 방법(és clar que, i tant que, segur que, per descomptat), 그리고 rai로 어떤 것을 '별일 아니다'라고 낮추는 방법을 배워요.",
+   "es": "A los hablantes nativos les encanta reforzar lo que dicen. Este capítulo muestra cómo enfatizar una palabra (mateix, propi, fins i tot, la mar de, un munt de, qui-sap-lo, el prefijo rede-) y una afirmación entera (és clar que, i tant que, segur que, per descomptat), o quitar importancia a algo con rai."
+  },
+  "nEx": 16,
+  "sections": [
+   {
+    "id": "18.1",
+    "ca": "Intensificar elements simples",
+    "en": "Emphasizing single elements",
+    "ko": "단일 요소 강조",
+    "es": "Intensificar elementos simples"
+   },
+   {
+    "id": "18.2",
+    "ca": "Intensificar frases senceres",
+    "en": "Emphasizing whole phrases",
+    "ko": "문장 전체 강조",
+    "es": "Intensificar frases enteras"
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "part": 4,
+  "icon": "😲",
+  "title": {
+   "ca": "Interjeccions i ideòfons",
+   "en": "Interjections and ideophones",
+   "ko": "감탄사와 의성·의태어",
+   "es": "Interjecciones e ideófonos"
+  },
+  "summary": {
+   "en": "Real conversations are full of little words like ui!, vinga!, compte! and sound words like nyam-nyam or tic-tac. This chapter groups the most useful interjections by feeling and purpose, shows what Catalan animals 'say', and introduces playful repeated words such as així-aixà or barrija-barreja.",
+   "ko": "실제 대화에는 ui!, vinga!, compte! 같은 짧은 말과 nyam-nyam, tic-tac 같은 소리 말이 가득해요. 이 장에서는 유용한 감탄사를 감정과 목적별로 묶어 보고, 카탈루냐어로 동물이 어떻게 '우는지', 그리고 així-aixà, barrija-barreja 같은 재미있는 반복어를 소개해요.",
+   "es": "Las conversaciones reales están llenas de palabritas como ui!, vinga!, compte! y de palabras sonoras como nyam-nyam o tic-tac. Este capítulo agrupa las interjecciones más útiles por sentimiento y finalidad, muestra qué 'dicen' los animales en catalán y presenta palabras repetidas y juguetonas como així-aixà o barrija-barreja."
+  },
+  "nEx": 16,
+  "sections": [
+   {
+    "id": "19.1",
+    "ca": "Interjeccions de sentiments",
+    "en": "Interjections of feelings",
+    "ko": "감정을 나타내는 감탄사",
+    "es": "Interjecciones de sentimientos"
+   },
+   {
+    "id": "19.2",
+    "ca": "Interjeccions per actuar i relacionar-se",
+    "en": "Interjections for actions and social life",
+    "ko": "행동과 인사를 위한 감탄사",
+    "es": "Interjecciones para actuar y relacionarse"
+   },
+   {
+    "id": "19.3",
+    "ca": "Ideòfons i paraules expressives",
+    "en": "Ideophones and expressive words",
+    "ko": "의성·의태어와 표현어",
+    "es": "Ideófonos y palabras expresivas"
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "part": 4,
+  "icon": "⚠️",
+  "title": {
+   "ca": "Errors freqüents dels parlants nadius (barbarismes i solecismes)",
+   "en": "Frequent native-speaker mistakes (solecisms)",
+   "ko": "원어민이 자주 하는 실수 (어법 오류)",
+   "es": "Errores frecuentes de los hablantes nativos (solecismos)"
+  },
+  "summary": {
+   "en": "Even native speakers make mistakes, often because Catalan lives side by side with Spanish or French. This chapter lists the most common slips in word forms (gender, plurals, verbs, pronouns), in verb use (gerunds, conditionals, 'tenir que') and in sentence structure (a before objects, prepositions before que, relatives, hi and en). Learning them helps you sound correct and spot errors you will hear.",
+   "ko": "원어민도 실수를 해요. 카탈루냐어가 스페인어나 프랑스어와 함께 쓰이기 때문인 경우가 많아요. 이 장에서는 단어 형태(성, 복수, 동사, 대명사), 동사 사용(제룬디오, 조건문, 'tenir que'), 문장 구조(목적어 앞 a, que 앞 전치사, 관계사, hi와 en)에서 가장 흔한 실수를 정리해요. 이를 익히면 올바르게 말하고, 들리는 오류도 알아챌 수 있어요.",
+   "es": "Incluso los nativos se equivocan, a menudo porque el catalán convive con el español o el francés. Este capítulo recoge los errores más comunes en la forma de las palabras (género, plural, verbos, pronombres), en el uso verbal (gerundios, condicionales, 'tenir que') y en la sintaxis (a ante objeto, preposición ante que, relativos, hi y en). Conocerlos te ayudará a hablar bien y a detectar errores."
+  },
+  "nEx": 26,
+  "sections": [
+   {
+    "id": "20.1",
+    "ca": "Morfologia",
+    "en": "Morphology",
+    "ko": "형태론",
+    "es": "Morfología"
+   },
+   {
+    "id": "20.2",
+    "ca": "Ús dels verbs",
+    "en": "Verb usage",
+    "ko": "동사 사용",
+    "es": "Uso de los verbos"
+   },
+   {
+    "id": "20.3",
+    "ca": "Sintaxi",
+    "en": "Syntax",
+    "ko": "통사론",
+    "es": "Sintaxis"
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "part": 5,
+  "icon": "📋",
+  "title": {
+   "ca": "Apèndix: Conjugació verbal",
+   "en": "Appendix: Verb conjugation",
+   "ko": "부록: 동사 활용표",
+   "es": "Apéndice: Conjugación verbal"
+  },
+  "summary": {
+   "en": "This appendix collects full conjugation tables: the three regular models (-ar, -er/-re, -ir), the auxiliaries ser, estar and haver, and the most frequent irregular verbs. Use it as a reference whenever you are unsure of a form, and practise the tricky ones in the exercises.",
+   "ko": "이 부록에는 전체 동사 활용표가 모여 있어요: 세 가지 규칙 모델(-ar, -er/-re, -ir), 조동사 ser·estar·haver, 그리고 자주 쓰는 불규칙 동사들이에요. 형태가 헷갈릴 때마다 참고하고, 까다로운 형태는 연습문제로 익혀 보세요.",
+   "es": "Este apéndice reúne las tablas de conjugación completas: los tres modelos regulares (-ar, -er/-re, -ir), los auxiliares ser, estar y haver, y los verbos irregulares más frecuentes. Úsalo como consulta cuando dudes de una forma y practica las difíciles en los ejercicios."
+  },
+  "nEx": 35,
+  "sections": [
+   {
+    "id": "A.1",
+    "ca": "Verbs regulars en -ar: cantar",
+    "en": "Regular -ar verbs: cantar",
+    "ko": "규칙 -ar 동사: cantar",
+    "es": "Verbos regulares en -ar: cantar"
+   },
+   {
+    "id": "A.2",
+    "ca": "Verbs regulars en -er: témer",
+    "en": "Regular -er verbs: témer",
+    "ko": "규칙 -er 동사: témer",
+    "es": "Verbos regulares en -er: témer"
+   },
+   {
+    "id": "A.3",
+    "ca": "Verbs regulars en -re: perdre",
+    "en": "Regular -re verbs: perdre",
+    "ko": "규칙 -re 동사: perdre",
+    "es": "Verbos regulares en -re: perdre"
+   },
+   {
+    "id": "A.4",
+    "ca": "Verbs en -ir incoatius: servir",
+    "en": "Inchoative -ir verbs: servir",
+    "ko": "기동형 -ir 동사: servir",
+    "es": "Verbos en -ir incoativos: servir"
+   },
+   {
+    "id": "A.5",
+    "ca": "Verbs en -ir purs: dormir",
+    "en": "Pure -ir verbs: dormir",
+    "ko": "순수 -ir 동사: dormir",
+    "es": "Verbos en -ir puros: dormir"
+   },
+   {
+    "id": "A.6",
+    "ca": "Verb auxiliar: ser",
+    "en": "Auxiliary verb: ser",
+    "ko": "조동사: ser",
+    "es": "Verbo auxiliar: ser"
+   },
+   {
+    "id": "A.7",
+    "ca": "Verb auxiliar: estar",
+    "en": "Auxiliary verb: estar",
+    "ko": "조동사: estar",
+    "es": "Verbo auxiliar: estar"
+   },
+   {
+    "id": "A.8",
+    "ca": "Verb auxiliar: haver",
+    "en": "Auxiliary verb: haver",
+    "ko": "조동사: haver",
+    "es": "Verbo auxiliar: haver"
+   },
+   {
+    "id": "A.9",
+    "ca": "Verb irregular: anar",
+    "en": "Irregular verb: anar (to go)",
+    "ko": "불규칙 동사: anar (가다)",
+    "es": "Verbo irregular: anar (ir)"
+   },
+   {
+    "id": "A.10",
+    "ca": "Verb irregular: fer",
+    "en": "Irregular verb: fer (to do / to make)",
+    "ko": "불규칙 동사: fer (하다 / 만들다)",
+    "es": "Verbo irregular: fer (hacer)"
+   },
+   {
+    "id": "A.11",
+    "ca": "Verb irregular: dir",
+    "en": "Irregular verb: dir (to say / to tell)",
+    "ko": "불규칙 동사: dir (말하다)",
+    "es": "Verbo irregular: dir (decir)"
+   },
+   {
+    "id": "A.12",
+    "ca": "Verb irregular: venir",
+    "en": "Irregular verb: venir (to come)",
+    "ko": "불규칙 동사: venir (오다)",
+    "es": "Verbo irregular: venir (venir)"
+   },
+   {
+    "id": "A.13",
+    "ca": "Verb irregular: tenir",
+    "en": "Irregular verb: tenir (to have)",
+    "ko": "불규칙 동사: tenir (가지다)",
+    "es": "Verbo irregular: tenir (tener)"
+   },
+   {
+    "id": "A.14",
+    "ca": "Verb irregular: poder",
+    "en": "Irregular verb: poder (can / to be able to)",
+    "ko": "불규칙 동사: poder (~할 수 있다)",
+    "es": "Verbo irregular: poder (poder)"
+   },
+   {
+    "id": "A.15",
+    "ca": "Verb irregular: voler",
+    "en": "Irregular verb: voler (to want)",
+    "ko": "불규칙 동사: voler (원하다)",
+    "es": "Verbo irregular: voler (querer)"
+   },
+   {
+    "id": "A.16",
+    "ca": "Verb irregular: saber",
+    "en": "Irregular verb: saber (to know)",
+    "ko": "불규칙 동사: saber (알다)",
+    "es": "Verbo irregular: saber (saber)"
+   },
+   {
+    "id": "A.17",
+    "ca": "Verb irregular: veure",
+    "en": "Irregular verb: veure (to see)",
+    "ko": "불규칙 동사: veure (보다)",
+    "es": "Verbo irregular: veure (ver)"
+   },
+   {
+    "id": "A.18",
+    "ca": "Verb irregular: viure",
+    "en": "Irregular verb: viure (to live)",
+    "ko": "불규칙 동사: viure (살다)",
+    "es": "Verbo irregular: viure (vivir)"
+   },
+   {
+    "id": "A.19",
+    "ca": "Verb irregular: escriure",
+    "en": "Irregular verb: escriure (to write)",
+    "ko": "불규칙 동사: escriure (쓰다)",
+    "es": "Verbo irregular: escriure (escribir)"
+   },
+   {
+    "id": "A.20",
+    "ca": "Verb irregular: beure",
+    "en": "Irregular verb: beure (to drink)",
+    "ko": "불규칙 동사: beure (마시다)",
+    "es": "Verbo irregular: beure (beber)"
+   },
+   {
+    "id": "A.21",
+    "ca": "Verb irregular: conèixer",
+    "en": "Irregular verb: conèixer (to know (people, places))",
+    "ko": "불규칙 동사: conèixer ((사람·장소를) 알다)",
+    "es": "Verbo irregular: conèixer (conocer)"
+   },
+   {
+    "id": "A.22",
+    "ca": "Verb irregular: prendre",
+    "en": "Irregular verb: prendre (to take)",
+    "ko": "불규칙 동사: prendre (잡다 / 타다 / 먹다)",
+    "es": "Verbo irregular: prendre (tomar)"
+   },
+   {
+    "id": "A.23",
+    "ca": "Formes no personals",
+    "en": "Non-finite forms",
+    "ko": "비인칭형 (원형·제룬디오·분사)",
+    "es": "Formas no personales"
+   }
+  ]
+ }
+]

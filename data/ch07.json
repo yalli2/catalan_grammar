@@ -1,0 +1,2457 @@
+{
+ "id": 7,
+ "part": 2,
+ "icon": "🔁",
+ "title": {
+  "ca": "Sintagmes verbals",
+  "en": "Verb phrases",
+  "ko": "동사구",
+  "es": "Sintagmas verbales"
+ },
+ "summary": {
+  "en": "This chapter is the engine room of Catalan: how verbs change for person, tense and mood, how adverbs add detail, and how the small unstressed pronouns (em, el, li, ho, en, hi…) replace whole phrases. Because Catalan usually drops subject pronouns, getting verb endings and pronouns right is what makes you understood.",
+  "ko": "이 단원은 카탈루냐어의 엔진실이에요. 동사가 인칭·시제·법에 따라 어떻게 바뀌는지, 부사가 어떻게 정보를 더하는지, 그리고 작은 약형 대명사(em, el, li, ho, en, hi…)가 어떻게 구 전체를 대신하는지 배워요. 카탈루냐어는 보통 주어를 생략하므로 동사 어미와 대명사를 정확히 써야 뜻이 통해요.",
+  "es": "Este capítulo es la sala de máquinas del catalán: cómo cambian los verbos según la persona, el tiempo y el modo, cómo los adverbios añaden detalles y cómo los pequeños pronombres átonos (em, el, li, ho, en, hi…) sustituyen frases enteras. Como el catalán suele omitir el sujeto, acertar con las terminaciones y los pronombres es clave para que te entiendan."
+ },
+ "goals": [
+  {
+   "en": "You will be able to conjugate regular -ar, -er/-re and -ir verbs in the main tenses, including the periphrastic past (vaig + infinitive).",
+   "ko": "규칙 -ar, -er/-re, -ir 동사를 우언적 과거(vaig + 동사원형)를 포함한 주요 시제로 활용할 수 있어요.",
+   "es": "Podrás conjugar verbos regulares en -ar, -er/-re e -ir en los tiempos principales, incluido el pasado perifrástico (vaig + infinitivo)."
+  },
+  {
+   "en": "You will be able to choose between imperfect, periphrastic past and present perfect, and use the subjunctive after wishes, doubts, perquè and si.",
+   "ko": "불완료 과거, 우언적 과거, 현재완료 중에서 고를 수 있고, 바람·의심·perquè·si 뒤에 접속법을 쓸 수 있어요.",
+   "es": "Podrás elegir entre imperfecto, pasado perifrástico y pretérito perfecto, y usar el subjuntivo tras deseos, dudas, perquè y si."
+  },
+  {
+   "en": "You will be able to give commands and form adverbs in -ment, using bé / ben and words like gaire, gens, enlloc correctly.",
+   "ko": "명령을 하고 -ment 부사를 만들 수 있으며, bé / ben과 gaire, gens, enlloc 같은 말을 정확히 쓸 수 있어요.",
+   "es": "Podrás dar órdenes y formar adverbios en -ment, usando bien bé / ben y palabras como gaire, gens, enlloc."
+  },
+  {
+   "en": "You will be able to replace objects and complements with weak pronouns (em/m’/-me/’m, ho, en, hi) and combine two of them (me’l, l’hi, dona-m’ho).",
+   "ko": "목적어와 보어를 약형 대명사(em/m’/-me/’m, ho, en, hi)로 바꾸고, 두 개를 결합할 수 있어요(me’l, l’hi, dona-m’ho).",
+   "es": "Podrás sustituir objetos y complementos por pronombres átonos (em/m’/-me/’m, ho, en, hi) y combinar dos de ellos (me’l, l’hi, dona-m’ho)."
+  }
+ ],
+ "sections": [
+  {
+   "id": "7.1a",
+   "title": {
+    "ca": "Les conjugacions i el present d’indicatiu",
+    "en": "Conjugation groups and the present indicative",
+    "ko": "동사 활용 그룹과 직설법 현재",
+    "es": "Las conjugaciones y el presente de indicativo"
+   },
+   "points": [
+    {
+     "en": "Catalan usually drops subject pronouns, so the verb ending alone tells you <b>who</b> does the action, <b>how many</b> people, and <b>when</b>. That is why endings matter so much.",
+     "ko": "카탈루냐어는 보통 주어 대명사를 생략해요. 그래서 동사 어미만 보고 <b>누가</b>, <b>몇 명이</b>, <b>언제</b> 하는지 알아야 해요. 어미가 아주 중요한 이유예요.",
+     "es": "El catalán suele omitir el pronombre sujeto, así que la terminación del verbo indica <b>quién</b> hace la acción, <b>cuántos</b> y <b>cuándo</b>. Por eso las terminaciones son tan importantes."
+    },
+    {
+     "en": "There are three groups: verbs in <b>-ar</b> (group I, by far the biggest, over 75% of verbs), verbs in <b>-er / -re</b> plus a few like <b>dir</b> and <b>dur</b> (group II), and verbs in <b>-ir</b> (group III).",
+     "ko": "동사는 세 그룹이에요: <b>-ar</b> 동사(1군, 전체의 75% 이상으로 가장 많아요), <b>-er / -re</b> 동사와 <b>dir</b>, <b>dur</b> 같은 몇몇 동사(2군), 그리고 <b>-ir</b> 동사(3군)예요.",
+     "es": "Hay tres grupos: verbos en <b>-ar</b> (grupo I, el más grande, más del 75 %), verbos en <b>-er / -re</b> y algunos como <b>dir</b> y <b>dur</b> (grupo II), y verbos en <b>-ir</b> (grupo III)."
+    },
+    {
+     "en": "Most <b>-ir</b> verbs are 'inceptive': they insert <b>-eix-</b> in the singular and in the 3rd person plural (<b>serveixo, serveixes, serveix … serveixen</b>) but not in <b>nosaltres / vosaltres</b> (<b>servim, serviu</b>). A smaller group (<b>dormir, sentir, sortir</b>…) never adds it.",
+     "ko": "대부분의 <b>-ir</b> 동사는 '기동 동사'예요. 단수형과 3인칭 복수형에 <b>-eix-</b>를 넣어요(<b>serveixo, serveixes, serveix … serveixen</b>). 하지만 <b>nosaltres / vosaltres</b>에는 넣지 않아요(<b>servim, serviu</b>). <b>dormir, sentir, sortir</b> 같은 소수의 동사는 절대 넣지 않아요.",
+     "es": "La mayoría de los verbos en <b>-ir</b> son 'incoativos': añaden <b>-eix-</b> en el singular y en la 3.ª persona del plural (<b>serveixo, serveixes, serveix … serveixen</b>), pero no en <b>nosaltres / vosaltres</b> (<b>servim, serviu</b>). Un grupo menor (<b>dormir, sentir, sortir</b>…) nunca lo añade."
+    },
+    {
+     "en": "To conjugate, remove the infinitive ending to get the stem, then add the endings. Watch the spelling of stems ending in <b>c, ç, g, j</b>: it changes before <b>e / i</b> to keep the same sound (<b>començar → comences</b>, <b>menjar → mengem</b>).",
+     "ko": "활용할 때는 부정사 어미를 떼고 남은 어간에 어미를 붙여요. 어간이 <b>c, ç, g, j</b>로 끝나면 <b>e / i</b> 앞에서 같은 소리를 유지하려고 철자가 바뀌어요(<b>començar → comences</b>, <b>menjar → mengem</b>).",
+     "es": "Para conjugar, se quita la terminación del infinitivo y se añaden las terminaciones a la raíz. Ojo con las raíces en <b>c, ç, g, j</b>: cambian de grafía ante <b>e / i</b> para mantener el sonido (<b>començar → comences</b>, <b>menjar → mengem</b>)."
+    },
+    {
+     "en": "In the <b>tu</b> form, stems ending in a hissing sound (<b>-s-, -ss-, -ç-, -g-, -ix-, -z-</b>) take <b>-es</b> to make pronunciation easier: <b>cuses</b> (cosir), <b>fuges</b> (fugir).",
+     "ko": "<b>tu</b> 형태에서 어간이 치찰음(<b>-s-, -ss-, -ç-, -g-, -ix-, -z-</b>)으로 끝나면 발음하기 쉽게 <b>-es</b>를 붙여요: <b>cuses</b>(cosir), <b>fuges</b>(fugir).",
+     "es": "En la forma de <b>tu</b>, las raíces que terminan en sonido sibilante (<b>-s-, -ss-, -ç-, -g-, -ix-, -z-</b>) toman <b>-es</b> para facilitar la pronunciación: <b>cuses</b> (cosir), <b>fuges</b> (fugir)."
+    },
+    {
+     "en": "Many everyday verbs are irregular (<b>ser, estar, anar, fer, tenir, venir, poder</b>…): learn them early. Full lists are in the appendix chapter.",
+     "ko": "<b>ser, estar, anar, fer, tenir, venir, poder</b> 같은 자주 쓰는 동사들은 불규칙이에요. 일찍 외워 두세요. 전체 목록은 부록 단원에 있어요.",
+     "es": "Muchos verbos cotidianos son irregulares (<b>ser, estar, anar, fer, tenir, venir, poder</b>…): apréndelos pronto. Las listas completas están en el apéndice."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "parlar (-ar)",
+     "perdre (-re)",
+     "servir (-ir, -eix-)",
+     "dormir (-ir)"
+    ],
+    "rows": [
+     [
+      "jo",
+      "parlo",
+      "perdo",
+      "serveixo",
+      "dormo"
+     ],
+     [
+      "tu",
+      "parles",
+      "perds",
+      "serveixes",
+      "dorms"
+     ],
+     [
+      "ell / ella / vostè",
+      "parla",
+      "perd",
+      "serveix",
+      "dorm"
+     ],
+     [
+      "nosaltres",
+      "parlem",
+      "perdem",
+      "servim",
+      "dormim"
+     ],
+     [
+      "vosaltres / vós",
+      "parleu",
+      "perdeu",
+      "serviu",
+      "dormiu"
+     ],
+     [
+      "ells / elles / vostès",
+      "parlen",
+      "perden",
+      "serveixen",
+      "dormen"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Parlo català amb els meus avis.",
+     "en": "I speak Catalan with my grandparents.",
+     "ko": "나는 조부모님과 카탈루냐어로 말해.",
+     "es": "Hablo catalán con mis abuelos."
+    },
+    {
+     "ca": "Sempre perds el bolígraf a classe!",
+     "en": "You always lose your pen in class!",
+     "ko": "너는 수업 시간에 항상 볼펜을 잃어버려!",
+     "es": "¡Siempre pierdes el boli en clase!"
+    },
+    {
+     "ca": "El meu germà llegeix còmics cada nit.",
+     "en": "My brother reads comics every night.",
+     "ko": "내 남동생은 매일 밤 만화책을 읽어.",
+     "es": "Mi hermano lee cómics cada noche."
+    },
+    {
+     "ca": "Els dissabtes dormim fins tard.",
+     "en": "On Saturdays we sleep in.",
+     "ko": "토요일마다 우리는 늦잠을 자.",
+     "es": "Los sábados dormimos hasta tarde."
+    },
+    {
+     "ca": "Comences l’institut a les vuit?",
+     "en": "Do you start school at eight?",
+     "ko": "너는 8시에 학교 시작해?",
+     "es": "¿Empiezas el instituto a las ocho?"
+    }
+   ]
+  },
+  {
+   "id": "7.1b",
+   "title": {
+    "ca": "Els temps de passat: imperfet i passat perifràstic",
+    "en": "Past tenses: imperfect and periphrastic past",
+    "ko": "과거 시제: 불완료 과거와 우언적 과거",
+    "es": "Los tiempos de pasado: imperfecto y pasado perifrástico"
+   },
+   "points": [
+    {
+     "en": "The <b>imperfect</b> has just two sets of endings for regular verbs: <b>-ava</b> for -ar verbs and <b>-ia</b> for all the others. Note the accents in <b>nosaltres / vosaltres</b>: <b>parlàvem, perdíem</b>.",
+     "ko": "<b>불완료 과거</b>는 규칙 동사의 경우 어미가 두 종류뿐이에요: -ar 동사는 <b>-ava</b>, 나머지는 모두 <b>-ia</b>. <b>nosaltres / vosaltres</b>의 강세 부호를 주의하세요: <b>parlàvem, perdíem</b>.",
+     "es": "El <b>imperfecto</b> tiene solo dos series de terminaciones regulares: <b>-ava</b> para los verbos en -ar e <b>-ia</b> para todos los demás. Ojo a los acentos de <b>nosaltres / vosaltres</b>: <b>parlàvem, perdíem</b>."
+    },
+    {
+     "en": "For a completed past action, everyday Catalan uses the <b>periphrastic past</b>: a form of <b>anar</b>-like auxiliary (<b>vaig, vas, va, vam, vau, van</b>) + the <b>infinitive</b>. It has no irregular forms at all: <b>vaig fer, vas anar, van venir</b>.",
+     "ko": "완료된 과거 행동을 말할 때 일상 카탈루냐어는 <b>우언적 과거</b>를 써요: 조동사(<b>vaig, vas, va, vam, vau, van</b>) + <b>동사원형</b>. 불규칙형이 전혀 없어요: <b>vaig fer, vas anar, van venir</b>.",
+     "es": "Para una acción pasada terminada, el catalán cotidiano usa el <b>pasado perifrástico</b>: un auxiliar (<b>vaig, vas, va, vam, vau, van</b>) + <b>infinitivo</b>. No tiene ninguna forma irregular: <b>vaig fer, vas anar, van venir</b>."
+    },
+    {
+     "en": "Careful: <b>vaig anar</b> means 'I went', not 'I am going to go'. Unlike Spanish <i>voy a</i>, this auxiliary points to the <b>past</b>.",
+     "ko": "주의: <b>vaig anar</b>는 '나는 갔다'라는 뜻이지 '갈 것이다'가 아니에요. 스페인어 <i>voy a</i>와 달리 이 조동사는 <b>과거</b>를 나타내요.",
+     "es": "Cuidado: <b>vaig anar</b> significa 'fui', no 'voy a ir'. A diferencia del español <i>voy a</i>, este auxiliar señala el <b>pasado</b>."
+    },
+    {
+     "en": "Longer variants <b>vares, vàrem, vàreu, varen</b> also exist (<b>vàrem sopar</b> = <b>vam sopar</b>).",
+     "ko": "더 긴 형태인 <b>vares, vàrem, vàreu, varen</b>도 있어요(<b>vàrem sopar</b> = <b>vam sopar</b>).",
+     "es": "También existen las variantes largas <b>vares, vàrem, vàreu, varen</b> (<b>vàrem sopar</b> = <b>vam sopar</b>)."
+    },
+    {
+     "en": "The <b>simple preterite</b> (<b>parlà, perdé, parlaren</b>) means exactly the same as the periphrastic past. It is common in writing and in Valencia, but in Central Catalan speech the periphrastic form wins (the <b>jo</b> form <b>parlí</b> is especially rare).",
+     "ko": "<b>단순 과거</b>(<b>parlà, perdé, parlaren</b>)는 우언적 과거와 의미가 완전히 같아요. 글이나 발렌시아에서 흔하지만, 중부 카탈루냐어 회화에서는 우언적 형태를 주로 써요(<b>jo</b> 형태 <b>parlí</b>는 특히 드물어요).",
+     "es": "El <b>pretérito simple</b> (<b>parlà, perdé, parlaren</b>) significa exactamente lo mismo que el perifrástico. Es frecuente en la escritura y en Valencia, pero en el habla del catalán central gana la forma perifrástica (la forma de <b>jo</b>, <b>parlí</b>, es especialmente rara)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "imperfect (-ar)",
+     "imperfect (-er/-re/-ir)",
+     "periphrastic past",
+     "simple preterite (-ar)"
+    ],
+    "rows": [
+     [
+      "jo",
+      "parlava",
+      "perdia",
+      "vaig parlar",
+      "parlí"
+     ],
+     [
+      "tu",
+      "parlaves",
+      "perdies",
+      "vas (vares) parlar",
+      "parlares"
+     ],
+     [
+      "ell / ella / vostè",
+      "parlava",
+      "perdia",
+      "va parlar",
+      "parlà"
+     ],
+     [
+      "nosaltres",
+      "parlàvem",
+      "perdíem",
+      "vam (vàrem) parlar",
+      "parlàrem"
+     ],
+     [
+      "vosaltres / vós",
+      "parlàveu",
+      "perdíeu",
+      "vau (vàreu) parlar",
+      "parlàreu"
+     ],
+     [
+      "ells / elles / vostès",
+      "parlaven",
+      "perdien",
+      "van (varen) parlar",
+      "parlaren"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Ahir vaig sopar a casa de la meva àvia.",
+     "en": "Yesterday I had dinner at my grandmother’s.",
+     "ko": "어제 나는 할머니 댁에서 저녁을 먹었어.",
+     "es": "Ayer cené en casa de mi abuela."
+    },
+    {
+     "ca": "Dissabte vam anar a veure el Barça.",
+     "en": "On Saturday we went to see Barça.",
+     "ko": "토요일에 우리는 바르사 경기를 보러 갔어.",
+     "es": "El sábado fuimos a ver al Barça."
+    },
+    {
+     "ca": "De petita, jugava a bàsquet cada tarda.",
+     "en": "As a little girl, I used to play basketball every afternoon.",
+     "ko": "어렸을 때 나는 매일 오후 농구를 하곤 했어.",
+     "es": "De pequeña, jugaba a baloncesto cada tarde."
+    },
+    {
+     "ca": "Els meus cosins van arribar de València a les deu.",
+     "en": "My cousins arrived from Valencia at ten.",
+     "ko": "내 사촌들은 10시에 발렌시아에서 도착했어.",
+     "es": "Mis primos llegaron de Valencia a las diez."
+    }
+   ]
+  },
+  {
+   "id": "7.1c",
+   "title": {
+    "ca": "El futur, el condicional i els temps compostos",
+    "en": "Future, conditional and compound tenses",
+    "ko": "미래, 조건법과 복합 시제",
+    "es": "El futuro, el condicional y los tiempos compuestos"
+   },
+   "points": [
+    {
+     "en": "The <b>future</b> = infinitive + <b>-é, -às, -à, -em, -eu, -an</b>: <b>parlaré, dormiràs</b>. Infinitives in <b>-re</b> lose the final <b>e</b> (<b>perdre → perdré</b>), and a stressed <b>-er</b> becomes <b>-r</b> (<b>voler → voldré</b>, with an extra <b>d</b>).",
+     "ko": "<b>미래</b>는 동사원형 + <b>-é, -às, -à, -em, -eu, -an</b>이에요: <b>parlaré, dormiràs</b>. <b>-re</b>로 끝나는 동사는 마지막 <b>e</b>가 빠지고(<b>perdre → perdré</b>), 강세가 있는 <b>-er</b>은 <b>-r</b>이 돼요(<b>voler → voldré</b>, <b>d</b>가 추가돼요).",
+     "es": "El <b>futuro</b> = infinitivo + <b>-é, -às, -à, -em, -eu, -an</b>: <b>parlaré, dormiràs</b>. Los infinitivos en <b>-re</b> pierden la <b>e</b> final (<b>perdre → perdré</b>) y la terminación <b>-er</b> tónica pasa a <b>-r</b> (<b>voler → voldré</b>, con una <b>d</b> añadida)."
+    },
+    {
+     "en": "Two key irregular future stems: <b>anar → anir-</b> (<b>aniré</b>) and <b>fer → far-</b> (<b>faré</b>).",
+     "ko": "중요한 불규칙 미래 어간 두 개: <b>anar → anir-</b>(<b>aniré</b>), <b>fer → far-</b>(<b>faré</b>).",
+     "es": "Dos raíces de futuro irregulares clave: <b>anar → anir-</b> (<b>aniré</b>) y <b>fer → far-</b> (<b>faré</b>)."
+    },
+    {
+     "en": "The <b>conditional</b> uses the same stem as the future plus the imperfect-like endings <b>-ia, -ies, -ia, -íem, -íeu, -ien</b>: <b>parlaria, aniríem, voldria</b>.",
+     "ko": "<b>조건법</b>은 미래와 같은 어간에 불완료 과거 같은 어미 <b>-ia, -ies, -ia, -íem, -íeu, -ien</b>을 붙여요: <b>parlaria, aniríem, voldria</b>.",
+     "es": "El <b>condicional</b> usa la misma raíz que el futuro más terminaciones como las del imperfecto, <b>-ia, -ies, -ia, -íem, -íeu, -ien</b>: <b>parlaria, aniríem, voldria</b>."
+    },
+    {
+     "en": "Compound (perfect) tenses = a form of <b>haver</b> + past participle. Present of haver → <b>he menjat</b> (perfect); imperfect → <b>havia menjat</b> (pluperfect); future → <b>hauré menjat</b>; conditional → <b>hauria menjat</b>.",
+     "ko": "복합(완료) 시제 = <b>haver</b>의 활용형 + 과거분사. haver 현재 → <b>he menjat</b>(현재완료), 불완료 과거 → <b>havia menjat</b>(과거완료), 미래 → <b>hauré menjat</b>, 조건법 → <b>hauria menjat</b>.",
+     "es": "Tiempos compuestos = una forma de <b>haver</b> + participio. Presente de haver → <b>he menjat</b> (perfecto); imperfecto → <b>havia menjat</b> (pluscuamperfecto); futuro → <b>hauré menjat</b>; condicional → <b>hauria menjat</b>."
+    },
+    {
+     "en": "The <b>past anterior</b> (<b>vaig haver acabat</b>) stresses that something was fully finished; it appears mostly after <b>quan</b> or <b>després que</b>.",
+     "ko": "<b>전과거</b>(<b>vaig haver acabat</b>)는 어떤 일이 완전히 끝났음을 강조해요. 주로 <b>quan</b>이나 <b>després que</b> 뒤에 나와요.",
+     "es": "El <b>pasado anterior</b> (<b>vaig haver acabat</b>) subraya que algo se terminó del todo; aparece sobre todo tras <b>quan</b> o <b>després que</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "future",
+     "conditional",
+     "haver (present)",
+     "haver (imperfect)"
+    ],
+    "rows": [
+     [
+      "jo",
+      "parlaré",
+      "parlaria",
+      "he",
+      "havia"
+     ],
+     [
+      "tu",
+      "parlaràs",
+      "parlaries",
+      "has",
+      "havies"
+     ],
+     [
+      "ell / ella / vostè",
+      "parlarà",
+      "parlaria",
+      "ha",
+      "havia"
+     ],
+     [
+      "nosaltres",
+      "parlarem",
+      "parlaríem",
+      "hem",
+      "havíem"
+     ],
+     [
+      "vosaltres / vós",
+      "parlareu",
+      "parlaríeu",
+      "heu",
+      "havíeu"
+     ],
+     [
+      "ells / elles / vostès",
+      "parlaran",
+      "parlarien",
+      "han",
+      "havien"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "L’estiu que ve anirem a Menorca.",
+     "en": "Next summer we’ll go to Menorca.",
+     "ko": "내년 여름에 우리는 메노르카에 갈 거야.",
+     "es": "El verano que viene iremos a Menorca."
+    },
+    {
+     "ca": "Demà faré els deures abans de sopar.",
+     "en": "Tomorrow I’ll do my homework before dinner.",
+     "ko": "내일은 저녁 먹기 전에 숙제를 할 거야.",
+     "es": "Mañana haré los deberes antes de cenar."
+    },
+    {
+     "ca": "Voldria un entrepà de formatge, si us plau.",
+     "en": "I’d like a cheese sandwich, please.",
+     "ko": "치즈 샌드위치 하나 주세요.",
+     "es": "Querría un bocadillo de queso, por favor."
+    },
+    {
+     "ca": "Ja he acabat el projecte de ciències.",
+     "en": "I’ve already finished the science project.",
+     "ko": "과학 프로젝트를 벌써 끝냈어.",
+     "es": "Ya he terminado el proyecto de ciencias."
+    },
+    {
+     "ca": "Quan vaig arribar, el tren ja havia sortit.",
+     "en": "When I arrived, the train had already left.",
+     "ko": "내가 도착했을 때 기차는 이미 떠났었어.",
+     "es": "Cuando llegué, el tren ya había salido."
+    }
+   ]
+  },
+  {
+   "id": "7.1d",
+   "title": {
+    "ca": "Temps i aspecte: quin passat faig servir?",
+    "en": "Tense and aspect: which past do I use?",
+    "ko": "시제와 상: 어떤 과거를 쓸까?",
+    "es": "Tiempo y aspecto: ¿qué pasado uso?"
+   },
+   "points": [
+    {
+     "en": "Use the <b>imperfect</b> for habits in the past ('used to') and for background actions that were still going on when something else happened: <b>Dormia quan va sonar el mòbil.</b>",
+     "ko": "<b>불완료 과거</b>는 과거의 습관('~하곤 했다')과 다른 일이 일어났을 때 진행 중이던 배경 행동에 써요: <b>Dormia quan va sonar el mòbil.</b>",
+     "es": "Usa el <b>imperfecto</b> para hábitos pasados ('solía') y para acciones de fondo que seguían en curso cuando pasó otra cosa: <b>Dormia quan va sonar el mòbil.</b>"
+    },
+    {
+     "en": "Use the <b>periphrastic past</b> for completed events inside a time unit that is already over (<b>ahir, l’any passat, dilluns passat</b>).",
+     "ko": "<b>우언적 과거</b>는 이미 끝난 시간 단위(<b>ahir, l’any passat, dilluns passat</b>) 안에서 완료된 사건에 써요.",
+     "es": "Usa el <b>pasado perifrástico</b> para hechos terminados dentro de una unidad de tiempo ya acabada (<b>ahir, l’any passat, dilluns passat</b>)."
+    },
+    {
+     "en": "Use the <b>present perfect</b> when the time unit is still running (<b>aquest curs, aquesta setmana, avui</b>). Golden rule: anything that happened <b>today</b>, even early this morning, goes in the perfect: <b>Aquest matí he esmorzat poc.</b>",
+     "ko": "시간 단위가 아직 진행 중이면(<b>aquest curs, aquesta setmana, avui</b>) <b>현재완료</b>를 써요. 황금 규칙: <b>오늘</b> 일어난 일은 아침 일찍이라도 현재완료로 말해요: <b>Aquest matí he esmorzat poc.</b>",
+     "es": "Usa el <b>pretérito perfecto</b> cuando la unidad de tiempo sigue abierta (<b>aquest curs, aquesta setmana, avui</b>). Regla de oro: todo lo que ha pasado <b>hoy</b>, aunque sea a primera hora, va en perfecto: <b>Aquest matí he esmorzat poc.</b>"
+    },
+    {
+     "en": "<b>estar + gerund</b> (<b>estic estudiant</b>) exists but is used less than English '-ing'; only to stress that something is in progress right now.",
+     "ko": "<b>estar + 현재분사</b>(<b>estic estudiant</b>)도 있지만 영어 '-ing'보다 덜 써요. 지금 바로 진행 중이라는 점을 강조할 때만 써요.",
+     "es": "<b>estar + gerundio</b> (<b>estic estudiant</b>) existe, pero se usa menos que el '-ing' inglés; solo para subrayar que algo está en curso ahora mismo."
+    },
+    {
+     "en": "The <b>pluperfect</b> places one past event before another past event; the <b>future perfect</b> does the same in the future.",
+     "ko": "<b>과거완료</b>는 과거의 한 사건을 다른 과거 사건보다 앞에 놓아요. <b>미래완료</b>는 미래에서 같은 역할을 해요.",
+     "es": "El <b>pluscuamperfecto</b> sitúa un hecho pasado antes de otro hecho pasado; el <b>futuro perfecto</b> hace lo mismo en el futuro."
+    },
+    {
+     "en": "Never use a present continuous for future plans: say <b>Demà plourà</b> or <b>Demà plou</b>. The simple present can express a future fact if a time word makes it clear, and after <b>si</b> ('if') you must use the present, not the future: <b>Si demà fa sol, …</b>",
+     "ko": "미래 계획에 현재 진행형을 쓰지 마세요: <b>Demà plourà</b> 또는 <b>Demà plou</b>라고 해요. 시간 표현이 있으면 단순 현재로 미래를 나타낼 수 있고, <b>si</b>('만약') 뒤에는 미래가 아니라 현재를 꼭 써야 해요: <b>Si demà fa sol, …</b>",
+     "es": "Nunca uses el presente continuo para planes futuros: di <b>Demà plourà</b> o <b>Demà plou</b>. El presente simple puede expresar futuro si una palabra de tiempo lo deja claro, y tras <b>si</b> hay que usar presente, no futuro: <b>Si demà fa sol, …</b>"
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "imperfective",
+     "perfective"
+    ],
+    "rows": [
+     [
+      "present",
+      "canto",
+      "he cantat"
+     ],
+     [
+      "past",
+      "cantava",
+      "vaig cantar / cantà"
+     ],
+     [
+      "pluperfect",
+      "—",
+      "havia cantat"
+     ],
+     [
+      "past anterior",
+      "—",
+      "vaig haver cantat"
+     ],
+     [
+      "future",
+      "cantaré",
+      "hauré cantat"
+     ]
+    ],
+    "speak": [
+     1,
+     2
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Aquesta setmana he entrenat tres vegades.",
+     "en": "This week I’ve trained three times.",
+     "ko": "이번 주에 나는 세 번 훈련했어.",
+     "es": "Esta semana he entrenado tres veces."
+    },
+    {
+     "ca": "La setmana passada vaig entrenar només un dia.",
+     "en": "Last week I trained only one day.",
+     "ko": "지난주에는 하루만 훈련했어.",
+     "es": "La semana pasada entrené solo un día."
+    },
+    {
+     "ca": "Llegia al sofà quan van trucar a la porta.",
+     "en": "I was reading on the sofa when someone knocked at the door.",
+     "ko": "소파에서 책을 읽고 있는데 누가 문을 두드렸어.",
+     "es": "Leía en el sofá cuando llamaron a la puerta."
+    },
+    {
+     "ca": "Ja havíem dinat quan va arribar el meu pare.",
+     "en": "We had already had lunch when my father arrived.",
+     "ko": "아빠가 오셨을 때 우리는 이미 점심을 먹었었어.",
+     "es": "Ya habíamos comido cuando llegó mi padre."
+    },
+    {
+     "ca": "Si plou, ens quedarem a casa.",
+     "en": "If it rains, we’ll stay at home.",
+     "ko": "비가 오면 우리는 집에 있을 거야.",
+     "es": "Si llueve, nos quedaremos en casa."
+    }
+   ]
+  },
+  {
+   "id": "7.1e",
+   "title": {
+    "ca": "El subjuntiu: formes i usos",
+    "en": "The subjunctive: forms and uses",
+    "ko": "접속법: 형태와 용법",
+    "es": "El subjuntivo: formas y usos"
+   },
+   "points": [
+    {
+     "en": "The subjunctive is a <b>mood</b>, not a tense: it presents things as wished, possible, doubtful or not (yet) real. The indicative presents facts.",
+     "ko": "접속법은 시제가 아니라 <b>법(mood)</b>이에요. 바라는 것, 가능한 것, 의심스러운 것, 아직 현실이 아닌 것을 나타내요. 직설법은 사실을 나타내요.",
+     "es": "El subjuntivo es un <b>modo</b>, no un tiempo: presenta las cosas como deseadas, posibles, dudosas o no reales (todavía). El indicativo presenta hechos."
+    },
+    {
+     "en": "Present subjunctive endings: <b>-i, -is, -i, -em, -eu, -in</b> for -ar and -er/-re verbs (<b>parli, perdis</b>); -ir verbs use <b>-i, -is, -i, -im, -iu, -in</b> and keep <b>-eix-</b> where the present has it (<b>serveixi, servim</b>).",
+     "ko": "접속법 현재 어미: -ar, -er/-re 동사는 <b>-i, -is, -i, -em, -eu, -in</b>(<b>parli, perdis</b>). -ir 동사는 <b>-i, -is, -i, -im, -iu, -in</b>을 쓰고, 현재형에 <b>-eix-</b>가 있는 곳에는 그대로 둬요(<b>serveixi, servim</b>).",
+     "es": "Terminaciones del presente de subjuntivo: <b>-i, -is, -i, -em, -eu, -in</b> para los verbos en -ar y -er/-re (<b>parli, perdis</b>); los verbos en -ir usan <b>-i, -is, -i, -im, -iu, -in</b> y mantienen <b>-eix-</b> donde lo tiene el presente (<b>serveixi, servim</b>)."
+    },
+    {
+     "en": "Imperfect subjunctive: <b>-és, -essis, -és, -éssim, -éssiu, -essin</b> (-ar, -er/-re) and <b>-ís, -issis…</b> (-ir). Key irregulars: <b>ser → fos</b>, <b>tenir → tingués</b>, <b>fer → fes</b>.",
+     "ko": "접속법 불완료 과거: <b>-és, -essis, -és, -éssim, -éssiu, -essin</b>(-ar, -er/-re), <b>-ís, -issis…</b>(-ir). 주요 불규칙: <b>ser → fos</b>, <b>tenir → tingués</b>, <b>fer → fes</b>.",
+     "es": "Imperfecto de subjuntivo: <b>-és, -essis, -és, -éssim, -éssiu, -essin</b> (-ar, -er/-re) e <b>-ís, -issis…</b> (-ir). Irregulares clave: <b>ser → fos</b>, <b>tenir → tingués</b>, <b>fer → fes</b>."
+    },
+    {
+     "en": "After verbs of wanting, liking, ordering or fearing + <b>que</b> with a <b>different subject</b>, use the subjunctive: <b>Vull que vinguis</b>. Same subject → infinitive: <b>Vull venir</b>.",
+     "ko": "원하다, 좋아하다, 명령하다, 두려워하다 같은 동사 + <b>que</b> 뒤에서 <b>주어가 다르면</b> 접속법을 써요: <b>Vull que vinguis</b>. 주어가 같으면 동사원형: <b>Vull venir</b>.",
+     "es": "Tras verbos de deseo, gusto, orden o temor + <b>que</b> con <b>sujeto distinto</b>, se usa subjuntivo: <b>Vull que vinguis</b>. Mismo sujeto → infinitivo: <b>Vull venir</b>."
+    },
+    {
+     "en": "Verbs of thinking take the indicative when affirmative (<b>Crec que és veritat</b>) but usually the subjunctive when negative (<b>No crec que sigui veritat</b>).",
+     "ko": "생각을 나타내는 동사는 긍정문에서는 직설법(<b>Crec que és veritat</b>), 부정문에서는 보통 접속법(<b>No crec que sigui veritat</b>)을 써요.",
+     "es": "Los verbos de pensamiento llevan indicativo en afirmativa (<b>Crec que és veritat</b>), pero normalmente subjuntivo en negativa (<b>No crec que sigui veritat</b>)."
+    },
+    {
+     "en": "<b>perquè</b> + indicative = 'because'; <b>perquè</b> + subjunctive = 'so that'. <b>quan</b> + present subjunctive often refers to the future (<b>Quan arribi, et truco</b>). <b>Encara que</b> + subjunctive = 'even if', + indicative = 'although (it is a fact)'.",
+     "ko": "<b>perquè</b> + 직설법 = '왜냐하면', <b>perquè</b> + 접속법 = '~하도록'. <b>quan</b> + 접속법 현재는 흔히 미래를 가리켜요(<b>Quan arribi, et truco</b>). <b>Encara que</b> + 접속법 = '설령 ~하더라도', + 직설법 = '(사실이지만) ~에도 불구하고'.",
+     "es": "<b>perquè</b> + indicativo = 'porque'; <b>perquè</b> + subjuntivo = 'para que'. <b>quan</b> + presente de subjuntivo suele referirse al futuro (<b>Quan arribi, et truco</b>). <b>Encara que</b> + subjuntivo = 'aunque (hipotético)', + indicativo = 'aunque (es un hecho)'."
+    },
+    {
+     "en": "Relative clauses about an unknown or 'any' person/thing take the subjunctive: <b>Busco algú que parli xinès</b>. Unlikely conditions use <b>si</b> + imperfect subjunctive + conditional: <b>Si tingués temps, vindria</b>. The present subjunctive is never used after <b>si</b>.",
+     "ko": "모르는 사람이나 '아무' 사람/사물에 관한 관계절에는 접속법을 써요: <b>Busco algú que parli xinès</b>. 가능성이 낮은 조건은 <b>si</b> + 접속법 불완료 과거 + 조건법: <b>Si tingués temps, vindria</b>. <b>si</b> 뒤에는 접속법 현재를 절대 쓰지 않아요.",
+     "es": "Las relativas sobre una persona o cosa desconocida o 'cualquiera' llevan subjuntivo: <b>Busco algú que parli xinès</b>. Las condiciones poco probables usan <b>si</b> + imperfecto de subjuntivo + condicional: <b>Si tingués temps, vindria</b>. Tras <b>si</b> nunca va presente de subjuntivo."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "pres. subj. (parlar)",
+     "pres. subj. (servir)",
+     "imperf. subj. (parlar)",
+     "imperf. subj. (servir)"
+    ],
+    "rows": [
+     [
+      "jo",
+      "parli",
+      "serveixi",
+      "parlés",
+      "servís"
+     ],
+     [
+      "tu",
+      "parlis",
+      "serveixis",
+      "parlessis",
+      "servissis"
+     ],
+     [
+      "ell / ella / vostè",
+      "parli",
+      "serveixi",
+      "parlés",
+      "servís"
+     ],
+     [
+      "nosaltres",
+      "parlem",
+      "servim",
+      "parléssim",
+      "servíssim"
+     ],
+     [
+      "vosaltres / vós",
+      "parleu",
+      "serviu",
+      "parléssiu",
+      "servíssiu"
+     ],
+     [
+      "ells / elles / vostès",
+      "parlin",
+      "serveixin",
+      "parlessin",
+      "servissin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "La professora vol que parlem en català.",
+     "en": "The teacher wants us to speak Catalan.",
+     "ko": "선생님은 우리가 카탈루냐어로 말하길 원하셔.",
+     "es": "La profesora quiere que hablemos en catalán."
+    },
+    {
+     "ca": "No crec que el partit acabi tard.",
+     "en": "I don’t think the match will finish late.",
+     "ko": "경기가 늦게 끝날 것 같지 않아.",
+     "es": "No creo que el partido acabe tarde."
+    },
+    {
+     "ca": "T’ho repeteixo perquè ho entenguis bé.",
+     "en": "I’m repeating it so that you understand it well.",
+     "ko": "네가 잘 이해하도록 다시 말해 줄게.",
+     "es": "Te lo repito para que lo entiendas bien."
+    },
+    {
+     "ca": "Quan acabi l’examen, aniré a la platja.",
+     "en": "When I finish the exam, I’ll go to the beach.",
+     "ko": "시험이 끝나면 해변에 갈 거야.",
+     "es": "Cuando termine el examen, iré a la playa."
+    },
+    {
+     "ca": "Si fos ric, viatjaria per tot el món.",
+     "en": "If I were rich, I’d travel all over the world.",
+     "ko": "내가 부자라면 전 세계를 여행할 텐데.",
+     "es": "Si fuera rico, viajaría por todo el mundo."
+    },
+    {
+     "ca": "L’alumne que arribi tard no podrà entrar.",
+     "en": "Any student who arrives late won’t be able to come in.",
+     "ko": "늦게 오는 학생은 들어올 수 없어.",
+     "es": "El alumno que llegue tarde no podrá entrar."
+    }
+   ]
+  },
+  {
+   "id": "7.1f",
+   "title": {
+    "ca": "L’imperatiu, el participi i el gerundi",
+    "en": "Imperative, past participle and gerund",
+    "ko": "명령법, 과거분사와 현재분사",
+    "es": "El imperativo, el participio y el gerundio"
+   },
+   "points": [
+    {
+     "en": "The <b>tu</b> command looks like the 3rd-person present (<b>parla!, obre!</b>); the <b>vosaltres</b> command looks like the vosaltres present (<b>parleu!, obriu!</b>).",
+     "ko": "<b>tu</b>에게 하는 명령은 3인칭 현재형과 같아요(<b>parla!, obre!</b>). <b>vosaltres</b> 명령은 vosaltres 현재형과 같아요(<b>parleu!, obriu!</b>).",
+     "es": "El imperativo de <b>tu</b> coincide con la 3.ª persona del presente (<b>parla!, obre!</b>); el de <b>vosaltres</b>, con el presente de vosaltres (<b>parleu!, obriu!</b>)."
+    },
+    {
+     "en": "All other persons (<b>vostè, vostès, nosaltres</b>) borrow the present subjunctive: <b>parli!, obrin!, anem!</b> For a 3rd person, add <b>que</b>: <b>Que entri!</b> Negative commands always use the subjunctive: <b>No parlis!</b>",
+     "ko": "나머지 인칭(<b>vostè, vostès, nosaltres</b>)은 접속법 현재를 빌려 써요: <b>parli!, obrin!, anem!</b> 3인칭에는 <b>que</b>를 붙여요: <b>Que entri!</b> 부정 명령은 항상 접속법을 써요: <b>No parlis!</b>",
+     "es": "Las demás personas (<b>vostè, vostès, nosaltres</b>) toman el presente de subjuntivo: <b>parli!, obrin!, anem!</b> Para la 3.ª persona se añade <b>que</b>: <b>Que entri!</b> El imperativo negativo siempre usa subjuntivo: <b>No parlis!</b>"
+    },
+    {
+     "en": "With positive commands, infinitives and gerunds, object pronouns go <b>after</b> the verb, joined by a hyphen or apostrophe: <b>Canta-la!</b>, <b>Mira’m!</b>, <b>Anem-hi!</b>",
+     "ko": "긍정 명령, 동사원형, 현재분사에서는 목적 대명사를 동사 <b>뒤에</b> 하이픈이나 아포스트로피로 붙여요: <b>Canta-la!</b>, <b>Mira’m!</b>, <b>Anem-hi!</b>",
+     "es": "Con el imperativo afirmativo, el infinitivo y el gerundio, los pronombres van <b>detrás</b> del verbo, unidos con guion o apóstrofo: <b>Canta-la!</b>, <b>Mira’m!</b>, <b>Anem-hi!</b>"
+    },
+    {
+     "en": "Past participles: <b>-at</b> (-ar), <b>-ut</b> (-er/-re), <b>-it</b> (-ir). They have four forms: <b>parlat, parlada, parlats, parlades</b>. Many -re verbs are irregular (<b>fet, dit, escrit, vist</b>).",
+     "ko": "과거분사: <b>-at</b>(-ar), <b>-ut</b>(-er/-re), <b>-it</b>(-ir). 네 가지 형태가 있어요: <b>parlat, parlada, parlats, parlades</b>. -re 동사 중 불규칙이 많아요(<b>fet, dit, escrit, vist</b>).",
+     "es": "Participios: <b>-at</b> (-ar), <b>-ut</b> (-er/-re), <b>-it</b> (-ir). Tienen cuatro formas: <b>parlat, parlada, parlats, parlades</b>. Muchos verbos en -re son irregulares (<b>fet, dit, escrit, vist</b>)."
+    },
+    {
+     "en": "The participle agrees with the subject in the passive (<b>La carta va ser escrita</b>) and, in compound tenses, usually with a preceding <b>la, les, els</b> or <b>en</b>: <b>La porta? L’he oberta.</b>",
+     "ko": "과거분사는 수동태에서 주어와 일치하고(<b>La carta va ser escrita</b>), 복합 시제에서는 앞에 온 <b>la, les, els, en</b>과 보통 일치해요: <b>La porta? L’he oberta.</b>",
+     "es": "El participio concuerda con el sujeto en la pasiva (<b>La carta va ser escrita</b>) y, en los tiempos compuestos, suele concordar con un <b>la, les, els</b> o <b>en</b> antepuesto: <b>La porta? L’he oberta.</b>"
+    },
+    {
+     "en": "Gerunds end in <b>-ant, -ent, -int</b>: <b>parlant, perdent, servint</b>.",
+     "ko": "현재분사(제룬디오)는 <b>-ant, -ent, -int</b>로 끝나요: <b>parlant, perdent, servint</b>.",
+     "es": "Los gerundios terminan en <b>-ant, -ent, -int</b>: <b>parlant, perdent, servint</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "parlar",
+     "perdre",
+     "servir"
+    ],
+    "rows": [
+     [
+      "imperative tu",
+      "parla",
+      "perd",
+      "serveix"
+     ],
+     [
+      "imperative vostè",
+      "parli",
+      "perdi",
+      "serveixi"
+     ],
+     [
+      "imperative nosaltres",
+      "parlem",
+      "perdem",
+      "servim"
+     ],
+     [
+      "imperative vosaltres",
+      "parleu",
+      "perdeu",
+      "serviu"
+     ],
+     [
+      "imperative vostès",
+      "parlin",
+      "perdin",
+      "serveixin"
+     ],
+     [
+      "participle (m / f)",
+      "parlat / parlada",
+      "perdut / perduda",
+      "servit / servida"
+     ],
+     [
+      "gerund",
+      "parlant",
+      "perdent",
+      "servint"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Tanca la finestra, que fa fred!",
+     "en": "Close the window, it’s cold!",
+     "ko": "창문 닫아, 추워!",
+     "es": "¡Cierra la ventana, que hace frío!"
+    },
+    {
+     "ca": "Seguiu les instruccions i treballeu en parelles.",
+     "en": "Follow the instructions and work in pairs.",
+     "ko": "지시를 따르고 짝으로 활동하세요.",
+     "es": "Seguid las instrucciones y trabajad en parejas."
+    },
+    {
+     "ca": "Senyor, passi, si us plau.",
+     "en": "Come in, sir, please.",
+     "ko": "선생님, 들어오세요.",
+     "es": "Señor, pase, por favor."
+    },
+    {
+     "ca": "La cançó? Canta-la una altra vegada!",
+     "en": "The song? Sing it again!",
+     "ko": "그 노래? 한 번 더 불러 봐!",
+     "es": "¿La canción? ¡Cántala otra vez!"
+    },
+    {
+     "ca": "Les fotos? Ja les he penjades.",
+     "en": "The photos? I’ve already uploaded them.",
+     "ko": "사진? 벌써 올렸어.",
+     "es": "¿Las fotos? Ya las he subido."
+    },
+    {
+     "ca": "Estic fent els deures de mates.",
+     "en": "I’m doing my maths homework.",
+     "ko": "나는 수학 숙제를 하고 있어.",
+     "es": "Estoy haciendo los deberes de mates."
+    }
+   ]
+  },
+  {
+   "id": "7.2a",
+   "title": {
+    "ca": "Els adverbis: posició i manera",
+    "en": "Adverbs: position and manner",
+    "ko": "부사: 위치와 방법",
+    "es": "Los adverbios: posición y modo"
+   },
+   "points": [
+    {
+     "en": "Adverbs add information (how, how much, when, where…) to verbs, adjectives, other adverbs or whole sentences.",
+     "ko": "부사는 동사, 형용사, 다른 부사, 또는 문장 전체에 정보(어떻게, 얼마나, 언제, 어디서…)를 더해요.",
+     "es": "Los adverbios añaden información (cómo, cuánto, cuándo, dónde…) a verbos, adjetivos, otros adverbios o frases enteras."
+    },
+    {
+     "en": "Put an adverb next to what it modifies, usually after the verb or at the end. Unlike English, do <b>not</b> put it between <b>haver</b> and the participle: <b>He acabat ràpidament</b>, not <i>*He ràpidament acabat</i>. Only <b>ben</b> and <b>mal</b> can go there (<b>ha ben pagat</b>).",
+     "ko": "부사는 꾸미는 말 옆, 보통 동사 뒤나 문장 끝에 둬요. 영어와 달리 <b>haver</b>와 과거분사 사이에는 넣지 <b>않아요</b>: <b>He acabat ràpidament</b> (O), <i>*He ràpidament acabat</i> (X). <b>ben</b>과 <b>mal</b>만 그 자리에 올 수 있어요(<b>ha ben pagat</b>).",
+     "es": "Coloca el adverbio junto a lo que modifica, normalmente tras el verbo o al final. A diferencia del inglés, <b>no</b> se pone entre <b>haver</b> y el participio: <b>He acabat ràpidament</b>, no <i>*He ràpidament acabat</i>. Solo <b>ben</b> y <b>mal</b> pueden ir ahí (<b>ha ben pagat</b>)."
+    },
+    {
+     "en": "Sentence adverbs that show the speaker’s opinion (<b>sincerament, òbviament, potser</b>) can go at the start, often with a comma.",
+     "ko": "말하는 사람의 생각을 나타내는 문장 부사(<b>sincerament, òbviament, potser</b>)는 문장 맨 앞에 올 수 있고, 흔히 쉼표를 써요.",
+     "es": "Los adverbios oracionales que muestran la opinión del hablante (<b>sincerament, òbviament, potser</b>) pueden ir al principio, a menudo con coma."
+    },
+    {
+     "en": "Most manner adverbs = <b>feminine</b> adjective + <b>-ment</b> (like English -ly): <b>ràpid → ràpidament</b>, <b>clar → clarament</b>, <b>fàcil → fàcilment</b>. A written accent stays: <b>cortès → cortesament</b>, <b>pràctic → pràcticament</b>.",
+     "ko": "방법 부사 대부분 = <b>여성형</b> 형용사 + <b>-ment</b>(영어 -ly 같아요): <b>ràpid → ràpidament</b>, <b>clar → clarament</b>, <b>fàcil → fàcilment</b>. 강세 부호는 그대로 남아요: <b>cortès → cortesament</b>, <b>pràctic → pràcticament</b>.",
+     "es": "La mayoría de adverbios de modo = adjetivo <b>femenino</b> + <b>-ment</b> (como -mente): <b>ràpid → ràpidament</b>, <b>clar → clarament</b>, <b>fàcil → fàcilment</b>. La tilde se mantiene: <b>cortès → cortesament</b>, <b>pràctic → pràcticament</b>."
+    },
+    {
+     "en": "With two -ment adverbs joined by <b>i</b>, you can drop <b>-ment</b> from one of them: <b>clara i ràpidament</b>.",
+     "ko": "-ment 부사 두 개를 <b>i</b>로 이을 때 하나에서 <b>-ment</b>를 뺄 수 있어요: <b>clara i ràpidament</b>.",
+     "es": "Con dos adverbios en -ment unidos por <b>i</b>, se puede quitar <b>-ment</b> a uno: <b>clara i ràpidament</b>."
+    },
+    {
+     "en": "<b>bé</b> = 'well' on its own (<b>canta molt bé</b>); <b>ben</b> = 'very / really' before an adjective or adverb (<b>ben cansat</b>). The opposite of bé is <b>malament</b>. Some adjectives act as adverbs with verbs of motion, speech or perception: <b>corre ràpid, parla clar</b>.",
+     "ko": "<b>bé</b>는 단독으로 '잘'(<b>canta molt bé</b>), <b>ben</b>은 형용사나 부사 앞에서 '아주, 정말'(<b>ben cansat</b>)이에요. bé의 반대는 <b>malament</b>예요. 몇몇 형용사는 이동·말하기·지각 동사와 함께 부사처럼 쓰여요: <b>corre ràpid, parla clar</b>.",
+     "es": "<b>bé</b> = 'bien' solo (<b>canta molt bé</b>); <b>ben</b> = 'muy / bien' delante de adjetivo o adverbio (<b>ben cansat</b>). Lo contrario de bé es <b>malament</b>. Algunos adjetivos funcionan como adverbios con verbos de movimiento, habla o percepción: <b>corre ràpid, parla clar</b>."
+    }
+   ],
+   "examples": [
+    {
+     "ca": "El meu cosí parla l’anglès perfectament.",
+     "en": "My cousin speaks English perfectly.",
+     "ko": "내 사촌은 영어를 완벽하게 해.",
+     "es": "Mi primo habla inglés perfectamente."
+    },
+    {
+     "ca": "Avui estic ben cansada després de l’entrenament.",
+     "en": "Today I’m really tired after training.",
+     "ko": "오늘은 훈련 후에 정말 피곤해.",
+     "es": "Hoy estoy bien cansada después del entrenamiento."
+    },
+    {
+     "ca": "Has jugat molt bé, però jo he jugat malament.",
+     "en": "You played very well, but I played badly.",
+     "ko": "너는 정말 잘했는데 나는 못했어.",
+     "es": "Has jugado muy bien, pero yo he jugado mal."
+    },
+    {
+     "ca": "Sincerament, aquesta pel·lícula no m’ha agradat.",
+     "en": "Honestly, I didn’t like this film.",
+     "ko": "솔직히 이 영화는 별로였어.",
+     "es": "Sinceramente, esta película no me ha gustado."
+    },
+    {
+     "ca": "Aquesta moto va massa ràpid.",
+     "en": "This motorbike goes too fast.",
+     "ko": "이 오토바이는 너무 빨리 달려.",
+     "es": "Esta moto va demasiado rápido."
+    }
+   ]
+  },
+  {
+   "id": "7.2b",
+   "title": {
+    "ca": "Adverbis de quantitat, lloc, temps i lògica",
+    "en": "Adverbs of degree, place, time and logic",
+    "ko": "정도·장소·시간·논리 부사",
+    "es": "Adverbios de cantidad, lugar, tiempo y lógica"
+   },
+   "points": [
+    {
+     "en": "<b>tan</b> goes before an adjective or adverb (<b>tan alt</b>); <b>tant</b> stands alone with a verb (<b>m’agrada tant!</b>). <b>massa</b> = too (much); its opposite is <b>massa poc</b>.",
+     "ko": "<b>tan</b>은 형용사나 부사 앞에(<b>tan alt</b>), <b>tant</b>은 동사와 함께 단독으로 써요(<b>m’agrada tant!</b>). <b>massa</b> = 너무(많이), 반대는 <b>massa poc</b>예요.",
+     "es": "<b>tan</b> va delante de adjetivo o adverbio (<b>tan alt</b>); <b>tant</b> va solo con un verbo (<b>m’agrada tant!</b>). <b>massa</b> = demasiado; su contrario es <b>massa poc</b>."
+    },
+    {
+     "en": "<b>molt</b> = very / a lot (superlative <b>moltíssim</b>). In negatives and questions, <b>gaire</b> replaces it: <b>No m’agrada gaire</b>. <b>gens</b> = 'not at all / any' in negatives and questions.",
+     "ko": "<b>molt</b> = 아주/많이(최상급 <b>moltíssim</b>). 부정문과 의문문에서는 <b>gaire</b>가 대신 써요: <b>No m’agrada gaire</b>. <b>gens</b>는 부정문·의문문에서 '전혀'라는 뜻이에요.",
+     "es": "<b>molt</b> = muy / mucho (superlativo <b>moltíssim</b>). En negativas y preguntas lo sustituye <b>gaire</b>: <b>No m’agrada gaire</b>. <b>gens</b> = 'nada en absoluto' en negativas y preguntas."
+    },
+    {
+     "en": "<b>prou</b> = enough; <b>una mica</b> / <b>un poc</b> = a bit, but <b>poc</b> alone = not much; <b>gairebé / quasi</b> = almost; <b>només</b> = only.",
+     "ko": "<b>prou</b> = 충분히, <b>una mica</b> / <b>un poc</b> = 조금, 하지만 <b>poc</b>만 쓰면 = 별로 ~않다; <b>gairebé / quasi</b> = 거의, <b>només</b> = 오직/~만.",
+     "es": "<b>prou</b> = suficiente; <b>una mica</b> / <b>un poc</b> = un poco, pero <b>poc</b> solo = no mucho; <b>gairebé / quasi</b> = casi; <b>només</b> = solo."
+    },
+    {
+     "en": "Place: <b>aquí</b> (here), <b>allà / allí</b> (there), <b>pertot arreu</b> (everywhere), <b>enlloc</b> (nowhere / anywhere in questions), <b>davant, darrere, dalt, baix, a prop, lluny</b>.",
+     "ko": "장소: <b>aquí</b>(여기), <b>allà / allí</b>(저기), <b>pertot arreu</b>(어디에나), <b>enlloc</b>(아무 데도/의문문에서 어디든), <b>davant, darrere, dalt, baix, a prop, lluny</b>.",
+     "es": "Lugar: <b>aquí</b>, <b>allà / allí</b>, <b>pertot arreu</b> (por todas partes), <b>enlloc</b> (en ningún sitio / en algún sitio en preguntas), <b>davant, darrere, dalt, baix, a prop, lluny</b>."
+    },
+    {
+     "en": "Time: <b>ara, abans, després, aviat, tard, sempre, mai, sovint, de vegades, avui, ahir, demà, abans-d’ahir, demà passat, anit, enguany</b> (this year).",
+     "ko": "시간: <b>ara</b>(지금), <b>abans</b>(전에), <b>després</b>(후에), <b>aviat</b>(곧), <b>tard</b>(늦게), <b>sempre</b>(항상), <b>mai</b>(결코), <b>sovint</b>(자주), <b>de vegades</b>(가끔), <b>avui, ahir, demà, abans-d’ahir</b>(그저께), <b>demà passat</b>(모레), <b>anit</b>(오늘 밤/어젯밤), <b>enguany</b>(올해).",
+     "es": "Tiempo: <b>ara, abans, després, aviat, tard, sempre, mai, sovint, de vegades, avui, ahir, demà, abans-d’ahir</b> (anteayer), <b>demà passat</b> (pasado mañana), <b>anit, enguany</b> (este año)."
+    },
+    {
+     "en": "Logic: <b>potser</b> (maybe), <b>també</b> (also), <b>tampoc</b> (neither), <b>a més a més</b> (moreover), <b>fins i tot</b> (even), <b>tanmateix</b> (however).",
+     "ko": "논리: <b>potser</b>(아마), <b>també</b>(~도), <b>tampoc</b>(~도 아니다), <b>a més a més</b>(게다가), <b>fins i tot</b>(심지어), <b>tanmateix</b>(그러나).",
+     "es": "Lógica: <b>potser</b> (quizás), <b>també</b> (también), <b>tampoc</b> (tampoco), <b>a més a més</b> (además), <b>fins i tot</b> (incluso), <b>tanmateix</b> (sin embargo)."
+    }
+   ],
+   "examples": [
+    {
+     "ca": "La teva germana és tan simpàtica!",
+     "en": "Your sister is so nice!",
+     "ko": "네 언니 정말 친절하다!",
+     "es": "¡Tu hermana es tan simpática!"
+    },
+    {
+     "ca": "No m’agrada gaire el bròquil.",
+     "en": "I don’t like broccoli very much.",
+     "ko": "나는 브로콜리를 별로 안 좋아해.",
+     "es": "No me gusta mucho el brócoli."
+    },
+    {
+     "ca": "Aquest estiu no aniré enlloc.",
+     "en": "This summer I won’t go anywhere.",
+     "ko": "이번 여름에는 아무 데도 안 갈 거야.",
+     "es": "Este verano no iré a ningún sitio."
+    },
+    {
+     "ca": "Has estat mai a Girona?",
+     "en": "Have you ever been to Girona?",
+     "ko": "지로나에 가 본 적 있어?",
+     "es": "¿Has estado alguna vez en Girona?"
+    },
+    {
+     "ca": "Potser demà plourà.",
+     "en": "Maybe it will rain tomorrow.",
+     "ko": "아마 내일 비가 올 거야.",
+     "es": "Quizás mañana llueva."
+    },
+    {
+     "ca": "Sovint dinem a l’institut.",
+     "en": "We often have lunch at school.",
+     "ko": "우리는 자주 학교에서 점심을 먹어.",
+     "es": "A menudo comemos en el instituto."
+    }
+   ]
+  },
+  {
+   "id": "7.3a",
+   "title": {
+    "ca": "Els pronoms febles: formes i ús bàsic",
+    "en": "Unstressed pronouns: forms and basic use",
+    "ko": "약형 대명사: 형태와 기본 용법",
+    "es": "Los pronombres átonos: formas y uso básico"
+   },
+   "points": [
+    {
+     "en": "Weak (unstressed) pronouns replace objects and complements: direct object (<b>el, la, els, les, ho</b>), indirect object (<b>li, els</b>), and the adverbial pronouns <b>en</b> and <b>hi</b>.",
+     "ko": "약형 대명사는 목적어와 보어를 대신해요: 직접목적어(<b>el, la, els, les, ho</b>), 간접목적어(<b>li, els</b>), 그리고 부사 대명사 <b>en</b>과 <b>hi</b>.",
+     "es": "Los pronombres débiles (átonos) sustituyen objetos y complementos: objeto directo (<b>el, la, els, les, ho</b>), indirecto (<b>li, els</b>) y los pronombres adverbiales <b>en</b> e <b>hi</b>."
+    },
+    {
+     "en": "Each pronoun has up to four shapes depending on position: <b>before</b> a verb starting with a consonant (<b>em</b>), before a vowel (<b>m’</b>), <b>after</b> a verb ending in a consonant (<b>-me</b>) and after a vowel (<b>’m</b>).",
+     "ko": "각 대명사는 위치에 따라 최대 네 가지 모양이 있어요: 자음으로 시작하는 동사 <b>앞</b>(<b>em</b>), 모음 앞(<b>m’</b>), 자음으로 끝나는 동사 <b>뒤</b>(<b>-me</b>), 모음으로 끝나는 동사 뒤(<b>’m</b>).",
+     "es": "Cada pronombre tiene hasta cuatro formas según su posición: <b>antes</b> de verbo que empieza por consonante (<b>em</b>), ante vocal (<b>m’</b>), <b>después</b> de verbo acabado en consonante (<b>-me</b>) y tras vocal (<b>’m</b>)."
+    },
+    {
+     "en": "Pronouns go <b>before</b> conjugated verbs (<b>em truca</b>) and <b>after</b> infinitives, gerunds and positive commands (<b>trucar-me, truca’m</b>).",
+     "ko": "대명사는 활용된 동사 <b>앞</b>에(<b>em truca</b>), 동사원형·현재분사·긍정 명령 <b>뒤</b>에 와요(<b>trucar-me, truca’m</b>).",
+     "es": "Los pronombres van <b>delante</b> del verbo conjugado (<b>em truca</b>) y <b>detrás</b> del infinitivo, el gerundio y el imperativo afirmativo (<b>trucar-me, truca’m</b>)."
+    },
+    {
+     "en": "Only the 3rd person distinguishes direct and indirect object: <b>la veig</b> (I see her) vs <b>li parlo</b> (I talk to her). <b>la</b> keeps its full form before an unstressed <b>i / u</b>: <b>la imagino</b>.",
+     "ko": "3인칭만 직접목적어와 간접목적어를 구별해요: <b>la veig</b>(그녀를 봐) vs <b>li parlo</b>(그녀에게 말해). <b>la</b>는 강세 없는 <b>i / u</b> 앞에서 줄이지 않아요: <b>la imagino</b>.",
+     "es": "Solo la 3.ª persona distingue objeto directo e indirecto: <b>la veig</b> (la veo) vs <b>li parlo</b> (le hablo). <b>la</b> no se apostrofa ante <b>i / u</b> átonas: <b>la imagino</b>."
+    },
+    {
+     "en": "<b>ho</b> is the neuter pronoun: it replaces <b>això, allò</b> or a whole idea (<b>No ho sé</b>). It is never a subject, so it does not cover every English 'it'.",
+     "ko": "<b>ho</b>는 중성 대명사예요. <b>això, allò</b>나 생각 전체를 대신해요(<b>No ho sé</b>). 절대 주어가 될 수 없어서 영어 'it'을 모두 대신하지는 않아요.",
+     "es": "<b>ho</b> es el pronombre neutro: sustituye a <b>això, allò</b> o a una idea entera (<b>No ho sé</b>). Nunca es sujeto, así que no equivale a todos los 'it' del inglés."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "before cons.",
+     "before vowel",
+     "after cons.",
+     "after vowel"
+    ],
+    "rows": [
+     [
+      "jo",
+      "em",
+      "m’",
+      "-me",
+      "’m"
+     ],
+     [
+      "tu",
+      "et",
+      "t’",
+      "-te",
+      "’t"
+     ],
+     [
+      "ell / vostè (m, DO)",
+      "el",
+      "l’",
+      "-lo",
+      "’l"
+     ],
+     [
+      "ella / vostè (f, DO)",
+      "la",
+      "l’ / la",
+      "-la",
+      "-la"
+     ],
+     [
+      "ell / ella / vostè (IO)",
+      "li",
+      "li",
+      "-li",
+      "-li"
+     ],
+     [
+      "neuter",
+      "ho",
+      "ho",
+      "-ho",
+      "-ho"
+     ],
+     [
+      "nosaltres",
+      "ens",
+      "ens",
+      "-nos",
+      "’ns"
+     ],
+     [
+      "vosaltres / vós",
+      "us",
+      "us",
+      "-vos",
+      "-us"
+     ],
+     [
+      "ells / vostès (DO)",
+      "els",
+      "els",
+      "-los",
+      "’ls"
+     ],
+     [
+      "elles / vostès (f, DO)",
+      "les",
+      "les",
+      "-les",
+      "-les"
+     ],
+     [
+      "ells / elles (IO)",
+      "els",
+      "els",
+      "-los",
+      "’ls"
+     ],
+     [
+      "reflexive (3rd)",
+      "es",
+      "s’",
+      "-se",
+      "’s"
+     ],
+     [
+      "partitive / adverbial",
+      "en",
+      "n’",
+      "-ne",
+      "’n"
+     ],
+     [
+      "adverbial",
+      "hi",
+      "hi",
+      "-hi",
+      "-hi"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "La meva mare em truca cada tarda.",
+     "en": "My mother calls me every afternoon.",
+     "ko": "엄마는 매일 오후 나에게 전화하셔.",
+     "es": "Mi madre me llama cada tarde."
+    },
+    {
+     "ca": "Truca’m quan arribis!",
+     "en": "Call me when you arrive!",
+     "ko": "도착하면 전화해!",
+     "es": "¡Llámame cuando llegues!"
+    },
+    {
+     "ca": "Aquest llibre? No el puc trobar.",
+     "en": "This book? I can’t find it.",
+     "ko": "이 책? 못 찾겠어.",
+     "es": "¿Este libro? No lo puedo encontrar."
+    },
+    {
+     "ca": "La Júlia? L’he vista al pati.",
+     "en": "Júlia? I saw her in the playground.",
+     "ko": "줄리아? 운동장에서 봤어.",
+     "es": "¿Júlia? La he visto en el patio."
+    },
+    {
+     "ca": "Al Marc? Li enviaré un missatge.",
+     "en": "To Marc? I’ll send him a message.",
+     "ko": "마르크에게? 메시지 보낼게.",
+     "es": "¿A Marc? Le enviaré un mensaje."
+    },
+    {
+     "ca": "No ho sé, pregunta-ho a la profe.",
+     "en": "I don’t know, ask the teacher.",
+     "ko": "몰라, 선생님한테 물어봐.",
+     "es": "No lo sé, pregúntaselo a la profe."
+    }
+   ]
+  },
+  {
+   "id": "7.3b",
+   "title": {
+    "ca": "Ho, en i hi",
+    "en": "Ho, en and hi",
+    "ko": "ho, en, hi",
+    "es": "Ho, en e hi"
+   },
+   "points": [
+    {
+     "en": "With <b>ser, semblar, parèixer</b>, a predicate that has already been mentioned is replaced by <b>ho</b>: <b>És simpàtic? — Sí que ho és.</b> English often just drops it ('Yes, he is'), but Catalan needs the pronoun.",
+     "ko": "<b>ser, semblar, parèixer</b>와 함께 이미 언급된 서술어는 <b>ho</b>로 바꿔요: <b>És simpàtic? — Sí que ho és.</b> 영어는 그냥 생략하지만('Yes, he is'), 카탈루냐어는 대명사가 꼭 필요해요.",
+     "es": "Con <b>ser, semblar, parèixer</b>, el atributo ya mencionado se sustituye por <b>ho</b>: <b>És simpàtic? — Sí que ho és.</b> El español usa 'lo' (sí lo es); el catalán necesita el pronombre."
+    },
+    {
+     "en": "With <b>estar</b>, use <b>hi</b> or <b>ho</b> (<b>Estàs cansat? — No, no hi estic / no ho estic</b>); if the predicate starts with a preposition, only <b>hi</b>.",
+     "ko": "<b>estar</b>와 함께는 <b>hi</b>나 <b>ho</b>를 써요(<b>Estàs cansat? — No, no hi estic / no ho estic</b>). 서술어가 전치사로 시작하면 <b>hi</b>만 써요.",
+     "es": "Con <b>estar</b> se usa <b>hi</b> u <b>ho</b> (<b>Estàs cansat? — No, no hi estic / no ho estic</b>); si el atributo empieza por preposición, solo <b>hi</b>."
+    },
+    {
+     "en": "<b>en</b> replaces phrases with <b>de</b> (<b>Parlem de futbol → En parlem</b>; <b>Vinc de l’escola → En vinc</b>), and a noun that disappears after a number or quantity word (<b>Tinc dos germans → En tinc dos</b>) or an indefinite noun (<b>Vols galetes? → En vols?</b>).",
+     "ko": "<b>en</b>은 <b>de</b>로 시작하는 구를 대신해요(<b>Parlem de futbol → En parlem</b>; <b>Vinc de l’escola → En vinc</b>). 또 숫자나 수량어 뒤에서 사라진 명사(<b>Tinc dos germans → En tinc dos</b>)나 부정(不定) 명사(<b>Vols galetes? → En vols?</b>)를 대신해요.",
+     "es": "<b>en</b> sustituye sintagmas con <b>de</b> (<b>Parlem de futbol → En parlem</b>; <b>Vinc de l’escola → En vinc</b>) y un nombre que desaparece tras un número o cuantificador (<b>Tinc dos germans → En tinc dos</b>) o un nombre indeterminado (<b>Vols galetes? → En vols?</b>)."
+    },
+    {
+     "en": "<b>hi</b> replaces complements with any other preposition, especially places with <b>a, en, per, amb</b>: <b>Vas a la piscina? — Sí, hi vaig.</b>",
+     "ko": "<b>hi</b>는 다른 전치사가 붙은 보어, 특히 <b>a, en, per, amb</b>가 붙은 장소를 대신해요: <b>Vas a la piscina? — Sí, hi vaig.</b>",
+     "es": "<b>hi</b> sustituye complementos con cualquier otra preposición, sobre todo lugares con <b>a, en, per, amb</b>: <b>Vas a la piscina? — Sí, hi vaig.</b>"
+    },
+    {
+     "en": "Fixed expressions: <b>haver-hi</b> ('there is/are') always carries <b>hi</b> (<b>hi ha</b>); <b>anar-se’n</b> = to leave (<b>me’n vaig</b>); <b>sortir-se’n</b> = to manage; <b>adonar-se’n</b> = to realise; <b>no hi veig</b> = I can’t see.",
+     "ko": "고정 표현: <b>haver-hi</b>('~이 있다')는 항상 <b>hi</b>를 가져요(<b>hi ha</b>). <b>anar-se’n</b> = 떠나다(<b>me’n vaig</b>), <b>sortir-se’n</b> = 해내다, <b>adonar-se’n</b> = 깨닫다, <b>no hi veig</b> = 안 보여요.",
+     "es": "Expresiones fijas: <b>haver-hi</b> ('hay') siempre lleva <b>hi</b> (<b>hi ha</b>); <b>anar-se’n</b> = irse (<b>me’n vaig</b>); <b>sortir-se’n</b> = salir adelante; <b>adonar-se’n</b> = darse cuenta; <b>no hi veig</b> = no veo."
+    },
+    {
+     "en": "For a non-person indirect object, use <b>hi</b> instead of <b>li</b>: <b>Truco a l’escola → Hi truco</b>, but <b>Truco a la directora → Li truco</b>.",
+     "ko": "사람이 아닌 간접목적어에는 <b>li</b> 대신 <b>hi</b>를 써요: <b>Truco a l’escola → Hi truco</b>, 하지만 <b>Truco a la directora → Li truco</b>.",
+     "es": "Para un objeto indirecto que no es persona se usa <b>hi</b> en lugar de <b>li</b>: <b>Truco a l’escola → Hi truco</b>, pero <b>Truco a la directora → Li truco</b>."
+    }
+   ],
+   "examples": [
+    {
+     "ca": "El teu germà és alt? — Sí, ho és molt.",
+     "en": "Is your brother tall? — Yes, very.",
+     "ko": "네 오빠 키 커? — 응, 아주 커.",
+     "es": "¿Tu hermano es alto? — Sí, lo es mucho."
+    },
+    {
+     "ca": "Quants llibres has llegit? — N’he llegit cinc.",
+     "en": "How many books have you read? — I’ve read five.",
+     "ko": "책 몇 권 읽었어? — 다섯 권 읽었어.",
+     "es": "¿Cuántos libros has leído? — He leído cinco."
+    },
+    {
+     "ca": "Parleu de la sortida? — Sí, en parlem ara.",
+     "en": "Are you talking about the school trip? — Yes, we’re talking about it now.",
+     "ko": "견학 얘기하는 중이야? — 응, 지금 그 얘기 해.",
+     "es": "¿Habláis de la excursión? — Sí, hablamos de ella ahora."
+    },
+    {
+     "ca": "Vas sovint a Barcelona? — Hi vaig cada mes.",
+     "en": "Do you often go to Barcelona? — I go there every month.",
+     "ko": "바르셀로나에 자주 가? — 매달 가.",
+     "es": "¿Vas a menudo a Barcelona? — Voy cada mes."
+    },
+    {
+     "ca": "A la nevera no hi ha llet.",
+     "en": "There’s no milk in the fridge.",
+     "ko": "냉장고에 우유가 없어.",
+     "es": "En la nevera no hay leche."
+    },
+    {
+     "ca": "És tard: me’n vaig a casa.",
+     "en": "It’s late: I’m going home.",
+     "ko": "늦었어. 나 집에 갈게.",
+     "es": "Es tarde: me voy a casa."
+    }
+   ]
+  },
+  {
+   "id": "7.3c",
+   "title": {
+    "ca": "Combinacions de pronoms i posició",
+    "en": "Pronoun combinations and position",
+    "ko": "대명사 결합과 위치",
+    "es": "Combinaciones de pronombres y posición"
+   },
+   "points": [
+    {
+     "en": "With a modal or periphrasis (<b>poder, voler, haver de, anar a</b>…) + infinitive, the pronoun can go before the whole group or after the infinitive: <b>Ho vull fer = Vull fer-ho</b>. Never in the middle: <i>*Vull ho fer</i>.",
+     "ko": "조동사나 우언 구문(<b>poder, voler, haver de, anar a</b>…) + 동사원형에서 대명사는 전체 앞이나 동사원형 뒤에 올 수 있어요: <b>Ho vull fer = Vull fer-ho</b>. 중간에는 안 돼요: <i>*Vull ho fer</i>.",
+     "es": "Con un modal o perífrasis (<b>poder, voler, haver de, anar a</b>…) + infinitivo, el pronombre puede ir delante de todo o detrás del infinitivo: <b>Ho vull fer = Vull fer-ho</b>. Nunca en medio: <i>*Vull ho fer</i>."
+    },
+    {
+     "en": "When two pronouns combine, the basic order is: <b>reflexive – indirect – direct – en – hi</b>: <b>me la dona</b> (she gives it to me), <b>te n’hi poso</b> (I put some in for you).",
+     "ko": "대명사 두 개가 결합하면 기본 순서는 <b>재귀 – 간접 – 직접 – en – hi</b>예요: <b>me la dona</b>(그녀가 그걸 나에게 줘), <b>te n’hi poso</b>(너를 위해 거기에 좀 넣어 줄게).",
+     "es": "Al combinar dos pronombres, el orden básico es: <b>reflexivo – indirecto – directo – en – hi</b>: <b>me la dona</b> (me la da), <b>te n’hi poso</b> (te pongo un poco)."
+    },
+    {
+     "en": "In combinations, <b>em, et, es</b> become <b>me, te, se</b>: <b>me’l, te’n, se’n</b>. The apostrophe goes as far right as possible: <b>se’n va</b>, not <i>*s’en va</i>; before a vowel: <b>me n’he anat</b>.",
+     "ko": "결합할 때 <b>em, et, es</b>는 <b>me, te, se</b>가 돼요: <b>me’l, te’n, se’n</b>. 아포스트로피는 가능한 한 오른쪽에 둬요: <b>se’n va</b> (O), <i>*s’en va</i> (X). 모음 앞에서는 <b>me n’he anat</b>.",
+     "es": "En las combinaciones, <b>em, et, es</b> pasan a <b>me, te, se</b>: <b>me’l, te’n, se’n</b>. El apóstrofo va lo más a la derecha posible: <b>se’n va</b>, no <i>*s’en va</i>; ante vocal: <b>me n’he anat</b>."
+    },
+    {
+     "en": "<b>li</b> + <b>el / la / els / les</b> → usually <b>l’hi, la hi, els hi, les hi</b> (direct object first, then <b>hi</b>): <b>El regal? L’hi he donat</b>. <b>li</b> + <b>ho</b> stays <b>li ho</b>; <b>ho</b> + <b>hi</b> becomes <b>l’hi</b>.",
+     "ko": "<b>li</b> + <b>el / la / els / les</b> → 보통 <b>l’hi, la hi, els hi, les hi</b>가 돼요(직접목적어 먼저, 그다음 <b>hi</b>): <b>El regal? L’hi he donat</b>. <b>li</b> + <b>ho</b>는 <b>li ho</b> 그대로이고, <b>ho</b> + <b>hi</b>는 <b>l’hi</b>가 돼요.",
+     "es": "<b>li</b> + <b>el / la / els / les</b> → normalmente <b>l’hi, la hi, els hi, les hi</b> (primero el directo, luego <b>hi</b>): <b>El regal? L’hi he donat</b>. <b>li</b> + <b>ho</b> queda <b>li ho</b>; <b>ho</b> + <b>hi</b> da <b>l’hi</b>."
+    },
+    {
+     "en": "After the verb, combinations are joined with hyphens and apostrophes: <b>dona-m’ho</b>, <b>porta-me’l</b>, <b>menjar-se-la</b>, <b>anar-se’n</b>.",
+     "ko": "동사 뒤에서는 하이픈과 아포스트로피로 결합해요: <b>dona-m’ho</b>, <b>porta-me’l</b>, <b>menjar-se-la</b>, <b>anar-se’n</b>.",
+     "es": "Detrás del verbo, las combinaciones se unen con guiones y apóstrofos: <b>dona-m’ho</b>, <b>porta-me’l</b>, <b>menjar-se-la</b>, <b>anar-se’n</b>."
+    },
+    {
+     "en": "Dative pronouns are also used to show who is affected or whose thing it is: <b>M’han robat la bici</b> (they stole my bike). With <b>agradar, interessar, fer mal</b> the pronoun is repeated even with the noun: <b>A la Laia li agrada el teatre.</b>",
+     "ko": "여격 대명사는 영향을 받는 사람이나 소유자를 나타낼 때도 써요: <b>M’han robat la bici</b>(내 자전거를 도둑맞았어). <b>agradar, interessar, fer mal</b>과 함께는 명사가 있어도 대명사를 반복해요: <b>A la Laia li agrada el teatre.</b>",
+     "es": "Los pronombres de dativo también indican a quién afecta algo o de quién es: <b>M’han robat la bici</b> (me han robado la bici). Con <b>agradar, interessar, fer mal</b> el pronombre se repite aunque esté el nombre: <b>A la Laia li agrada el teatre.</b>"
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "+ el",
+     "+ la",
+     "+ ho",
+     "+ en",
+     "+ hi"
+    ],
+    "rows": [
+     [
+      "em",
+      "me’l",
+      "me la",
+      "m’ho",
+      "me’n",
+      "m’hi"
+     ],
+     [
+      "et",
+      "te’l",
+      "te la",
+      "t’ho",
+      "te’n",
+      "t’hi"
+     ],
+     [
+      "es",
+      "se’l",
+      "se la",
+      "s’ho",
+      "se’n",
+      "s’hi"
+     ],
+     [
+      "li",
+      "l’hi (li’l)",
+      "la hi (li la)",
+      "li ho",
+      "li’n",
+      "li hi"
+     ],
+     [
+      "ens",
+      "ens el",
+      "ens la",
+      "ens ho",
+      "ens en",
+      "ens hi"
+     ],
+     [
+      "us",
+      "us el",
+      "us la",
+      "us ho",
+      "us en",
+      "us hi"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "examples": [
+    {
+     "ca": "La samarreta? Me la deixes?",
+     "en": "The T-shirt? Will you lend it to me?",
+     "ko": "그 티셔츠? 나한테 빌려줄래?",
+     "es": "¿La camiseta? ¿Me la dejas?"
+    },
+    {
+     "ca": "Aquest secret, no t’ho puc dir.",
+     "en": "This secret, I can’t tell you.",
+     "ko": "이 비밀은 너한테 말할 수 없어.",
+     "es": "Este secreto no te lo puedo decir."
+    },
+    {
+     "ca": "El mòbil? L’hi he tornat al meu germà.",
+     "en": "The phone? I gave it back to my brother.",
+     "ko": "휴대폰? 동생한테 돌려줬어.",
+     "es": "¿El móvil? Se lo he devuelto a mi hermano."
+    },
+    {
+     "ca": "Si tens el llibre, porta-me’l demà.",
+     "en": "If you have the book, bring it to me tomorrow.",
+     "ko": "책 있으면 내일 가져다줘.",
+     "es": "Si tienes el libro, tráemelo mañana."
+    },
+    {
+     "ca": "La pizza? Ens la vam menjar sencera.",
+     "en": "The pizza? We ate the whole thing.",
+     "ko": "피자? 우리가 한 판 다 먹었어.",
+     "es": "¿La pizza? Nos la comimos entera."
+    },
+    {
+     "ca": "Ens han robat les bicis.",
+     "en": "Our bikes have been stolen.",
+     "ko": "우리 자전거를 도둑맞았어.",
+     "es": "Nos han robado las bicis."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "ca": "vaig + infinitiu",
+   "en": "periphrastic past (I did…)",
+   "ko": "우언적 과거 (나는 ~했다)",
+   "es": "pasado perifrástico (hice…)"
+  },
+  {
+   "ca": "haver-hi",
+   "en": "there is / there are",
+   "ko": "~이 있다",
+   "es": "haber (hay)"
+  },
+  {
+   "ca": "anar-se’n",
+   "en": "to leave, go away",
+   "ko": "떠나다, 가 버리다",
+   "es": "irse"
+  },
+  {
+   "ca": "sortir-se’n",
+   "en": "to manage, get through",
+   "ko": "해내다, 극복하다",
+   "es": "salir adelante"
+  },
+  {
+   "ca": "adonar-se’n",
+   "en": "to realise",
+   "ko": "깨닫다",
+   "es": "darse cuenta"
+  },
+  {
+   "ca": "ben",
+   "en": "very, really (before adj./adv.)",
+   "ko": "아주, 정말 (형용사·부사 앞)",
+   "es": "muy, bien (ante adj./adv.)"
+  },
+  {
+   "ca": "malament",
+   "en": "badly",
+   "ko": "나쁘게, 못",
+   "es": "mal"
+  },
+  {
+   "ca": "gaire",
+   "en": "much, very (negatives/questions)",
+   "ko": "별로, 많이 (부정·의문)",
+   "es": "mucho (en negativas/preguntas)"
+  },
+  {
+   "ca": "gens",
+   "en": "not at all, any",
+   "ko": "전혀",
+   "es": "nada en absoluto"
+  },
+  {
+   "ca": "enlloc",
+   "en": "nowhere, anywhere",
+   "ko": "아무 데도",
+   "es": "en ningún sitio"
+  },
+  {
+   "ca": "sovint",
+   "en": "often",
+   "ko": "자주",
+   "es": "a menudo"
+  },
+  {
+   "ca": "enguany",
+   "en": "this year",
+   "ko": "올해",
+   "es": "este año"
+  },
+  {
+   "ca": "potser",
+   "en": "maybe, perhaps",
+   "ko": "아마",
+   "es": "quizás"
+  },
+  {
+   "ca": "perquè + subjuntiu",
+   "en": "so that",
+   "ko": "~하도록",
+   "es": "para que"
+  },
+  {
+   "ca": "encara que",
+   "en": "although, even if",
+   "ko": "비록 ~일지라도",
+   "es": "aunque"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "sec": "7.1a",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Nosaltres ___ anglès i català a l’institut.",
+   "options": [
+    "parlen",
+    "parleu",
+    "parlem",
+    "parlo"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "The nosaltres ending of -ar verbs in the present is -em: parlem.",
+    "ko": "-ar 동사 현재 nosaltres 어미는 -em이에요: parlem.",
+    "es": "La terminación de nosaltres en presente de los verbos en -ar es -em: parlem."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1a",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "La meva germana ___ (llegir) un llibre cada setmana.",
+   "answer": [
+    "llegeix"
+   ],
+   "explain": {
+    "en": "Llegir is an inceptive -ir verb, so the 3rd person singular adds -eix-: llegeix.",
+    "ko": "llegir는 기동 -ir 동사라서 3인칭 단수에 -eix-가 들어가요: llegeix.",
+    "es": "Llegir es un verbo incoativo en -ir, así que la 3.ª persona del singular añade -eix-: llegeix."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1a",
+   "q": {
+    "en": "Which form is correct for 'you (tu) start'?",
+    "ko": "'너는 시작한다(tu)'의 올바른 형태는?",
+    "es": "¿Cuál es la forma correcta de 'tú empiezas'?"
+   },
+   "ca": "Tu ___ l’entrenament a les sis.",
+   "options": [
+    "començes",
+    "comences",
+    "comenses",
+    "comenzes"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Before e, ç changes to c to keep the same 's' sound: comences.",
+    "ko": "e 앞에서는 같은 's' 소리를 유지하려고 ç가 c로 바뀌어요: comences.",
+    "es": "Ante e, la ç pasa a c para mantener el mismo sonido: comences."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "7.1a",
+   "q": {
+    "en": "In nosaltres and vosaltres, inceptive -ir verbs also add -eix- (e.g. *serveixem).",
+    "ko": "기동 -ir 동사는 nosaltres와 vosaltres에서도 -eix-를 넣는다(예: *serveixem).",
+    "es": "Los verbos incoativos en -ir también añaden -eix- en nosaltres y vosaltres (p. ej. *serveixem)."
+   },
+   "answer": false,
+   "explain": {
+    "en": "False: those persons have no -eix-: servim, serviu.",
+    "ko": "거짓: 그 인칭에는 -eix-가 없어요: servim, serviu.",
+    "es": "Falso: esas personas no llevan -eix-: servim, serviu."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1b",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "Ahir nosaltres ___ (jugar) a bàsquet al pati.",
+   "answer": [
+    "vam jugar",
+    "vàrem jugar",
+    "jugàrem"
+   ],
+   "explain": {
+    "en": "A finished action yesterday takes the periphrastic past: vam + infinitive (jugàrem is the simple equivalent).",
+    "ko": "어제 끝난 행동은 우언적 과거를 써요: vam + 동사원형 (jugàrem은 단순 과거 형태예요).",
+    "es": "Una acción terminada ayer lleva el pasado perifrástico: vam + infinitivo (jugàrem es la forma simple equivalente)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1b",
+   "q": {
+    "en": "What does this sentence mean?",
+    "ko": "이 문장의 뜻은?",
+    "es": "¿Qué significa esta frase?"
+   },
+   "ca": "Vaig anar al cinema amb la Carla.",
+   "options": [
+    "I’m going to go to the cinema with Carla.",
+    "I went to the cinema with Carla.",
+    "I go to the cinema with Carla.",
+    "I used to go to the cinema with Carla."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "vaig + infinitive is the periphrastic PAST, not a future like Spanish 'voy a'.",
+    "ko": "vaig + 동사원형은 우언적 과거예요. 스페인어 'voy a' 같은 미래가 아니에요.",
+    "es": "vaig + infinitivo es PASADO perifrástico, no futuro como 'voy a' en español."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1b",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "Quan era petit, ___ (dormir, jo) amb un ós de peluix.",
+   "answer": [
+    "dormia"
+   ],
+   "explain": {
+    "en": "A past habit ('used to') takes the imperfect; -ir verbs use -ia: dormia.",
+    "ko": "과거 습관('~하곤 했다')은 불완료 과거예요. -ir 동사는 -ia를 써요: dormia.",
+    "es": "Un hábito pasado lleva imperfecto; los verbos en -ir usan -ia: dormia."
+   }
+  },
+  {
+   "type": "match",
+   "sec": "7.1b",
+   "q": {
+    "en": "Match each auxiliary with its subject.",
+    "ko": "조동사와 주어를 연결하세요.",
+    "es": "Relaciona cada auxiliar con su sujeto."
+   },
+   "pairs": [
+    {
+     "l": "vaig",
+     "r": {
+      "en": "I (jo)",
+      "ko": "나 (jo)",
+      "es": "yo (jo)"
+     }
+    },
+    {
+     "l": "vas",
+     "r": {
+      "en": "you (tu)",
+      "ko": "너 (tu)",
+      "es": "tú (tu)"
+     }
+    },
+    {
+     "l": "va",
+     "r": {
+      "en": "he / she (ell / ella)",
+      "ko": "그/그녀 (ell / ella)",
+      "es": "él / ella (ell / ella)"
+     }
+    },
+    {
+     "l": "vam",
+     "r": {
+      "en": "we (nosaltres)",
+      "ko": "우리 (nosaltres)",
+      "es": "nosotros (nosaltres)"
+     }
+    },
+    {
+     "l": "vau",
+     "r": {
+      "en": "you all (vosaltres)",
+      "ko": "너희 (vosaltres)",
+      "es": "vosotros (vosaltres)"
+     }
+    },
+    {
+     "l": "van",
+     "r": {
+      "en": "they (ells / elles)",
+      "ko": "그들 (ells / elles)",
+      "es": "ellos / ellas (ells / elles)"
+     }
+    }
+   ]
+  },
+  {
+   "type": "order",
+   "sec": "7.1b",
+   "q": {
+    "en": "Put the words in order.",
+    "ko": "단어를 순서대로 배열하세요.",
+    "es": "Ordena las palabras."
+   },
+   "words": [
+    "dissabte",
+    "vam",
+    "sopar",
+    "a",
+    "Sitges"
+   ],
+   "answer": "Dissabte vam sopar a Sitges",
+   "explain": {
+    "en": "The auxiliary vam comes directly before the infinitive sopar; the time expression goes first.",
+    "ko": "조동사 vam은 동사원형 sopar 바로 앞에 오고, 시간 표현은 맨 앞에 와요.",
+    "es": "El auxiliar vam va justo delante del infinitivo sopar; la expresión de tiempo va primero."
+   },
+   "alt": [
+    "Vam sopar a Sitges dissabte"
+   ]
+  },
+  {
+   "type": "mc",
+   "sec": "7.1c",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "L’any que ve jo ___ a estudiar a Tarragona.",
+   "options": [
+    "aniré",
+    "vaig",
+    "anaré",
+    "aniria"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Anar has the irregular future stem anir-: aniré.",
+    "ko": "anar의 미래 어간은 불규칙 anir-예요: aniré.",
+    "es": "Anar tiene la raíz de futuro irregular anir-: aniré."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1c",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "Si us plau, ___ (voler, jo) un suc de taronja.",
+   "answer": [
+    "voldria"
+   ],
+   "explain": {
+    "en": "A polite request uses the conditional; voler has the stem voldr-: voldria.",
+    "ko": "공손한 요청은 조건법을 써요. voler의 어간은 voldr-예요: voldria.",
+    "es": "Una petición cortés usa el condicional; voler tiene la raíz voldr-: voldria."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1c",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Quan vam arribar a l’estació, el tren ja ___ marxat.",
+   "options": [
+    "ha",
+    "haurà",
+    "hagi",
+    "havia"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "An action completed before another past action takes the pluperfect: havia + participle.",
+    "ko": "다른 과거 행동보다 먼저 끝난 행동은 과거완료예요: havia + 과거분사.",
+    "es": "Una acción terminada antes de otra pasada lleva pluscuamperfecto: havia + participio."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1d",
+   "q": {
+    "en": "It’s 8 p.m. Choose the best form.",
+    "ko": "지금은 저녁 8시예요. 가장 알맞은 것을 고르세요.",
+    "es": "Son las 8 de la tarde. Elige la mejor forma."
+   },
+   "ca": "Aquest matí ___ un examen de mates.",
+   "options": [
+    "vaig fer",
+    "feia",
+    "he fet",
+    "faré"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Anything that happened today takes the present perfect, even if it was this morning.",
+    "ko": "오늘 일어난 일은 아침이었어도 현재완료를 써요.",
+    "es": "Lo que ha pasado hoy va en pretérito perfecto, aunque fuera esta mañana."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1d",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Jo ___ la tele quan va sonar el telèfon.",
+   "options": [
+    "mirava",
+    "vaig mirar",
+    "he mirat",
+    "miraré"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "The background action in progress takes the imperfect; the interrupting action takes the periphrastic past.",
+    "ko": "진행 중이던 배경 행동은 불완료 과거, 끼어든 행동은 우언적 과거를 써요.",
+    "es": "La acción de fondo en curso va en imperfecto; la que interrumpe, en pasado perifrástico."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1d",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "L’estiu passat ___ (visitar, nosaltres) València.",
+   "answer": [
+    "vam visitar",
+    "vàrem visitar",
+    "visitàrem"
+   ],
+   "explain": {
+    "en": "'Last summer' is a finished period, so use the periphrastic past (or the simple preterite).",
+    "ko": "'지난여름'은 끝난 기간이라 우언적 과거(또는 단순 과거)를 써요.",
+    "es": "'El verano pasado' es un periodo terminado: pasado perifrástico (o pretérito simple)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1d",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Si demà ___ sol, anirem a la platja.",
+   "options": [
+    "farà",
+    "fa",
+    "faci",
+    "faria"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "After si ('if') Catalan uses the present indicative, never the future or the present subjunctive.",
+    "ko": "si('만약') 뒤에는 직설법 현재를 써요. 미래나 접속법 현재는 쓰지 않아요.",
+    "es": "Tras si se usa presente de indicativo, nunca futuro ni presente de subjuntivo."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1e",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Els meus pares volen que jo ___ més.",
+   "options": [
+    "estudio",
+    "estudiar",
+    "estudiaré",
+    "estudiï"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Want + que + a different subject requires the present subjunctive: estudiï (with diaeresis).",
+    "ko": "원하다 + que + 다른 주어는 접속법 현재가 필요해요: estudiï(분음 부호 주의).",
+    "es": "Querer + que + otro sujeto exige presente de subjuntivo: estudiï (con diéresis)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1e",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "No crec que aquesta pel·lícula ___ divertida.",
+   "options": [
+    "sigui",
+    "és",
+    "serà",
+    "era"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "A negated verb of thinking usually takes the subjunctive: sigui.",
+    "ko": "부정된 생각 동사 뒤에는 보통 접속법을 써요: sigui.",
+    "es": "Un verbo de pensamiento negado suele llevar subjuntivo: sigui."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1e",
+   "q": {
+    "en": "Choose the form meaning 'so that you understand it'.",
+    "ko": "'네가 이해하도록'이라는 뜻의 형태를 고르세요.",
+    "es": "Elige la forma que significa 'para que lo entiendas'."
+   },
+   "ca": "T’ho explico perquè ho ___.",
+   "options": [
+    "entens",
+    "entendràs",
+    "entenguis",
+    "entenies"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "perquè + subjunctive expresses purpose ('so that'); with the indicative it would mean 'because'.",
+    "ko": "perquè + 접속법은 목적('~하도록')이에요. 직설법이면 '왜냐하면'이 돼요.",
+    "es": "perquè + subjuntivo expresa finalidad ('para que'); con indicativo significaría 'porque'."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1e",
+   "q": {
+    "en": "Write the correct verb form.",
+    "ko": "알맞은 동사 형태를 쓰세요.",
+    "es": "Escribe la forma verbal correcta."
+   },
+   "ca": "Si ___ (ser, jo) tu, no hi aniria.",
+   "answer": [
+    "fos"
+   ],
+   "explain": {
+    "en": "An unreal condition uses si + imperfect subjunctive; ser → fos.",
+    "ko": "비현실 조건은 si + 접속법 불완료 과거를 써요. ser → fos.",
+    "es": "Una condición irreal usa si + imperfecto de subjuntivo; ser → fos."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "7.1e",
+   "q": {
+    "en": "In 'Quan arribi l’estiu, anirem a Mallorca', the subjunctive arribi refers to the future.",
+    "ko": "'Quan arribi l’estiu, anirem a Mallorca'에서 접속법 arribi는 미래를 가리킨다.",
+    "es": "En 'Quan arribi l’estiu, anirem a Mallorca', el subjuntivo arribi se refiere al futuro."
+   },
+   "answer": true,
+   "explain": {
+    "en": "True: quan + present subjunctive is the usual way to talk about a future moment.",
+    "ko": "참: quan + 접속법 현재는 미래의 시점을 말하는 일반적인 방법이에요.",
+    "es": "Verdadero: quan + presente de subjuntivo es la forma habitual de hablar de un momento futuro."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.1f",
+   "q": {
+    "en": "Tell your friend (tu) to open the window.",
+    "ko": "친구(tu)에게 창문을 열라고 하세요.",
+    "es": "Dile a tu amigo (tu) que abra la ventana."
+   },
+   "ca": "___ la finestra, si us plau!",
+   "options": [
+    "Obri",
+    "Obre",
+    "Obriu",
+    "Obrin"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "The tu imperative uses the 3rd-person present form: obre. Obri is for vostè.",
+    "ko": "tu 명령은 3인칭 현재형을 써요: obre. Obri는 vostè용이에요.",
+    "es": "El imperativo de tu usa la 3.ª persona del presente: obre. Obri es para vostè."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1f",
+   "q": {
+    "en": "Ask a teacher (vostè) to come in.",
+    "ko": "선생님(vostè)께 들어오시라고 하세요.",
+    "es": "Pide a un profesor (vostè) que entre."
+   },
+   "ca": "Senyor Puig, ___ (entrar), si us plau.",
+   "answer": [
+    "entri"
+   ],
+   "explain": {
+    "en": "vostè commands borrow the present subjunctive: entri.",
+    "ko": "vostè 명령은 접속법 현재를 빌려 써요: entri.",
+    "es": "El imperativo de vostè toma el presente de subjuntivo: entri."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.1f",
+   "q": {
+    "en": "Write the participle with the right agreement.",
+    "ko": "올바르게 일치시킨 과거분사를 쓰세요.",
+    "es": "Escribe el participio con la concordancia correcta."
+   },
+   "ca": "La porta? L’he ___ (obrir) jo.",
+   "answer": [
+    "oberta"
+   ],
+   "explain": {
+    "en": "L’ stands for la porta (feminine), so the participle agrees: obert → oberta.",
+    "ko": "L’는 la porta(여성)를 가리키므로 과거분사가 일치해요: obert → oberta.",
+    "es": "L’ representa la porta (femenino), así que el participio concuerda: obert → oberta."
+   }
+  },
+  {
+   "type": "order",
+   "sec": "7.1f",
+   "q": {
+    "en": "Put the words in order.",
+    "ko": "단어를 순서대로 배열하세요.",
+    "es": "Ordena las palabras."
+   },
+   "words": [
+    "el",
+    "llibre,",
+    "porteu-lo",
+    "demà"
+   ],
+   "answer": "El llibre, porteu-lo demà",
+   "explain": {
+    "en": "With a positive command the pronoun is attached after the verb with a hyphen: porteu-lo.",
+    "ko": "긍정 명령에서는 대명사를 동사 뒤에 하이픈으로 붙여요: porteu-lo.",
+    "es": "Con el imperativo afirmativo el pronombre va detrás con guion: porteu-lo."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.2a",
+   "q": {
+    "en": "Turn the adjective into an adverb.",
+    "ko": "형용사를 부사로 바꾸세요.",
+    "es": "Convierte el adjetivo en adverbio."
+   },
+   "ca": "Aquest exercici l’he fet ___ (fàcil).",
+   "answer": [
+    "fàcilment"
+   ],
+   "explain": {
+    "en": "Add -ment to the feminine form (fàcil is the same in both genders) and keep the accent: fàcilment.",
+    "ko": "여성형(fàcil은 남녀 동일)에 -ment를 붙이고 강세 부호는 유지해요: fàcilment.",
+    "es": "Se añade -ment a la forma femenina (fàcil es igual en ambos géneros) y se mantiene la tilde: fàcilment."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.2a",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Després del partit estic ___ cansat.",
+   "options": [
+    "bé",
+    "bo",
+    "ben",
+    "bon"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Before an adjective, 'very / really' is ben; bé is used on its own ('well').",
+    "ko": "형용사 앞에서 '아주/정말'은 ben이에요. bé는 단독으로 '잘'이라는 뜻이에요.",
+    "es": "Delante de un adjetivo, 'muy / bien' es ben; bé se usa solo ('bien')."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.2a",
+   "q": {
+    "en": "Which sentence is correct?",
+    "ko": "올바른 문장은?",
+    "es": "¿Qué frase es correcta?"
+   },
+   "options": [
+    "Hem ràpidament acabat la feina.",
+    "Hem acabat ràpidament la feina.",
+    "Ràpidament hem la feina acabat."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Adverbs don’t go between haver and the participle; put them after the verb.",
+    "ko": "부사는 haver와 과거분사 사이에 오지 않아요. 동사 뒤에 둬요.",
+    "es": "El adverbio no va entre haver y el participio; se coloca tras el verbo."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.2b",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "La teva casa és ___ gran!",
+   "options": [
+    "tant",
+    "tan",
+    "molta",
+    "gaire"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Before an adjective use tan; tant stands alone with a verb.",
+    "ko": "형용사 앞에는 tan을 써요. tant은 동사와 함께 단독으로 써요.",
+    "es": "Delante de adjetivo se usa tan; tant va solo con un verbo."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.2b",
+   "q": {
+    "en": "Complete the answer meaning 'a little'.",
+    "ko": "'조금'이라는 뜻이 되게 답을 완성하세요.",
+    "es": "Completa la respuesta con el sentido de 'un poco'."
+   },
+   "ca": "Saps patinar? — Una ___.",
+   "answer": [
+    "mica"
+   ],
+   "explain": {
+    "en": "una mica = a little (like un poc); poc on its own would mean 'not much'.",
+    "ko": "una mica = 조금(un poc과 같아요). poc만 쓰면 '별로'라는 뜻이에요.",
+    "es": "una mica = un poco (como un poc); poc solo significaría 'no mucho'."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "7.2b",
+   "q": {
+    "en": "'Aquest estiu no aniré enlloc' means 'This summer I won’t go anywhere'.",
+    "ko": "'Aquest estiu no aniré enlloc'은 '이번 여름에는 아무 데도 안 갈 거야'라는 뜻이다.",
+    "es": "'Aquest estiu no aniré enlloc' significa 'Este verano no iré a ningún sitio'."
+   },
+   "answer": true,
+   "explain": {
+    "en": "True: enlloc means nowhere / anywhere in negative sentences.",
+    "ko": "참: enlloc은 부정문에서 '아무 데도'라는 뜻이에요.",
+    "es": "Verdadero: enlloc significa 'en ningún sitio' en frases negativas."
+   }
+  },
+  {
+   "type": "match",
+   "sec": "7.2b",
+   "q": {
+    "en": "Match the time adverbs with their meanings.",
+    "ko": "시간 부사와 뜻을 연결하세요.",
+    "es": "Relaciona los adverbios de tiempo con su significado."
+   },
+   "pairs": [
+    {
+     "l": "ahir",
+     "r": {
+      "en": "yesterday",
+      "ko": "어제",
+      "es": "ayer"
+     }
+    },
+    {
+     "l": "demà passat",
+     "r": {
+      "en": "the day after tomorrow",
+      "ko": "모레",
+      "es": "pasado mañana"
+     }
+    },
+    {
+     "l": "sovint",
+     "r": {
+      "en": "often",
+      "ko": "자주",
+      "es": "a menudo"
+     }
+    },
+    {
+     "l": "enguany",
+     "r": {
+      "en": "this year",
+      "ko": "올해",
+      "es": "este año"
+     }
+    },
+    {
+     "l": "mai",
+     "r": {
+      "en": "never / ever",
+      "ko": "결코 / 한 번이라도",
+      "es": "nunca / alguna vez"
+     }
+    },
+    {
+     "l": "aviat",
+     "r": {
+      "en": "soon",
+      "ko": "곧",
+      "es": "pronto"
+     }
+    }
+   ]
+  },
+  {
+   "type": "mc",
+   "sec": "7.3a",
+   "q": {
+    "en": "Choose the correct form of 'Call me!' (tu).",
+    "ko": "'나에게 전화해!'(tu)의 올바른 형태를 고르세요.",
+    "es": "Elige la forma correcta de '¡Llámame!' (tu)."
+   },
+   "options": [
+    "Truca-me!",
+    "Em truca!",
+    "Truca-em!",
+    "Truca’m!"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "After a verb ending in a vowel, em becomes ’m: truca’m.",
+    "ko": "모음으로 끝나는 동사 뒤에서 em은 ’m이 돼요: truca’m.",
+    "es": "Tras un verbo acabado en vocal, em pasa a ’m: truca’m."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.3a",
+   "q": {
+    "en": "Write the correct pronoun.",
+    "ko": "알맞은 대명사를 쓰세요.",
+    "es": "Escribe el pronombre correcto."
+   },
+   "ca": "Aquest llibre? Vull llegir-___ aquest cap de setmana.",
+   "answer": [
+    "lo"
+   ],
+   "explain": {
+    "en": "The masculine direct object after an infinitive ending in a consonant is -lo.",
+    "ko": "자음으로 끝나는 동사원형 뒤의 남성 직접목적어는 -lo예요.",
+    "es": "El objeto directo masculino tras un infinitivo acabado en consonante es -lo."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3a",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "La Núria? No ___ conec gaire.",
+   "options": [
+    "li",
+    "la",
+    "l’",
+    "ho"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Núria is a direct object (feminine); before a consonant it’s la.",
+    "ko": "Núria는 직접목적어(여성)이고, 자음 앞이므로 la예요.",
+    "es": "Núria es objeto directo (femenino); ante consonante es la."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.3a",
+   "q": {
+    "en": "Write the correct pronoun.",
+    "ko": "알맞은 대명사를 쓰세요.",
+    "es": "Escribe el pronombre correcto."
+   },
+   "ca": "Al meu cosí? ___ he enviat un missatge.",
+   "answer": [
+    "li"
+   ],
+   "explain": {
+    "en": "'To my cousin' is an indirect object, so use li (it never takes an apostrophe).",
+    "ko": "'내 사촌에게'는 간접목적어라서 li를 써요(아포스트로피를 쓰지 않아요).",
+    "es": "'A mi primo' es objeto indirecto: li (nunca se apostrofa)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3b",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Vas al gimnàs? — Sí, ___ vaig cada dia.",
+   "options": [
+    "en",
+    "ho",
+    "hi",
+    "li"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "A place with the preposition a is replaced by hi.",
+    "ko": "전치사 a가 붙은 장소는 hi로 바꿔요.",
+    "es": "Un lugar con la preposición a se sustituye por hi."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3b",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Quants germans tens? — ___ tinc dos.",
+   "options": [
+    "En",
+    "Hi",
+    "Els",
+    "Ho"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "When the noun disappears after a number, en replaces it.",
+    "ko": "숫자 뒤에서 명사가 사라지면 en이 그것을 대신해요.",
+    "es": "Cuando el nombre desaparece tras un número, lo sustituye en."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.3b",
+   "q": {
+    "en": "Write the correct pronoun.",
+    "ko": "알맞은 대명사를 쓰세요.",
+    "es": "Escribe el pronombre correcto."
+   },
+   "ca": "El teu professor és simpàtic? — Sí que ___ és.",
+   "answer": [
+    "ho"
+   ],
+   "explain": {
+    "en": "With ser, a predicate already mentioned is replaced by ho.",
+    "ko": "ser와 함께 이미 언급된 서술어는 ho로 바꿔요.",
+    "es": "Con ser, el atributo ya mencionado se sustituye por ho."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3b",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "La festa s’ha acabat i tothom ___ va anar a casa.",
+   "options": [
+    "s’hi",
+    "es",
+    "se’n",
+    "s’en"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "'To leave' is anar-se’n; the combination is written se’n (apostrophe as far right as possible).",
+    "ko": "'떠나다'는 anar-se’n이에요. 결합형은 se’n으로 써요(아포스트로피는 최대한 오른쪽).",
+    "es": "'Irse' es anar-se’n; la combinación se escribe se’n (apóstrofo lo más a la derecha posible)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3c",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Em deixes el carregador? — Sí, ara ___ deixo.",
+   "options": [
+    "te’l",
+    "el te",
+    "et el",
+    "t’el"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Indirect (et) comes before direct (el); in the combination et becomes te: te’l.",
+    "ko": "간접(et)이 직접(el)보다 먼저 오고, 결합형에서 et는 te가 돼요: te’l.",
+    "es": "El indirecto (et) va antes que el directo (el); en la combinación et pasa a te: te’l."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "7.3c",
+   "q": {
+    "en": "Write the correct pronoun.",
+    "ko": "알맞은 대명사를 쓰세요.",
+    "es": "Escribe el pronombre correcto."
+   },
+   "ca": "Has donat el regal a la Laia? — Sí, ___ he donat.",
+   "answer": [
+    "l’hi"
+   ],
+   "explain": {
+    "en": "el (the present) + li (to Laia) usually becomes l’hi.",
+    "ko": "el(선물) + li(라이아에게)는 보통 l’hi가 돼요.",
+    "es": "el (el regalo) + li (a Laia) normalmente da l’hi."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3c",
+   "q": {
+    "en": "Which sentence is NOT correct?",
+    "ko": "올바르지 않은 문장은?",
+    "es": "¿Qué frase NO es correcta?"
+   },
+   "options": [
+    "Ho vull fer ara.",
+    "Vull fer-ho ara.",
+    "Vull ho fer ara."
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "The pronoun goes before the whole group or after the infinitive, never between the two verbs.",
+    "ko": "대명사는 동사 묶음 전체 앞이나 동사원형 뒤에 오고, 두 동사 사이에는 오지 않아요.",
+    "es": "El pronombre va delante de todo el grupo o detrás del infinitivo, nunca entre los dos verbos."
+   }
+  },
+  {
+   "type": "order",
+   "sec": "7.3c",
+   "q": {
+    "en": "Put the words in order.",
+    "ko": "단어를 순서대로 배열하세요.",
+    "es": "Ordena las palabras."
+   },
+   "words": [
+    "aquest",
+    "secret,",
+    "no",
+    "m’ho",
+    "expliquis"
+   ],
+   "answer": "Aquest secret, no m’ho expliquis",
+   "explain": {
+    "en": "Negative commands use the subjunctive, with the pronouns before the verb: no m’ho expliquis.",
+    "ko": "부정 명령은 접속법을 쓰고 대명사는 동사 앞에 와요: no m’ho expliquis.",
+    "es": "El imperativo negativo usa subjuntivo con los pronombres delante: no m’ho expliquis."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "7.3c",
+   "q": {
+    "en": "Choose the correct form of 'Give it (ho) to me!' (tu).",
+    "ko": "'그걸(ho) 나에게 줘!'(tu)의 올바른 형태를 고르세요.",
+    "es": "Elige la forma correcta de '¡Dámelo (ho)!' (tu)."
+   },
+   "options": [
+    "Dona’m-ho!",
+    "Dona-m’ho!",
+    "Dona-me-ho!",
+    "Dona-ho-me!"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "After the verb, em + ho becomes -m’ho, joined with a hyphen: dona-m’ho.",
+    "ko": "동사 뒤에서 em + ho는 -m’ho가 되고 하이픈으로 붙여요: dona-m’ho.",
+    "es": "Tras el verbo, em + ho da -m’ho, unido con guion: dona-m’ho."
+   }
+  }
+ ]
+}

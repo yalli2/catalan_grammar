@@ -1,0 +1,871 @@
+{
+  "id": 20,
+  "part": 4,
+  "icon": "⚠️",
+  "title": {
+    "ca": "Errors freqüents dels parlants nadius (barbarismes i solecismes)",
+    "en": "Frequent native-speaker mistakes (solecisms)",
+    "ko": "원어민이 자주 하는 실수 (어법 오류)",
+    "es": "Errores frecuentes de los hablantes nativos (solecismos)"
+  },
+  "summary": {
+    "en": "Even native speakers make mistakes, often because Catalan lives side by side with Spanish or French. This chapter lists the most common slips in word forms (gender, plurals, verbs, pronouns), in verb use (gerunds, conditionals, 'tenir que') and in sentence structure (a before objects, prepositions before que, relatives, hi and en). Learning them helps you sound correct and spot errors you will hear.",
+    "ko": "원어민도 실수를 해요. 카탈루냐어가 스페인어나 프랑스어와 함께 쓰이기 때문인 경우가 많아요. 이 장에서는 단어 형태(성, 복수, 동사, 대명사), 동사 사용(제룬디오, 조건문, 'tenir que'), 문장 구조(목적어 앞 a, que 앞 전치사, 관계사, hi와 en)에서 가장 흔한 실수를 정리해요. 이를 익히면 올바르게 말하고, 들리는 오류도 알아챌 수 있어요.",
+    "es": "Incluso los nativos se equivocan, a menudo porque el catalán convive con el español o el francés. Este capítulo recoge los errores más comunes en la forma de las palabras (género, plural, verbos, pronombres), en el uso verbal (gerundios, condicionales, 'tenir que') y en la sintaxis (a ante objeto, preposición ante que, relativos, hi y en). Conocerlos te ayudará a hablar bien y a detectar errores."
+  },
+  "goals": [
+    {
+      "en": "You will be able to use the correct gender and number of tricky words (el dubte, la dent, massa…).",
+      "ko": "헷갈리는 단어의 올바른 성과 수(el dubte, la dent, massa…)를 쓸 수 있어요.",
+      "es": "Podrás usar el género y número correctos de palabras difíciles (el dubte, la dent, massa…)."
+    },
+    {
+      "en": "You will be able to avoid wrong verb forms, gerunds and pronoun forms (conec, sabent, donar-los).",
+      "ko": "틀린 동사형, 제룬디오, 대명사형을 피할 수 있어요(conec, sabent, donar-los).",
+      "es": "Podrás evitar formas verbales, gerundios y pronombres incorrectos (conec, sabent, donar-los)."
+    },
+    {
+      "en": "You will be able to use haver de, the compound conditional and correct prepositions.",
+      "ko": "haver de, 복합 조건법, 올바른 전치사를 쓸 수 있어요.",
+      "es": "Podrás usar haver de, el condicional compuesto y las preposiciones correctas."
+    },
+    {
+      "en": "You will be able to remember the pronouns hi and en when they are needed.",
+      "ko": "필요할 때 대명사 hi와 en을 빠뜨리지 않을 수 있어요.",
+      "es": "Podrás recordar los pronombres hi y en cuando hacen falta."
+    }
+  ],
+  "sections": [
+    {
+      "id": "20.1",
+      "title": {
+        "ca": "Morfologia",
+        "en": "Morphology",
+        "ko": "형태론",
+        "es": "Morfología"
+      },
+      "points": [
+        {
+          "en": "Some nouns have a different gender from Spanish. Masculine: <b>el dubte, el costum, el senyal, el front, el compte, els afores, els espinacs</b>. Feminine: <b>la dent, l’olor, la suor, l’anàlisi, la síndrome, l’allau</b>.",
+          "ko": "일부 명사는 스페인어와 성이 달라요. 남성: <b>el dubte, el costum, el senyal, el front, el compte, els afores, els espinacs</b>. 여성: <b>la dent, l’olor, la suor, l’anàlisi, la síndrome, l’allau</b>.",
+          "es": "Algunos sustantivos tienen distinto género que en español. Masculinos: <b>el dubte, el costum, el senyal, el front, el compte, els afores, els espinacs</b>. Femeninos: <b>la dent, l’olor, la suor, l’anàlisi, la síndrome, l’allau</b>."
+        },
+        {
+          "en": "Many adjectives have a feminine form that people forget: <b>forta</b> (caixa forta), <b>calenta</b>, <b>trista</b>, <b>verda</b>, <b>grisa</b>, <b>pobra</b>, <b>valenta</b>, <b>comuna</b>.",
+          "ko": "많은 형용사에 사람들이 잊어버리는 여성형이 있어요: <b>forta</b>(caixa forta), <b>calenta</b>, <b>trista</b>, <b>verda</b>, <b>grisa</b>, <b>pobra</b>, <b>valenta</b>, <b>comuna</b>.",
+          "es": "Muchos adjetivos tienen femenino que se olvida: <b>forta</b> (caixa forta), <b>calenta</b>, <b>trista</b>, <b>verda</b>, <b>grisa</b>, <b>pobra</b>, <b>valenta</b>, <b>comuna</b>."
+        },
+        {
+          "en": "<b>Massa</b>, <b>prou</b> and <b>qualque</b> never take plural endings: <b>massa alumnes</b> (not *masses). Weekday names don’t change in the plural: <b>els dilluns</b> (not *dillunsos).",
+          "ko": "<b>massa</b>, <b>prou</b>, <b>qualque</b>는 복수 어미를 붙이지 않아요: <b>massa alumnes</b>(*masses는 틀림). 요일 이름은 복수에서도 형태가 같아요: <b>els dilluns</b>(*dillunsos는 틀림).",
+          "es": "<b>Massa</b>, <b>prou</b> y <b>qualque</b> nunca llevan plural: <b>massa alumnes</b> (no *masses). Los días de la semana no cambian en plural: <b>els dilluns</b> (no *dillunsos)."
+        },
+        {
+          "en": "Verbs in <b>-èixer</b> are not like 'servir' verbs: <b>conec, parec, desaparec</b> (not *coneixo, *pareixo).",
+          "ko": "<b>-èixer</b> 동사는 'servir'형 동사와 달라요: <b>conec, parec, desaparec</b>(*coneixo, *pareixo는 틀림).",
+          "es": "Los verbos en <b>-èixer</b> no siguen el modelo de 'servir': <b>conec, parec, desaparec</b> (no *coneixo, *pareixo)."
+        },
+        {
+          "en": "Gerunds never end in -guent or -quent: <b>sabent, podent, corrent, escrivint, coneixent</b> (not *sapiguent, *poguent).",
+          "ko": "제룬디오는 절대 -guent, -quent로 끝나지 않아요: <b>sabent, podent, corrent, escrivint, coneixent</b>(*sapiguent, *poguent는 틀림).",
+          "es": "Los gerundios nunca acaban en -guent o -quent: <b>sabent, podent, corrent, escrivint, coneixent</b> (no *sapiguent, *poguent)."
+        },
+        {
+          "en": "Pronouns: plural of <b>li</b> is <b>els / -los</b> (not *lis), and don’t add an empty <b>hi</b> (<b>Els trucaràs?</b>, not *Els hi trucaràs?). Attach pronouns to the full infinitive or imperative: <b>conèixer-nos</b>, <b>menjar-lo</b>, <b>comporteu-vos</b>.",
+          "ko": "대명사: <b>li</b>의 복수는 <b>els / -los</b>예요(*lis는 틀림). 의미 없는 <b>hi</b>를 붙이지 마세요(<b>Els trucaràs?</b>, *Els hi trucaràs?는 틀림). 대명사는 온전한 부정사나 명령형에 붙여요: <b>conèixer-nos</b>, <b>menjar-lo</b>, <b>comporteu-vos</b>.",
+          "es": "Pronombres: el plural de <b>li</b> es <b>els / -los</b> (no *lis), y no se añade un <b>hi</b> vacío (<b>Els trucaràs?</b>, no *Els hi trucaràs?). Se unen al infinitivo o imperativo completo: <b>conèixer-nos</b>, <b>menjar-lo</b>, <b>comporteu-vos</b>."
+        }
+      ],
+      "table": {
+        "head": [
+          "✗ wrong",
+          "✓ correct"
+        ],
+        "rows": [
+          [
+            "la dubte",
+            "el dubte"
+          ],
+          [
+            "el dent",
+            "la dent"
+          ],
+          [
+            "caixa fort",
+            "caixa forta"
+          ],
+          [
+            "masses alumnes",
+            "massa alumnes"
+          ],
+          [
+            "coneixo",
+            "conec"
+          ],
+          [
+            "sapiguent",
+            "sabent"
+          ],
+          [
+            "donar-lis",
+            "donar-los"
+          ],
+          [
+            "coneixe’ns",
+            "conèixer-nos"
+          ]
+        ],
+        "speak": [
+          1
+        ]
+      },
+      "examples": [
+        {
+          "ca": "Tinc un dubte sobre els deures.",
+          "en": "I have a question about the homework.",
+          "ko": "숙제에 대해 궁금한 게 있어.",
+          "es": "Tengo una duda sobre los deberes."
+        },
+        {
+          "ca": "Quina olor més bona fa la cuina!",
+          "en": "The kitchen smells so good!",
+          "ko": "부엌에서 정말 좋은 냄새가 나!",
+          "es": "¡Qué buen olor sale de la cocina!"
+        },
+        {
+          "ca": "Avui hi ha massa deures.",
+          "en": "There’s too much homework today.",
+          "ko": "오늘은 숙제가 너무 많아.",
+          "es": "Hoy hay demasiados deberes."
+        },
+        {
+          "ca": "No conec ningú a la nova escola.",
+          "en": "I don’t know anyone at the new school.",
+          "ko": "새 학교에 아는 사람이 아무도 없어.",
+          "es": "No conozco a nadie en la nueva escuela."
+        },
+        {
+          "ca": "Vam anar a donar-los les gràcies.",
+          "en": "We went to thank them.",
+          "ko": "우리는 그들에게 감사 인사를 하러 갔어.",
+          "es": "Fuimos a darles las gracias."
+        }
+      ]
+    },
+    {
+      "id": "20.2",
+      "title": {
+        "ca": "Ús dels verbs",
+        "en": "Verb usage",
+        "ko": "동사 사용",
+        "es": "Uso de los verbos"
+      },
+      "points": [
+        {
+          "en": "Don’t use a gerund for an action that happens AFTER the main verb. Use a second verb with <b>i</b> instead: <b>Va caure i es va trencar el braç.</b>",
+          "ko": "주동사 이후에 일어난 행동에 제룬디오를 쓰지 마세요. 대신 <b>i</b>로 두 번째 동사를 이어요: <b>Va caure i es va trencar el braç.</b>",
+          "es": "No uses un gerundio para una acción POSTERIOR al verbo principal. Usa otro verbo con <b>i</b>: <b>Va caure i es va trencar el braç.</b>"
+        },
+        {
+          "en": "In 'if' sentences about the past, the result clause uses the compound conditional: <b>Si haguessis estudiat, hauries aprovat</b> (not *haguessis aprovat).",
+          "ko": "과거에 대한 가정문에서 결과절은 복합 조건법을 써요: <b>Si haguessis estudiat, hauries aprovat</b>(*haguessis aprovat는 틀림).",
+          "es": "En las condicionales sobre el pasado, la oración principal lleva condicional compuesto: <b>Si haguessis estudiat, hauries aprovat</b> (no *haguessis aprovat)."
+        },
+        {
+          "en": "Obligation is <b>haver de</b> + infinitive: <b>He d’estudiar.</b> <b>Tenir que</b> is a Spanish loan and is incorrect.",
+          "ko": "의무는 <b>haver de</b> + 부정사로 표현해요: <b>He d’estudiar.</b> <b>tenir que</b>는 스페인어에서 빌려온 틀린 표현이에요.",
+          "es": "La obligación se expresa con <b>haver de</b> + infinitivo: <b>He d’estudiar.</b> <b>Tenir que</b> es un calco del español y es incorrecto."
+        }
+      ],
+      "examples": [
+        {
+          "ca": "Va relliscar a la pista i es va fer mal al genoll.",
+          "en": "He slipped on the court and hurt his knee.",
+          "ko": "그는 코트에서 미끄러져 무릎을 다쳤어.",
+          "es": "Resbaló en la pista y se hizo daño en la rodilla."
+        },
+        {
+          "ca": "Si haguéssim sortit abans, no hauríem perdut el tren.",
+          "en": "If we had left earlier, we wouldn’t have missed the train.",
+          "ko": "더 일찍 나왔으면 기차를 놓치지 않았을 텐데.",
+          "es": "Si hubiéramos salido antes, no habríamos perdido el tren."
+        },
+        {
+          "ca": "Demà hem de portar el material de plàstica.",
+          "en": "Tomorrow we have to bring the art supplies.",
+          "ko": "내일 미술 준비물을 가져가야 해.",
+          "es": "Mañana tenemos que traer el material de plástica."
+        }
+      ]
+    },
+    {
+      "id": "20.3",
+      "title": {
+        "ca": "Sintaxi",
+        "en": "Syntax",
+        "ko": "통사론",
+        "es": "Sintaxis"
+      },
+      "points": [
+        {
+          "en": "A direct object has no <b>a</b>, even for people: <b>He vist la Maria</b> (not *a la Maria). <b>A</b> is allowed with pronouns like <b>ningú, algú</b>, with <b>qui</b>/<b>a qui</b>, with moved objects, or to avoid ambiguity.",
+          "ko": "직접목적어에는 사람이라도 <b>a</b>를 붙이지 않아요: <b>He vist la Maria</b>(*a la Maria는 틀림). <b>ningú, algú</b> 같은 대명사, <b>qui</b>, 위치가 옮겨진 목적어, 또는 중의성을 피할 때는 <b>a</b>를 쓸 수 있어요.",
+          "es": "El objeto directo no lleva <b>a</b>, ni siquiera con personas: <b>He vist la Maria</b> (no *a la Maria). Se admite con pronombres como <b>ningú, algú</b>, con <b>qui</b>, con objetos desplazados o para evitar ambigüedad."
+        },
+        {
+          "en": "Don’t repeat an indirect object with <b>li/els</b> when it is already there, except with verbs like <b>agradar</b>, <b>passar</b> or <b>fer mal</b>: <b>Al meu germà li agrada el futbol</b> is fine.",
+          "ko": "간접목적어가 이미 있으면 <b>li/els</b>로 반복하지 마세요. 단, <b>agradar</b>, <b>passar</b>, <b>fer mal</b> 같은 동사는 예외예요: <b>Al meu germà li agrada el futbol</b>은 괜찮아요.",
+          "es": "No repitas el objeto indirecto con <b>li/els</b> si ya aparece, salvo con verbos como <b>agradar</b>, <b>passar</b> o <b>fer mal</b>: <b>Al meu germà li agrada el futbol</b> es correcto."
+        },
+        {
+          "en": "In formal style, drop <b>a, de, en, amb</b> before <b>que</b>: <b>Tinc por que…</b>, or add a noun: <b>consisteix en el fet que…</b>",
+          "ko": "격식체에서는 <b>que</b> 앞의 <b>a, de, en, amb</b>를 빼요: <b>Tinc por que…</b>, 또는 명사를 넣어요: <b>consisteix en el fet que…</b>",
+          "es": "En registro formal se suprime <b>a, de, en, amb</b> ante <b>que</b>: <b>Tinc por que…</b>, o se añade un sustantivo: <b>consisteix en el fet que…</b>"
+        },
+        {
+          "en": "Before an infinitive, <b>en</b> and <b>amb</b> usually become <b>a</b> (or <b>de</b>): <b>consisteix a fer</b>, <b>insisteix a pagar</b>, <b>amenaçar d’expulsar</b>. Exception: <b>en</b> + infinitive meaning 'when': <b>En arribar…</b>",
+          "ko": "부정사 앞에서 <b>en</b>과 <b>amb</b>는 보통 <b>a</b>(또는 <b>de</b>)로 바뀌어요: <b>consisteix a fer</b>, <b>insisteix a pagar</b>, <b>amenaçar d’expulsar</b>. 예외: '~할 때'라는 뜻의 <b>en</b> + 부정사: <b>En arribar…</b>",
+          "es": "Ante infinitivo, <b>en</b> y <b>amb</b> suelen pasar a <b>a</b> (o <b>de</b>): <b>consisteix a fer</b>, <b>insisteix a pagar</b>, <b>amenaçar d’expulsar</b>. Excepción: <b>en</b> + infinitivo = 'al': <b>En arribar…</b>"
+        },
+        {
+          "en": "After a preposition, the relative is <b>què</b> (things), <b>qui</b> (people) or <b>el qual</b>, never *<b>la que</b> with an antecedent: <b>la noia de qui parles</b> / <b>de la qual parles</b>.",
+          "ko": "전치사 뒤의 관계사는 <b>què</b>(사물), <b>qui</b>(사람), <b>el qual</b>이고, 선행사가 있을 때 *<b>la que</b>는 쓰지 않아요: <b>la noia de qui parles</b> / <b>de la qual parles</b>.",
+          "es": "Tras preposición, el relativo es <b>què</b> (cosas), <b>qui</b> (personas) o <b>el qual</b>, nunca *<b>la que</b> con antecedente: <b>la noia de qui parles</b> / <b>de la qual parles</b>."
+        },
+        {
+          "en": "Don’t forget <b>hi</b> and <b>en</b>: <b>Sí, hi aniré</b>; <b>Sí, n’han vingut molts</b>; <b>dos de grans i tres de petits</b>. And use <b>el</b> (not <b>ho</b>) for a masculine noun: <b>El dinar, el pago jo.</b>",
+          "ko": "<b>hi</b>와 <b>en</b>을 잊지 마세요: <b>Sí, hi aniré</b>, <b>Sí, n’han vingut molts</b>, <b>dos de grans i tres de petits</b>. 남성 명사를 받을 때는 <b>ho</b>가 아니라 <b>el</b>을 써요: <b>El dinar, el pago jo.</b>",
+          "es": "No olvides <b>hi</b> y <b>en</b>: <b>Sí, hi aniré</b>; <b>Sí, n’han vingut molts</b>; <b>dos de grans i tres de petits</b>. Y usa <b>el</b> (no <b>ho</b>) para un sustantivo masculino: <b>El dinar, el pago jo.</b>"
+        }
+      ],
+      "examples": [
+        {
+          "ca": "Ahir vaig veure la Júlia al mercat.",
+          "en": "Yesterday I saw Júlia at the market.",
+          "ko": "어제 시장에서 줄리아를 봤어.",
+          "es": "Ayer vi a Júlia en el mercado."
+        },
+        {
+          "ca": "L’examen consisteix a escriure una redacció.",
+          "en": "The exam consists of writing an essay.",
+          "ko": "시험은 작문을 쓰는 거야.",
+          "es": "El examen consiste en escribir una redacción."
+        },
+        {
+          "ca": "El noi de qui t’he parlat juga a l’equip.",
+          "en": "The boy I told you about plays on the team.",
+          "ko": "내가 말했던 그 남자애가 팀에서 뛰어.",
+          "es": "El chico del que te he hablado juega en el equipo."
+        },
+        {
+          "ca": "Vens al concert? — Sí, hi vinc.",
+          "en": "Are you coming to the concert? — Yes, I am.",
+          "ko": "콘서트 올 거야? — 응, 갈게.",
+          "es": "¿Vienes al concierto? — Sí, voy."
+        },
+        {
+          "ca": "Tens germans? — Sí, en tinc dos.",
+          "en": "Do you have brothers or sisters? — Yes, I have two.",
+          "ko": "형제 있어? — 응, 두 명 있어.",
+          "es": "¿Tienes hermanos? — Sí, tengo dos."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "ca": "el dubte",
+      "en": "doubt, question",
+      "ko": "의문, 궁금한 점",
+      "es": "la duda"
+    },
+    {
+      "ca": "la dent",
+      "en": "tooth",
+      "ko": "이, 치아",
+      "es": "el diente"
+    },
+    {
+      "ca": "l’olor (f.)",
+      "en": "smell",
+      "ko": "냄새",
+      "es": "el olor"
+    },
+    {
+      "ca": "el costum",
+      "en": "custom, habit",
+      "ko": "습관, 관습",
+      "es": "la costumbre"
+    },
+    {
+      "ca": "el senyal",
+      "en": "sign, signal",
+      "ko": "신호, 표시",
+      "es": "la señal"
+    },
+    {
+      "ca": "la suor",
+      "en": "sweat",
+      "ko": "땀",
+      "es": "el sudor"
+    },
+    {
+      "ca": "massa",
+      "en": "too much / too many",
+      "ko": "너무 많은",
+      "es": "demasiado"
+    },
+    {
+      "ca": "prou",
+      "en": "enough",
+      "ko": "충분한",
+      "es": "bastante, suficiente"
+    },
+    {
+      "ca": "haver de",
+      "en": "to have to",
+      "ko": "~해야 한다",
+      "es": "tener que"
+    },
+    {
+      "ca": "conec",
+      "en": "I know (a person/place)",
+      "ko": "나는 안다 (사람·장소)",
+      "es": "conozco"
+    },
+    {
+      "ca": "sabent",
+      "en": "knowing",
+      "ko": "알면서",
+      "es": "sabiendo"
+    },
+    {
+      "ca": "consistir a",
+      "en": "to consist of (+ inf.)",
+      "ko": "~하는 것이다 (+부정사)",
+      "es": "consistir en (+ inf.)"
+    },
+    {
+      "ca": "insistir a",
+      "en": "to insist on (+ inf.)",
+      "ko": "~하겠다고 고집하다",
+      "es": "insistir en (+ inf.)"
+    },
+    {
+      "ca": "caixa forta",
+      "en": "safe (box)",
+      "ko": "금고",
+      "es": "caja fuerte"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Choose the correct article.",
+        "ko": "올바른 관사를 고르세요.",
+        "es": "Elige el artículo correcto."
+      },
+      "ca": "Tinc ___ dubte sobre l’exercici 3.",
+      "options": [
+        "un",
+        "una"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Dubte' is masculine in Catalan (unlike Spanish 'la duda').",
+        "ko": "'dubte'는 카탈루냐어에서 남성 명사예요(스페인어 'la duda'와 달라요).",
+        "es": "'Dubte' es masculino en catalán (a diferencia de 'la duda')."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Which is correct?",
+        "ko": "올바른 것은?",
+        "es": "¿Cuál es correcta?"
+      },
+      "options": [
+        "Quin olor més bo!",
+        "Quina olor més bona!"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Olor' is feminine in Catalan, so quina … bona.",
+        "ko": "'olor'는 카탈루냐어에서 여성 명사라서 quina … bona예요.",
+        "es": "'Olor' es femenino en catalán: quina … bona."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Choose the correct article.",
+        "ko": "올바른 관사를 고르세요.",
+        "es": "Elige el artículo correcto."
+      },
+      "ca": "Em fa mal ___ dent del darrere.",
+      "options": [
+        "el",
+        "lo",
+        "la"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'Dent' is feminine in Catalan (Spanish 'el diente').",
+        "ko": "'dent'는 카탈루냐어에서 여성 명사예요(스페인어 'el diente').",
+        "es": "'Dent' es femenino en catalán (en español 'el diente')."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "20.1",
+      "q": {
+        "en": "'Costum' (habit) is feminine in Catalan: 'la costum'.",
+        "ko": "'costum'(습관)은 카탈루냐어에서 여성 명사예요: 'la costum'.",
+        "es": "'Costum' es femenino en catalán: 'la costum'."
+      },
+      "answer": false,
+      "explain": {
+        "en": "It is masculine: 'el costum', 'un bon costum'.",
+        "ko": "남성 명사예요: 'el costum', 'un bon costum'.",
+        "es": "Es masculino: 'el costum', 'un bon costum'."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.1",
+      "q": {
+        "en": "Write the correct feminine form of 'fort'.",
+        "ko": "'fort'의 올바른 여성형을 쓰세요.",
+        "es": "Escribe el femenino correcto de 'fort'."
+      },
+      "ca": "Guarda els diners a la caixa ___.",
+      "answer": [
+        "forta"
+      ],
+      "explain": {
+        "en": "'Fort' has a feminine form: caixa forta (not *caixa fort).",
+        "ko": "'fort'는 여성형이 있어요: caixa forta(*caixa fort는 틀림).",
+        "es": "'Fort' tiene femenino: caixa forta (no *caixa fort)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Choose the correct word.",
+        "ko": "올바른 단어를 고르세요.",
+        "es": "Elige la palabra correcta."
+      },
+      "ca": "Hi ha ___ alumnes en aquesta aula.",
+      "options": [
+        "massa",
+        "masses",
+        "massos"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Massa' is invariable, even with a plural noun.",
+        "ko": "'massa'는 복수 명사와 함께 써도 형태가 변하지 않아요.",
+        "es": "'Massa' es invariable, incluso con un sustantivo plural."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Choose the correct plural.",
+        "ko": "올바른 복수형을 고르세요.",
+        "es": "Elige el plural correcto."
+      },
+      "ca": "Els ___ tinc entrenament de natació.",
+      "options": [
+        "dillunsos",
+        "dilluns",
+        "dillunses"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Weekday names (except dissabte and diumenge) don’t change in the plural.",
+        "ko": "요일 이름(dissabte, diumenge 제외)은 복수에서도 형태가 같아요.",
+        "es": "Los días de la semana (salvo dissabte y diumenge) no cambian en plural."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Conjugate 'conèixer' (jo, present).",
+        "ko": "'conèixer'를 활용하세요(jo, 현재).",
+        "es": "Conjuga 'conèixer' (jo, presente)."
+      },
+      "ca": "Jo no ___ la teva cosina.",
+      "options": [
+        "coneixo",
+        "coneixeixo",
+        "conec"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Verbs in -èixer are 2nd conjugation: jo conec (not *coneixo).",
+        "ko": "-èixer 동사는 2군 동사예요: jo conec(*coneixo는 틀림).",
+        "es": "Los verbos en -èixer son de la 2.ª conjugación: jo conec (no *coneixo)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "Choose the correct gerund of 'saber'.",
+        "ko": "'saber'의 올바른 제룬디오를 고르세요.",
+        "es": "Elige el gerundio correcto de 'saber'."
+      },
+      "ca": "___ la resposta, no va dir res.",
+      "options": [
+        "Sabent",
+        "Sapiguent",
+        "Sabint"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Gerunds never end in -guent: saber → sabent.",
+        "ko": "제룬디오는 절대 -guent로 끝나지 않아요: saber → sabent.",
+        "es": "Los gerundios nunca acaban en -guent: saber → sabent."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.1",
+      "q": {
+        "en": "Write the gerund of 'córrer'.",
+        "ko": "'córrer'의 제룬디오를 쓰세요.",
+        "es": "Escribe el gerundio de 'córrer'."
+      },
+      "ca": "Va arribar a l’escola ___.",
+      "answer": [
+        "corrent"
+      ],
+      "explain": {
+        "en": "Córrer → corrent (not *correguent).",
+        "ko": "córrer → corrent(*correguent는 틀림).",
+        "es": "Córrer → corrent (no *correguent)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "'We went to thank them.' Choose the pronoun.",
+        "ko": "'우리는 그들에게 감사하러 갔어.' 대명사를 고르세요.",
+        "es": "'Fuimos a darles las gracias.' Elige el pronombre."
+      },
+      "ca": "Vam anar a donar-___ les gràcies.",
+      "options": [
+        "lis",
+        "los",
+        "li"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The plural of 'li' is 'els' / '-los'; '*lis' doesn’t exist.",
+        "ko": "'li'의 복수는 'els' / '-los'이고 '*lis'는 없어요.",
+        "es": "El plural de 'li' es 'els' / '-los'; '*lis' no existe."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.1",
+      "q": {
+        "en": "'Behave yourselves!' Choose the pronoun.",
+        "ko": "'얌전히 굴어!'(너희) 대명사를 고르세요.",
+        "es": "'¡Portaos bien!' Elige el pronombre."
+      },
+      "ca": "Comporteu-___ bé!",
+      "options": [
+        "se",
+        "us",
+        "vos"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The pronoun for vosaltres after the imperative is '-vos': comporteu-vos.",
+        "ko": "명령형 뒤 vosaltres의 대명사는 '-vos'예요: comporteu-vos.",
+        "es": "El pronombre de vosaltres tras imperativo es '-vos': comporteu-vos."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.1",
+      "q": {
+        "en": "Attach '-nos' to the full infinitive 'conèixer'.",
+        "ko": "온전한 부정사 'conèixer'에 '-nos'를 붙이세요.",
+        "es": "Une '-nos' al infinitivo completo 'conèixer'."
+      },
+      "ca": "M’agradaria ___ millor.",
+      "answer": [
+        "conèixer-nos"
+      ],
+      "explain": {
+        "en": "Keep the full infinitive: conèixer-nos (not *coneixe’ns).",
+        "ko": "부정사를 온전히 유지해요: conèixer-nos(*coneixe’ns는 틀림).",
+        "es": "Se mantiene el infinitivo completo: conèixer-nos (no *coneixe’ns)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.2",
+      "q": {
+        "en": "'If you had studied, you would have passed.'",
+        "ko": "'공부했더라면 합격했을 텐데.'",
+        "es": "'Si hubieras estudiado, habrías aprobado.'"
+      },
+      "options": [
+        "Si haguessis estudiat, haguessis aprovat.",
+        "Si haguessis estudiat, hauries aprovat."
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The result clause needs the compound conditional: hauries aprovat.",
+        "ko": "결과절에는 복합 조건법이 필요해요: hauries aprovat.",
+        "es": "La principal necesita el condicional compuesto: hauries aprovat."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.2",
+      "q": {
+        "en": "'Tomorrow I have to get up early.'",
+        "ko": "'내일 일찍 일어나야 해.'",
+        "es": "'Mañana tengo que madrugar.'"
+      },
+      "ca": "Demà ___ matinar.",
+      "options": [
+        "tinc que",
+        "he de",
+        "tinc a"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Obligation is 'haver de'; 'tenir que' is a Spanish loan.",
+        "ko": "의무는 'haver de'로 표현해요. 'tenir que'는 스페인어 차용이에요.",
+        "es": "La obligación es 'haver de'; 'tenir que' es un calco del español."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.2",
+      "q": {
+        "en": "Use 'haver de' (nosaltres).",
+        "ko": "'haver de'를 쓰세요(nosaltres).",
+        "es": "Usa 'haver de' (nosaltres)."
+      },
+      "ca": "Nosaltres ___ fer els deures abans de sopar.",
+      "answer": [
+        "hem de"
+      ],
+      "explain": {
+        "en": "haver de → nosaltres hem de + infinitive.",
+        "ko": "haver de → nosaltres hem de + 부정사.",
+        "es": "haver de → nosaltres hem de + infinitivo."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.2",
+      "q": {
+        "en": "Which sentence is better Catalan?",
+        "ko": "더 올바른 카탈루냐어 문장은?",
+        "es": "¿Qué frase es mejor catalán?"
+      },
+      "options": [
+        "El partit va acabar a les nou, celebrant-ho després els jugadors al vestidor.",
+        "El partit va acabar a les nou, i després els jugadors ho van celebrar al vestidor."
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "A gerund shouldn’t express a later action; use 'i' + a conjugated verb.",
+        "ko": "제룬디오로 나중에 일어난 행동을 나타내면 안 돼요. 'i' + 활용된 동사를 쓰세요.",
+        "es": "El gerundio no debe expresar una acción posterior; usa 'i' + verbo conjugado."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "'I saw Maria at the park.'",
+        "ko": "'공원에서 마리아를 봤어.'",
+        "es": "'Vi a Maria en el parque.'"
+      },
+      "ca": "He vist ___ Maria al parc.",
+      "options": [
+        "la",
+        "a la"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Direct objects don’t take 'a' in Catalan, even when they are people.",
+        "ko": "카탈루냐어에서 직접목적어는 사람이라도 'a'를 붙이지 않아요.",
+        "es": "En catalán el objeto directo no lleva 'a', aunque sea persona."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "20.3",
+      "q": {
+        "en": "'Al meu germà li agrada el futbol' is correct, even though 'li' repeats 'al meu germà'.",
+        "ko": "'Al meu germà li agrada el futbol'은 'li'가 'al meu germà'를 반복하지만 올바른 문장이에요.",
+        "es": "'Al meu germà li agrada el futbol' es correcto, aunque 'li' repite 'al meu germà'."
+      },
+      "answer": true,
+      "explain": {
+        "en": "With verbs of liking or happening (agradar, passar…) the repeated pronoun is allowed.",
+        "ko": "좋아함이나 발생을 나타내는 동사(agradar, passar…)에서는 대명사 반복이 허용돼요.",
+        "es": "Con verbos de gusto o acontecimiento (agradar, passar…) se admite el pronombre repetido."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "Formal style: 'I’m afraid we won’t arrive on time.'",
+        "ko": "격식체: '제시간에 못 도착할까 봐 걱정돼.'",
+        "es": "Registro formal: 'Tengo miedo de que no lleguemos a tiempo.'"
+      },
+      "ca": "Tinc por ___ no arribem a temps.",
+      "options": [
+        "de que",
+        "que",
+        "en que"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "In formal style the preposition is dropped before 'que': tinc por que.",
+        "ko": "격식체에서는 'que' 앞의 전치사를 빼요: tinc por que.",
+        "es": "En registro formal se suprime la preposición ante 'que': tinc por que."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "'The exam consists of writing an essay.'",
+        "ko": "'시험은 작문을 쓰는 거야.'",
+        "es": "'El examen consiste en escribir una redacción.'"
+      },
+      "ca": "L’examen consisteix ___ escriure una redacció.",
+      "options": [
+        "en",
+        "amb",
+        "a"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Before an infinitive, 'en' becomes 'a': consisteix a.",
+        "ko": "부정사 앞에서 'en'은 'a'로 바뀌어요: consisteix a.",
+        "es": "Ante infinitivo, 'en' pasa a 'a': consisteix a."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.3",
+      "q": {
+        "en": "'He insists on paying.' Write the preposition.",
+        "ko": "'그는 자기가 내겠다고 고집해.' 전치사를 쓰세요.",
+        "es": "'Insiste en pagar.' Escribe la preposición."
+      },
+      "ca": "En Pau insisteix ___ pagar ell.",
+      "answer": [
+        "a"
+      ],
+      "explain": {
+        "en": "'Insistir' + infinitive takes 'a', not 'en'.",
+        "ko": "'insistir' + 부정사는 'en'이 아니라 'a'를 써요.",
+        "es": "'Insistir' + infinitivo lleva 'a', no 'en'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "'The girl you were telling me about is my cousin.'",
+        "ko": "'네가 말하던 그 여자애가 내 사촌이야.'",
+        "es": "'La chica de la que me hablabas es mi prima.'"
+      },
+      "ca": "La noia ___ em parlaves és la meva cosina.",
+      "options": [
+        "de qui",
+        "de la que",
+        "de que"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "After a preposition, use 'qui' for people (or 'de la qual'); '*de la que' with an antecedent is a solecism.",
+        "ko": "전치사 뒤 사람에는 'qui'(또는 'de la qual')를 써요. 선행사가 있는 '*de la que'는 오류예요.",
+        "es": "Tras preposición se usa 'qui' para personas (o 'de la qual'); '*de la que' con antecedente es un solecismo."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "'Will you come to the beach?' — 'Yes, I will.'",
+        "ko": "'해변에 올 거야?' — '응, 갈게.'",
+        "es": "'¿Vendrás a la playa?' — 'Sí, iré.'"
+      },
+      "ca": "Vindràs a la platja? — Sí, ___ vindré.",
+      "options": [
+        "en",
+        "hi",
+        "ho"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Hi' replaces the place 'a la platja' and must not be left out.",
+        "ko": "'hi'는 장소 'a la platja'를 대신하며 빠뜨리면 안 돼요.",
+        "es": "'Hi' sustituye al lugar 'a la platja' y no se puede omitir."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "20.3",
+      "q": {
+        "en": "Add the missing pronoun (replacing 'turistes').",
+        "ko": "빠진 대명사를 넣으세요('turistes'를 대신).",
+        "es": "Añade el pronombre que falta (sustituye 'turistes')."
+      },
+      "ca": "Han vingut molts turistes? — Sí, ___han vingut molts.",
+      "answer": [
+        "n’"
+      ],
+      "explain": {
+        "en": "'En' (here n’) replaces a quantified noun: n’han vingut molts.",
+        "ko": "'en'(여기서는 n’)은 수량이 붙은 명사를 대신해요: n’han vingut molts.",
+        "es": "'En' (aquí n’) sustituye a un sustantivo cuantificado: n’han vingut molts."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "20.3",
+      "q": {
+        "en": "'Lunch? I’ll pay for it.' Choose the pronoun.",
+        "ko": "'점심? 내가 낼게.' 대명사를 고르세요.",
+        "es": "'¿La comida? La pago yo.' Elige el pronombre."
+      },
+      "ca": "El dinar, ___ pagaré jo.",
+      "options": [
+        "ho",
+        "li",
+        "el"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'El dinar' is a definite masculine noun, so use 'el', not 'ho'.",
+        "ko": "'el dinar'는 한정된 남성 명사라서 'ho'가 아니라 'el'을 써요.",
+        "es": "'El dinar' es un sustantivo masculino determinado: se usa 'el', no 'ho'."
+      }
+    }
+  ]
+}

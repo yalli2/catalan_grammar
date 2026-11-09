@@ -1,0 +1,185 @@
+{
+  "id": 19,
+  "part": 4,
+  "icon": "😲",
+  "title": {"ca": "Interjeccions i ideòfons", "en": "Interjections and ideophones", "ko": "감탄사와 의성·의태어", "es": "Interjecciones e ideófonos"},
+  "summary": {
+    "en": "Real conversations are full of little words like ui!, vinga!, compte! and sound words like nyam-nyam or tic-tac. This chapter groups the most useful interjections by feeling and purpose, shows what Catalan animals 'say', and introduces playful repeated words such as així-aixà or barrija-barreja.",
+    "ko": "실제 대화에는 ui!, vinga!, compte! 같은 짧은 말과 nyam-nyam, tic-tac 같은 소리 말이 가득해요. 이 장에서는 유용한 감탄사를 감정과 목적별로 묶어 보고, 카탈루냐어로 동물이 어떻게 '우는지', 그리고 així-aixà, barrija-barreja 같은 재미있는 반복어를 소개해요.",
+    "es": "Las conversaciones reales están llenas de palabritas como ui!, vinga!, compte! y de palabras sonoras como nyam-nyam o tic-tac. Este capítulo agrupa las interjecciones más útiles por sentimiento y finalidad, muestra qué 'dicen' los animales en catalán y presenta palabras repetidas y juguetonas como així-aixà o barrija-barreja."
+  },
+  "goals": [
+    {"en": "You will be able to react with interjections of surprise, pain, disgust, joy and doubt.", "ko": "놀람, 아픔, 역겨움, 기쁨, 의심의 감탄사로 반응할 수 있어요.", "es": "Podrás reaccionar con interjecciones de sorpresa, dolor, asco, alegría y duda."},
+    {"en": "You will be able to cheer, warn, call attention and greet with interjections.", "ko": "감탄사로 응원하고, 경고하고, 주의를 끌고, 인사할 수 있어요.", "es": "Podrás animar, advertir, llamar la atención y saludar con interjecciones."},
+    {"en": "You will be able to recognise common ideophones and expressive repeated words.", "ko": "흔한 의성·의태어와 반복 표현을 알아볼 수 있어요.", "es": "Podrás reconocer ideófonos comunes y palabras expresivas repetidas."}
+  ],
+  "sections": [
+    {
+      "id": "19.1",
+      "title": {"ca": "Interjeccions de sentiments", "en": "Interjections of feelings", "ko": "감정을 나타내는 감탄사", "es": "Interjecciones de sentimientos"},
+      "points": [
+        {"en": "Interjections are short, invariable words that express a reaction. Many are very colloquial, and some are swear words, so learn the mild ones first.", "ko": "감탄사는 반응을 나타내는 짧고 형태가 변하지 않는 말이에요. 많은 것이 아주 구어적이고 일부는 욕설이니, 순한 것부터 익히세요.", "es": "Las interjecciones son palabras breves e invariables que expresan una reacción. Muchas son muy coloquiales y algunas son palabrotas: aprende primero las suaves."},
+        {"en": "Surprise: <b>ah!</b>, <b>oh!</b>, <b>ui!</b>, <b>renoi!</b>, <b>caram!</b> (polite substitutes for stronger words).", "ko": "놀람: <b>ah!</b>, <b>oh!</b>, <b>ui!</b>, <b>renoi!</b>, <b>caram!</b>(더 센 말을 대신하는 점잖은 표현).", "es": "Sorpresa: <b>ah!</b>, <b>oh!</b>, <b>ui!</b>, <b>renoi!</b>, <b>caram!</b> (sustitutos educados de palabras más fuertes)."},
+        {"en": "Pain: <b>ai!</b>, <b>ui!</b> — Disgust: <b>ecs!</b>, <b>uix!</b>, <b>uf!</b> — Doubt: <b>hum</b>, <b>pse</b>.", "ko": "아픔: <b>ai!</b>, <b>ui!</b> — 역겨움: <b>ecs!</b>, <b>uix!</b>, <b>uf!</b> — 의심: <b>hum</b>, <b>pse</b>.", "es": "Dolor: <b>ai!</b>, <b>ui!</b> — Asco: <b>ecs!</b>, <b>uix!</b>, <b>uf!</b> — Duda: <b>hum</b>, <b>pse</b>."},
+        {"en": "Agreement: <b>i tant!</b>, <b>és clar!</b>, <b>ja!</b>, <b>bé!</b> — Rejection: <b>ca!</b>, <b>ca barret!</b> ('no way!'), <b>bah!</b>, <b>vaja!</b> (disappointment).", "ko": "동의: <b>i tant!</b>, <b>és clar!</b>, <b>ja!</b>, <b>bé!</b> — 거부: <b>ca!</b>, <b>ca barret!</b>('말도 안 돼!'), <b>bah!</b>, <b>vaja!</b>(실망).", "es": "Acuerdo: <b>i tant!</b>, <b>és clar!</b>, <b>ja!</b>, <b>bé!</b> — Rechazo: <b>ca!</b>, <b>ca barret!</b> ('¡ni hablar!'), <b>bah!</b>, <b>vaja!</b> (decepción)."},
+        {"en": "Joy and success: <b>visca!</b>, <b>bravo!</b>, <b>hurra!</b>, <b>eureka!</b>, <b>bingo!</b> — Failure: <b>tururut!</b>", "ko": "기쁨과 성공: <b>visca!</b>, <b>bravo!</b>, <b>hurra!</b>, <b>eureka!</b>, <b>bingo!</b> — 실패: <b>tururut!</b>", "es": "Alegría y éxito: <b>visca!</b>, <b>bravo!</b>, <b>hurra!</b>, <b>eureka!</b>, <b>bingo!</b> — Fracaso: <b>tururut!</b>"}
+      ],
+      "examples": [
+        {"ca": "Ui, quin ensurt!", "en": "Oh, what a fright!", "ko": "아이고, 깜짝이야!", "es": "¡Uy, qué susto!"},
+        {"ca": "Ai, m’he cremat el dit!", "en": "Ouch, I’ve burnt my finger!", "ko": "아야, 손가락 데었어!", "es": "¡Ay, me he quemado el dedo!"},
+        {"ca": "Ecs, aquesta llet està agra!", "en": "Yuck, this milk is sour!", "ko": "웩, 이 우유 상했어!", "es": "¡Puaj, esta leche está agria!"},
+        {"ca": "Visca! Hem guanyat la final!", "en": "Hooray! We won the final!", "ko": "만세! 결승에서 이겼어!", "es": "¡Viva! ¡Hemos ganado la final!"},
+        {"ca": "Vaja, s’ha acabat la xocolata.", "en": "Oh no, the chocolate’s run out.", "ko": "에이, 초콜릿 다 떨어졌네.", "es": "Vaya, se ha acabado el chocolate."}
+      ]
+    },
+    {
+      "id": "19.2",
+      "title": {"ca": "Interjeccions per actuar i relacionar-se", "en": "Interjections for actions and social life", "ko": "행동과 인사를 위한 감탄사", "es": "Interjecciones para actuar y relacionarse"},
+      "points": [
+        {"en": "Cheering someone on: <b>som-hi!</b> ('let’s go!'), <b>vinga!</b>, <b>apa!</b>, <b>amunt!</b>, <b>au!</b>", "ko": "응원: <b>som-hi!</b>('가자!'), <b>vinga!</b>, <b>apa!</b>, <b>amunt!</b>, <b>au!</b>", "es": "Animar: <b>som-hi!</b> ('¡vamos!'), <b>vinga!</b>, <b>apa!</b>, <b>amunt!</b>, <b>au!</b>"},
+        {"en": "Warning: <b>compte!</b>, <b>alerta!</b>, <b>atenció!</b> — Stopping: <b>prou!</b> ('enough!'), <b>alto!</b> — Calling attention: <b>ei!</b>, <b>ep!</b>, <b>eh!</b>", "ko": "경고: <b>compte!</b>, <b>alerta!</b>, <b>atenció!</b> — 멈추게 하기: <b>prou!</b>('그만!'), <b>alto!</b> — 주의 끌기: <b>ei!</b>, <b>ep!</b>, <b>eh!</b>", "es": "Advertencia: <b>compte!</b>, <b>alerta!</b>, <b>atenció!</b> — Parar: <b>prou!</b> ('¡basta!'), <b>alto!</b> — Llamar la atención: <b>ei!</b>, <b>ep!</b>, <b>eh!</b>"},
+        {"en": "Greetings and social words: <b>hola</b>, <b>adeu</b>, <b>perdó</b>, <b>Jesús!</b> (after a sneeze). Handing something over: <b>té</b> / <b>teniu</b> ('here you are').", "ko": "인사와 사교 표현: <b>hola</b>, <b>adeu</b>, <b>perdó</b>, <b>Jesús!</b>(재채기한 사람에게). 무언가를 건넬 때: <b>té</b> / <b>teniu</b>('여기 있어').", "es": "Saludos y fórmulas sociales: <b>hola</b>, <b>adeu</b>, <b>perdó</b>, <b>Jesús!</b> (tras un estornudo). Al dar algo: <b>té</b> / <b>teniu</b> ('toma / tomad')."},
+        {"en": "Teasing in pairs: <b>ela-ela!</b> Lifting something heavy: <b>up!</b> / <b>upa!</b>", "ko": "놀릴 때 짝으로: <b>ela-ela!</b> 무거운 걸 들 때: <b>up!</b> / <b>upa!</b>", "es": "Burla, en pareja: <b>ela-ela!</b> Al levantar algo pesado: <b>up!</b> / <b>upa!</b>"}
+      ],
+      "examples": [
+        {"ca": "Som-hi, equip, que podem remuntar!", "en": "Come on, team, we can come back!", "ko": "가자, 팀! 역전할 수 있어!", "es": "¡Vamos, equipo, que podemos remontar!"},
+        {"ca": "Compte, que el terra rellisca!", "en": "Careful, the floor is slippery!", "ko": "조심해, 바닥 미끄러워!", "es": "¡Cuidado, que el suelo resbala!"},
+        {"ca": "Prou! Ja n’hi ha prou de cridar.", "en": "Enough! Stop shouting.", "ko": "그만! 이제 소리 그만 질러.", "es": "¡Basta! Ya está bien de gritar."},
+        {"ca": "Té, el teu entrepà.", "en": "Here you are, your sandwich.", "ko": "자, 네 샌드위치.", "es": "Toma, tu bocadillo."},
+        {"ca": "Atxim! — Jesús!", "en": "Atchoo! — Bless you!", "ko": "에취! — 몸조심해!", "es": "¡Achís! — ¡Jesús!"}
+      ]
+    },
+    {
+      "id": "19.3",
+      "title": {"ca": "Ideòfons i paraules expressives", "en": "Ideophones and expressive words", "ko": "의성·의태어와 표현어", "es": "Ideófonos y palabras expresivas"},
+      "points": [
+        {"en": "Ideophones imitate sounds. Animals: dog <b>bub-bub</b>, cat <b>meu</b>, cow <b>mu</b>, rooster <b>quiquiriquic</b>, hen <b>cloc-cloc</b>, little birds <b>piu-piu</b>, frog <b>roc-roc</b>.", "ko": "의성어는 소리를 흉내 내요. 동물: 개 <b>bub-bub</b>, 고양이 <b>meu</b>, 소 <b>mu</b>, 수탉 <b>quiquiriquic</b>, 암탉 <b>cloc-cloc</b>, 작은 새 <b>piu-piu</b>, 개구리 <b>roc-roc</b>.", "es": "Los ideófonos imitan sonidos. Animales: perro <b>bub-bub</b>, gato <b>meu</b>, vaca <b>mu</b>, gallo <b>quiquiriquic</b>, gallina <b>cloc-cloc</b>, pájaros <b>piu-piu</b>, rana <b>roc-roc</b>."},
+        {"en": "Everyday sounds: <b>atxim</b> (sneeze), <b>nyam-nyam</b> (eating), <b>tic-tac</b> (clock), <b>xiu-xiu</b> (whispering), <b>xup-xup</b> (boiling), <b>catacrac</b> (breaking), <b>plof</b> (soft fall), <b>pum</b> (explosion).", "ko": "일상 소리: <b>atxim</b>(재채기), <b>nyam-nyam</b>(냠냠), <b>tic-tac</b>(똑딱), <b>xiu-xiu</b>(속삭임), <b>xup-xup</b>(보글보글), <b>catacrac</b>(와장창), <b>plof</b>(푹신하게 떨어짐), <b>pum</b>(펑).", "es": "Sonidos cotidianos: <b>atxim</b> (estornudo), <b>nyam-nyam</b> (comer), <b>tic-tac</b> (reloj), <b>xiu-xiu</b> (susurro), <b>xup-xup</b> (hervir), <b>catacrac</b> (romperse), <b>plof</b> (caída blanda), <b>pum</b> (explosión)."},
+        {"en": "Many expressive words are built by (almost) repeating a syllable, even when they don’t imitate a sound: <b>així-aixà</b> ('so-so'), <b>xano-xano</b> ('slowly, step by step'), <b>bitllo-bitllo</b> ('cash on the nail').", "ko": "많은 표현어는 소리를 흉내 내지 않더라도 음절을 (거의) 반복해서 만들어요: <b>així-aixà</b>('그저 그래'), <b>xano-xano</b>('천천히, 한 걸음씩'), <b>bitllo-bitllo</b>('현금으로 바로').", "es": "Muchas palabras expresivas se forman repitiendo (casi) una sílaba, aunque no imiten un sonido: <b>així-aixà</b> ('así así'), <b>xano-xano</b> ('poco a poco'), <b>bitllo-bitllo</b> ('a toca teja')."},
+        {"en": "Nouns and adjectives too: <b>barrija-barreja</b> / <b>poti-poti</b> ('a jumble, a mess'), <b>ziga-zaga</b> ('zigzag'), <b>de nyigui-nyogui</b> ('poor-quality, flimsy'), <b>leri-leri</b> ('about to happen').", "ko": "명사와 형용사도 있어요: <b>barrija-barreja</b> / <b>poti-poti</b>('뒤죽박죽'), <b>ziga-zaga</b>('지그재그'), <b>de nyigui-nyogui</b>('허술한, 질 낮은'), <b>leri-leri</b>('곧 일어날 듯한').", "es": "También sustantivos y adjetivos: <b>barrija-barreja</b> / <b>poti-poti</b> ('un batiburrillo'), <b>ziga-zaga</b> ('zigzag'), <b>de nyigui-nyogui</b> ('de pacotilla'), <b>leri-leri</b> ('a punto de pasar')."}
+      ],
+      "table": {
+        "head": ["animal", "sound"],
+        "rows": [
+          ["gos (dog)", "bub-bub"],
+          ["gat (cat)", "meu"],
+          ["vaca (cow)", "mu"],
+          ["gall (rooster)", "quiquiriquic"],
+          ["gallina (hen)", "cloc-cloc"],
+          ["ocell (bird)", "piu-piu"],
+          ["granota (frog)", "roc-roc"],
+          ["ovella (sheep)", "be"]
+        ],
+        "speak": [1]
+      },
+      "examples": [
+        {"ca": "El gos del veí fa bub-bub tota la nit.", "en": "The neighbour’s dog goes woof-woof all night.", "ko": "옆집 개가 밤새 멍멍 짖어.", "es": "El perro del vecino hace guau-guau toda la noche."},
+        {"ca": "La sopa ja fa xup-xup.", "en": "The soup is already bubbling.", "ko": "수프가 벌써 보글보글 끓어.", "es": "La sopa ya está hirviendo."},
+        {"ca": "Com va l’examen? — Així-aixà.", "en": "How did the exam go? — So-so.", "ko": "시험 어땠어? — 그저 그래.", "es": "¿Qué tal el examen? — Así así."},
+        {"ca": "La meva habitació és una barrija-barreja.", "en": "My room is a total mess.", "ko": "내 방은 완전 뒤죽박죽이야.", "es": "Mi habitación es un batiburrillo."},
+        {"ca": "Anem pujant la muntanya xano-xano.", "en": "We’re climbing the mountain slowly, step by step.", "ko": "우리는 산을 천천히 올라가고 있어.", "es": "Vamos subiendo la montaña poco a poco."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "ui!", "en": "oops! / ouch!", "ko": "어머! / 아야!", "es": "¡uy!"},
+    {"ca": "ai!", "en": "ouch!", "ko": "아야!", "es": "¡ay!"},
+    {"ca": "ecs!", "en": "yuck!", "ko": "웩!", "es": "¡puaj!"},
+    {"ca": "renoi!", "en": "gosh!, wow!", "ko": "세상에!", "es": "¡caramba!"},
+    {"ca": "visca!", "en": "hooray!, long live!", "ko": "만세!", "es": "¡viva!"},
+    {"ca": "vaja!", "en": "oh no! / what a pity!", "ko": "에이! / 아쉽다!", "es": "¡vaya!"},
+    {"ca": "som-hi!", "en": "let’s go!", "ko": "가자!", "es": "¡vamos!"},
+    {"ca": "vinga!", "en": "come on!", "ko": "어서! / 힘내!", "es": "¡venga!"},
+    {"ca": "compte!", "en": "careful!", "ko": "조심해!", "es": "¡cuidado!"},
+    {"ca": "prou!", "en": "enough!", "ko": "그만!", "es": "¡basta!"},
+    {"ca": "té", "en": "here you are", "ko": "자, 여기", "es": "toma"},
+    {"ca": "Jesús!", "en": "bless you! (after a sneeze)", "ko": "몸조심해! (재채기 후)", "es": "¡Jesús!"},
+    {"ca": "així-aixà", "en": "so-so", "ko": "그저 그래", "es": "así así"},
+    {"ca": "barrija-barreja", "en": "jumble, mess", "ko": "뒤죽박죽", "es": "batiburrillo"},
+    {"ca": "nyam-nyam", "en": "yum-yum (eating)", "ko": "냠냠", "es": "ñam-ñam"}
+  ],
+  "exercises": [
+    {"type": "match", "sec": "19.1",
+     "q": {"en": "Match each interjection with the feeling it shows.", "ko": "감탄사와 그것이 나타내는 감정을 연결하세요.", "es": "Une cada interjección con el sentimiento que expresa."},
+     "pairs": [
+       {"l": "ai!", "r": {"en": "pain", "ko": "아픔", "es": "dolor"}},
+       {"l": "ecs!", "r": {"en": "disgust", "ko": "역겨움", "es": "asco"}},
+       {"l": "visca!", "r": {"en": "joy", "ko": "기쁨", "es": "alegría"}},
+       {"l": "renoi!", "r": {"en": "surprise", "ko": "놀람", "es": "sorpresa"}},
+       {"l": "hum", "r": {"en": "doubt", "ko": "의심", "es": "duda"}}
+     ]},
+    {"type": "mc", "sec": "19.1",
+     "q": {"en": "You touch a hot pan. What do you say?", "ko": "뜨거운 프라이팬을 만졌어요. 뭐라고 할까요?", "es": "Tocas una sartén caliente. ¿Qué dices?"},
+     "options": ["Visca!", "Ai!", "Som-hi!", "Té!"], "answer": 1,
+     "explain": {"en": "'Ai!' expresses pain.", "ko": "'ai!'는 아픔을 나타내요.", "es": "'Ai!' expresa dolor."}},
+    {"type": "mc", "sec": "19.1",
+     "q": {"en": "Someone suggests something impossible. How do you say 'No way!'?", "ko": "누군가 말도 안 되는 제안을 해요. '말도 안 돼!'는?", "es": "Alguien propone algo imposible. ¿Cómo dices '¡Ni hablar!'?"},
+     "options": ["Bravo!", "Eureka!", "Ca barret!", "Upa!"], "answer": 2,
+     "explain": {"en": "'Ca!' / 'Ca barret!' expresses strong disagreement.", "ko": "'ca!' / 'ca barret!'은 강한 반대를 나타내요.", "es": "'Ca!' / 'Ca barret!' expresa un fuerte desacuerdo."}},
+    {"type": "tf", "sec": "19.1",
+     "q": {"en": "'Eureka!' is said when you suddenly find a solution.", "ko": "'eureka!'는 갑자기 해결책을 찾았을 때 말해요.", "es": "'Eureka!' se dice al encontrar de pronto una solución."},
+     "answer": true,
+     "explain": {"en": "'Eureka!' and 'bingo!' celebrate success or a discovery.", "ko": "'eureka!'와 'bingo!'는 성공이나 발견을 기뻐할 때 써요.", "es": "'Eureka!' y 'bingo!' celebran un éxito o un hallazgo."}},
+    {"type": "mc", "sec": "19.1",
+     "q": {"en": "The chocolate has run out. You feel a bit disappointed.", "ko": "초콜릿이 다 떨어졌어요. 조금 실망했어요.", "es": "Se ha acabado el chocolate. Te decepciona un poco."},
+     "options": ["Vaja!", "Hurra!", "Compte!"], "answer": 0,
+     "explain": {"en": "'Vaja!' expresses mild disappointment.", "ko": "'vaja!'는 가벼운 실망을 나타내요.", "es": "'Vaja!' expresa una leve decepción."}},
+    {"type": "mc", "sec": "19.2",
+     "q": {"en": "Your team needs encouragement before the match.", "ko": "경기 전 팀에게 힘을 북돋아야 해요.", "es": "Tu equipo necesita ánimo antes del partido."},
+     "options": ["Prou!", "Ecs!", "Som-hi!", "Ai!"], "answer": 2,
+     "explain": {"en": "'Som-hi!' means 'Let’s go!' and is used to cheer people on.", "ko": "'som-hi!'는 '가자!'라는 뜻으로 응원할 때 써요.", "es": "'Som-hi!' significa '¡Vamos!' y se usa para animar."}},
+    {"type": "fill", "sec": "19.2",
+     "q": {"en": "Warn your friend: 'Careful, the floor is wet!'", "ko": "친구에게 경고하세요: '조심해, 바닥 젖었어!'", "es": "Avisa a tu amigo: '¡Cuidado, el suelo está mojado!'"},
+     "ca": "___, que el terra està moll!",
+     "answer": ["Compte", "Alerta", "Atenció"],
+     "explain": {"en": "'Compte!', 'alerta!' and 'atenció!' are used to warn.", "ko": "'compte!', 'alerta!', 'atenció!'는 경고할 때 써요.", "es": "'Compte!', 'alerta!' y 'atenció!' sirven para advertir."}},
+    {"type": "mc", "sec": "19.2",
+     "q": {"en": "Someone sneezes. What do you say?", "ko": "누군가 재채기를 했어요. 뭐라고 할까요?", "es": "Alguien estornuda. ¿Qué dices?"},
+     "options": ["Té!", "Jesús!", "Visca!"], "answer": 1,
+     "explain": {"en": "After a sneeze, Catalan speakers say 'Jesús!' (like 'Bless you!').", "ko": "재채기 후에는 'Jesús!'라고 해요(영어 'Bless you!'처럼).", "es": "Tras un estornudo se dice 'Jesús!'."}},
+    {"type": "tf", "sec": "19.2",
+     "q": {"en": "'Té' is used when handing something to someone ('here you are').", "ko": "'té'는 무언가를 건넬 때 써요('여기 있어').", "es": "'Té' se usa al dar algo a alguien ('toma')."},
+     "answer": true,
+     "explain": {"en": "'Té' (one person) / 'teniu' (several) = here you are.", "ko": "'té'(한 사람) / 'teniu'(여러 명) = 여기 있어.", "es": "'Té' (a uno) / 'teniu' (a varios) = toma / tomad."}},
+    {"type": "fill", "sec": "19.2",
+     "q": {"en": "Tell your little brothers to stop fighting: 'Enough!'", "ko": "동생들에게 싸움을 멈추라고 하세요: '그만!'", "es": "Diles a tus hermanos que dejen de pelear: '¡Basta!'"},
+     "ca": "___! Deixeu de barallar-vos!",
+     "answer": ["Prou", "Basta"],
+     "explain": {"en": "'Prou!' (or 'basta!') is used to stop or forbid something.", "ko": "'prou!'(또는 'basta!')는 무언가를 멈추게 하거나 금지할 때 써요.", "es": "'Prou!' (o 'basta!') sirve para parar o prohibir algo."}},
+    {"type": "match", "sec": "19.3",
+     "q": {"en": "Match each animal with its sound in Catalan.", "ko": "동물과 카탈루냐어 울음소리를 연결하세요.", "es": "Une cada animal con su sonido en catalán."},
+     "pairs": [
+       {"l": "bub-bub", "r": {"en": "dog", "ko": "개", "es": "perro"}},
+       {"l": "meu", "r": {"en": "cat", "ko": "고양이", "es": "gato"}},
+       {"l": "quiquiriquic", "r": {"en": "rooster", "ko": "수탉", "es": "gallo"}},
+       {"l": "mu", "r": {"en": "cow", "ko": "소", "es": "vaca"}},
+       {"l": "roc-roc", "r": {"en": "frog", "ko": "개구리", "es": "rana"}}
+     ]},
+    {"type": "match", "sec": "19.3",
+     "q": {"en": "Match each sound word with what makes the sound.", "ko": "소리 말과 그 소리를 내는 것을 연결하세요.", "es": "Une cada palabra sonora con lo que produce el sonido."},
+     "pairs": [
+       {"l": "tic-tac", "r": {"en": "a clock", "ko": "시계", "es": "un reloj"}},
+       {"l": "atxim", "r": {"en": "a sneeze", "ko": "재채기", "es": "un estornudo"}},
+       {"l": "nyam-nyam", "r": {"en": "eating", "ko": "먹기", "es": "comer"}},
+       {"l": "xiu-xiu", "r": {"en": "whispering", "ko": "속삭임", "es": "susurrar"}},
+       {"l": "xup-xup", "r": {"en": "boiling", "ko": "끓기", "es": "hervir"}}
+     ]},
+    {"type": "mc", "sec": "19.3",
+     "q": {"en": "'How was the film?' — 'So-so.'", "ko": "'영화 어땠어?' — '그저 그래.'", "es": "'¿Qué tal la película?' — 'Así así.'"},
+     "ca": "Què tal la pel·lícula? — ___.",
+     "options": ["Barrija-barreja", "Bitllo-bitllo", "Així-aixà", "Leri-leri"], "answer": 2,
+     "explain": {"en": "'Així-aixà' means 'neither well nor badly'.", "ko": "'així-aixà'는 '좋지도 나쁘지도 않게'라는 뜻이에요.", "es": "'Així-aixà' significa 'ni bien ni mal'."}},
+    {"type": "mc", "sec": "19.3",
+     "q": {"en": "Which word describes a messy jumble?", "ko": "뒤죽박죽인 상태를 나타내는 말은?", "es": "¿Qué palabra describe un batiburrillo?"},
+     "options": ["poti-poti", "tic-tac", "xano-xano"], "answer": 0,
+     "explain": {"en": "'Poti-poti' and 'barrija-barreja' mean a jumble or mess.", "ko": "'poti-poti'와 'barrija-barreja'는 뒤죽박죽이라는 뜻이에요.", "es": "'Poti-poti' y 'barrija-barreja' significan un revoltijo."}},
+    {"type": "tf", "sec": "19.3",
+     "q": {"en": "A toy 'de nyigui-nyogui' is very good quality.", "ko": "'de nyigui-nyogui'인 장난감은 품질이 아주 좋아요.", "es": "Un juguete 'de nyigui-nyogui' es de muy buena calidad."},
+     "answer": false,
+     "explain": {"en": "'De nyigui-nyogui' means flimsy, poor quality.", "ko": "'de nyigui-nyogui'는 허술하고 질이 낮다는 뜻이에요.", "es": "'De nyigui-nyogui' significa de mala calidad, de pacotilla."}},
+    {"type": "mc", "sec": "19.3",
+     "q": {"en": "The glass fell and broke into pieces. Which sound fits?", "ko": "유리잔이 떨어져 산산조각 났어요. 어울리는 소리는?", "es": "El vaso se cayó y se rompió. ¿Qué sonido encaja?"},
+     "options": ["piu-piu", "xiu-xiu", "nyam-nyam", "catacrac"], "answer": 3,
+     "explain": {"en": "'Catacrac' (or 'crac') imitates something breaking.", "ko": "'catacrac'(또는 'crac')은 무언가 깨지는 소리를 흉내 내요.", "es": "'Catacrac' (o 'crac') imita algo que se rompe."}}
+  ]
+}

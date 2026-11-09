@@ -1,0 +1,109 @@
+{
+  "id": 2,
+  "part": 1,
+  "icon": "📜",
+  "title": {"ca": "El català entre les llengües romàniques", "en": "Catalan among the other Romance languages", "ko": "로망스어 속의 카탈루냐어", "es": "El catalán entre las lenguas románicas"},
+  "summary": {
+    "en": "Catalan grew out of Latin, like Spanish, French, Italian and Portuguese, but its long history of invasions, kingdoms and writers gave it its own personality. This chapter tells the story of Catalan from the Romans to the modern standard language, and introduces the people who shaped it.",
+    "ko": "카탈루냐어는 스페인어, 프랑스어, 이탈리아어, 포르투갈어처럼 라틴어에서 나왔지만, 여러 침략과 왕국, 작가들의 긴 역사 덕분에 고유한 개성을 갖게 되었어요. 이 장에서는 로마 시대부터 현대 표준어까지 카탈루냐어의 이야기와 그 언어를 만든 사람들을 소개해요.",
+    "es": "El catalán nació del latín, como el castellano, el francés, el italiano y el portugués, pero su larga historia de invasiones, reinos y escritores le dio una personalidad propia. Este capítulo cuenta la historia del catalán desde los romanos hasta la lengua estándar moderna."
+  },
+  "goals": [
+    {"en": "You will be able to place Catalan in the Romance language family and name its closest relative.", "ko": "카탈루냐어를 로망스어족 안에 위치시키고 가장 가까운 언어를 말할 수 있어요.", "es": "Podrás situar el catalán en la familia románica y nombrar su pariente más cercano."},
+    {"en": "You will be able to name the first texts and great medieval authors in Catalan.", "ko": "카탈루냐어 최초의 문헌과 중세의 위대한 작가들을 말할 수 있어요.", "es": "Podrás nombrar los primeros textos y los grandes autores medievales en catalán."},
+    {"en": "You will be able to explain the key dates of decline and recovery of the language.", "ko": "언어의 쇠퇴와 부흥에 관한 핵심 연도를 설명할 수 있어요.", "es": "Podrás explicar las fechas clave del declive y la recuperación de la lengua."},
+    {"en": "You will be able to compare simple Catalan words with their Romance cousins.", "ko": "간단한 카탈루냐어 단어를 다른 로망스어 단어와 비교할 수 있어요.", "es": "Podrás comparar palabras catalanas sencillas con sus parientes románicas."}
+  ],
+  "sections": [
+    {
+      "id": "2.1",
+      "title": {"ca": "Els orígens: del llatí al català", "en": "Origins: from Latin to Catalan", "ko": "기원: 라틴어에서 카탈루냐어로", "es": "Los orígenes: del latín al catalán"},
+      "points": [
+        {"en": "The Romans arrived in 218 BC and brought Latin. Older local languages like Iberian and Basque left traces, especially in the Pyrenees.", "ko": "로마인은 기원전 218년에 들어와 라틴어를 가져왔어요. 이베리아어와 바스크어 같은 옛 토착 언어들도 특히 피레네 산맥 쪽에 흔적을 남겼어요.", "es": "Los romanos llegaron en el 218 a. C. y trajeron el latín. Lenguas anteriores, como el ibérico y el vasco, dejaron huellas, sobre todo en los Pirineos."},
+        {"en": "Later waves left their mark too: Germanic peoples (5th century), the Arabs (from 711) and the Franks, who reached Barcelona in 801 and created counties.", "ko": "이후의 물결도 흔적을 남겼어요: 게르만족(5세기), 아랍인(711년부터), 그리고 801년 바르셀로나에 도착해 백작령을 세운 프랑크족이에요.", "es": "Otras oleadas también dejaron huella: los pueblos germánicos (siglo V), los árabes (desde 711) y los francos, que llegaron a Barcelona en 801 y crearon condados."},
+        {"en": "Those counties united and expanded: Lleida and Tortosa (12th c.), then Majorca and Valencia (13th c.), and Alghero (1354).", "ko": "이 백작령들은 하나로 합쳐져 영토를 넓혔어요: 레이다와 토르토사(12세기), 마요르카와 발렌시아(13세기), 그리고 알게로(1354년)예요.", "es": "Esos condados se unieron y se expandieron: Lleida y Tortosa (s. XII), después Mallorca y Valencia (s. XIII) y Alghero (1354)."},
+        {"en": "Catalan’s closest relative is <b>Occitan</b>, spoken in southern France. Medieval Catalan poets even wrote in Occitan.", "ko": "카탈루냐어와 가장 가까운 언어는 남프랑스의 <b>오크어</b>(occità)예요. 중세 카탈루냐 시인들은 오크어로 시를 쓰기도 했어요.", "es": "El pariente más cercano del catalán es el <b>occitano</b>, hablado en el sur de Francia. Los trovadores catalanes incluso escribían en occitano."}
+      ],
+      "table": {
+        "head": ["Latin", "Catalan", "Spanish", "French", "Italian"],
+        "rows": [
+          ["nox / noctem", "nit", "noche", "nuit", "notte"],
+          ["lingua", "llengua", "lengua", "langue", "lingua"],
+          ["schola", "escola", "escuela", "école", "scuola"],
+          ["filius", "fill", "hijo", "fils", "figlio"],
+          ["focus", "foc", "fuego", "feu", "fuoco"]
+        ],
+        "speak": [1]
+      },
+      "examples": [
+        {"ca": "El català ve del llatí.", "en": "Catalan comes from Latin.", "ko": "카탈루냐어는 라틴어에서 왔어.", "es": "El catalán viene del latín."},
+        {"ca": "L’occità és molt semblant al català.", "en": "Occitan is very similar to Catalan.", "ko": "오크어는 카탈루냐어와 아주 비슷해.", "es": "El occitano es muy parecido al catalán."},
+        {"ca": "Bona nit a tothom!", "en": "Good night, everyone!", "ko": "모두들 잘 자!", "es": "¡Buenas noches a todos!"}
+      ]
+    },
+    {
+      "id": "2.2",
+      "title": {"ca": "Els primers textos i l’edat d’or", "en": "First texts and the golden age", "ko": "최초의 문헌과 황금기", "es": "Los primeros textos y la edad de oro"},
+      "points": [
+        {"en": "By the 10th century, everyday words in documents already show a language different from Latin.", "ko": "10세기 무렵 문서 속 일상 단어들은 이미 라틴어와 다른 언어를 보여 줘요.", "es": "Hacia el siglo X, las palabras cotidianas de los documentos ya muestran una lengua distinta del latín."},
+        {"en": "In the 12th century the first texts appear: the <b>Llibre jutge</b> (a translated law code) and the <b>Homilies d’Organyà</b>, sermons written fully in Catalan.", "ko": "12세기에 최초의 문헌이 나타나요: 번역된 법전인 <b>Llibre jutge</b>와 완전히 카탈루냐어로 쓰인 설교집 <b>Homilies d’Organyà</b>예요.", "es": "En el siglo XII aparecen los primeros textos: el <b>Llibre jutge</b> (un código legal traducido) y las <b>Homilies d’Organyà</b>, sermones escritos totalmente en catalán."},
+        {"en": "The 13th century belongs to <b>Ramon Llull</b> from Majorca, who wrote novels, philosophy and theology in Catalan. Chronicles like the <b>Llibre dels fets</b> were also written.", "ko": "13세기는 마요르카 출신 <b>라몬 률</b>의 시대예요. 그는 소설, 철학, 신학을 카탈루냐어로 썼어요. <b>Llibre dels fets</b> 같은 연대기도 쓰였어요.", "es": "El siglo XIII es el de <b>Ramon Llull</b>, mallorquín, que escribió novelas, filosofía y teología en catalán. También se escribieron crónicas como el <b>Llibre dels fets</b>."},
+        {"en": "In the 15th century, the Valencian poet <b>Ausiàs March</b> renewed poetry, moving from the troubadour style toward the Renaissance.", "ko": "15세기에는 발렌시아 시인 <b>아우지아스 마르크</b>가 음유시인 전통에서 르네상스로 넘어가는 새로운 시를 열었어요.", "es": "En el siglo XV, el poeta valenciano <b>Ausiàs March</b> renovó la poesía, del estilo trovadoresco hacia el Renacimiento."}
+      ],
+      "examples": [
+        {"ca": "Ramon Llull era de Mallorca.", "en": "Ramon Llull was from Majorca.", "ko": "라몬 률은 마요르카 출신이었어.", "es": "Ramon Llull era de Mallorca."},
+        {"ca": "M’agrada llegir poesia.", "en": "I like reading poetry.", "ko": "나는 시 읽는 걸 좋아해.", "es": "Me gusta leer poesía."},
+        {"ca": "Aquest llibre és molt antic.", "en": "This book is very old.", "ko": "이 책은 아주 오래됐어.", "es": "Este libro es muy antiguo."}
+      ]
+    },
+    {
+      "id": "2.3",
+      "title": {"ca": "Decadència i recuperació", "en": "Decline and recovery", "ko": "쇠퇴와 부흥", "es": "Decadencia y recuperación"},
+      "points": [
+        {"en": "1659: with the Treaty of the Pyrenees, Northern Catalonia became French and Catalan began to lose ground there.", "ko": "1659년: 피레네 조약으로 북카탈루냐가 프랑스 땅이 되면서 그곳의 카탈루냐어가 약해지기 시작했어요.", "es": "1659: con el Tratado de los Pirineos, Cataluña del Norte pasó a Francia y allí el catalán empezó a retroceder."},
+        {"en": "1715: after the War of Succession, Castilian laws were imposed south of the Pyrenees. Still, Catalan stayed the everyday language of the people.", "ko": "1715년: 왕위 계승 전쟁 이후 피레네 남쪽에 카스티야 법이 강요되었어요. 그래도 카탈루냐어는 사람들의 일상 언어로 남았어요.", "es": "1715: tras la Guerra de Sucesión, se impusieron las leyes castellanas al sur de los Pirineos. Aun así, el catalán siguió siendo la lengua cotidiana."},
+        {"en": "From the 19th century, a cultural revival (the <b>Renaixença</b>) brought Catalan back into literature and art.", "ko": "19세기부터 문화 부흥 운동(<b>Renaixença</b>)이 카탈루냐어를 문학과 예술로 되돌려 놓았어요.", "es": "Desde el siglo XIX, un renacimiento cultural (la <b>Renaixença</b>) devolvió el catalán a la literatura y al arte."},
+        {"en": "Linguists <b>Pompeu Fabra</b> and <b>Antoni Maria Alcover</b> worked to standardise it, and in 1911 the <b>Institut d’Estudis Catalans</b> (IEC) became its language academy.", "ko": "언어학자 <b>폼페우 파브라</b>와 <b>안토니 마리아 알코베르</b>가 표준화를 위해 일했고, 1911년 <b>Institut d’Estudis Catalans</b>(IEC)가 언어 아카데미가 되었어요.", "es": "Los lingüistas <b>Pompeu Fabra</b> y <b>Antoni Maria Alcover</b> trabajaron en su normalización, y en 1911 el <b>Institut d’Estudis Catalans</b> (IEC) se convirtió en su academia."},
+        {"en": "Franco’s dictatorship (1939–1975) was the biggest recent obstacle; with democracy, Catalan regained official use.", "ko": "프랑코 독재(1939–1975)는 최근의 가장 큰 장애물이었어요. 민주화 이후 카탈루냐어는 공식적인 사용을 되찾았어요.", "es": "La dictadura de Franco (1939–1975) fue el mayor obstáculo reciente; con la democracia, el catalán recuperó su uso oficial."}
+      ],
+      "examples": [
+        {"ca": "L’IEC fa el diccionari oficial.", "en": "The IEC makes the official dictionary.", "ko": "IEC는 공식 사전을 만들어.", "es": "El IEC hace el diccionario oficial."},
+        {"ca": "Busco la paraula al diccionari.", "en": "I look the word up in the dictionary.", "ko": "나는 그 단어를 사전에서 찾아봐.", "es": "Busco la palabra en el diccionario."},
+        {"ca": "La història del català és molt interessant.", "en": "The history of Catalan is very interesting.", "ko": "카탈루냐어의 역사는 아주 흥미로워.", "es": "La historia del catalán es muy interesante."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "el llatí", "en": "Latin", "ko": "라틴어", "es": "el latín"},
+    {"ca": "l’occità", "en": "Occitan", "ko": "오크어", "es": "el occitano"},
+    {"ca": "la llengua romànica", "en": "Romance language", "ko": "로망스어", "es": "la lengua románica"},
+    {"ca": "el llibre", "en": "book", "ko": "책", "es": "el libro"},
+    {"ca": "el poeta", "en": "poet", "ko": "시인", "es": "el poeta"},
+    {"ca": "la paraula", "en": "word", "ko": "단어", "es": "la palabra"},
+    {"ca": "el diccionari", "en": "dictionary", "ko": "사전", "es": "el diccionario"},
+    {"ca": "la història", "en": "history; story", "ko": "역사; 이야기", "es": "la historia"},
+    {"ca": "el segle", "en": "century", "ko": "세기", "es": "el siglo"},
+    {"ca": "la nit", "en": "night", "ko": "밤", "es": "la noche"},
+    {"ca": "el fill", "en": "son", "ko": "아들", "es": "el hijo"},
+    {"ca": "l’escola", "en": "school", "ko": "학교", "es": "la escuela"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "2.1", "q": {"en": "Which language is Catalan’s closest relative?", "ko": "카탈루냐어와 가장 가까운 언어는?", "es": "¿Cuál es el pariente más cercano del catalán?"}, "options": ["Italian", "Basque", "Portuguese", "Occitan"], "answer": 3, "explain": {"en": "Occitan, from southern France, is the closest; medieval Catalan troubadours even wrote in it.", "ko": "남프랑스의 오크어가 가장 가까워요. 중세 카탈루냐 음유시인들은 오크어로 시를 쓰기도 했어요.", "es": "El occitano, del sur de Francia, es el más cercano; los trovadores catalanes incluso escribían en él."}},
+    {"type": "tf", "sec": "2.1", "q": {"en": "Basque is a Romance language like Catalan.", "ko": "바스크어는 카탈루냐어처럼 로망스어다.", "es": "El vasco es una lengua románica como el catalán."}, "answer": false, "explain": {"en": "False: Basque is a pre-Roman language, not descended from Latin.", "ko": "틀려요. 바스크어는 로마 이전부터 있던 언어로, 라틴어에서 나오지 않았어요.", "es": "Falso: el vasco es una lengua prerromana, no viene del latín."}},
+    {"type": "mc", "sec": "2.2", "q": {"en": "Who was the great 13th-century writer from Majorca?", "ko": "13세기 마요르카 출신의 위대한 작가는 누구일까요?", "es": "¿Quién fue el gran escritor mallorquín del siglo XIII?"}, "options": ["Ramon Llull", "Pompeu Fabra", "Ausiàs March", "Antoni Gaudí"], "answer": 0, "explain": {"en": "Ramon Llull (1232–1315) wrote novels, philosophy and theology in Catalan.", "ko": "라몬 률(1232–1315)은 소설, 철학, 신학을 카탈루냐어로 썼어요.", "es": "Ramon Llull (1232–1315) escribió novelas, filosofía y teología en catalán."}},
+    {"type": "mc", "sec": "2.3", "q": {"en": "Which institution is the language academy of Catalan (founded 1911)?", "ko": "카탈루냐어의 언어 아카데미(1911년 설립)는?", "es": "¿Qué institución es la academia de la lengua catalana (fundada en 1911)?"}, "options": ["Real Academia Española", "Institut d’Estudis Catalans", "Universitat de Perpinyà", "Ràdio Nacional d’Andorra"], "answer": 1, "explain": {"en": "The IEC’s Philological Section is in charge of the official dictionary and grammar.", "ko": "IEC의 문헌학 분과가 공식 사전과 문법을 맡고 있어요.", "es": "La Sección Filológica del IEC se encarga del diccionario y la gramática oficiales."}},
+    {"type": "match", "sec": "2.3", "q": {"en": "Match each date with the event.", "ko": "연도와 사건을 연결하세요.", "es": "Une cada fecha con su acontecimiento."}, "pairs": [
+      {"l": "801", "r": {"en": "The Franks reach Barcelona", "ko": "프랑크족이 바르셀로나에 도착", "es": "Los francos llegan a Barcelona"}},
+      {"l": "1659", "r": {"en": "Northern Catalonia becomes French", "ko": "북카탈루냐가 프랑스령이 됨", "es": "Cataluña del Norte pasa a Francia"}},
+      {"l": "1715", "r": {"en": "End of the War of Succession", "ko": "왕위 계승 전쟁 종결", "es": "Fin de la Guerra de Sucesión"}},
+      {"l": "1911", "r": {"en": "The IEC becomes the language academy", "ko": "IEC가 언어 아카데미가 됨", "es": "El IEC se convierte en academia de la lengua"}}
+    ]},
+    {"type": "fill", "sec": "2.1", "q": {"en": "Latin 'nox' (night) became ___ in Catalan.", "ko": "라틴어 'nox'(밤)는 카탈루냐어로 ___가 되었어요.", "es": "El latín 'nox' (noche) dio ___ en catalán."}, "ca": "Bona ___!", "answer": ["nit"], "explain": {"en": "'Nit' = night; 'Bona nit!' means 'Good night!'.", "ko": "'nit'는 '밤'이에요. 'Bona nit!'는 '잘 자!'라는 뜻이에요.", "es": "'Nit' = noche; 'Bona nit!' significa '¡Buenas noches!'."}},
+    {"type": "mc", "sec": "2.1", "q": {"en": "Which Catalan word means 'school'?", "ko": "'학교'를 뜻하는 카탈루냐어는?", "es": "¿Qué palabra catalana significa 'escuela'?"}, "options": ["escuela", "scuola", "escola", "école"], "answer": 2, "explain": {"en": "Catalan 'escola'; 'escuela' is Spanish, 'scuola' Italian, 'école' French.", "ko": "카탈루냐어는 'escola'예요. 'escuela'는 스페인어, 'scuola'는 이탈리아어, 'école'는 프랑스어예요.", "es": "En catalán es 'escola'; 'escuela' es castellano, 'scuola' italiano y 'école' francés."}},
+    {"type": "tf", "sec": "2.2", "q": {"en": "The Homilies d’Organyà are sermons written in Catalan around the late 12th or early 13th century.", "ko": "Homilies d’Organyà는 12세기 말이나 13세기 초에 카탈루냐어로 쓰인 설교집이다.", "es": "Las Homilies d’Organyà son sermones escritos en catalán hacia finales del siglo XII o inicios del XIII."}, "answer": true, "explain": {"en": "True: they are one of the earliest complete texts in Catalan.", "ko": "맞아요. 카탈루냐어로 쓰인 가장 오래된 완전한 문헌 중 하나예요.", "es": "Verdadero: son uno de los primeros textos completos en catalán."}},
+    {"type": "fill", "sec": "2.2", "q": {"en": "Complete: 'I like reading poetry.'", "ko": "완성하세요: '나는 시 읽는 걸 좋아해.'", "es": "Completa: 'Me gusta leer poesía.'"}, "ca": "M’agrada ___ poesia.", "answer": ["llegir"], "explain": {"en": "'Llegir' = to read; after 'm’agrada' we use the infinitive.", "ko": "'llegir'는 '읽다'예요. 'm’agrada' 뒤에는 동사 원형을 써요.", "es": "'Llegir' = leer; después de 'm’agrada' va el infinitivo."}},
+    {"type": "mc", "sec": "2.3", "q": {"en": "Which linguist is famous for standardising modern Catalan?", "ko": "현대 카탈루냐어 표준화로 유명한 언어학자는?", "es": "¿Qué lingüista es famoso por normativizar el catalán moderno?"}, "options": ["Ausiàs March", "Pompeu Fabra", "Ramon Llull"], "answer": 1, "explain": {"en": "Pompeu Fabra (1868–1948), together with Alcover, laid the basis of the modern standard.", "ko": "폼페우 파브라(1868–1948)가 알코베르와 함께 현대 표준어의 기초를 놓았어요.", "es": "Pompeu Fabra (1868–1948), junto con Alcover, sentó las bases del estándar moderno."}},
+    {"type": "order", "sec": "2.1", "q": {"en": "Build: 'Catalan comes from Latin.'", "ko": "문장을 만드세요: '카탈루냐어는 라틴어에서 왔어.'", "es": "Ordena: 'El catalán viene del latín.'"}, "words": ["El", "català", "ve", "del", "llatí"], "answer": "El català ve del llatí", "explain": {"en": "'Ve' = comes; 'del' = de + el (from the).", "ko": "'ve'는 '오다'의 3인칭이고, 'del'은 de + el이 합쳐진 거예요.", "es": "'Ve' = viene; 'del' = de + el."}},
+    {"type": "tf", "sec": "2.3", "q": {"en": "After 1715, Catalan immediately stopped being spoken in everyday life.", "ko": "1715년 이후 카탈루냐어는 일상생활에서 곧바로 쓰이지 않게 되었다.", "es": "Después de 1715, el catalán dejó de hablarse inmediatamente en la vida cotidiana."}, "answer": false, "explain": {"en": "False: it lost official use, but people kept speaking it every day until large migrations in the 20th century.", "ko": "틀려요. 공식적인 지위는 잃었지만, 20세기 대규모 이주 전까지 사람들은 매일 카탈루냐어를 썼어요.", "es": "Falso: perdió el uso oficial, pero la gente siguió hablándolo a diario hasta las grandes migraciones del siglo XX."}}
+  ]
+}

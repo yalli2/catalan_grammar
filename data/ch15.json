@@ -1,0 +1,796 @@
+{
+  "id": 15,
+  "part": 4,
+  "icon": "🔎",
+  "title": {
+    "ca": "Definir",
+    "en": "Defining",
+    "ko": "정의하기",
+    "es": "Definir"
+  },
+  "summary": {
+    "en": "This chapter is about saying what something is and what it is like. You will review how articles define nouns and then study copulative sentences: when to use ser, estar or haver-hi, how to talk about place and time, and verbs like semblar or quedar-se that work like 'to be'.",
+    "ko": "이 장은 무엇이 무엇인지, 어떤지를 말하는 방법을 다뤄요. 관사가 명사를 한정하는 방식을 복습하고, 계사문(ser, estar, haver-hi의 선택), 장소와 시간 표현, 그리고 'to be'처럼 쓰이는 semblar, quedar-se 같은 동사를 배워요.",
+    "es": "Este capítulo trata de decir qué es algo y cómo es. Repasarás cómo los artículos definen los sustantivos y estudiarás las oraciones copulativas: cuándo usar ser, estar o haver-hi, cómo hablar de lugar y tiempo, y verbos como semblar o quedar-se que funcionan como 'ser'."
+  },
+  "goals": [
+    {
+      "en": "You will be able to choose the right article form (el, la, l’, els, les, en…).",
+      "ko": "알맞은 관사 형태(el, la, l’, els, les, en…)를 고를 수 있어요.",
+      "es": "Podrás elegir la forma correcta del artículo (el, la, l’, els, les, en…)."
+    },
+    {
+      "en": "You will be able to choose between ser and estar to describe people and things.",
+      "ko": "사람과 사물을 묘사할 때 ser와 estar 중 알맞은 것을 고를 수 있어요.",
+      "es": "Podrás elegir entre ser y estar para describir personas y cosas."
+    },
+    {
+      "en": "You will be able to say where something is and that something exists (haver-hi).",
+      "ko": "무언가가 어디에 있는지, 무언가가 존재한다는 것(haver-hi)을 말할 수 있어요.",
+      "es": "Podrás decir dónde está algo y que algo existe (haver-hi)."
+    },
+    {
+      "en": "You will be able to tell the day and date and use verbs like semblar.",
+      "ko": "요일과 날짜를 말하고 semblar 같은 동사를 쓸 수 있어요.",
+      "es": "Podrás decir el día y la fecha y usar verbos como semblar."
+    }
+  ],
+  "sections": [
+    {
+      "id": "15.1",
+      "title": {
+        "ca": "L’article",
+        "en": "The article",
+        "ko": "관사",
+        "es": "El artículo"
+      },
+      "points": [
+        {
+          "en": "The main job of the definite article is to define: it shows that we mean a specific, known thing.",
+          "ko": "정관사의 주된 역할은 한정이에요. 특정하고 알려진 대상을 가리킨다는 것을 보여 줘요.",
+          "es": "La función principal del artículo definido es definir: indica que hablamos de algo concreto y conocido."
+        },
+        {
+          "en": "Before a vowel or h, <b>el</b> and <b>la</b> become <b>l’</b>: <b>l’institut</b>, <b>l’amiga</b>. But <b>la</b> stays before unstressed i/u: <b>la universitat</b>, <b>la història</b>.",
+          "ko": "모음이나 h 앞에서 <b>el</b>과 <b>la</b>는 <b>l’</b>이 돼요: <b>l’institut</b>, <b>l’amiga</b>. 하지만 강세 없는 i/u 앞에서는 <b>la</b>를 그대로 써요: <b>la universitat</b>, <b>la història</b>.",
+          "es": "Ante vocal o h, <b>el</b> y <b>la</b> se convierten en <b>l’</b>: <b>l’institut</b>, <b>l’amiga</b>. Pero <b>la</b> se mantiene ante i/u átonas: <b>la universitat</b>, <b>la història</b>."
+        },
+        {
+          "en": "<b>A</b>, <b>de</b>, <b>per</b> combine with <b>el/els</b>: <b>al, als, del, dels, pel, pels</b>.",
+          "ko": "<b>a</b>, <b>de</b>, <b>per</b>는 <b>el/els</b>와 합쳐져요: <b>al, als, del, dels, pel, pels</b>.",
+          "es": "<b>A</b>, <b>de</b>, <b>per</b> se contraen con <b>el/els</b>: <b>al, als, del, dels, pel, pels</b>."
+        },
+        {
+          "en": "Unlike English, Catalan uses the article for general ideas: <b>M’agrada la música</b> ('I like music').",
+          "ko": "영어와 달리 일반적인 개념에도 관사를 써요: <b>M’agrada la música</b>('나는 음악을 좋아해').",
+          "es": "Igual que en español, el catalán usa el artículo para ideas generales: <b>M’agrada la música</b>."
+        },
+        {
+          "en": "Names of people take the personal article: <b>en</b> (masc.), <b>la</b> (fem.), <b>l’</b> before a vowel: <b>en Pau</b>, <b>la Marta</b>, <b>l’Anna</b>.",
+          "ko": "사람 이름 앞에는 인명 관사를 써요: 남성 <b>en</b>, 여성 <b>la</b>, 모음 앞 <b>l’</b>: <b>en Pau</b>, <b>la Marta</b>, <b>l’Anna</b>.",
+          "es": "Los nombres de persona llevan artículo personal: <b>en</b> (masc.), <b>la</b> (fem.), <b>l’</b> ante vocal: <b>en Pau</b>, <b>la Marta</b>, <b>l’Anna</b>."
+        }
+      ],
+      "table": {
+        "head": [
+          "",
+          "masc.",
+          "fem."
+        ],
+        "rows": [
+          [
+            "sing.",
+            "el / l’",
+            "la / l’"
+          ],
+          [
+            "plur.",
+            "els",
+            "les"
+          ],
+          [
+            "personal",
+            "en / l’",
+            "la / l’"
+          ],
+          [
+            "indef. sing.",
+            "un",
+            "una"
+          ],
+          [
+            "indef. plur.",
+            "uns",
+            "unes"
+          ]
+        ],
+        "speak": [
+          1,
+          2
+        ]
+      },
+      "examples": [
+        {
+          "ca": "L’institut és a prop del parc.",
+          "en": "The secondary school is near the park.",
+          "ko": "학교는 공원 근처에 있어.",
+          "es": "El instituto está cerca del parque."
+        },
+        {
+          "ca": "En Pau i l’Anna van a la universitat.",
+          "en": "Pau and Anna go to university.",
+          "ko": "파우와 안나는 대학교에 다녀.",
+          "es": "Pau y Anna van a la universidad."
+        },
+        {
+          "ca": "M’encanta el bàsquet.",
+          "en": "I love basketball.",
+          "ko": "나는 농구가 정말 좋아.",
+          "es": "Me encanta el baloncesto."
+        }
+      ]
+    },
+    {
+      "id": "15.2",
+      "title": {
+        "ca": "Les oracions copulatives",
+        "en": "Copulative sentences (ser, estar, semblar…)",
+        "ko": "계사문 (ser, estar, semblar…)",
+        "es": "Las oraciones copulativas (ser, estar, semblar…)"
+      },
+      "points": [
+        {
+          "en": "<b>Ser</b> links two noun phrases like an equation: <b>La Marta és la capitana.</b> If one of them is plural, the verb is usually plural: <b>El millor són els amics.</b>",
+          "ko": "<b>ser</b>는 두 명사구를 등식처럼 연결해요: <b>La Marta és la capitana.</b> 둘 중 하나가 복수면 동사도 보통 복수예요: <b>El millor són els amics.</b>",
+          "es": "<b>Ser</b> une dos sintagmas nominales como una ecuación: <b>La Marta és la capitana.</b> Si uno es plural, el verbo suele ir en plural: <b>El millor són els amics.</b>"
+        },
+        {
+          "en": "To describe: <b>ser</b> for lasting qualities (<b>és alt</b>), <b>estar</b> for temporary states (<b>està cansat</b>). Many participles of a finished process use <b>estar</b>: <b>està trencat, acabat, preocupat</b>.",
+          "ko": "묘사할 때: 지속적인 성질은 <b>ser</b>(<b>és alt</b>), 일시적인 상태는 <b>estar</b>(<b>està cansat</b>). 과정이 끝난 상태를 나타내는 과거분사는 대부분 <b>estar</b>와 써요: <b>està trencat, acabat, preocupat</b>.",
+          "es": "Para describir: <b>ser</b> para cualidades duraderas (<b>és alt</b>), <b>estar</b> para estados temporales (<b>està cansat</b>). Muchos participios de un proceso acabado van con <b>estar</b>: <b>està trencat, acabat, preocupat</b>."
+        },
+        {
+          "en": "<b>Estar</b> also goes with manner adverbs (<b>estic bé</b>), state phrases (<b>de vacances, de baixa, de festa</b>) and opinions (<b>estar d’acord, a favor de, en contra de</b>).",
+          "ko": "<b>estar</b>는 방식 부사(<b>estic bé</b>), 상태 표현(<b>de vacances, de baixa, de festa</b>), 의견 표현(<b>estar d’acord, a favor de, en contra de</b>)과도 써요.",
+          "es": "<b>Estar</b> también va con adverbios de modo (<b>estic bé</b>), expresiones de estado (<b>de vacances, de baixa, de festa</b>) y opiniones (<b>estar d’acord, a favor de, en contra de</b>)."
+        },
+        {
+          "en": "Some adjectives change meaning: <b>ser orgullós</b> = arrogant (a trait), <b>estar orgullós de</b> = proud of someone (a feeling).",
+          "ko": "일부 형용사는 의미가 달라져요: <b>ser orgullós</b> = 거만하다(성격), <b>estar orgullós de</b> = ~가 자랑스럽다(감정).",
+          "es": "Algunos adjetivos cambian de sentido: <b>ser orgullós</b> = soberbio (rasgo), <b>estar orgullós de</b> = orgulloso de alguien (sentimiento)."
+        },
+        {
+          "en": "Location normally uses <b>ser</b>: <b>Les claus són a la taula.</b> Use <b>estar</b> for where someone lives or works, for points on a scale (<b>està a 38 de febre</b>) and for figurative places (<b>estic al cel</b>). <b>Estar-se</b> = to stay.",
+          "ko": "위치는 보통 <b>ser</b>를 써요: <b>Les claus són a la taula.</b> 사는 곳·일하는 곳, 수치(<b>està a 38 de febre</b>), 비유적 장소(<b>estic al cel</b>)에는 <b>estar</b>를 써요. <b>estar-se</b> = 머무르다.",
+          "es": "La ubicación suele ir con <b>ser</b>: <b>Les claus són a la taula.</b> Se usa <b>estar</b> para dónde vive o trabaja alguien, puntos de una escala (<b>està a 38 de febre</b>) y lugares figurados (<b>estic al cel</b>). <b>Estar-se</b> = quedarse."
+        },
+        {
+          "en": "To say that something exists, use <b>haver-hi</b>: <b>Hi ha tres gats al pati.</b> If the person is known and is the topic, use <b>ser-hi</b>: <b>En Marc no hi és.</b>",
+          "ko": "무언가가 존재한다고 말할 때는 <b>haver-hi</b>를 써요: <b>Hi ha tres gats al pati.</b> 알려진 사람이 주제가 되면 <b>ser-hi</b>를 써요: <b>En Marc no hi és.</b>",
+          "es": "Para decir que algo existe se usa <b>haver-hi</b>: <b>Hi ha tres gats al pati.</b> Si la persona es conocida y es el tema, se usa <b>ser-hi</b>: <b>En Marc no hi és.</b>"
+        },
+        {
+          "en": "Time and dates: <b>Avui és dimarts</b> / <b>Avui som dimarts</b>. With a preposition use <b>estar</b>: <b>Avui estem a 5 de maig.</b>",
+          "ko": "시간과 날짜: <b>Avui és dimarts</b> / <b>Avui som dimarts</b>. 전치사가 오면 <b>estar</b>를 써요: <b>Avui estem a 5 de maig.</b>",
+          "es": "Hora y fechas: <b>Avui és dimarts</b> / <b>Avui som dimarts</b>. Con preposición se usa <b>estar</b>: <b>Avui estem a 5 de maig.</b>"
+        },
+        {
+          "en": "Semi-copulative verbs add a nuance: <b>semblar / parèixer</b> (seem), <b>continuar</b> (still be), <b>tornar-se, esdevenir</b> (become), <b>quedar-se, romandre</b> (remain), <b>acabar</b> (end up).",
+          "ko": "준계사 동사는 뉘앙스를 더해요: <b>semblar / parèixer</b>(~처럼 보이다), <b>continuar</b>(계속 ~이다), <b>tornar-se, esdevenir</b>(~가 되다), <b>quedar-se, romandre</b>(~인 채로 남다), <b>acabar</b>(결국 ~이 되다).",
+          "es": "Los verbos semicopulativos añaden un matiz: <b>semblar / parèixer</b> (parecer), <b>continuar</b> (seguir), <b>tornar-se, esdevenir</b> (volverse), <b>quedar-se, romandre</b> (quedarse), <b>acabar</b> (acabar siendo)."
+        }
+      ],
+      "table": {
+        "head": [
+          "use",
+          "verb",
+          "example"
+        ],
+        "rows": [
+          [
+            "identity",
+            "ser",
+            "La Marta és la capitana."
+          ],
+          [
+            "lasting quality",
+            "ser",
+            "El meu avi és alt."
+          ],
+          [
+            "temporary state",
+            "estar",
+            "Avui estic cansada."
+          ],
+          [
+            "location",
+            "ser",
+            "El mòbil és a la motxilla."
+          ],
+          [
+            "where one lives",
+            "estar",
+            "La meva tia està a Reus."
+          ],
+          [
+            "existence",
+            "haver-hi",
+            "Hi ha pa a la cuina."
+          ],
+          [
+            "date with 'a'",
+            "estar",
+            "Estem a 5 de maig."
+          ]
+        ],
+        "speak": [
+          2
+        ]
+      },
+      "examples": [
+        {
+          "ca": "La Núria és molt simpàtica, però avui està trista.",
+          "en": "Núria is very nice, but today she is sad.",
+          "ko": "누리아는 정말 착한데 오늘은 슬퍼해.",
+          "es": "Núria es muy simpática, pero hoy está triste."
+        },
+        {
+          "ca": "El mòbil està trencat.",
+          "en": "The phone is broken.",
+          "ko": "휴대폰이 고장 났어.",
+          "es": "El móvil está roto."
+        },
+        {
+          "ca": "Els meus cosins estan de vacances a Mallorca.",
+          "en": "My cousins are on holiday in Mallorca.",
+          "ko": "내 사촌들은 마요르카에서 휴가 중이야.",
+          "es": "Mis primos están de vacaciones en Mallorca."
+        },
+        {
+          "ca": "Hi ha molta gent a la platja.",
+          "en": "There are a lot of people on the beach.",
+          "ko": "해변에 사람이 정말 많아.",
+          "es": "Hay mucha gente en la playa."
+        },
+        {
+          "ca": "Estic d’acord amb tu.",
+          "en": "I agree with you.",
+          "ko": "네 말에 동의해.",
+          "es": "Estoy de acuerdo contigo."
+        },
+        {
+          "ca": "El teu germà sembla preocupat.",
+          "en": "Your brother looks worried.",
+          "ko": "네 동생 걱정스러워 보여.",
+          "es": "Tu hermano parece preocupado."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "ca": "ser",
+      "en": "to be (identity, quality, place)",
+      "ko": "~이다 (정체, 성질, 위치)",
+      "es": "ser / estar (lugar)"
+    },
+    {
+      "ca": "estar",
+      "en": "to be (state)",
+      "ko": "~한 상태이다",
+      "es": "estar"
+    },
+    {
+      "ca": "haver-hi",
+      "en": "there is / there are",
+      "ko": "~이 있다",
+      "es": "haber (hay)"
+    },
+    {
+      "ca": "semblar",
+      "en": "to seem, to look",
+      "ko": "~처럼 보이다",
+      "es": "parecer"
+    },
+    {
+      "ca": "tornar-se",
+      "en": "to become",
+      "ko": "~가 되다",
+      "es": "volverse"
+    },
+    {
+      "ca": "quedar-se",
+      "en": "to remain, to be left",
+      "ko": "~인 채로 남다",
+      "es": "quedarse"
+    },
+    {
+      "ca": "estar d’acord",
+      "en": "to agree",
+      "ko": "동의하다",
+      "es": "estar de acuerdo"
+    },
+    {
+      "ca": "de vacances",
+      "en": "on holiday",
+      "ko": "휴가 중",
+      "es": "de vacaciones"
+    },
+    {
+      "ca": "de baixa",
+      "en": "on sick leave",
+      "ko": "병가 중",
+      "es": "de baja"
+    },
+    {
+      "ca": "trencat",
+      "en": "broken",
+      "ko": "고장 난, 깨진",
+      "es": "roto"
+    },
+    {
+      "ca": "cansat",
+      "en": "tired",
+      "ko": "피곤한",
+      "es": "cansado"
+    },
+    {
+      "ca": "orgullós",
+      "en": "proud / arrogant",
+      "ko": "자랑스러운 / 거만한",
+      "es": "orgulloso / soberbio"
+    },
+    {
+      "ca": "estar-se",
+      "en": "to stay",
+      "ko": "머무르다",
+      "es": "quedarse"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "sec": "15.1",
+      "q": {
+        "en": "Choose the right article.",
+        "ko": "알맞은 관사를 고르세요.",
+        "es": "Elige el artículo correcto."
+      },
+      "ca": "___ amiga de la Laia és de València.",
+      "options": [
+        "L’",
+        "La",
+        "El",
+        "Lo"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'La' becomes 'l’' before a stressed vowel: l’amiga.",
+        "ko": "강세 있는 모음 앞에서 'la'는 'l’'이 돼요: l’amiga.",
+        "es": "'La' se apostrofa ante vocal tónica: l’amiga."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.1",
+      "q": {
+        "en": "Choose the right article.",
+        "ko": "알맞은 관사를 고르세요.",
+        "es": "Elige el artículo correcto."
+      },
+      "ca": "La meva germana estudia a ___ universitat.",
+      "options": [
+        "l’",
+        "la",
+        "el"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Feminine 'la' is not apostrophised before unstressed i/u: la universitat.",
+        "ko": "여성 'la'는 강세 없는 i/u 앞에서 축약하지 않아요: la universitat.",
+        "es": "El femenino 'la' no se apostrofa ante i/u átonas: la universitat."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "15.1",
+      "q": {
+        "en": "Combine 'a + el'.",
+        "ko": "'a + el'을 합쳐 쓰세요.",
+        "es": "Contrae 'a + el'."
+      },
+      "ca": "Dissabte anirem ___ cinema.",
+      "answer": [
+        "al"
+      ],
+      "explain": {
+        "en": "'A' + 'el' always contracts to 'al'.",
+        "ko": "'a' + 'el'은 항상 'al'로 축약돼요.",
+        "es": "'A' + 'el' siempre se contrae en 'al'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "15.1",
+      "q": {
+        "en": "'M’agrada música' (with no article) is the normal way to say 'I like music'.",
+        "ko": "'M’agrada música'(관사 없이)가 '나는 음악을 좋아해'의 자연스러운 표현이에요.",
+        "es": "'M’agrada música' (sin artículo) es la forma normal de decir 'me gusta la música'."
+      },
+      "answer": false,
+      "explain": {
+        "en": "General ideas take the definite article in Catalan: M’agrada la música.",
+        "ko": "카탈루냐어에서는 일반적인 개념에도 정관사를 써요: M’agrada la música.",
+        "es": "Las ideas generales llevan artículo: M’agrada la música."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.1",
+      "q": {
+        "en": "Choose the personal article.",
+        "ko": "인명 관사를 고르세요.",
+        "es": "Elige el artículo personal."
+      },
+      "ca": "___ Pau m’ha enviat un missatge.",
+      "options": [
+        "El",
+        "Na",
+        "En",
+        "Lo"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Masculine first names starting with a consonant take 'en' in standard Catalan.",
+        "ko": "자음으로 시작하는 남성 이름 앞에는 표준어에서 'en'을 써요.",
+        "es": "Los nombres masculinos que empiezan por consonante llevan 'en' en catalán estándar."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Julia has a cold today. Choose the verb.",
+        "ko": "오늘 줄리아는 감기에 걸렸어요. 동사를 고르세요.",
+        "es": "Júlia está resfriada hoy. Elige el verbo."
+      },
+      "ca": "Avui la Júlia no ve a classe perquè ___ malalta.",
+      "options": [
+        "està",
+        "és",
+        "hi ha"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "A temporary state uses 'estar'.",
+        "ko": "일시적인 상태에는 'estar'를 써요.",
+        "es": "Un estado temporal se expresa con 'estar'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Describe a permanent feature.",
+        "ko": "변하지 않는 특징을 묘사하세요.",
+        "es": "Describe un rasgo permanente."
+      },
+      "ca": "El meu avi ___ molt alt.",
+      "options": [
+        "està",
+        "és",
+        "hi ha"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Height is a lasting quality, so 'ser'.",
+        "ko": "키는 지속적인 성질이라서 'ser'를 써요.",
+        "es": "La estatura es una cualidad duradera: 'ser'."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "15.2",
+      "q": {
+        "en": "Say where the keys are (use ser or estar).",
+        "ko": "열쇠가 어디 있는지 말하세요(ser 또는 estar).",
+        "es": "Di dónde están las llaves (ser o estar)."
+      },
+      "ca": "Les claus ___ dins la motxilla.",
+      "answer": [
+        "són"
+      ],
+      "explain": {
+        "en": "The location of things normally takes 'ser' in Catalan.",
+        "ko": "카탈루냐어에서 사물의 위치는 보통 'ser'를 써요.",
+        "es": "La ubicación de cosas suele llevar 'ser' en catalán."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Choose the right form.",
+        "ko": "알맞은 형태를 고르세요.",
+        "es": "Elige la forma correcta."
+      },
+      "ca": "Avui ___ divendres!",
+      "options": [
+        "està",
+        "hi ha",
+        "és"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Days of the week take 'ser': Avui és divendres (or Avui som divendres).",
+        "ko": "요일에는 'ser'를 써요: Avui és divendres(또는 Avui som divendres).",
+        "es": "Los días de la semana llevan 'ser': Avui és divendres (o Avui som divendres)."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "15.2",
+      "q": {
+        "en": "Give the date with 'nosaltres' and the preposition 'a'.",
+        "ko": "'nosaltres'와 전치사 'a'로 날짜를 말하세요.",
+        "es": "Di la fecha con 'nosaltres' y la preposición 'a'."
+      },
+      "ca": "Avui ___ a 3 de maig.",
+      "answer": [
+        "estem"
+      ],
+      "explain": {
+        "en": "When the date is introduced by 'a', the verb is 'estar': estem a…",
+        "ko": "날짜 앞에 'a'가 오면 'estar'를 써요: estem a…",
+        "es": "Si la fecha va introducida por 'a', el verbo es 'estar': estem a…"
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "The match has finished.",
+        "ko": "경기가 끝났어요.",
+        "es": "El partido ha terminado."
+      },
+      "ca": "El partit ja ___ acabat.",
+      "options": [
+        "està",
+        "hi ha",
+        "és"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Participles that show the result of a process (acabat, trencat…) go with 'estar'.",
+        "ko": "과정의 결과를 나타내는 과거분사(acabat, trencat…)는 'estar'와 써요.",
+        "es": "Los participios que indican el resultado de un proceso (acabat, trencat…) van con 'estar'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Express agreement.",
+        "ko": "동의를 표현하세요.",
+        "es": "Expresa acuerdo."
+      },
+      "ca": "___ d’acord amb la teva idea.",
+      "options": [
+        "Soc",
+        "Estic",
+        "Hi ha"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Opinions like 'd’acord', 'a favor', 'en contra' use 'estar'.",
+        "ko": "'d’acord', 'a favor', 'en contra' 같은 의견 표현은 'estar'를 써요.",
+        "es": "Opiniones como 'd’acord', 'a favor', 'en contra' van con 'estar'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Say that three cats exist in the garden.",
+        "ko": "정원에 고양이 세 마리가 있다고 말하세요.",
+        "es": "Di que hay tres gatos en el jardín."
+      },
+      "ca": "___ tres gats al jardí.",
+      "options": [
+        "Són",
+        "Estan",
+        "Hi ha"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Existence (there is / there are) is expressed with 'haver-hi'.",
+        "ko": "존재(~이 있다)는 'haver-hi'로 표현해요.",
+        "es": "La existencia ('hay') se expresa con 'haver-hi'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Choose the verb form (one side is plural).",
+        "ko": "동사 형태를 고르세요(한쪽이 복수예요).",
+        "es": "Elige la forma verbal (un lado es plural)."
+      },
+      "ca": "El millor de l’estiu ___ les vacances.",
+      "options": [
+        "és",
+        "són"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "In equations between two noun phrases, the verb tends to be plural if one of them is plural.",
+        "ko": "두 명사구를 잇는 등식 문장에서 하나가 복수면 동사도 복수가 되는 경향이 있어요.",
+        "es": "En ecuaciones entre dos sintagmas, el verbo tiende al plural si uno de ellos es plural."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "15.2",
+      "q": {
+        "en": "Use 'estar' (state phrase).",
+        "ko": "'estar'를 쓰세요(상태 표현).",
+        "es": "Usa 'estar' (expresión de estado)."
+      },
+      "ca": "Els meus pares ___ de vacances a Menorca.",
+      "answer": [
+        "estan"
+      ],
+      "explain": {
+        "en": "State phrases such as 'de vacances' take 'estar'.",
+        "ko": "'de vacances' 같은 상태 표현은 'estar'를 써요.",
+        "es": "Expresiones de estado como 'de vacances' llevan 'estar'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Your aunt moved to Reus to live there. Choose the verb.",
+        "ko": "이모가 레우스로 이사해서 거기 살아요. 동사를 고르세요.",
+        "es": "Tu tía se mudó a Reus para vivir allí. Elige el verbo."
+      },
+      "ca": "La meva tia ja no ___ a Lleida; ara viu a Reus.",
+      "options": [
+        "hi ha",
+        "està",
+        "fa"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "When the place is where someone lives or works, 'estar' is used.",
+        "ko": "사는 곳이나 일하는 곳을 말할 때는 'estar'를 써요.",
+        "es": "Cuando el lugar es donde alguien vive o trabaja, se usa 'estar'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "15.2",
+      "q": {
+        "en": "Which means 'We are proud of you'?",
+        "ko": "'우리는 네가 자랑스러워'라는 뜻은?",
+        "es": "¿Cuál significa 'Estamos orgullosos de ti'?"
+      },
+      "options": [
+        "Som orgullosos de tu.",
+        "Estem orgullosos de tu."
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Estar orgullós de' is a feeling; 'ser orgullós' describes an arrogant character.",
+        "ko": "'estar orgullós de'는 감정이고, 'ser orgullós'는 거만한 성격을 묘사해요.",
+        "es": "'Estar orgullós de' es un sentimiento; 'ser orgullós' describe un carácter soberbio."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "15.2",
+      "q": {
+        "en": "A point on a scale (temperature): use estar.",
+        "ko": "수치(체온)를 말하세요: estar를 쓰세요.",
+        "es": "Un punto en una escala (temperatura): usa estar."
+      },
+      "ca": "El meu germà petit ___ a trenta-vuit de febre.",
+      "answer": [
+        "està"
+      ],
+      "explain": {
+        "en": "Points on a scale (fever, prices) take 'estar a'.",
+        "ko": "열이나 가격 같은 수치에는 'estar a'를 써요.",
+        "es": "Los puntos de una escala (fiebre, precios) llevan 'estar a'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "15.2",
+      "q": {
+        "en": "'Semblar' and 'parèixer' both mean 'to seem'.",
+        "ko": "'semblar'와 'parèixer'는 둘 다 '~처럼 보이다'라는 뜻이에요.",
+        "es": "'Semblar' y 'parèixer' significan ambos 'parecer'."
+      },
+      "answer": true,
+      "explain": {
+        "en": "They are synonyms; 'semblar' is more common in central Catalan.",
+        "ko": "둘은 동의어이며, 중부 카탈루냐어에서는 'semblar'가 더 흔해요.",
+        "es": "Son sinónimos; 'semblar' es más frecuente en catalán central."
+      }
+    },
+    {
+      "type": "order",
+      "sec": "15.2",
+      "q": {
+        "en": "Build: 'Your brother looks angry.'",
+        "ko": "'네 동생 화나 보여'를 만드세요.",
+        "es": "Construye: 'Tu hermano parece enfadado.'"
+      },
+      "words": [
+        "el",
+        "teu",
+        "germà",
+        "sembla",
+        "enfadat"
+      ],
+      "answer": "El teu germà sembla enfadat.",
+      "explain": {
+        "en": "'Semblar' links the subject to an adjective, like a copula.",
+        "ko": "'semblar'는 계사처럼 주어와 형용사를 이어요.",
+        "es": "'Semblar' une el sujeto con un adjetivo, como una cópula."
+      }
+    },
+    {
+      "type": "match",
+      "sec": "15.2",
+      "q": {
+        "en": "Match each verb with its meaning.",
+        "ko": "동사와 뜻을 연결하세요.",
+        "es": "Une cada verbo con su significado."
+      },
+      "pairs": [
+        {
+          "l": "semblar",
+          "r": {
+            "en": "to seem",
+            "ko": "~처럼 보이다",
+            "es": "parecer"
+          }
+        },
+        {
+          "l": "continuar",
+          "r": {
+            "en": "to still be",
+            "ko": "계속 ~이다",
+            "es": "seguir"
+          }
+        },
+        {
+          "l": "tornar-se",
+          "r": {
+            "en": "to become",
+            "ko": "~가 되다",
+            "es": "volverse"
+          }
+        },
+        {
+          "l": "quedar-se",
+          "r": {
+            "en": "to be left, to remain",
+            "ko": "~인 채로 남다",
+            "es": "quedarse"
+          }
+        },
+        {
+          "l": "haver-hi",
+          "r": {
+            "en": "there is / are",
+            "ko": "~이 있다",
+            "es": "haber"
+          }
+        }
+      ]
+    }
+  ]
+}

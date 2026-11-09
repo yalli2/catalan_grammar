@@ -1,0 +1,3548 @@
+{
+ "id": 21,
+ "part": 5,
+ "icon": "📋",
+ "title": {
+  "ca": "Apèndix: Conjugació verbal",
+  "en": "Appendix: Verb conjugation",
+  "ko": "부록: 동사 활용표",
+  "es": "Apéndice: Conjugación verbal"
+ },
+ "summary": {
+  "en": "This appendix collects full conjugation tables: the three regular models (-ar, -er/-re, -ir), the auxiliaries ser, estar and haver, and the most frequent irregular verbs. Use it as a reference whenever you are unsure of a form, and practise the tricky ones in the exercises.",
+  "ko": "이 부록에는 전체 동사 활용표가 모여 있어요: 세 가지 규칙 모델(-ar, -er/-re, -ir), 조동사 ser·estar·haver, 그리고 자주 쓰는 불규칙 동사들이에요. 형태가 헷갈릴 때마다 참고하고, 까다로운 형태는 연습문제로 익혀 보세요.",
+  "es": "Este apéndice reúne las tablas de conjugación completas: los tres modelos regulares (-ar, -er/-re, -ir), los auxiliares ser, estar y haver, y los verbos irregulares más frecuentes. Úsalo como consulta cuando dudes de una forma y practica las difíciles en los ejercicios."
+ },
+ "goals": [
+  {
+   "en": "You will be able to conjugate regular -ar, -er/-re and -ir verbs in six tenses.",
+   "ko": "규칙 -ar, -er/-re, -ir 동사를 여섯 가지 시제로 활용할 수 있어요.",
+   "es": "Podrás conjugar verbos regulares en -ar, -er/-re e -ir en seis tiempos."
+  },
+  {
+   "en": "You will be able to tell inchoative (-eix-) verbs from pure -ir verbs.",
+   "ko": "기동형(-eix-) 동사와 순수 -ir 동사를 구별할 수 있어요.",
+   "es": "Sabrás distinguir los verbos incoativos (-eix-) de los verbos en -ir puros."
+  },
+  {
+   "en": "You will be able to use the forms of ser, estar and haver correctly.",
+   "ko": "ser, estar, haver의 형태를 바르게 쓸 수 있어요.",
+   "es": "Podrás usar correctamente las formas de ser, estar y haver."
+  },
+  {
+   "en": "You will be able to recognise and produce the key irregular forms (vinc, puc, sàpiga, vist…).",
+   "ko": "주요 불규칙 형태(vinc, puc, sàpiga, vist…)를 알아보고 쓸 수 있어요.",
+   "es": "Podrás reconocer y producir las formas irregulares clave (vinc, puc, sàpiga, vist…)."
+  },
+  {
+   "en": "You will be able to form gerunds and past participles.",
+   "ko": "제룬디오와 과거분사를 만들 수 있어요.",
+   "es": "Sabrás formar gerundios y participios."
+  }
+ ],
+ "sections": [
+  {
+   "id": "A.1",
+   "title": {
+    "ca": "Verbs regulars en -ar: cantar",
+    "en": "Regular -ar verbs: cantar",
+    "ko": "규칙 -ar 동사: cantar",
+    "es": "Verbos regulares en -ar: cantar"
+   },
+   "points": [
+    {
+     "en": "Most Catalan verbs end in <b>-ar</b> (1st conjugation). Remove <b>-ar</b> and add the endings: <b>cant-o, cant-es, cant-a…</b>",
+     "ko": "카탈루냐어 동사 대부분은 <b>-ar</b>로 끝나요(제1활용). <b>-ar</b>를 떼고 어미를 붙여요: <b>cant-o, cant-es, cant-a…</b>",
+     "es": "La mayoría de los verbos catalanes acaban en <b>-ar</b> (1.ª conjugación). Se quita <b>-ar</b> y se añaden las terminaciones: <b>cant-o, cant-es, cant-a…</b>"
+    },
+    {
+     "en": "Future and conditional add their endings to the whole infinitive: <b>cantar</b> → <b>cantaré</b>, <b>cantaria</b>.",
+     "ko": "미래형과 조건형은 동사원형 전체에 어미를 붙여요: <b>cantar</b> → <b>cantaré</b>, <b>cantaria</b>.",
+     "es": "El futuro y el condicional añaden las terminaciones al infinitivo entero: <b>cantar</b> → <b>cantaré</b>, <b>cantaria</b>."
+    },
+    {
+     "en": "Periphrastic past = <b>vaig, vas, va, vam, vau, van</b> + infinitive (also written <b>vares, vàrem, vàreu, varen</b>).",
+     "ko": "우언적 과거 = <b>vaig, vas, va, vam, vau, van</b> + 동사원형이에요 (<b>vares, vàrem, vàreu, varen</b>도 써요).",
+     "es": "Pasado perifrástico = <b>vaig, vas, va, vam, vau, van</b> + infinitivo (también <b>vares, vàrem, vàreu, varen</b>)."
+    },
+    {
+     "en": "Present subjunctive endings: <b>-i, -is, -i, -em, -eu, -in</b>. The <b>nosaltres</b> and <b>vosaltres</b> forms are the same as in the present indicative.",
+     "ko": "접속법 현재 어미: <b>-i, -is, -i, -em, -eu, -in</b>. <b>nosaltres</b>, <b>vosaltres</b> 형태는 직설법 현재와 같아요.",
+     "es": "Terminaciones del presente de subjuntivo: <b>-i, -is, -i, -em, -eu, -in</b>. Las formas de <b>nosaltres</b> y <b>vosaltres</b> coinciden con el presente de indicativo."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "canto",
+      "cantava",
+      "vaig cantar",
+      "cantaré",
+      "cantaria",
+      "canti"
+     ],
+     [
+      "tu",
+      "cantes",
+      "cantaves",
+      "vas cantar",
+      "cantaràs",
+      "cantaries",
+      "cantis"
+     ],
+     [
+      "ell/ella/vostè",
+      "canta",
+      "cantava",
+      "va cantar",
+      "cantarà",
+      "cantaria",
+      "canti"
+     ],
+     [
+      "nosaltres",
+      "cantem",
+      "cantàvem",
+      "vam cantar",
+      "cantarem",
+      "cantaríem",
+      "cantem"
+     ],
+     [
+      "vosaltres",
+      "canteu",
+      "cantàveu",
+      "vau cantar",
+      "cantareu",
+      "cantaríeu",
+      "canteu"
+     ],
+     [
+      "ells/elles/vostès",
+      "canten",
+      "cantaven",
+      "van cantar",
+      "cantaran",
+      "cantarien",
+      "cantin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Cada dissabte canto a la coral de l’escola.",
+     "en": "Every Saturday I sing in the school choir.",
+     "ko": "매주 토요일 나는 학교 합창단에서 노래해.",
+     "es": "Cada sábado canto en el coro del colegio."
+    },
+    {
+     "ca": "Ahir vam cantar l’himne del Barça.",
+     "en": "Yesterday we sang the Barça anthem.",
+     "ko": "어제 우리는 바르사 응원가를 불렀어.",
+     "es": "Ayer cantamos el himno del Barça."
+    }
+   ]
+  },
+  {
+   "id": "A.2",
+   "title": {
+    "ca": "Verbs regulars en -er: témer",
+    "en": "Regular -er verbs: témer",
+    "ko": "규칙 -er 동사: témer",
+    "es": "Verbos regulares en -er: témer"
+   },
+   "points": [
+    {
+     "en": "Verbs in <b>-er</b> and <b>-re</b> form the 2nd conjugation. Stem of <b>témer</b>: <b>tem-</b>.",
+     "ko": "<b>-er</b>, <b>-re</b>로 끝나는 동사는 제2활용이에요. <b>témer</b>의 어간은 <b>tem-</b>이에요.",
+     "es": "Los verbos en <b>-er</b> y <b>-re</b> forman la 2.ª conjugación. Raíz de <b>témer</b>: <b>tem-</b>."
+    },
+    {
+     "en": "In the present, <b>tu</b> and <b>ell</b> have no ending vowel: <b>tems</b>, <b>tem</b>.",
+     "ko": "현재형에서 <b>tu</b>와 <b>ell</b>은 어미 모음이 없어요: <b>tems</b>, <b>tem</b>.",
+     "es": "En presente, <b>tu</b> y <b>ell</b> no llevan vocal final: <b>tems</b>, <b>tem</b>."
+    },
+    {
+     "en": "The imperfect of 2nd and 3rd conjugation verbs ends in <b>-ia</b>: <b>temia, temíem</b>.",
+     "ko": "제2·3활용 동사의 불완료과거는 <b>-ia</b>로 끝나요: <b>temia, temíem</b>.",
+     "es": "El imperfecto de la 2.ª y 3.ª conjugación termina en <b>-ia</b>: <b>temia, temíem</b>."
+    },
+    {
+     "en": "Gerund <b>tement</b>; past participle <b>temut, temuda</b>.",
+     "ko": "제룬디오 <b>tement</b>, 과거분사 <b>temut, temuda</b>.",
+     "es": "Gerundio <b>tement</b>; participio <b>temut, temuda</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "temo",
+      "temia",
+      "vaig témer",
+      "temeré",
+      "temeria",
+      "temi"
+     ],
+     [
+      "tu",
+      "tems",
+      "temies",
+      "vas témer",
+      "temeràs",
+      "temeries",
+      "temis"
+     ],
+     [
+      "ell/ella/vostè",
+      "tem",
+      "temia",
+      "va témer",
+      "temerà",
+      "temeria",
+      "temi"
+     ],
+     [
+      "nosaltres",
+      "temem",
+      "temíem",
+      "vam témer",
+      "temerem",
+      "temeríem",
+      "temem"
+     ],
+     [
+      "vosaltres",
+      "temeu",
+      "temíeu",
+      "vau témer",
+      "temereu",
+      "temeríeu",
+      "temeu"
+     ],
+     [
+      "ells/elles/vostès",
+      "temen",
+      "temien",
+      "van témer",
+      "temeran",
+      "temerien",
+      "temin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "El meu gos tem les tempestes.",
+     "en": "My dog is afraid of storms.",
+     "ko": "우리 개는 폭풍을 무서워해.",
+     "es": "Mi perro teme las tormentas."
+    },
+    {
+     "ca": "De petits, temíem la foscor.",
+     "en": "As kids, we were afraid of the dark.",
+     "ko": "어릴 때 우리는 어둠을 무서워했어.",
+     "es": "De pequeños, temíamos la oscuridad."
+    }
+   ]
+  },
+  {
+   "id": "A.3",
+   "title": {
+    "ca": "Verbs regulars en -re: perdre",
+    "en": "Regular -re verbs: perdre",
+    "ko": "규칙 -re 동사: perdre",
+    "es": "Verbos regulares en -re: perdre"
+   },
+   "points": [
+    {
+     "en": "Stem: <b>perd-</b>. Present: <b>perdo, perds, perd, perdem, perdeu, perden</b>.",
+     "ko": "어간은 <b>perd-</b>예요. 현재: <b>perdo, perds, perd, perdem, perdeu, perden</b>.",
+     "es": "Raíz: <b>perd-</b>. Presente: <b>perdo, perds, perd, perdem, perdeu, perden</b>."
+    },
+    {
+     "en": "For the future and conditional, drop the final <b>-e</b> of the infinitive: <b>perdré</b>, <b>perdria</b>.",
+     "ko": "미래형·조건형은 동사원형 끝의 <b>-e</b>를 빼고 만들어요: <b>perdré</b>, <b>perdria</b>.",
+     "es": "Para el futuro y el condicional se quita la <b>-e</b> final: <b>perdré</b>, <b>perdria</b>."
+    },
+    {
+     "en": "Gerund <b>perdent</b>; past participle <b>perdut, perduda</b>. <b>Batre</b> and <b>rompre</b> work the same way.",
+     "ko": "제룬디오 <b>perdent</b>, 과거분사 <b>perdut, perduda</b>. <b>batre</b>, <b>rompre</b>도 같은 방식이에요.",
+     "es": "Gerundio <b>perdent</b>; participio <b>perdut, perduda</b>. <b>Batre</b> y <b>rompre</b> funcionan igual."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "perdo",
+      "perdia",
+      "vaig perdre",
+      "perdré",
+      "perdria",
+      "perdi"
+     ],
+     [
+      "tu",
+      "perds",
+      "perdies",
+      "vas perdre",
+      "perdràs",
+      "perdries",
+      "perdis"
+     ],
+     [
+      "ell/ella/vostè",
+      "perd",
+      "perdia",
+      "va perdre",
+      "perdrà",
+      "perdria",
+      "perdi"
+     ],
+     [
+      "nosaltres",
+      "perdem",
+      "perdíem",
+      "vam perdre",
+      "perdrem",
+      "perdríem",
+      "perdem"
+     ],
+     [
+      "vosaltres",
+      "perdeu",
+      "perdíeu",
+      "vau perdre",
+      "perdreu",
+      "perdríeu",
+      "perdeu"
+     ],
+     [
+      "ells/elles/vostès",
+      "perden",
+      "perdien",
+      "van perdre",
+      "perdran",
+      "perdrien",
+      "perdin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Sempre perdo les claus de casa.",
+     "en": "I always lose my house keys.",
+     "ko": "나는 맨날 집 열쇠를 잃어버려.",
+     "es": "Siempre pierdo las llaves de casa."
+    },
+    {
+     "ca": "Si no corres, perdràs el tren.",
+     "en": "If you don’t run, you’ll miss the train.",
+     "ko": "안 뛰면 기차 놓칠 거야.",
+     "es": "Si no corres, perderás el tren."
+    }
+   ]
+  },
+  {
+   "id": "A.4",
+   "title": {
+    "ca": "Verbs en -ir incoatius: servir",
+    "en": "Inchoative -ir verbs: servir",
+    "ko": "기동형 -ir 동사: servir",
+    "es": "Verbos en -ir incoativos: servir"
+   },
+   "points": [
+    {
+     "en": "Most <b>-ir</b> verbs are inchoative: they add <b>-eix-</b> in the singular and the 3rd plural of the present: <b>serveixo, serveixes, serveix, serveixen</b>.",
+     "ko": "대부분의 <b>-ir</b> 동사는 기동형이에요. 현재형 단수와 3인칭 복수에 <b>-eix-</b>를 넣어요: <b>serveixo, serveixes, serveix, serveixen</b>.",
+     "es": "La mayoría de los verbos en <b>-ir</b> son incoativos: añaden <b>-eix-</b> en el singular y la 3.ª plural del presente: <b>serveixo, serveixes, serveix, serveixen</b>."
+    },
+    {
+     "en": "<b>Nosaltres</b> and <b>vosaltres</b> have no <b>-eix-</b>: <b>servim, serviu</b>. The present subjunctive follows the same rule: <b>serveixi</b> but <b>servim</b>.",
+     "ko": "<b>nosaltres</b>, <b>vosaltres</b>에는 <b>-eix-</b>가 없어요: <b>servim, serviu</b>. 접속법 현재도 같아요: <b>serveixi</b>, 하지만 <b>servim</b>.",
+     "es": "<b>Nosaltres</b> y <b>vosaltres</b> no llevan <b>-eix-</b>: <b>servim, serviu</b>. El subjuntivo sigue la misma regla: <b>serveixi</b> pero <b>servim</b>."
+    },
+    {
+     "en": "Other common inchoative verbs: <b>llegir</b> (llegeixo), <b>preferir</b> (prefereixo), <b>patir</b> (pateixo), <b>construir</b> (construeixo).",
+     "ko": "자주 쓰는 다른 기동형 동사: <b>llegir</b>(llegeixo), <b>preferir</b>(prefereixo), <b>patir</b>(pateixo), <b>construir</b>(construeixo).",
+     "es": "Otros verbos incoativos frecuentes: <b>llegir</b> (llegeixo), <b>preferir</b> (prefereixo), <b>patir</b> (pateixo), <b>construir</b> (construeixo)."
+    },
+    {
+     "en": "Gerund <b>servint</b>; past participle <b>servit, servida</b>. In Valencia and the Balearic Islands you will hear <b>-isc/-esc</b> forms instead (<b>servisc, servesc</b>).",
+     "ko": "제룬디오 <b>servint</b>, 과거분사 <b>servit, servida</b>. 발렌시아와 발레아레스에서는 <b>-isc/-esc</b> 형태(<b>servisc, servesc</b>)를 써요.",
+     "es": "Gerundio <b>servint</b>; participio <b>servit, servida</b>. En Valencia y Baleares se oyen formas en <b>-isc/-esc</b> (<b>servisc, servesc</b>)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "serveixo",
+      "servia",
+      "vaig servir",
+      "serviré",
+      "serviria",
+      "serveixi"
+     ],
+     [
+      "tu",
+      "serveixes",
+      "servies",
+      "vas servir",
+      "serviràs",
+      "serviries",
+      "serveixis"
+     ],
+     [
+      "ell/ella/vostè",
+      "serveix",
+      "servia",
+      "va servir",
+      "servirà",
+      "serviria",
+      "serveixi"
+     ],
+     [
+      "nosaltres",
+      "servim",
+      "servíem",
+      "vam servir",
+      "servirem",
+      "serviríem",
+      "servim"
+     ],
+     [
+      "vosaltres",
+      "serviu",
+      "servíeu",
+      "vau servir",
+      "servireu",
+      "serviríeu",
+      "serviu"
+     ],
+     [
+      "ells/elles/vostès",
+      "serveixen",
+      "servien",
+      "van servir",
+      "serviran",
+      "servirien",
+      "serveixin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Llegeixo un llibre cada mes.",
+     "en": "I read one book every month.",
+     "ko": "나는 매달 책을 한 권 읽어.",
+     "es": "Leo un libro cada mes."
+    },
+    {
+     "ca": "El cambrer serveix el sopar a les nou.",
+     "en": "The waiter serves dinner at nine.",
+     "ko": "웨이터가 9시에 저녁을 내와.",
+     "es": "El camarero sirve la cena a las nueve."
+    }
+   ]
+  },
+  {
+   "id": "A.5",
+   "title": {
+    "ca": "Verbs en -ir purs: dormir",
+    "en": "Pure -ir verbs: dormir",
+    "ko": "순수 -ir 동사: dormir",
+    "es": "Verbos en -ir puros: dormir"
+   },
+   "points": [
+    {
+     "en": "A small group of <b>-ir</b> verbs never take <b>-eix-</b>: <b>dormir, sentir, sortir, obrir, morir, collir, cosir, tossir, fugir, bullir</b>.",
+     "ko": "일부 <b>-ir</b> 동사는 <b>-eix-</b>를 넣지 않아요: <b>dormir, sentir, sortir, obrir, morir, collir, cosir, tossir, fugir, bullir</b>.",
+     "es": "Un pequeño grupo de verbos en <b>-ir</b> nunca lleva <b>-eix-</b>: <b>dormir, sentir, sortir, obrir, morir, collir, cosir, tossir, fugir, bullir</b>."
+    },
+    {
+     "en": "Present: <b>dormo, dorms, dorm, dormim, dormiu, dormen</b> — like <b>perdre</b> in the singular, with <b>-im, -iu</b> in the plural.",
+     "ko": "현재: <b>dormo, dorms, dorm, dormim, dormiu, dormen</b> — 단수는 <b>perdre</b>와 같고, 복수는 <b>-im, -iu</b>예요.",
+     "es": "Presente: <b>dormo, dorms, dorm, dormim, dormiu, dormen</b>: como <b>perdre</b> en singular, con <b>-im, -iu</b> en plural."
+    },
+    {
+     "en": "Some change the stem vowel when it is stressed: <b>sortir</b> → <b>surto</b>, <b>collir</b> → <b>cullo</b>, <b>tossir</b> → <b>tusso</b>, <b>cosir</b> → <b>cuso</b>.",
+     "ko": "어떤 동사는 강세가 올 때 어간 모음이 바뀌어요: <b>sortir</b> → <b>surto</b>, <b>collir</b> → <b>cullo</b>, <b>tossir</b> → <b>tusso</b>, <b>cosir</b> → <b>cuso</b>.",
+     "es": "Algunos cambian la vocal de la raíz cuando es tónica: <b>sortir</b> → <b>surto</b>, <b>collir</b> → <b>cullo</b>, <b>tossir</b> → <b>tusso</b>, <b>cosir</b> → <b>cuso</b>."
+    },
+    {
+     "en": "Gerund <b>dormint</b>; past participle <b>dormit, dormida</b>.",
+     "ko": "제룬디오 <b>dormint</b>, 과거분사 <b>dormit, dormida</b>.",
+     "es": "Gerundio <b>dormint</b>; participio <b>dormit, dormida</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "dormo",
+      "dormia",
+      "vaig dormir",
+      "dormiré",
+      "dormiria",
+      "dormi"
+     ],
+     [
+      "tu",
+      "dorms",
+      "dormies",
+      "vas dormir",
+      "dormiràs",
+      "dormiries",
+      "dormis"
+     ],
+     [
+      "ell/ella/vostè",
+      "dorm",
+      "dormia",
+      "va dormir",
+      "dormirà",
+      "dormiria",
+      "dormi"
+     ],
+     [
+      "nosaltres",
+      "dormim",
+      "dormíem",
+      "vam dormir",
+      "dormirem",
+      "dormiríem",
+      "dormim"
+     ],
+     [
+      "vosaltres",
+      "dormiu",
+      "dormíeu",
+      "vau dormir",
+      "dormireu",
+      "dormiríeu",
+      "dormiu"
+     ],
+     [
+      "ells/elles/vostès",
+      "dormen",
+      "dormien",
+      "van dormir",
+      "dormiran",
+      "dormirien",
+      "dormin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Els dissabtes dormo fins a les deu.",
+     "en": "On Saturdays I sleep until ten.",
+     "ko": "토요일마다 나는 10시까지 자.",
+     "es": "Los sábados duermo hasta las diez."
+    },
+    {
+     "ca": "Surto de classe a les dues.",
+     "en": "I get out of class at two.",
+     "ko": "나는 2시에 수업이 끝나서 나와.",
+     "es": "Salgo de clase a las dos."
+    }
+   ]
+  },
+  {
+   "id": "A.6",
+   "title": {
+    "ca": "Verb auxiliar: ser",
+    "en": "Auxiliary verb: ser",
+    "ko": "조동사: ser",
+    "es": "Verbo auxiliar: ser"
+   },
+   "points": [
+    {
+     "en": "<b>Ser</b> (also <b>ésser</b>) is the most irregular verb. Present: <b>soc, ets, és, som, sou, són</b>. Older texts write <b>sóc</b>; the 2016 IEC spelling is <b>soc</b>.",
+     "ko": "<b>ser</b>(또는 <b>ésser</b>)는 가장 불규칙한 동사예요. 현재: <b>soc, ets, és, som, sou, són</b>. 옛 표기는 <b>sóc</b>, 2016년 IEC 표기는 <b>soc</b>이에요.",
+     "es": "<b>Ser</b> (también <b>ésser</b>) es el verbo más irregular. Presente: <b>soc, ets, és, som, sou, són</b>. Los textos antiguos escriben <b>sóc</b>; la ortografía del IEC de 2016, <b>soc</b>."
+    },
+    {
+     "en": "Imperfect: <b>era, eres, era, érem, éreu, eren</b>. Subjunctive: <b>sigui, siguis…</b>",
+     "ko": "불완료과거: <b>era, eres, era, érem, éreu, eren</b>. 접속법: <b>sigui, siguis…</b>",
+     "es": "Imperfecto: <b>era, eres, era, érem, éreu, eren</b>. Subjuntivo: <b>sigui, siguis…</b>"
+    },
+    {
+     "en": "In writing you also find the simple past <b>fui, fores, fou, fórem, fóreu, foren</b>.",
+     "ko": "글에서는 단순과거 <b>fui, fores, fou, fórem, fóreu, foren</b>도 볼 수 있어요.",
+     "es": "En la lengua escrita también aparece el pasado simple <b>fui, fores, fou, fórem, fóreu, foren</b>."
+    },
+    {
+     "en": "Gerund <b>sent</b> (<b>essent</b>); past participle <b>estat</b> (also <b>sigut</b>).",
+     "ko": "제룬디오 <b>sent</b>(<b>essent</b>), 과거분사 <b>estat</b>(<b>sigut</b>도 가능).",
+     "es": "Gerundio <b>sent</b> (<b>essent</b>); participio <b>estat</b> (también <b>sigut</b>)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "soc",
+      "era",
+      "vaig ser",
+      "seré",
+      "seria",
+      "sigui"
+     ],
+     [
+      "tu",
+      "ets",
+      "eres",
+      "vas ser",
+      "seràs",
+      "series",
+      "siguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "és",
+      "era",
+      "va ser",
+      "serà",
+      "seria",
+      "sigui"
+     ],
+     [
+      "nosaltres",
+      "som",
+      "érem",
+      "vam ser",
+      "serem",
+      "seríem",
+      "siguem"
+     ],
+     [
+      "vosaltres",
+      "sou",
+      "éreu",
+      "vau ser",
+      "sereu",
+      "seríeu",
+      "sigueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "són",
+      "eren",
+      "van ser",
+      "seran",
+      "serien",
+      "siguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Som de Girona, però vivim a Barcelona.",
+     "en": "We’re from Girona, but we live in Barcelona.",
+     "ko": "우리는 지로나 출신이지만 바르셀로나에 살아.",
+     "es": "Somos de Girona, pero vivimos en Barcelona."
+    },
+    {
+     "ca": "Quan era petit, era molt tímid.",
+     "en": "When I was little, I was very shy.",
+     "ko": "어렸을 때 나는 아주 수줍음이 많았어.",
+     "es": "Cuando era pequeño, era muy tímido."
+    }
+   ]
+  },
+  {
+   "id": "A.7",
+   "title": {
+    "ca": "Verb auxiliar: estar",
+    "en": "Auxiliary verb: estar",
+    "ko": "조동사: estar",
+    "es": "Verbo auxiliar: estar"
+   },
+   "points": [
+    {
+     "en": "Present: <b>estic, estàs, està, estem, esteu, estan</b>. Note the accents on <b>estàs</b> and <b>està</b>.",
+     "ko": "현재: <b>estic, estàs, està, estem, esteu, estan</b>. <b>estàs</b>, <b>està</b>의 악센트에 주의하세요.",
+     "es": "Presente: <b>estic, estàs, està, estem, esteu, estan</b>. Fíjate en el acento de <b>estàs</b> y <b>està</b>."
+    },
+    {
+     "en": "Subjunctive with <b>-gu-</b>: <b>estigui, estiguis, estigui, estiguem, estigueu, estiguin</b>. Everything else is regular like <b>cantar</b>.",
+     "ko": "접속법은 <b>-gu-</b>가 들어가요: <b>estigui, estiguis, estigui, estiguem, estigueu, estiguin</b>. 나머지는 <b>cantar</b>처럼 규칙적이에요.",
+     "es": "Subjuntivo con <b>-gu-</b>: <b>estigui, estiguis, estigui, estiguem, estigueu, estiguin</b>. El resto es regular como <b>cantar</b>."
+    },
+    {
+     "en": "<b>Estar</b> + gerund = an action in progress: <b>estic estudiant</b>. Gerund <b>estant</b>; participle <b>estat</b>.",
+     "ko": "<b>estar</b> + 제룬디오 = 진행 중인 동작: <b>estic estudiant</b>. 제룬디오 <b>estant</b>, 과거분사 <b>estat</b>.",
+     "es": "<b>Estar</b> + gerundio = acción en curso: <b>estic estudiant</b>. Gerundio <b>estant</b>; participio <b>estat</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "estic",
+      "estava",
+      "vaig estar",
+      "estaré",
+      "estaria",
+      "estigui"
+     ],
+     [
+      "tu",
+      "estàs",
+      "estaves",
+      "vas estar",
+      "estaràs",
+      "estaries",
+      "estiguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "està",
+      "estava",
+      "va estar",
+      "estarà",
+      "estaria",
+      "estigui"
+     ],
+     [
+      "nosaltres",
+      "estem",
+      "estàvem",
+      "vam estar",
+      "estarem",
+      "estaríem",
+      "estiguem"
+     ],
+     [
+      "vosaltres",
+      "esteu",
+      "estàveu",
+      "vau estar",
+      "estareu",
+      "estaríeu",
+      "estigueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "estan",
+      "estaven",
+      "van estar",
+      "estaran",
+      "estarien",
+      "estiguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Estic cansat després de l’entrenament.",
+     "en": "I’m tired after training.",
+     "ko": "훈련 끝나고 나 피곤해.",
+     "es": "Estoy cansado después del entrenamiento."
+    },
+    {
+     "ca": "Estàvem mirant una pel·lícula quan va trucar la mare.",
+     "en": "We were watching a film when Mum called.",
+     "ko": "엄마가 전화했을 때 우리는 영화를 보고 있었어.",
+     "es": "Estábamos viendo una película cuando llamó mamá."
+    }
+   ]
+  },
+  {
+   "id": "A.8",
+   "title": {
+    "ca": "Verb auxiliar: haver",
+    "en": "Auxiliary verb: haver",
+    "ko": "조동사: haver",
+    "es": "Verbo auxiliar: haver"
+   },
+   "points": [
+    {
+     "en": "<b>Haver</b> + past participle forms the perfect tenses: <b>he menjat</b> (I have eaten), <b>havia menjat</b> (I had eaten).",
+     "ko": "<b>haver</b> + 과거분사로 완료 시제를 만들어요: <b>he menjat</b>(먹었다), <b>havia menjat</b>(먹었었다).",
+     "es": "<b>Haver</b> + participio forma los tiempos compuestos: <b>he menjat</b> (he comido), <b>havia menjat</b> (había comido)."
+    },
+    {
+     "en": "Present: <b>he, has, ha, hem, heu, han</b>. You may also hear <b>haig</b>, <b>havem</b>, <b>haveu</b>, but as an auxiliary use <b>he, hem, heu</b>.",
+     "ko": "현재: <b>he, has, ha, hem, heu, han</b>. <b>haig</b>, <b>havem</b>, <b>haveu</b>도 들리지만 조동사로는 <b>he, hem, heu</b>를 써요.",
+     "es": "Presente: <b>he, has, ha, hem, heu, han</b>. También se oye <b>haig</b>, <b>havem</b>, <b>haveu</b>, pero como auxiliar se usa <b>he, hem, heu</b>."
+    },
+    {
+     "en": "<b>Haver de</b> + infinitive = to have to (<b>he d’estudiar</b>); <b>hi ha</b> = there is/are.",
+     "ko": "<b>haver de</b> + 동사원형 = ~해야 한다(<b>he d’estudiar</b>), <b>hi ha</b> = ~이 있다.",
+     "es": "<b>Haver de</b> + infinitivo = tener que (<b>he d’estudiar</b>); <b>hi ha</b> = hay."
+    },
+    {
+     "en": "Subjunctive: <b>hagi, hagis, hagi, hàgim, hàgiu, hagin</b>. Gerund <b>havent</b>; participle <b>hagut</b>.",
+     "ko": "접속법: <b>hagi, hagis, hagi, hàgim, hàgiu, hagin</b>. 제룬디오 <b>havent</b>, 과거분사 <b>hagut</b>.",
+     "es": "Subjuntivo: <b>hagi, hagis, hagi, hàgim, hàgiu, hagin</b>. Gerundio <b>havent</b>; participio <b>hagut</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "he",
+      "havia",
+      "vaig haver",
+      "hauré",
+      "hauria",
+      "hagi"
+     ],
+     [
+      "tu",
+      "has",
+      "havies",
+      "vas haver",
+      "hauràs",
+      "hauries",
+      "hagis"
+     ],
+     [
+      "ell/ella/vostè",
+      "ha",
+      "havia",
+      "va haver",
+      "haurà",
+      "hauria",
+      "hagi"
+     ],
+     [
+      "nosaltres",
+      "hem",
+      "havíem",
+      "vam haver",
+      "haurem",
+      "hauríem",
+      "hàgim"
+     ],
+     [
+      "vosaltres",
+      "heu",
+      "havíeu",
+      "vau haver",
+      "haureu",
+      "hauríeu",
+      "hàgiu"
+     ],
+     [
+      "ells/elles/vostès",
+      "han",
+      "havien",
+      "van haver",
+      "hauran",
+      "haurien",
+      "hagin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Encara no he fet els deures.",
+     "en": "I still haven’t done my homework.",
+     "ko": "나 아직 숙제 안 했어.",
+     "es": "Todavía no he hecho los deberes."
+    },
+    {
+     "ca": "Hi havia molta gent al concert.",
+     "en": "There were lots of people at the concert.",
+     "ko": "콘서트에 사람이 정말 많았어.",
+     "es": "Había mucha gente en el concierto."
+    }
+   ]
+  },
+  {
+   "id": "A.9",
+   "title": {
+    "ca": "Verb irregular: anar",
+    "en": "Irregular verb: anar (to go)",
+    "ko": "불규칙 동사: anar (가다)",
+    "es": "Verbo irregular: anar (ir)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>vaig, vas, va, anem, aneu, van</b>. These forms are also the auxiliary of the periphrastic past: <b>vaig anar</b> = I went.",
+     "ko": "현재: <b>vaig, vas, va, anem, aneu, van</b>. 이 형태는 우언적 과거의 조동사이기도 해요: <b>vaig anar</b> = 나는 갔다.",
+     "es": "Presente: <b>vaig, vas, va, anem, aneu, van</b>. Son también el auxiliar del pasado perifrástico: <b>vaig anar</b> = fui."
+    },
+    {
+     "en": "Future and conditional use the stem <b>anir-</b>: <b>aniré, aniria</b>.",
+     "ko": "미래형·조건형 어간은 <b>anir-</b>예요: <b>aniré, aniria</b>.",
+     "es": "El futuro y el condicional usan la raíz <b>anir-</b>: <b>aniré, aniria</b>."
+    },
+    {
+     "en": "Subjunctive: <b>vagi, vagis, vagi, anem, aneu, vagin</b>. Gerund <b>anant</b>; participle <b>anat</b>.",
+     "ko": "접속법: <b>vagi, vagis, vagi, anem, aneu, vagin</b>. 제룬디오 <b>anant</b>, 과거분사 <b>anat</b>.",
+     "es": "Subjuntivo: <b>vagi, vagis, vagi, anem, aneu, vagin</b>. Gerundio <b>anant</b>; participio <b>anat</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "vaig",
+      "anava",
+      "vaig anar",
+      "aniré",
+      "aniria",
+      "vagi"
+     ],
+     [
+      "tu",
+      "vas",
+      "anaves",
+      "vas anar",
+      "aniràs",
+      "aniries",
+      "vagis"
+     ],
+     [
+      "ell/ella/vostè",
+      "va",
+      "anava",
+      "va anar",
+      "anirà",
+      "aniria",
+      "vagi"
+     ],
+     [
+      "nosaltres",
+      "anem",
+      "anàvem",
+      "vam anar",
+      "anirem",
+      "aniríem",
+      "anem"
+     ],
+     [
+      "vosaltres",
+      "aneu",
+      "anàveu",
+      "vau anar",
+      "anireu",
+      "aniríeu",
+      "aneu"
+     ],
+     [
+      "ells/elles/vostès",
+      "van",
+      "anaven",
+      "van anar",
+      "aniran",
+      "anirien",
+      "vagin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Demà anirem a la platja de Sitges.",
+     "en": "Tomorrow we’ll go to the beach in Sitges.",
+     "ko": "내일 우리는 시체스 해변에 갈 거야.",
+     "es": "Mañana iremos a la playa de Sitges."
+    },
+    {
+     "ca": "Ahir vaig anar al cinema amb la meva germana.",
+     "en": "Yesterday I went to the cinema with my sister.",
+     "ko": "어제 나는 언니랑 영화관에 갔어.",
+     "es": "Ayer fui al cine con mi hermana."
+    }
+   ]
+  },
+  {
+   "id": "A.10",
+   "title": {
+    "ca": "Verb irregular: fer",
+    "en": "Irregular verb: fer (to do / to make)",
+    "ko": "불규칙 동사: fer (하다 / 만들다)",
+    "es": "Verbo irregular: fer (hacer)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>faig, fas, fa, fem, feu, fan</b>. Imperfect: <b>feia, feies, feia, fèiem, fèieu, feien</b> (accent on <b>fèiem, fèieu</b>).",
+     "ko": "현재: <b>faig, fas, fa, fem, feu, fan</b>. 불완료과거: <b>feia, feies, feia, fèiem, fèieu, feien</b>(<b>fèiem, fèieu</b>에 악센트).",
+     "es": "Presente: <b>faig, fas, fa, fem, feu, fan</b>. Imperfecto: <b>feia, feies, feia, fèiem, fèieu, feien</b> (acento en <b>fèiem, fèieu</b>)."
+    },
+    {
+     "en": "Future <b>faré</b>; subjunctive <b>faci</b>; gerund <b>fent</b>; participle <b>fet, feta</b>.",
+     "ko": "미래 <b>faré</b>, 접속법 <b>faci</b>, 제룬디오 <b>fent</b>, 과거분사 <b>fet, feta</b>.",
+     "es": "Futuro <b>faré</b>; subjuntivo <b>faci</b>; gerundio <b>fent</b>; participio <b>fet, feta</b>."
+    },
+    {
+     "en": "Very frequent in expressions: <b>fa calor</b> (it’s hot), <b>fer els deures</b> (do homework).",
+     "ko": "표현에서 아주 자주 써요: <b>fa calor</b>(덥다), <b>fer els deures</b>(숙제하다).",
+     "es": "Muy frecuente en expresiones: <b>fa calor</b> (hace calor), <b>fer els deures</b> (hacer los deberes)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "faig",
+      "feia",
+      "vaig fer",
+      "faré",
+      "faria",
+      "faci"
+     ],
+     [
+      "tu",
+      "fas",
+      "feies",
+      "vas fer",
+      "faràs",
+      "faries",
+      "facis"
+     ],
+     [
+      "ell/ella/vostè",
+      "fa",
+      "feia",
+      "va fer",
+      "farà",
+      "faria",
+      "faci"
+     ],
+     [
+      "nosaltres",
+      "fem",
+      "fèiem",
+      "vam fer",
+      "farem",
+      "faríem",
+      "fem"
+     ],
+     [
+      "vosaltres",
+      "feu",
+      "fèieu",
+      "vau fer",
+      "fareu",
+      "faríeu",
+      "feu"
+     ],
+     [
+      "ells/elles/vostès",
+      "fan",
+      "feien",
+      "van fer",
+      "faran",
+      "farien",
+      "facin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Què fas aquest cap de setmana?",
+     "en": "What are you doing this weekend?",
+     "ko": "이번 주말에 뭐 해?",
+     "es": "¿Qué haces este fin de semana?"
+    },
+    {
+     "ca": "Quan érem petits, fèiem castells de sorra.",
+     "en": "When we were little, we made sandcastles.",
+     "ko": "어렸을 때 우리는 모래성을 만들곤 했어.",
+     "es": "Cuando éramos pequeños, hacíamos castillos de arena."
+    }
+   ]
+  },
+  {
+   "id": "A.11",
+   "title": {
+    "ca": "Verb irregular: dir",
+    "en": "Irregular verb: dir (to say / to tell)",
+    "ko": "불규칙 동사: dir (말하다)",
+    "es": "Verbo irregular: dir (decir)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>dic, dius, diu, diem, dieu, diuen</b>. Imperfect: <b>deia, deies, deia, dèiem, dèieu, deien</b>.",
+     "ko": "현재: <b>dic, dius, diu, diem, dieu, diuen</b>. 불완료과거: <b>deia, deies, deia, dèiem, dèieu, deien</b>.",
+     "es": "Presente: <b>dic, dius, diu, diem, dieu, diuen</b>. Imperfecto: <b>deia, deies, deia, dèiem, dèieu, deien</b>."
+    },
+    {
+     "en": "Subjunctive <b>digui</b>; gerund <b>dient</b>; participle <b>dit, dita</b>. Compounds like <b>contradir</b> and <b>predir</b> follow it.",
+     "ko": "접속법 <b>digui</b>, 제룬디오 <b>dient</b>, 과거분사 <b>dit, dita</b>. <b>contradir</b>, <b>predir</b> 같은 복합동사도 같아요.",
+     "es": "Subjuntivo <b>digui</b>; gerundio <b>dient</b>; participio <b>dit, dita</b>. Los compuestos como <b>contradir</b> y <b>predir</b> lo siguen."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "dic",
+      "deia",
+      "vaig dir",
+      "diré",
+      "diria",
+      "digui"
+     ],
+     [
+      "tu",
+      "dius",
+      "deies",
+      "vas dir",
+      "diràs",
+      "diries",
+      "diguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "diu",
+      "deia",
+      "va dir",
+      "dirà",
+      "diria",
+      "digui"
+     ],
+     [
+      "nosaltres",
+      "diem",
+      "dèiem",
+      "vam dir",
+      "direm",
+      "diríem",
+      "diguem"
+     ],
+     [
+      "vosaltres",
+      "dieu",
+      "dèieu",
+      "vau dir",
+      "direu",
+      "diríeu",
+      "digueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "diuen",
+      "deien",
+      "van dir",
+      "diran",
+      "dirien",
+      "diguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Què dius? No t’entenc.",
+     "en": "What are you saying? I don’t understand you.",
+     "ko": "뭐라고? 못 알아듣겠어.",
+     "es": "¿Qué dices? No te entiendo."
+    },
+    {
+     "ca": "La professora diu que l’examen és dilluns.",
+     "en": "The teacher says the exam is on Monday.",
+     "ko": "선생님이 시험은 월요일이래.",
+     "es": "La profesora dice que el examen es el lunes."
+    }
+   ]
+  },
+  {
+   "id": "A.12",
+   "title": {
+    "ca": "Verb irregular: venir",
+    "en": "Irregular verb: venir (to come)",
+    "ko": "불규칙 동사: venir (오다)",
+    "es": "Verbo irregular: venir (venir)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>vinc, vens, ve, venim, veniu, venen</b> (older spelling: <b>véns, vénen</b>).",
+     "ko": "현재: <b>vinc, vens, ve, venim, veniu, venen</b>(옛 표기: <b>véns, vénen</b>).",
+     "es": "Presente: <b>vinc, vens, ve, venim, veniu, venen</b> (ortografía antigua: <b>véns, vénen</b>)."
+    },
+    {
+     "en": "Future and conditional add a <b>-d-</b>: <b>vindré, vindria</b>. Subjunctive <b>vingui</b>; participle <b>vingut</b>; gerund <b>venint</b>.",
+     "ko": "미래형·조건형에 <b>-d-</b>가 들어가요: <b>vindré, vindria</b>. 접속법 <b>vingui</b>, 과거분사 <b>vingut</b>, 제룬디오 <b>venint</b>.",
+     "es": "El futuro y el condicional añaden <b>-d-</b>: <b>vindré, vindria</b>. Subjuntivo <b>vingui</b>; participio <b>vingut</b>; gerundio <b>venint</b>."
+    },
+    {
+     "en": "Don’t mix up <b>vinc</b> (I come) with <b>venc</b> (I sell, from <b>vendre</b>).",
+     "ko": "<b>vinc</b>(나는 온다)와 <b>venc</b>(나는 판다, <b>vendre</b>)를 헷갈리지 마세요.",
+     "es": "No confundas <b>vinc</b> (vengo) con <b>venc</b> (vendo, de <b>vendre</b>)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "vinc",
+      "venia",
+      "vaig venir",
+      "vindré",
+      "vindria",
+      "vingui"
+     ],
+     [
+      "tu",
+      "vens",
+      "venies",
+      "vas venir",
+      "vindràs",
+      "vindries",
+      "vinguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "ve",
+      "venia",
+      "va venir",
+      "vindrà",
+      "vindria",
+      "vingui"
+     ],
+     [
+      "nosaltres",
+      "venim",
+      "veníem",
+      "vam venir",
+      "vindrem",
+      "vindríem",
+      "vinguem"
+     ],
+     [
+      "vosaltres",
+      "veniu",
+      "veníeu",
+      "vau venir",
+      "vindreu",
+      "vindríeu",
+      "vingueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "venen",
+      "venien",
+      "van venir",
+      "vindran",
+      "vindrien",
+      "vinguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Vens a la festa dissabte?",
+     "en": "Are you coming to the party on Saturday?",
+     "ko": "토요일 파티에 올 거야?",
+     "es": "¿Vienes a la fiesta el sábado?"
+    },
+    {
+     "ca": "Els meus cosins vindran per Nadal.",
+     "en": "My cousins will come at Christmas.",
+     "ko": "내 사촌들이 크리스마스에 올 거야.",
+     "es": "Mis primos vendrán por Navidad."
+    }
+   ]
+  },
+  {
+   "id": "A.13",
+   "title": {
+    "ca": "Verb irregular: tenir",
+    "en": "Irregular verb: tenir (to have)",
+    "ko": "불규칙 동사: tenir (가지다)",
+    "es": "Verbo irregular: tenir (tener)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>tinc, tens, té, tenim, teniu, tenen</b>. <b>Té</b> (has) keeps its accent to tell it apart from the pronoun <b>te</b>.",
+     "ko": "현재: <b>tinc, tens, té, tenim, teniu, tenen</b>. <b>té</b>(가지다)는 대명사 <b>te</b>와 구별하려고 악센트를 써요.",
+     "es": "Presente: <b>tinc, tens, té, tenim, teniu, tenen</b>. <b>Té</b> (tiene) lleva acento para distinguirlo del pronombre <b>te</b>."
+    },
+    {
+     "en": "It works like <b>venir</b>: <b>tindré, tindria, tingui, tingut</b>; gerund <b>tenint</b>.",
+     "ko": "<b>venir</b>와 같은 방식이에요: <b>tindré, tindria, tingui, tingut</b>, 제룬디오 <b>tenint</b>.",
+     "es": "Funciona como <b>venir</b>: <b>tindré, tindria, tingui, tingut</b>; gerundio <b>tenint</b>."
+    },
+    {
+     "en": "Useful phrases: <b>tenir … anys</b> (to be … years old), <b>tenir fam</b> (to be hungry), <b>tenir ganes de</b> (to feel like).",
+     "ko": "유용한 표현: <b>tenir … anys</b>(…살이다), <b>tenir fam</b>(배고프다), <b>tenir ganes de</b>(~하고 싶다).",
+     "es": "Expresiones útiles: <b>tenir … anys</b> (tener … años), <b>tenir fam</b> (tener hambre), <b>tenir ganes de</b> (tener ganas de)."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "tinc",
+      "tenia",
+      "vaig tenir",
+      "tindré",
+      "tindria",
+      "tingui"
+     ],
+     [
+      "tu",
+      "tens",
+      "tenies",
+      "vas tenir",
+      "tindràs",
+      "tindries",
+      "tinguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "té",
+      "tenia",
+      "va tenir",
+      "tindrà",
+      "tindria",
+      "tingui"
+     ],
+     [
+      "nosaltres",
+      "tenim",
+      "teníem",
+      "vam tenir",
+      "tindrem",
+      "tindríem",
+      "tinguem"
+     ],
+     [
+      "vosaltres",
+      "teniu",
+      "teníeu",
+      "vau tenir",
+      "tindreu",
+      "tindríeu",
+      "tingueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "tenen",
+      "tenien",
+      "van tenir",
+      "tindran",
+      "tindrien",
+      "tinguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Tinc quinze anys.",
+     "en": "I’m fifteen years old.",
+     "ko": "나는 열다섯 살이야.",
+     "es": "Tengo quince años."
+    },
+    {
+     "ca": "Tens fam? Hi ha entrepans a la nevera.",
+     "en": "Are you hungry? There are sandwiches in the fridge.",
+     "ko": "배고파? 냉장고에 샌드위치 있어.",
+     "es": "¿Tienes hambre? Hay bocadillos en la nevera."
+    }
+   ]
+  },
+  {
+   "id": "A.14",
+   "title": {
+    "ca": "Verb irregular: poder",
+    "en": "Irregular verb: poder (can / to be able to)",
+    "ko": "불규칙 동사: poder (~할 수 있다)",
+    "es": "Verbo irregular: poder (poder)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>puc, pots, pot, podem, podeu, poden</b>.",
+     "ko": "현재: <b>puc, pots, pot, podem, podeu, poden</b>.",
+     "es": "Presente: <b>puc, pots, pot, podem, podeu, poden</b>."
+    },
+    {
+     "en": "Many irregular verbs share a pattern: <b>-c</b> in the 1st person present, <b>-gu-</b> in the subjunctive and participle: <b>puc → pugui → pogut</b>.",
+     "ko": "많은 불규칙 동사가 같은 패턴을 가져요: 1인칭 현재에 <b>-c</b>, 접속법과 과거분사에 <b>-gu-</b>: <b>puc → pugui → pogut</b>.",
+     "es": "Muchos irregulares comparten un patrón: <b>-c</b> en la 1.ª persona del presente y <b>-gu-</b> en el subjuntivo y el participio: <b>puc → pugui → pogut</b>."
+    },
+    {
+     "en": "Future <b>podré</b> (no <b>-e-</b>); gerund <b>podent</b>.",
+     "ko": "미래 <b>podré</b>(<b>-e-</b>가 빠져요), 제룬디오 <b>podent</b>.",
+     "es": "Futuro <b>podré</b> (sin <b>-e-</b>); gerundio <b>podent</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "puc",
+      "podia",
+      "vaig poder",
+      "podré",
+      "podria",
+      "pugui"
+     ],
+     [
+      "tu",
+      "pots",
+      "podies",
+      "vas poder",
+      "podràs",
+      "podries",
+      "puguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "pot",
+      "podia",
+      "va poder",
+      "podrà",
+      "podria",
+      "pugui"
+     ],
+     [
+      "nosaltres",
+      "podem",
+      "podíem",
+      "vam poder",
+      "podrem",
+      "podríem",
+      "puguem"
+     ],
+     [
+      "vosaltres",
+      "podeu",
+      "podíeu",
+      "vau poder",
+      "podreu",
+      "podríeu",
+      "pugueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "poden",
+      "podien",
+      "van poder",
+      "podran",
+      "podrien",
+      "puguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Puc anar al lavabo, si us plau?",
+     "en": "May I go to the toilet, please?",
+     "ko": "화장실 가도 돼요?",
+     "es": "¿Puedo ir al baño, por favor?"
+    },
+    {
+     "ca": "No vam poder sortir per la pluja.",
+     "en": "We couldn’t go out because of the rain.",
+     "ko": "비 때문에 우리는 나갈 수 없었어.",
+     "es": "No pudimos salir por la lluvia."
+    }
+   ]
+  },
+  {
+   "id": "A.15",
+   "title": {
+    "ca": "Verb irregular: voler",
+    "en": "Irregular verb: voler (to want)",
+    "ko": "불규칙 동사: voler (원하다)",
+    "es": "Verbo irregular: voler (querer)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>vull, vols, vol, volem, voleu, volen</b>.",
+     "ko": "현재: <b>vull, vols, vol, volem, voleu, volen</b>.",
+     "es": "Presente: <b>vull, vols, vol, volem, voleu, volen</b>."
+    },
+    {
+     "en": "Future <b>voldré</b>; subjunctive <b>vulgui</b>; participle <b>volgut</b>; gerund <b>volent</b>.",
+     "ko": "미래 <b>voldré</b>, 접속법 <b>vulgui</b>, 과거분사 <b>volgut</b>, 제룬디오 <b>volent</b>.",
+     "es": "Futuro <b>voldré</b>; subjuntivo <b>vulgui</b>; participio <b>volgut</b>; gerundio <b>volent</b>."
+    },
+    {
+     "en": "Use the conditional <b>voldria</b> to ask politely in shops and cafés.",
+     "ko": "가게나 카페에서 정중하게 부탁할 때는 조건형 <b>voldria</b>를 써요.",
+     "es": "Usa el condicional <b>voldria</b> para pedir con educación en tiendas y bares."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "vull",
+      "volia",
+      "vaig voler",
+      "voldré",
+      "voldria",
+      "vulgui"
+     ],
+     [
+      "tu",
+      "vols",
+      "volies",
+      "vas voler",
+      "voldràs",
+      "voldries",
+      "vulguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "vol",
+      "volia",
+      "va voler",
+      "voldrà",
+      "voldria",
+      "vulgui"
+     ],
+     [
+      "nosaltres",
+      "volem",
+      "volíem",
+      "vam voler",
+      "voldrem",
+      "voldríem",
+      "vulguem"
+     ],
+     [
+      "vosaltres",
+      "voleu",
+      "volíeu",
+      "vau voler",
+      "voldreu",
+      "voldríeu",
+      "vulgueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "volen",
+      "volien",
+      "van voler",
+      "voldran",
+      "voldrien",
+      "vulguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Vull un suc de taronja.",
+     "en": "I want an orange juice.",
+     "ko": "오렌지 주스 하나 원해.",
+     "es": "Quiero un zumo de naranja."
+    },
+    {
+     "ca": "Voldria reservar una taula per a quatre.",
+     "en": "I’d like to book a table for four.",
+     "ko": "4명 자리 예약하고 싶어요.",
+     "es": "Querría reservar una mesa para cuatro."
+    }
+   ]
+  },
+  {
+   "id": "A.16",
+   "title": {
+    "ca": "Verb irregular: saber",
+    "en": "Irregular verb: saber (to know)",
+    "ko": "불규칙 동사: saber (알다)",
+    "es": "Verbo irregular: saber (saber)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>sé, saps, sap, sabem, sabeu, saben</b>. <b>Sé</b> has an accent to distinguish it from the pronoun <b>se</b>.",
+     "ko": "현재: <b>sé, saps, sap, sabem, sabeu, saben</b>. <b>sé</b>는 대명사 <b>se</b>와 구별하려고 악센트를 써요.",
+     "es": "Presente: <b>sé, saps, sap, sabem, sabeu, saben</b>. <b>Sé</b> lleva acento para distinguirlo del pronombre <b>se</b>."
+    },
+    {
+     "en": "The subjunctive is special: <b>sàpiga, sàpigues, sàpiga, sapiguem, sapigueu, sàpiguen</b>.",
+     "ko": "접속법이 특이해요: <b>sàpiga, sàpigues, sàpiga, sapiguem, sapigueu, sàpiguen</b>.",
+     "es": "El subjuntivo es especial: <b>sàpiga, sàpigues, sàpiga, sapiguem, sapigueu, sàpiguen</b>."
+    },
+    {
+     "en": "Future <b>sabré</b>; participle <b>sabut</b>; gerund <b>sabent</b>. <b>Saber</b> = know facts or how to do something; <b>conèixer</b> = know people and places.",
+     "ko": "미래 <b>sabré</b>, 과거분사 <b>sabut</b>, 제룬디오 <b>sabent</b>. <b>saber</b> = 사실·방법을 알다, <b>conèixer</b> = 사람·장소를 알다.",
+     "es": "Futuro <b>sabré</b>; participio <b>sabut</b>; gerundio <b>sabent</b>. <b>Saber</b> = saber datos o cómo hacer algo; <b>conèixer</b> = conocer personas y lugares."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "sé",
+      "sabia",
+      "vaig saber",
+      "sabré",
+      "sabria",
+      "sàpiga"
+     ],
+     [
+      "tu",
+      "saps",
+      "sabies",
+      "vas saber",
+      "sabràs",
+      "sabries",
+      "sàpigues"
+     ],
+     [
+      "ell/ella/vostè",
+      "sap",
+      "sabia",
+      "va saber",
+      "sabrà",
+      "sabria",
+      "sàpiga"
+     ],
+     [
+      "nosaltres",
+      "sabem",
+      "sabíem",
+      "vam saber",
+      "sabrem",
+      "sabríem",
+      "sapiguem"
+     ],
+     [
+      "vosaltres",
+      "sabeu",
+      "sabíeu",
+      "vau saber",
+      "sabreu",
+      "sabríeu",
+      "sapigueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "saben",
+      "sabien",
+      "van saber",
+      "sabran",
+      "sabrien",
+      "sàpiguen"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "No sé on és el meu mòbil.",
+     "en": "I don’t know where my phone is.",
+     "ko": "내 휴대폰이 어디 있는지 모르겠어.",
+     "es": "No sé dónde está mi móvil."
+    },
+    {
+     "ca": "Saps nedar?",
+     "en": "Can you swim?",
+     "ko": "수영할 줄 알아?",
+     "es": "¿Sabes nadar?"
+    }
+   ]
+  },
+  {
+   "id": "A.17",
+   "title": {
+    "ca": "Verb irregular: veure",
+    "en": "Irregular verb: veure (to see)",
+    "ko": "불규칙 동사: veure (보다)",
+    "es": "Verbo irregular: veure (ver)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>veig, veus, veu, veiem, veieu, veuen</b>. Imperfect: <b>veia, veies, veia, vèiem, vèieu, veien</b>.",
+     "ko": "현재: <b>veig, veus, veu, veiem, veieu, veuen</b>. 불완료과거: <b>veia, veies, veia, vèiem, vèieu, veien</b>.",
+     "es": "Presente: <b>veig, veus, veu, veiem, veieu, veuen</b>. Imperfecto: <b>veia, veies, veia, vèiem, vèieu, veien</b>."
+    },
+    {
+     "en": "Future <b>veuré</b>; subjunctive <b>vegi</b>; gerund <b>veient</b>; participle <b>vist, vista</b>.",
+     "ko": "미래 <b>veuré</b>, 접속법 <b>vegi</b>, 제룬디오 <b>veient</b>, 과거분사 <b>vist, vista</b>.",
+     "es": "Futuro <b>veuré</b>; subjuntivo <b>vegi</b>; gerundio <b>veient</b>; participio <b>vist, vista</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "veig",
+      "veia",
+      "vaig veure",
+      "veuré",
+      "veuria",
+      "vegi"
+     ],
+     [
+      "tu",
+      "veus",
+      "veies",
+      "vas veure",
+      "veuràs",
+      "veuries",
+      "vegis"
+     ],
+     [
+      "ell/ella/vostè",
+      "veu",
+      "veia",
+      "va veure",
+      "veurà",
+      "veuria",
+      "vegi"
+     ],
+     [
+      "nosaltres",
+      "veiem",
+      "vèiem",
+      "vam veure",
+      "veurem",
+      "veuríem",
+      "vegem"
+     ],
+     [
+      "vosaltres",
+      "veieu",
+      "vèieu",
+      "vau veure",
+      "veureu",
+      "veuríeu",
+      "vegeu"
+     ],
+     [
+      "ells/elles/vostès",
+      "veuen",
+      "veien",
+      "van veure",
+      "veuran",
+      "veurien",
+      "vegin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Veus aquella muntanya? És Montserrat.",
+     "en": "Do you see that mountain? It’s Montserrat.",
+     "ko": "저 산 보여? 몬세라트야.",
+     "es": "¿Ves esa montaña? Es Montserrat."
+    },
+    {
+     "ca": "Ahir vam veure un partit de bàsquet.",
+     "en": "Yesterday we watched a basketball game.",
+     "ko": "어제 우리는 농구 경기를 봤어.",
+     "es": "Ayer vimos un partido de baloncesto."
+    }
+   ]
+  },
+  {
+   "id": "A.18",
+   "title": {
+    "ca": "Verb irregular: viure",
+    "en": "Irregular verb: viure (to live)",
+    "ko": "불규칙 동사: viure (살다)",
+    "es": "Verbo irregular: viure (vivir)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>visc, vius, viu, vivim, viviu, viuen</b>. The <b>-u-</b> becomes <b>-v-</b> before a vowel: <b>vivim, vivia</b>.",
+     "ko": "현재: <b>visc, vius, viu, vivim, viviu, viuen</b>. 모음 앞에서 <b>-u-</b>가 <b>-v-</b>로 바뀌어요: <b>vivim, vivia</b>.",
+     "es": "Presente: <b>visc, vius, viu, vivim, viviu, viuen</b>. La <b>-u-</b> pasa a <b>-v-</b> ante vocal: <b>vivim, vivia</b>."
+    },
+    {
+     "en": "Future <b>viuré</b>; subjunctive <b>visqui</b>; gerund <b>vivint</b>; participle <b>viscut</b>.",
+     "ko": "미래 <b>viuré</b>, 접속법 <b>visqui</b>, 제룬디오 <b>vivint</b>, 과거분사 <b>viscut</b>.",
+     "es": "Futuro <b>viuré</b>; subjuntivo <b>visqui</b>; gerundio <b>vivint</b>; participio <b>viscut</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "visc",
+      "vivia",
+      "vaig viure",
+      "viuré",
+      "viuria",
+      "visqui"
+     ],
+     [
+      "tu",
+      "vius",
+      "vivies",
+      "vas viure",
+      "viuràs",
+      "viuries",
+      "visquis"
+     ],
+     [
+      "ell/ella/vostè",
+      "viu",
+      "vivia",
+      "va viure",
+      "viurà",
+      "viuria",
+      "visqui"
+     ],
+     [
+      "nosaltres",
+      "vivim",
+      "vivíem",
+      "vam viure",
+      "viurem",
+      "viuríem",
+      "visquem"
+     ],
+     [
+      "vosaltres",
+      "viviu",
+      "vivíeu",
+      "vau viure",
+      "viureu",
+      "viuríeu",
+      "visqueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "viuen",
+      "vivien",
+      "van viure",
+      "viuran",
+      "viurien",
+      "visquin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Visc a Palma de Mallorca.",
+     "en": "I live in Palma de Mallorca.",
+     "ko": "나는 팔마 데 마요르카에 살아.",
+     "es": "Vivo en Palma de Mallorca."
+    },
+    {
+     "ca": "Quan era petita, vivia a València.",
+     "en": "When I was little, I lived in Valencia.",
+     "ko": "어렸을 때 나는 발렌시아에 살았어.",
+     "es": "Cuando era pequeña, vivía en Valencia."
+    }
+   ]
+  },
+  {
+   "id": "A.19",
+   "title": {
+    "ca": "Verb irregular: escriure",
+    "en": "Irregular verb: escriure (to write)",
+    "ko": "불규칙 동사: escriure (쓰다)",
+    "es": "Verbo irregular: escriure (escribir)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>escric, escrius, escriu, escrivim, escriviu, escriuen</b>.",
+     "ko": "현재: <b>escric, escrius, escriu, escrivim, escriviu, escriuen</b>.",
+     "es": "Presente: <b>escric, escrius, escriu, escrivim, escriviu, escriuen</b>."
+    },
+    {
+     "en": "Imperfect <b>escrivia</b>; future <b>escriuré</b>; subjunctive <b>escrigui</b>; gerund <b>escrivint</b>; participle <b>escrit, escrita</b>. <b>Descriure</b> works the same.",
+     "ko": "불완료과거 <b>escrivia</b>, 미래 <b>escriuré</b>, 접속법 <b>escrigui</b>, 제룬디오 <b>escrivint</b>, 과거분사 <b>escrit, escrita</b>. <b>descriure</b>도 같아요.",
+     "es": "Imperfecto <b>escrivia</b>; futuro <b>escriuré</b>; subjuntivo <b>escrigui</b>; gerundio <b>escrivint</b>; participio <b>escrit, escrita</b>. <b>Descriure</b> funciona igual."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "escric",
+      "escrivia",
+      "vaig escriure",
+      "escriuré",
+      "escriuria",
+      "escrigui"
+     ],
+     [
+      "tu",
+      "escrius",
+      "escrivies",
+      "vas escriure",
+      "escriuràs",
+      "escriuries",
+      "escriguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "escriu",
+      "escrivia",
+      "va escriure",
+      "escriurà",
+      "escriuria",
+      "escrigui"
+     ],
+     [
+      "nosaltres",
+      "escrivim",
+      "escrivíem",
+      "vam escriure",
+      "escriurem",
+      "escriuríem",
+      "escriguem"
+     ],
+     [
+      "vosaltres",
+      "escriviu",
+      "escrivíeu",
+      "vau escriure",
+      "escriureu",
+      "escriuríeu",
+      "escrigueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "escriuen",
+      "escrivien",
+      "van escriure",
+      "escriuran",
+      "escriurien",
+      "escriguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Escric un missatge a la meva àvia.",
+     "en": "I’m writing a message to my grandma.",
+     "ko": "할머니께 메시지를 쓰고 있어.",
+     "es": "Le escribo un mensaje a mi abuela."
+    },
+    {
+     "ca": "Has escrit la redacció?",
+     "en": "Have you written the essay?",
+     "ko": "작문 다 썼어?",
+     "es": "¿Has escrito la redacción?"
+    }
+   ]
+  },
+  {
+   "id": "A.20",
+   "title": {
+    "ca": "Verb irregular: beure",
+    "en": "Irregular verb: beure (to drink)",
+    "ko": "불규칙 동사: beure (마시다)",
+    "es": "Verbo irregular: beure (beber)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>bec, beus, beu, bevem, beveu, beuen</b>. Imperfect: <b>bevia, bevíem</b>.",
+     "ko": "현재: <b>bec, beus, beu, bevem, beveu, beuen</b>. 불완료과거: <b>bevia, bevíem</b>.",
+     "es": "Presente: <b>bec, beus, beu, bevem, beveu, beuen</b>. Imperfecto: <b>bevia, bevíem</b>."
+    },
+    {
+     "en": "Future <b>beuré</b>; subjunctive <b>begui</b>; gerund <b>bevent</b>; participle <b>begut</b>. <b>Deure</b> (dec, devem, degut) and <b>moure</b> (moc, movem, mogut) are similar.",
+     "ko": "미래 <b>beuré</b>, 접속법 <b>begui</b>, 제룬디오 <b>bevent</b>, 과거분사 <b>begut</b>. <b>deure</b>(dec, devem, degut), <b>moure</b>(moc, movem, mogut)도 비슷해요.",
+     "es": "Futuro <b>beuré</b>; subjuntivo <b>begui</b>; gerundio <b>bevent</b>; participio <b>begut</b>. <b>Deure</b> (dec, devem, degut) y <b>moure</b> (moc, movem, mogut) son parecidos."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "bec",
+      "bevia",
+      "vaig beure",
+      "beuré",
+      "beuria",
+      "begui"
+     ],
+     [
+      "tu",
+      "beus",
+      "bevies",
+      "vas beure",
+      "beuràs",
+      "beuries",
+      "beguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "beu",
+      "bevia",
+      "va beure",
+      "beurà",
+      "beuria",
+      "begui"
+     ],
+     [
+      "nosaltres",
+      "bevem",
+      "bevíem",
+      "vam beure",
+      "beurem",
+      "beuríem",
+      "beguem"
+     ],
+     [
+      "vosaltres",
+      "beveu",
+      "bevíeu",
+      "vau beure",
+      "beureu",
+      "beuríeu",
+      "begueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "beuen",
+      "bevien",
+      "van beure",
+      "beuran",
+      "beurien",
+      "beguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Bec molta aigua quan faig esport.",
+     "en": "I drink lots of water when I do sport.",
+     "ko": "운동할 때 나는 물을 많이 마셔.",
+     "es": "Bebo mucha agua cuando hago deporte."
+    },
+    {
+     "ca": "Què vols beure?",
+     "en": "What do you want to drink?",
+     "ko": "뭐 마실래?",
+     "es": "¿Qué quieres beber?"
+    }
+   ]
+  },
+  {
+   "id": "A.21",
+   "title": {
+    "ca": "Verb irregular: conèixer",
+    "en": "Irregular verb: conèixer (to know (people, places))",
+    "ko": "불규칙 동사: conèixer ((사람·장소를) 알다)",
+    "es": "Verbo irregular: conèixer (conocer)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>conec, coneixes, coneix, coneixem, coneixeu, coneixen</b>. Only the infinitive has the accent.",
+     "ko": "현재: <b>conec, coneixes, coneix, coneixem, coneixeu, coneixen</b>. 악센트는 동사원형에만 있어요.",
+     "es": "Presente: <b>conec, coneixes, coneix, coneixem, coneixeu, coneixen</b>. Solo el infinitivo lleva acento."
+    },
+    {
+     "en": "Imperfect <b>coneixia</b>; future <b>coneixeré</b>; subjunctive <b>conegui</b>; gerund <b>coneixent</b>; participle <b>conegut</b>.",
+     "ko": "불완료과거 <b>coneixia</b>, 미래 <b>coneixeré</b>, 접속법 <b>conegui</b>, 제룬디오 <b>coneixent</b>, 과거분사 <b>conegut</b>.",
+     "es": "Imperfecto <b>coneixia</b>; futuro <b>coneixeré</b>; subjuntivo <b>conegui</b>; gerundio <b>coneixent</b>; participio <b>conegut</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "conec",
+      "coneixia",
+      "vaig conèixer",
+      "coneixeré",
+      "coneixeria",
+      "conegui"
+     ],
+     [
+      "tu",
+      "coneixes",
+      "coneixies",
+      "vas conèixer",
+      "coneixeràs",
+      "coneixeries",
+      "coneguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "coneix",
+      "coneixia",
+      "va conèixer",
+      "coneixerà",
+      "coneixeria",
+      "conegui"
+     ],
+     [
+      "nosaltres",
+      "coneixem",
+      "coneixíem",
+      "vam conèixer",
+      "coneixerem",
+      "coneixeríem",
+      "coneguem"
+     ],
+     [
+      "vosaltres",
+      "coneixeu",
+      "coneixíeu",
+      "vau conèixer",
+      "coneixereu",
+      "coneixeríeu",
+      "conegueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "coneixen",
+      "coneixien",
+      "van conèixer",
+      "coneixeran",
+      "coneixerien",
+      "coneguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Coneixes el meu amic Pau?",
+     "en": "Do you know my friend Pau?",
+     "ko": "내 친구 파우 알아?",
+     "es": "¿Conoces a mi amigo Pau?"
+    },
+    {
+     "ca": "Ens vam conèixer a l’institut.",
+     "en": "We met at secondary school.",
+     "ko": "우리는 고등학교에서 만났어.",
+     "es": "Nos conocimos en el instituto."
+    }
+   ]
+  },
+  {
+   "id": "A.22",
+   "title": {
+    "ca": "Verb irregular: prendre",
+    "en": "Irregular verb: prendre (to take)",
+    "ko": "불규칙 동사: prendre (잡다 / 타다 / 먹다)",
+    "es": "Verbo irregular: prendre (tomar)"
+   },
+   "points": [
+    {
+     "en": "Present: <b>prenc, prens, pren, prenem, preneu, prenen</b>.",
+     "ko": "현재: <b>prenc, prens, pren, prenem, preneu, prenen</b>.",
+     "es": "Presente: <b>prenc, prens, pren, prenem, preneu, prenen</b>."
+    },
+    {
+     "en": "Future <b>prendré</b>; subjunctive <b>prengui</b>; gerund <b>prenent</b>; participle <b>pres, presa</b>.",
+     "ko": "미래 <b>prendré</b>, 접속법 <b>prengui</b>, 제룬디오 <b>prenent</b>, 과거분사 <b>pres, presa</b>.",
+     "es": "Futuro <b>prendré</b>; subjuntivo <b>prengui</b>; gerundio <b>prenent</b>; participio <b>pres, presa</b>."
+    },
+    {
+     "en": "Compounds follow it: <b>aprendre</b> (aprenc, <b>après</b>), <b>comprendre</b> (<b>comprès</b>), <b>sorprendre</b> (<b>sorprès</b>). The compound participles have an accent.",
+     "ko": "복합동사도 같아요: <b>aprendre</b>(aprenc, <b>après</b>), <b>comprendre</b>(<b>comprès</b>), <b>sorprendre</b>(<b>sorprès</b>). 복합동사의 과거분사에는 악센트가 있어요.",
+     "es": "Los compuestos lo siguen: <b>aprendre</b> (aprenc, <b>après</b>), <b>comprendre</b> (<b>comprès</b>), <b>sorprendre</b> (<b>sorprès</b>). Sus participios llevan acento."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "present",
+     "imperfect",
+     "past (periphr.)",
+     "future",
+     "conditional",
+     "pres. subj."
+    ],
+    "rows": [
+     [
+      "jo",
+      "prenc",
+      "prenia",
+      "vaig prendre",
+      "prendré",
+      "prendria",
+      "prengui"
+     ],
+     [
+      "tu",
+      "prens",
+      "prenies",
+      "vas prendre",
+      "prendràs",
+      "prendries",
+      "prenguis"
+     ],
+     [
+      "ell/ella/vostè",
+      "pren",
+      "prenia",
+      "va prendre",
+      "prendrà",
+      "prendria",
+      "prengui"
+     ],
+     [
+      "nosaltres",
+      "prenem",
+      "preníem",
+      "vam prendre",
+      "prendrem",
+      "prendríem",
+      "prenguem"
+     ],
+     [
+      "vosaltres",
+      "preneu",
+      "preníeu",
+      "vau prendre",
+      "prendreu",
+      "prendríeu",
+      "prengueu"
+     ],
+     [
+      "ells/elles/vostès",
+      "prenen",
+      "prenien",
+      "van prendre",
+      "prendran",
+      "prendrien",
+      "prenguin"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Cada matí prenc el metro a les set.",
+     "en": "Every morning I take the metro at seven.",
+     "ko": "매일 아침 7시에 지하철을 타.",
+     "es": "Cada mañana tomo el metro a las siete."
+    },
+    {
+     "ca": "Aquest any he après molt català.",
+     "en": "This year I’ve learned a lot of Catalan.",
+     "ko": "올해 나는 카탈루냐어를 많이 배웠어.",
+     "es": "Este año he aprendido mucho catalán."
+    }
+   ]
+  },
+  {
+   "id": "A.23",
+   "title": {
+    "ca": "Formes no personals",
+    "en": "Non-finite forms",
+    "ko": "비인칭형 (원형·제룬디오·분사)",
+    "es": "Formas no personales"
+   },
+   "points": [
+    {
+     "en": "Gerunds end in <b>-ant</b> (-ar), <b>-ent</b> (-er/-re) or <b>-int</b> (-ir): <b>cantant, perdent, dormint</b>.",
+     "ko": "제룬디오는 <b>-ant</b>(-ar), <b>-ent</b>(-er/-re), <b>-int</b>(-ir)로 끝나요: <b>cantant, perdent, dormint</b>.",
+     "es": "Los gerundios acaban en <b>-ant</b> (-ar), <b>-ent</b> (-er/-re) o <b>-int</b> (-ir): <b>cantant, perdent, dormint</b>."
+    },
+    {
+     "en": "Regular past participles end in <b>-at</b>, <b>-ut</b> or <b>-it</b>; the feminine adds <b>-ada, -uda, -ida</b>.",
+     "ko": "규칙 과거분사는 <b>-at</b>, <b>-ut</b>, <b>-it</b>로 끝나고, 여성형은 <b>-ada, -uda, -ida</b>예요.",
+     "es": "Los participios regulares acaban en <b>-at</b>, <b>-ut</b> o <b>-it</b>; el femenino añade <b>-ada, -uda, -ida</b>."
+    },
+    {
+     "en": "Many irregular participles end in <b>-gut</b>: <b>vingut, tingut, pogut, begut, conegut</b>. Others are short: <b>fet, dit, vist, escrit, pres</b>.",
+     "ko": "불규칙 과거분사 중 다수는 <b>-gut</b>로 끝나요: <b>vingut, tingut, pogut, begut, conegut</b>. 짧은 형태도 있어요: <b>fet, dit, vist, escrit, pres</b>.",
+     "es": "Muchos participios irregulares acaban en <b>-gut</b>: <b>vingut, tingut, pogut, begut, conegut</b>. Otros son cortos: <b>fet, dit, vist, escrit, pres</b>."
+    },
+    {
+     "en": "Use the participle with <b>haver</b> (perfect tenses, no agreement) or with <b>ser/estar</b> (agrees like an adjective: <b>les cartes estan escrites</b>).",
+     "ko": "과거분사는 <b>haver</b>와 함께(완료 시제, 일치 없음) 또는 <b>ser/estar</b>와 함께(형용사처럼 일치: <b>les cartes estan escrites</b>) 써요.",
+     "es": "El participio se usa con <b>haver</b> (tiempos compuestos, sin concordancia) o con <b>ser/estar</b> (concuerda como un adjetivo: <b>les cartes estan escrites</b>)."
+    }
+   ],
+   "table": {
+    "head": [
+     "infinitive",
+     "gerund",
+     "participle (m.)",
+     "participle (f.)"
+    ],
+    "rows": [
+     [
+      "cantar",
+      "cantant",
+      "cantat",
+      "cantada"
+     ],
+     [
+      "témer",
+      "tement",
+      "temut",
+      "temuda"
+     ],
+     [
+      "perdre",
+      "perdent",
+      "perdut",
+      "perduda"
+     ],
+     [
+      "servir",
+      "servint",
+      "servit",
+      "servida"
+     ],
+     [
+      "dormir",
+      "dormint",
+      "dormit",
+      "dormida"
+     ],
+     [
+      "ser / ésser",
+      "sent / essent",
+      "estat / sigut",
+      "estada / siguda"
+     ],
+     [
+      "estar",
+      "estant",
+      "estat",
+      "estada"
+     ],
+     [
+      "haver",
+      "havent",
+      "hagut",
+      "haguda"
+     ],
+     [
+      "anar",
+      "anant",
+      "anat",
+      "anada"
+     ],
+     [
+      "fer",
+      "fent",
+      "fet",
+      "feta"
+     ],
+     [
+      "dir",
+      "dient",
+      "dit",
+      "dita"
+     ],
+     [
+      "venir",
+      "venint",
+      "vingut",
+      "vinguda"
+     ],
+     [
+      "tenir",
+      "tenint",
+      "tingut",
+      "tinguda"
+     ],
+     [
+      "poder",
+      "podent",
+      "pogut",
+      "poguda"
+     ],
+     [
+      "voler",
+      "volent",
+      "volgut",
+      "volguda"
+     ],
+     [
+      "saber",
+      "sabent",
+      "sabut",
+      "sabuda"
+     ],
+     [
+      "veure",
+      "veient",
+      "vist",
+      "vista"
+     ],
+     [
+      "viure",
+      "vivint",
+      "viscut",
+      "viscuda"
+     ],
+     [
+      "escriure",
+      "escrivint",
+      "escrit",
+      "escrita"
+     ],
+     [
+      "beure",
+      "bevent",
+      "begut",
+      "beguda"
+     ],
+     [
+      "conèixer",
+      "coneixent",
+      "conegut",
+      "coneguda"
+     ],
+     [
+      "prendre",
+      "prenent",
+      "pres",
+      "presa"
+     ]
+    ],
+    "speak": [
+     0,
+     1,
+     2,
+     3
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Estem estudiant per a l’examen.",
+     "en": "We’re studying for the exam.",
+     "ko": "우리는 시험공부를 하고 있어.",
+     "es": "Estamos estudiando para el examen."
+    },
+    {
+     "ca": "Les cartes ja estan escrites.",
+     "en": "The letters are already written.",
+     "ko": "편지는 이미 다 쓰여 있어.",
+     "es": "Las cartas ya están escritas."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "ca": "conjugar",
+   "en": "to conjugate",
+   "ko": "활용하다",
+   "es": "conjugar"
+  },
+  {
+   "ca": "l’infinitiu",
+   "en": "infinitive",
+   "ko": "동사원형",
+   "es": "el infinitivo"
+  },
+  {
+   "ca": "el gerundi",
+   "en": "gerund",
+   "ko": "제룬디오(동명사형)",
+   "es": "el gerundio"
+  },
+  {
+   "ca": "el participi",
+   "en": "past participle",
+   "ko": "과거분사",
+   "es": "el participio"
+  },
+  {
+   "ca": "el present",
+   "en": "present tense",
+   "ko": "현재",
+   "es": "el presente"
+  },
+  {
+   "ca": "l’imperfet",
+   "en": "imperfect",
+   "ko": "불완료과거",
+   "es": "el imperfecto"
+  },
+  {
+   "ca": "el passat perifràstic",
+   "en": "periphrastic past",
+   "ko": "우언적 과거",
+   "es": "el pasado perifrástico"
+  },
+  {
+   "ca": "el futur",
+   "en": "future",
+   "ko": "미래",
+   "es": "el futuro"
+  },
+  {
+   "ca": "el condicional",
+   "en": "conditional",
+   "ko": "조건법",
+   "es": "el condicional"
+  },
+  {
+   "ca": "el subjuntiu",
+   "en": "subjunctive",
+   "ko": "접속법",
+   "es": "el subjuntivo"
+  },
+  {
+   "ca": "verb irregular",
+   "en": "irregular verb",
+   "ko": "불규칙 동사",
+   "es": "verbo irregular"
+  },
+  {
+   "ca": "verb incoatiu",
+   "en": "inchoative verb",
+   "ko": "기동형 동사",
+   "es": "verbo incoativo"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "fill",
+   "sec": "A.1",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Ahir vosaltres ___ (cantar) molt bé al concert.",
+   "answer": [
+    "vau cantar",
+    "vàreu cantar",
+    "cantàreu"
+   ],
+   "explain": {
+    "en": "Past of an action yesterday: periphrastic past vau + infinitive (or simple past cantàreu).",
+    "ko": "어제 일이므로 우언적 과거 vau + 원형(또는 단순과거 cantàreu)을 써요.",
+    "es": "Acción de ayer: pasado perifrástico vau + infinitivo (o pasado simple cantàreu)."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.2",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "Els nens petits ___ els trons.",
+   "options": [
+    "temin",
+    "temeu",
+    "temen",
+    "tems"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Ells in the present indicative takes -en: temen.",
+    "ko": "ells의 직설법 현재 어미는 -en이에요: temen.",
+    "es": "Ells en presente de indicativo lleva -en: temen."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.3",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Ahir el meu germà ___ (perdre) l’autobús.",
+   "answer": [
+    "va perdre",
+    "perdé"
+   ],
+   "explain": {
+    "en": "3rd person singular periphrastic past: va + infinitive.",
+    "ko": "3인칭 단수 우언적 과거: va + 원형.",
+    "es": "3.ª persona del singular del pasado perifrástico: va + infinitivo."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.3",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Si no t’afanyes, ___ (perdre, tu) el tren.",
+   "answer": [
+    "perdràs"
+   ],
+   "explain": {
+    "en": "Future of -re verbs drops the final -e: perdr- + -às.",
+    "ko": "-re 동사의 미래형은 끝의 -e를 빼요: perdr- + -às.",
+    "es": "El futuro de los verbos en -re pierde la -e final: perdr- + -às."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.4",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo ___ (llegir) un llibre cada setmana.",
+   "answer": [
+    "llegeixo"
+   ],
+   "explain": {
+    "en": "Llegir is inchoative: jo adds -eix- → llegeixo.",
+    "ko": "llegir는 기동형이라 jo에 -eix-가 들어가요 → llegeixo.",
+    "es": "Llegir es incoativo: jo añade -eix- → llegeixo."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.4",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "La mare vol que tu ___ (servir) l’aigua.",
+   "answer": [
+    "serveixis"
+   ],
+   "explain": {
+    "en": "Present subjunctive of an inchoative verb (tu) keeps -eix-: serveixis.",
+    "ko": "기동형 동사의 접속법 현재(tu)에도 -eix-가 있어요: serveixis.",
+    "es": "El subjuntivo de un incoativo (tu) mantiene -eix-: serveixis."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.4",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "Nosaltres ___ la pizza a la pasta.",
+   "options": [
+    "prefereixem",
+    "preferim",
+    "preferem",
+    "prefereixim"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Nosaltres never takes -eix-: preferim.",
+    "ko": "nosaltres에는 -eix-가 들어가지 않아요: preferim.",
+    "es": "Nosaltres nunca lleva -eix-: preferim."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.5",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Els caps de setmana jo ___ (dormir) fins tard.",
+   "answer": [
+    "dormo"
+   ],
+   "explain": {
+    "en": "Dormir is a pure -ir verb (no -eix-): dormo.",
+    "ko": "dormir는 순수 -ir 동사(-eix- 없음)예요: dormo.",
+    "es": "Dormir es un verbo en -ir puro (sin -eix-): dormo."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.5",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "Jo ___ de casa cada dia a les vuit.",
+   "options": [
+    "sorto",
+    "surteixo",
+    "surto",
+    "sortisc"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Sortir changes o → u when stressed: surto.",
+    "ko": "sortir는 강세가 오면 o가 u로 바뀌어요: surto.",
+    "es": "Sortir cambia o → u cuando es tónica: surto."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.6",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Nosaltres ___ (ser) de Lleida.",
+   "answer": [
+    "som"
+   ],
+   "explain": {
+    "en": "Present of ser for nosaltres: som.",
+    "ko": "ser의 nosaltres 현재형: som.",
+    "es": "Presente de ser para nosaltres: som."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.6",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "És important que vosaltres ___ (ser) puntuals.",
+   "answer": [
+    "sigueu"
+   ],
+   "explain": {
+    "en": "After 'és important que' we use the subjunctive: sigueu.",
+    "ko": "'és important que' 뒤에는 접속법을 써요: sigueu.",
+    "es": "Tras 'és important que' va subjuntivo: sigueu."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.6",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Quan nosaltres ___ (ser) petits, vivíem a Reus.",
+   "answer": [
+    "érem"
+   ],
+   "explain": {
+    "en": "Imperfect of ser for nosaltres: érem (with accent).",
+    "ko": "ser의 nosaltres 불완료과거: érem(악센트 있음).",
+    "es": "Imperfecto de ser para nosaltres: érem (con acento)."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.7",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Tu ___ (estar) cansat avui?",
+   "answer": [
+    "estàs"
+   ],
+   "explain": {
+    "en": "Present of estar for tu: estàs, with a grave accent.",
+    "ko": "estar의 tu 현재형: estàs(악센트 있음).",
+    "es": "Presente de estar para tu: estàs, con acento grave."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.8",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo encara no ___ (haver) acabat els deures.",
+   "answer": [
+    "he"
+   ],
+   "explain": {
+    "en": "Perfect tense: present of haver (jo = he) + participle.",
+    "ko": "현재완료: haver 현재형(jo = he) + 과거분사.",
+    "es": "Pretérito perfecto: presente de haver (jo = he) + participio."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.8",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "Espero que ells ___ arribat bé.",
+   "options": [
+    "han",
+    "hagin",
+    "haguin",
+    "hàgim"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Espero que needs the subjunctive; ells → hagin.",
+    "ko": "espero que 뒤에는 접속법이 와요. ells → hagin.",
+    "es": "Espero que exige subjuntivo; ells → hagin."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.9",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "L’estiu que ve nosaltres ___ (anar) a Menorca.",
+   "answer": [
+    "anirem"
+   ],
+   "explain": {
+    "en": "The future of anar uses the stem anir-: anirem.",
+    "ko": "anar의 미래 어간은 anir-예요: anirem.",
+    "es": "El futuro de anar usa la raíz anir-: anirem."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.9",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Ahir jo ___ (anar) al cinema.",
+   "answer": [
+    "vaig anar",
+    "aní"
+   ],
+   "explain": {
+    "en": "Past: vaig + anar (simple past aní in formal writing).",
+    "ko": "과거: vaig + anar(격식체 단순과거 aní).",
+    "es": "Pasado: vaig + anar (pasado simple aní en registro formal)."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.10",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Què ___ (fer) vosaltres aquest dissabte?",
+   "answer": [
+    "feu"
+   ],
+   "explain": {
+    "en": "Present of fer for vosaltres: feu.",
+    "ko": "fer의 vosaltres 현재형: feu.",
+    "es": "Presente de fer para vosaltres: feu."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.10",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Quan érem petits, nosaltres ___ (fer) castells de sorra.",
+   "answer": [
+    "fèiem"
+   ],
+   "explain": {
+    "en": "Habitual past → imperfect; fer for nosaltres: fèiem.",
+    "ko": "과거의 습관 → 불완료과거. fer의 nosaltres: fèiem.",
+    "es": "Hábito pasado → imperfecto; fer para nosaltres: fèiem."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.11",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Ells sempre ___ (dir) la veritat.",
+   "answer": [
+    "diuen"
+   ],
+   "explain": {
+    "en": "Present of dir for ells: diuen.",
+    "ko": "dir의 ells 현재형: diuen.",
+    "es": "Presente de dir para ells: diuen."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.12",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Nosaltres ___ (venir) demà.",
+   "answer": [
+    "vindrem"
+   ],
+   "explain": {
+    "en": "Future of venir has the stem vindr-: vindrem.",
+    "ko": "venir의 미래 어간은 vindr-예요: vindrem.",
+    "es": "El futuro de venir tiene la raíz vindr-: vindrem."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.12",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "Ara mateix jo ___ de l’escola.",
+   "options": [
+    "vinc",
+    "venc",
+    "vingo",
+    "veno"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "Jo form of venir is vinc; venc means 'I sell' (vendre).",
+    "ko": "venir의 jo 형태는 vinc예요. venc는 '판다'(vendre)예요.",
+    "es": "La forma de jo de venir es vinc; venc significa 'vendo' (vendre)."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.13",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "La meva germana ___ (tenir) setze anys.",
+   "answer": [
+    "té"
+   ],
+   "explain": {
+    "en": "Present of tenir for ella: té, with an accent.",
+    "ko": "tenir의 ella 현재형: té(악센트 있음).",
+    "es": "Presente de tenir para ella: té, con acento."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.13",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Si estudies, tu ___ (tenir) bones notes.",
+   "answer": [
+    "tindràs"
+   ],
+   "explain": {
+    "en": "Future of tenir: tindr- + -às.",
+    "ko": "tenir의 미래형: tindr- + -às.",
+    "es": "Futuro de tenir: tindr- + -às."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.14",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "___ (poder, jo) obrir la finestra, si us plau?",
+   "answer": [
+    "puc"
+   ],
+   "explain": {
+    "en": "Present of poder for jo: puc.",
+    "ko": "poder의 jo 현재형: puc.",
+    "es": "Presente de poder para jo: puc."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.15",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo ___ (voler, condicional) un cafè amb llet, si us plau.",
+   "answer": [
+    "voldria"
+   ],
+   "explain": {
+    "en": "Polite conditional of voler: voldria.",
+    "ko": "voler의 정중한 조건형: voldria.",
+    "es": "Condicional de cortesía de voler: voldria."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "A.16",
+   "q": {
+    "en": "Choose the correct form.",
+    "ko": "알맞은 형태를 고르세요.",
+    "es": "Elige la forma correcta."
+   },
+   "ca": "No vull que la mare ho ___.",
+   "options": [
+    "sap",
+    "sàpigui",
+    "sàpiga",
+    "sabi"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "No vull que + subjunctive; saber has the special subjunctive sàpiga.",
+    "ko": "no vull que 뒤에는 접속법이 오고, saber의 접속법은 특수형 sàpiga예요.",
+    "es": "No vull que + subjuntivo; saber tiene el subjuntivo especial sàpiga."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.16",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo no ___ (saber) on és la biblioteca.",
+   "answer": [
+    "sé"
+   ],
+   "explain": {
+    "en": "Present of saber for jo: sé, with an accent.",
+    "ko": "saber의 jo 현재형: sé(악센트 있음).",
+    "es": "Presente de saber para jo: sé, con acento."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.17",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Ahir nosaltres ___ (veure) una pel·lícula de por.",
+   "answer": [
+    "vam veure",
+    "vàrem veure",
+    "veiérem",
+    "vérem"
+   ],
+   "explain": {
+    "en": "Past of an action yesterday: vam + veure (or simple past veiérem/vérem).",
+    "ko": "어제 일이므로 vam + veure(또는 단순과거 veiérem/vérem).",
+    "es": "Acción de ayer: vam + veure (o pasado simple veiérem/vérem)."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.18",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Els meus avis ___ (viure) a Tarragona.",
+   "answer": [
+    "viuen"
+   ],
+   "explain": {
+    "en": "Present of viure for ells: viuen.",
+    "ko": "viure의 ells 현재형: viuen.",
+    "es": "Presente de viure para ells: viuen."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.20",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Quan feia calor, nosaltres ___ (beure) molta aigua.",
+   "answer": [
+    "bevíem"
+   ],
+   "explain": {
+    "en": "Imperfect of beure uses the stem bev-: bevíem.",
+    "ko": "beure의 불완료과거 어간은 bev-예요: bevíem.",
+    "es": "El imperfecto de beure usa la raíz bev-: bevíem."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.21",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo no ___ (conèixer) el teu cosí.",
+   "answer": [
+    "conec"
+   ],
+   "explain": {
+    "en": "Present of conèixer for jo: conec.",
+    "ko": "conèixer의 jo 현재형: conec.",
+    "es": "Presente de conèixer para jo: conec."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "A.22",
+   "q": {
+    "en": "Write the correct form of the verb in brackets.",
+    "ko": "괄호 안 동사의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta del verbo entre paréntesis."
+   },
+   "ca": "Jo sempre ___ (prendre) el tren de les vuit.",
+   "answer": [
+    "prenc"
+   ],
+   "explain": {
+    "en": "Present of prendre for jo: prenc.",
+    "ko": "prendre의 jo 현재형: prenc.",
+    "es": "Presente de prendre para jo: prenc."
+   }
+  },
+  {
+   "type": "match",
+   "sec": "A.23",
+   "q": {
+    "en": "Match each past participle with its infinitive.",
+    "ko": "각 과거분사를 동사원형과 연결하세요.",
+    "es": "Une cada participio con su infinitivo."
+   },
+   "pairs": [
+    {
+     "l": "vist",
+     "r": {
+      "en": "seen (veure)",
+      "ko": "본 (veure)",
+      "es": "visto (veure)"
+     }
+    },
+    {
+     "l": "escrit",
+     "r": {
+      "en": "written (escriure)",
+      "ko": "쓴 (escriure)",
+      "es": "escrito (escriure)"
+     }
+    },
+    {
+     "l": "viscut",
+     "r": {
+      "en": "lived (viure)",
+      "ko": "산 (viure)",
+      "es": "vivido (viure)"
+     }
+    },
+    {
+     "l": "pres",
+     "r": {
+      "en": "taken (prendre)",
+      "ko": "잡은 (prendre)",
+      "es": "tomado (prendre)"
+     }
+    },
+    {
+     "l": "conegut",
+     "r": {
+      "en": "known (conèixer)",
+      "ko": "알게 된 (conèixer)",
+      "es": "conocido (conèixer)"
+     }
+    },
+    {
+     "l": "fet",
+     "r": {
+      "en": "done / made (fer)",
+      "ko": "한 / 만든 (fer)",
+      "es": "hecho (fer)"
+     }
+    }
+   ],
+   "explain": {
+    "en": "Most irregular participles end in -gut or are short forms like vist, fet, escrit.",
+    "ko": "불규칙 과거분사는 대부분 -gut로 끝나거나 vist, fet, escrit 같은 짧은 형태예요.",
+    "es": "Muchos participios irregulares acaban en -gut o son cortos como vist, fet, escrit."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "A.23",
+   "q": {
+    "en": "The gerund of viure is 'viuent'.",
+    "ko": "viure의 제룬디오는 'viuent'이다.",
+    "es": "El gerundio de viure es 'viuent'."
+   },
+   "answer": false,
+   "explain": {
+    "en": "False: it is vivint (the -u- becomes -v- and -ir style ending -int).",
+    "ko": "거짓: vivint이에요(-u-가 -v-로 바뀌고 -int로 끝나요).",
+    "es": "Falso: es vivint (la -u- pasa a -v- y termina en -int)."
+   }
+  }
+ ]
+}

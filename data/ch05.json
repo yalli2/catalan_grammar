@@ -1,0 +1,855 @@
+{
+  "id": 5,
+  "part": 1,
+  "icon": "🔤",
+  "title": {
+    "ca": "Pronúncia i ortografia",
+    "en": "Pronunciation and spelling",
+    "ko": "발음과 철자",
+    "es": "Pronunciación y ortografía"
+  },
+  "summary": {
+    "en": "Catalan spelling looks tricky at first (ny, ll, l·l, tx, ix, ç…), but it follows clear patterns. This chapter teaches how vowels change when they are not stressed, when to write à, è, é, ò, ó, í, ú, and how each consonant spelling sounds, so you can read any word aloud and spell what you hear.",
+    "ko": "카탈루냐어 철자(ny, ll, l·l, tx, ix, ç…)는 처음엔 어려워 보이지만 분명한 규칙이 있어요. 이 장에서는 강세 없는 모음이 어떻게 바뀌는지, 언제 à, è, é, ò, ó, í, ú를 쓰는지, 각 자음 철자가 어떻게 소리 나는지 배워서 어떤 단어든 읽고 들은 대로 쓸 수 있게 돼요.",
+    "es": "La ortografía catalana parece difícil al principio (ny, ll, l·l, tx, ix, ç…), pero sigue patrones claros. Este capítulo enseña cómo cambian las vocales átonas, cuándo escribir à, è, é, ò, ó, í, ú y cómo suena cada grafía consonántica, para que puedas leer cualquier palabra y escribir lo que oyes."
+  },
+  "goals": [
+    {
+      "en": "You will be able to pronounce the seven stressed vowels and apply vowel reduction (a/e → [ə], o → [u]).",
+      "ko": "강세 모음 일곱 개를 발음하고 모음 약화(a/e → [ə], o → [u])를 적용할 수 있어요.",
+      "es": "Podrás pronunciar las siete vocales tónicas y aplicar la reducción vocálica (a/e → [ə], o → [u])."
+    },
+    {
+      "en": "You will be able to decide when a word needs a written accent, and whether it is grave or acute.",
+      "ko": "단어에 강세 부호가 필요한지, 그리고 그것이 그라브(`)인지 아큐트(´)인지 판단할 수 있어요.",
+      "es": "Podrás decidir cuándo una palabra lleva tilde y si es grave o aguda."
+    },
+    {
+      "en": "You will be able to use the common diacritical accents (és/es, té/te, més/mes, què/que…).",
+      "ko": "자주 쓰는 구별 부호(és/es, té/te, més/mes, què/que…)를 사용할 수 있어요.",
+      "es": "Podrás usar los acentos diacríticos más comunes (és/es, té/te, més/mes, què/que…)."
+    },
+    {
+      "en": "You will be able to read and spell ny, ll, l·l, x/ix, tx/-ig, j/g, tj/tg, ç/c, s/ss/z and qu/gu.",
+      "ko": "ny, ll, l·l, x/ix, tx/-ig, j/g, tj/tg, ç/c, s/ss/z, qu/gu를 읽고 쓸 수 있어요.",
+      "es": "Podrás leer y escribir ny, ll, l·l, x/ix, tx/-ig, j/g, tj/tg, ç/c, s/ss/z y qu/gu."
+    }
+  ],
+  "sections": [
+    {
+      "id": "5.1",
+      "title": {
+        "ca": "Les vocals i els accents",
+        "en": "Vowels and written accents",
+        "ko": "모음과 강세 부호",
+        "es": "Las vocales y los acentos"
+      },
+      "points": [
+        {
+          "en": "Catalan vowels are short and 'pure': say them without the glide you hear in English 'go' or 'day'.",
+          "ko": "카탈루냐어 모음은 짧고 '순수'해요. 영어 'go'나 'day'처럼 끝을 미끄러뜨리지 말고 발음해요.",
+          "es": "Las vocales catalanas son breves y 'puras': se pronuncian sin el deslizamiento del inglés 'go' o 'day'."
+        },
+        {
+          "en": "Stressed syllables have seven vowels: [a], closed [e], open [ɛ], [i], closed [o], open [ɔ], [u]. (Balearic adds a stressed [ə].)",
+          "ko": "강세 음절에는 모음이 일곱 개 있어요: [a], 닫힌 [e], 열린 [ɛ], [i], 닫힌 [o], 열린 [ɔ], [u]. (발레아레스 방언은 강세 [ə]가 하나 더 있어요.)",
+          "es": "En sílaba tónica hay siete vocales: [a], [e] cerrada, [ɛ] abierta, [i], [o] cerrada, [ɔ] abierta, [u]. (El balear añade una [ə] tónica.)"
+        },
+        {
+          "en": "Vowel reduction (Central Catalan): when not stressed, <b>a</b> and <b>e</b> both sound [ə], and <b>o</b> sounds [u]. So <b>casa</b> ends in [ə] and the first o of <b>professor</b> sounds [u]. Some loanwords and acronyms do not reduce (e.g. <b>judo</b>, <b>UNESCO</b>).",
+          "ko": "모음 약화(중부 카탈루냐어): 강세가 없으면 <b>a</b>와 <b>e</b>는 둘 다 [ə], <b>o</b>는 [u]로 소리 나요. 그래서 <b>casa</b>는 [ə]로 끝나고, <b>professor</b>의 첫 o는 [u]로 들려요. 일부 외래어와 약어는 약화되지 않아요(<b>judo</b>, <b>UNESCO</b> 등).",
+          "es": "Reducción vocálica (catalán central): en sílaba átona, la <b>a</b> y la <b>e</b> suenan [ə] y la <b>o</b> suena [u]. Así, <b>casa</b> acaba en [ə] y la primera o de <b>professor</b> suena [u]. Algunos préstamos y siglas no reducen (<b>judo</b>, <b>UNESCO</b>)."
+        },
+        {
+          "en": "Accent marks: the grave accent (<b>à, è, ò</b>) marks OPEN vowels; the acute accent (<b>é, í, ó, ú</b>) marks CLOSED vowels. So <b>a</b> can only take à, and <b>i/u</b> only í/ú.",
+          "ko": "강세 부호: 그라브(<b>à, è, ò</b>)는 '열린' 모음, 아큐트(<b>é, í, ó, ú</b>)는 '닫힌' 모음을 나타내요. 그래서 <b>a</b>는 à만, <b>i/u</b>는 í/ú만 가능해요.",
+          "es": "Tildes: el acento grave (<b>à, è, ò</b>) marca vocales ABIERTAS; el agudo (<b>é, í, ó, ú</b>) marca vocales CERRADAS. Por eso la <b>a</b> solo lleva à, y la <b>i/u</b> solo í/ú."
+        },
+        {
+          "en": "Where to write it: (1) stress on the LAST syllable and the word ends in a vowel, vowel + s, -en or -in: <b>cafè, francès, també, cançó</b>. (2) stress on the SECOND-TO-LAST syllable when the word does NOT end like that: <b>fàcil, telèfon</b>. (3) stress on the THIRD-TO-LAST syllable: always (<b>música, pàgina</b>).",
+          "ko": "언제 쓰나: (1) '마지막' 음절에 강세가 있고 모음, 모음+s, -en, -in으로 끝날 때: <b>cafè, francès, també, cançó</b>. (2) '끝에서 두 번째' 음절에 강세가 있고 위와 같이 끝나지 '않을' 때: <b>fàcil, telèfon</b>. (3) '끝에서 세 번째' 음절에 강세가 있으면 항상: <b>música, pàgina</b>.",
+          "es": "Cuándo se escribe: (1) acento en la ÚLTIMA sílaba y la palabra acaba en vocal, vocal + s, -en o -in: <b>cafè, francès, també, cançó</b>. (2) acento en la PENÚLTIMA cuando NO acaba así: <b>fàcil, telèfon</b>. (3) acento en la ANTEPENÚLTIMA: siempre (<b>música, pàgina</b>)."
+        },
+        {
+          "en": "Consonant + i/u + vowel counts as two syllables, so <b>història</b> is his-tò-ri-a (third-to-last stress → accent). But vowel + i/u is one syllable (a diphthong): <b>remei</b> has no accent.",
+          "ko": "자음 + i/u + 모음은 두 음절로 세요. 그래서 <b>història</b>는 his-tò-ri-a(끝에서 세 번째 강세 → 부호 필요)예요. 하지만 모음 + i/u는 한 음절(이중모음)이라 <b>remei</b>에는 부호가 없어요.",
+          "es": "Consonante + i/u + vocal cuenta como dos sílabas, así que <b>història</b> es his-tò-ri-a (antepenúltima → tilde). En cambio, vocal + i/u es una sola sílaba (diptongo): <b>remei</b> no lleva tilde."
+        },
+        {
+          "en": "Diacritical accents separate words that would otherwise look the same: <b>és</b> (is) / <b>es</b>; <b>té</b> (has) / <b>te</b> (tea); <b>més</b> (more) / <b>mes</b> (month); <b>sé</b> (I know) / <b>se</b>; <b>sí</b> (yes) / <b>si</b> (if); <b>bé</b> (well) / <b>be</b> (lamb); <b>què</b> (what) / <b>que</b> (that); <b>són</b> (they are) / <b>son</b> (sleep); <b>món</b> (world) / <b>mon</b>; <b>mà</b> (hand) / <b>ma</b>.",
+          "ko": "구별 부호는 모양이 같은 단어를 구별해요: <b>és</b>(~이다) / <b>es</b>; <b>té</b>(가지다) / <b>te</b>(차); <b>més</b>(더) / <b>mes</b>(달); <b>sé</b>(나는 안다) / <b>se</b>; <b>sí</b>(네) / <b>si</b>(만약); <b>bé</b>(잘) / <b>be</b>(어린 양); <b>què</b>(무엇) / <b>que</b>(~라는); <b>són</b>(그들은 ~이다) / <b>son</b>(잠); <b>món</b>(세계) / <b>mon</b>; <b>mà</b>(손) / <b>ma</b>.",
+          "es": "Los acentos diacríticos distinguen palabras que serían iguales: <b>és</b> (es) / <b>es</b>; <b>té</b> (tiene) / <b>te</b> (té); <b>més</b> (más) / <b>mes</b>; <b>sé</b> (yo sé) / <b>se</b>; <b>sí</b> / <b>si</b>; <b>bé</b> (bien) / <b>be</b> (cordero); <b>què</b> / <b>que</b>; <b>són</b> (son) / <b>son</b> (sueño); <b>món</b> (mundo) / <b>mon</b>; <b>mà</b> (mano) / <b>ma</b>."
+        },
+        {
+          "en": "Without an accent mark you can’t see if e/o is open or closed — use a dictionary. Tips: endings <b>-er, -ment, -or</b> usually have closed vowels; e before <b>rr</b> or <b>l</b> is often open (<b>terra, cel</b>). In fast speech an unstressed final a/e often disappears before another vowel: <b>quina hora</b> → 'quin’hora'.",
+          "ko": "강세 부호가 없으면 e/o가 열린 소리인지 닫힌 소리인지 알 수 없으니 사전을 보세요. 팁: <b>-er, -ment, -or</b> 어미는 보통 닫힌 모음이고, <b>rr</b>나 <b>l</b> 앞의 e는 흔히 열린 소리예요(<b>terra, cel</b>). 빠르게 말할 때 강세 없는 끝 a/e는 다음 모음 앞에서 자주 사라져요: <b>quina hora</b> → 'quin’hora'.",
+          "es": "Sin tilde no se ve si la e/o es abierta o cerrada: consulta el diccionario. Pistas: las terminaciones <b>-er, -ment, -or</b> suelen tener vocal cerrada; la e ante <b>rr</b> o <b>l</b> suele ser abierta (<b>terra, cel</b>). En el habla rápida, la a/e átona final suele perderse ante otra vocal: <b>quina hora</b> → 'quin’hora'."
+        }
+      ],
+      "table": {
+        "head": [
+          "Letter",
+          "Stressed",
+          "Unstressed (Central)",
+          "Example"
+        ],
+        "rows": [
+          [
+            "a",
+            "[a]  à",
+            "[ə]",
+            "casa, català"
+          ],
+          [
+            "e",
+            "[e]  é  /  [ɛ]  è",
+            "[ə]",
+            "també, cafè, pare"
+          ],
+          [
+            "i",
+            "[i]  í",
+            "[i]",
+            "camí, dir"
+          ],
+          [
+            "o",
+            "[o]  ó  /  [ɔ]  ò",
+            "[u]",
+            "cançó, història, professor"
+          ],
+          [
+            "u",
+            "[u]  ú",
+            "[u]",
+            "música, tu"
+          ]
+        ],
+        "speak": [
+          3
+        ]
+      },
+      "examples": [
+        {
+          "ca": "Vols un cafè?",
+          "en": "Do you want a coffee?",
+          "ko": "커피 마실래?",
+          "es": "¿Quieres un café?"
+        },
+        {
+          "ca": "Parles francès o anglès?",
+          "en": "Do you speak French or English?",
+          "ko": "너 프랑스어 해, 아니면 영어 해?",
+          "es": "¿Hablas francés o inglés?"
+        },
+        {
+          "ca": "Aquesta cançó és fantàstica.",
+          "en": "This song is fantastic.",
+          "ko": "이 노래 정말 멋져.",
+          "es": "Esta canción es fantástica."
+        },
+        {
+          "ca": "No sé què vols dir.",
+          "en": "I don’t know what you mean.",
+          "ko": "무슨 말인지 모르겠어.",
+          "es": "No sé qué quieres decir."
+        },
+        {
+          "ca": "La Marta té més germans que jo.",
+          "en": "Marta has more siblings than me.",
+          "ko": "마르타는 나보다 형제가 많아.",
+          "es": "Marta tiene más hermanos que yo."
+        },
+        {
+          "ca": "Obre el llibre a la pàgina vint.",
+          "en": "Open the book at page twenty.",
+          "ko": "책 20쪽을 펴.",
+          "es": "Abre el libro por la página veinte."
+        }
+      ]
+    },
+    {
+      "id": "5.2",
+      "title": {
+        "ca": "Llegir i pronunciar les consonants",
+        "en": "Reading and pronouncing consonants",
+        "ko": "자음 읽기와 발음",
+        "es": "Leer y pronunciar las consonantes"
+      },
+      "points": [
+        {
+          "en": "<b>p, t, c</b> are never aspirated (no puff of air as in English 'tea'). <b>b, d, g</b> are softer between vowels (<b>cada</b>, <b>agradar</b>). At the end of a word, b/d/g sound like p/t/c: <b>verd</b> ends in [t], <b>amarg</b> in [k].",
+          "ko": "<b>p, t, c</b>는 영어 'tea'처럼 숨을 내뱉지 않아요(무기음). <b>b, d, g</b>는 모음 사이에서 부드러워져요(<b>cada</b>, <b>agradar</b>). 단어 끝의 b/d/g는 p/t/c처럼 들려요: <b>verd</b>는 [t], <b>amarg</b>는 [k]로 끝나요.",
+          "es": "<b>p, t, c</b> nunca son aspiradas (sin el soplo del inglés 'tea'). <b>b, d, g</b> se suavizan entre vocales (<b>cada</b>, <b>agradar</b>). A final de palabra, b/d/g suenan como p/t/c: <b>verd</b> acaba en [t], <b>amarg</b> en [k]."
+        },
+        {
+          "en": "<b>r</b>: a strong trilled r for <b>rr</b> between vowels and <b>r</b> at the start of a word (<b>roda</b>, <b>gorra</b>); a single tap for r between vowels or after a consonant (<b>cara</b>, <b>tres</b>). Final <b>-r</b> is usually silent in infinitives and in <b>-er/-or</b>: <b>menjar</b>, <b>fuster</b>, <b>professor</b>.",
+          "ko": "<b>r</b>: 모음 사이의 <b>rr</b>와 단어 첫 <b>r</b>는 혀를 여러 번 떠는 강한 r(<b>roda</b>, <b>gorra</b>), 모음 사이나 자음 뒤의 r는 한 번 튕기는 소리(<b>cara</b>, <b>tres</b>)예요. 동사 원형과 <b>-er/-or</b> 끝의 <b>-r</b>는 보통 발음하지 않아요: <b>menjar</b>, <b>fuster</b>, <b>professor</b>.",
+          "es": "<b>r</b>: vibrante múltiple para <b>rr</b> entre vocales y <b>r</b> inicial (<b>roda</b>, <b>gorra</b>); vibrante simple entre vocales o tras consonante (<b>cara</b>, <b>tres</b>). La <b>-r</b> final suele ser muda en los infinitivos y en <b>-er/-or</b>: <b>menjar</b>, <b>fuster</b>, <b>professor</b>."
+        },
+        {
+          "en": "<b>ny</b> = one sound like the 'ny' in 'canyon' (<b>Espanya</b>, <b>any</b>). <b>ll</b> = an l made with the tongue against the palate (<b>lluna</b>, <b>cavall</b>). <b>l·l</b> (with the middle dot) is simply an [l]; it exists to avoid confusion with ll (<b>col·legi</b>, <b>il·lusió</b>).",
+          "ko": "<b>ny</b> = 영어 'canyon'의 'ny' 같은 한 소리(<b>Espanya</b>, <b>any</b>). <b>ll</b> = 혀를 입천장에 붙여 내는 l(<b>lluna</b>, <b>cavall</b>). 가운데 점이 있는 <b>l·l</b>은 그냥 [l]이에요. ll과 헷갈리지 않게 하려고 써요(<b>col·legi</b>, <b>il·lusió</b>).",
+          "es": "<b>ny</b> = un solo sonido como la ñ (<b>Espanya</b>, <b>any</b>). <b>ll</b> = una l palatal (<b>lluna</b>, <b>cavall</b>). La <b>l·l</b> (ela geminada) suena simplemente [l]; existe para no confundirla con ll (<b>col·legi</b>, <b>il·lusió</b>)."
+        },
+        {
+          "en": "[s] (like 'soap'): <b>s</b> at the start or after a consonant (<b>sopa</b>, <b>pensar</b>), <b>ss</b> between vowels (<b>classe</b>), <b>ç</b> before a/o/u (<b>plaça</b>) and <b>c</b> before e/i (<b>cine</b>). [z] (like 'zero'): a single <b>s</b> between vowels (<b>casa</b>, <b>rosa</b>) and <b>z</b> (<b>zero</b>).",
+          "ko": "[s]('soap'처럼): 첫머리나 자음 뒤의 <b>s</b>(<b>sopa</b>, <b>pensar</b>), 모음 사이의 <b>ss</b>(<b>classe</b>), a/o/u 앞의 <b>ç</b>(<b>plaça</b>), e/i 앞의 <b>c</b>(<b>cine</b>). [z]('zero'처럼): 모음 사이의 홑 <b>s</b>(<b>casa</b>, <b>rosa</b>)와 <b>z</b>(<b>zero</b>)예요.",
+          "es": "[s] (sorda): <b>s</b> inicial o tras consonante (<b>sopa</b>, <b>pensar</b>), <b>ss</b> entre vocales (<b>classe</b>), <b>ç</b> ante a/o/u (<b>plaça</b>) y <b>c</b> ante e/i (<b>cine</b>). [z] (sonora): <b>s</b> simple entre vocales (<b>casa</b>, <b>rosa</b>) y <b>z</b> (<b>zero</b>)."
+        },
+        {
+          "en": "[ʒ] (like 's' in 'measure'): <b>j</b> (<b>jove</b>) and <b>g</b> before e/i (<b>gent</b>). [dʒ] (like 'j' in 'jeans'): <b>tj</b> before a/o/u and <b>tg</b> before e/i (<b>platja</b>, <b>metge</b>). The spelling switches to keep the same sound: <b>menjar</b> → <b>mengem</b>, <b>viatjar</b> → <b>viatgem</b>.",
+          "ko": "[ʒ]('measure'의 s처럼): <b>j</b>(<b>jove</b>)와 e/i 앞의 <b>g</b>(<b>gent</b>). [dʒ]('jeans'의 j처럼): a/o/u 앞의 <b>tj</b>와 e/i 앞의 <b>tg</b>(<b>platja</b>, <b>metge</b>). 같은 소리를 유지하려고 철자가 바뀌어요: <b>menjar</b> → <b>mengem</b>, <b>viatjar</b> → <b>viatgem</b>.",
+          "es": "[ʒ] (como la s de 'measure'): <b>j</b> (<b>jove</b>) y <b>g</b> ante e/i (<b>gent</b>). [dʒ] (como la j de 'jeans'): <b>tj</b> ante a/o/u y <b>tg</b> ante e/i (<b>platja</b>, <b>metge</b>). La grafía cambia para mantener el sonido: <b>menjar</b> → <b>mengem</b>, <b>viatjar</b> → <b>viatgem</b>."
+        },
+        {
+          "en": "[ʃ] (like 'sh'): <b>x</b> at the start or after a consonant (<b>xocolata</b>, <b>panxa</b>) and <b>ix</b> after a vowel, where the i is silent (<b>caixa</b>, <b>peix</b>). Between vowels without i, x = [ks] (<b>taxi</b>, <b>examen</b>).",
+          "ko": "[ʃ]('sh'처럼): 첫머리나 자음 뒤의 <b>x</b>(<b>xocolata</b>, <b>panxa</b>)와 모음 뒤의 <b>ix</b>(i는 소리 안 남: <b>caixa</b>, <b>peix</b>). i 없이 모음 사이에 오면 x = [ks](<b>taxi</b>, <b>examen</b>)예요.",
+          "es": "[ʃ] (como 'sh'): <b>x</b> inicial o tras consonante (<b>xocolata</b>, <b>panxa</b>) e <b>ix</b> tras vocal, con i muda (<b>caixa</b>, <b>peix</b>). Entre vocales sin i, x = [ks] (<b>taxi</b>, <b>examen</b>)."
+        },
+        {
+          "en": "[tʃ] (like 'ch'): <b>tx</b> (<b>cotxe</b>, <b>despatx</b>) and <b>-ig</b> at the end of a word (<b>maig</b>, <b>passeig</b>, <b>mig</b>). The i of -ig is silent, except when it is the only vowel, as in <b>mig</b> [mitʃ].",
+          "ko": "[tʃ]('ch'처럼): <b>tx</b>(<b>cotxe</b>, <b>despatx</b>)와 단어 끝의 <b>-ig</b>(<b>maig</b>, <b>passeig</b>, <b>mig</b>)예요. -ig의 i는 소리 나지 않지만, <b>mig</b> [mitʃ]처럼 그것이 유일한 모음이면 발음해요.",
+          "es": "[tʃ] (como 'ch'): <b>tx</b> (<b>cotxe</b>, <b>despatx</b>) y <b>-ig</b> a final de palabra (<b>maig</b>, <b>passeig</b>, <b>mig</b>). La i de -ig es muda, salvo cuando es la única vocal, como en <b>mig</b> [mitʃ]."
+        },
+        {
+          "en": "<b>h</b> is always silent (<b>hora</b>, <b>home</b>). For a hard [k] or [g] before e/i write <b>qu</b> / <b>gu</b> (<b>que</b>, <b>guitarra</b>); if the u must be heard, add a diaeresis: <b>qüestió</b>, <b>pingüí</b>.",
+          "ko": "<b>h</b>는 항상 소리 나지 않아요(<b>hora</b>, <b>home</b>). e/i 앞에서 딱딱한 [k]나 [g]를 내려면 <b>qu</b> / <b>gu</b>를 써요(<b>que</b>, <b>guitarra</b>). u를 소리 내야 하면 분음 부호를 붙여요: <b>qüestió</b>, <b>pingüí</b>.",
+          "es": "La <b>h</b> siempre es muda (<b>hora</b>, <b>home</b>). Para [k] o [g] fuertes ante e/i se escribe <b>qu</b> / <b>gu</b> (<b>que</b>, <b>guitarra</b>); si la u suena, lleva diéresis: <b>qüestió</b>, <b>pingüí</b>."
+        }
+      ],
+      "table": {
+        "head": [
+          "Spelling",
+          "Sound",
+          "Similar to",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "r- / -rr-",
+            "[r] trill",
+            "Spanish 'perro'",
+            "roda, gorra"
+          ],
+          [
+            "-r- (between vowels)",
+            "[ɾ] tap",
+            "American 'water'",
+            "cara, tres"
+          ],
+          [
+            "ny",
+            "[ɲ]",
+            "'canyon'",
+            "Espanya, any"
+          ],
+          [
+            "ll",
+            "[ʎ]",
+            "'million' (one sound)",
+            "lluna, cavall"
+          ],
+          [
+            "l·l",
+            "[l]",
+            "'l'",
+            "col·legi, il·lusió"
+          ],
+          [
+            "s- / ss / ç / c(e,i)",
+            "[s]",
+            "'soap'",
+            "sopa, classe, plaça, cine"
+          ],
+          [
+            "-s- / z",
+            "[z]",
+            "'zero'",
+            "casa, zero"
+          ],
+          [
+            "j / g(e,i)",
+            "[ʒ]",
+            "'measure'",
+            "jove, gent"
+          ],
+          [
+            "tj / tg(e,i)",
+            "[dʒ]",
+            "'jeans'",
+            "platja, metge"
+          ],
+          [
+            "x / ix",
+            "[ʃ]",
+            "'shop'",
+            "xocolata, caixa, peix"
+          ],
+          [
+            "tx / -ig",
+            "[tʃ]",
+            "'chocolate'",
+            "cotxe, maig"
+          ],
+          [
+            "qu / gu (e,i)",
+            "[k] / [g]",
+            "'kit' / 'gift'",
+            "que, guitarra"
+          ],
+          [
+            "h",
+            "silent",
+            "'hour'",
+            "hora, home"
+          ]
+        ],
+        "speak": [
+          3
+        ]
+      },
+      "examples": [
+        {
+          "ca": "El cotxe del meu pare és vermell.",
+          "en": "My father’s car is red.",
+          "ko": "우리 아빠 차는 빨간색이야.",
+          "es": "El coche de mi padre es rojo."
+        },
+        {
+          "ca": "Aquest any anirem a la platja al maig.",
+          "en": "This year we’ll go to the beach in May.",
+          "ko": "올해는 5월에 해변에 갈 거야.",
+          "es": "Este año iremos a la playa en mayo."
+        },
+        {
+          "ca": "M’agrada molt la xocolata.",
+          "en": "I really like chocolate.",
+          "ko": "나는 초콜릿을 정말 좋아해.",
+          "es": "Me gusta mucho el chocolate."
+        },
+        {
+          "ca": "Al col·legi tenim classe de guitarra.",
+          "en": "At school we have guitar class.",
+          "ko": "학교에서 기타 수업이 있어.",
+          "es": "En el colegio tenemos clase de guitarra."
+        },
+        {
+          "ca": "Hi ha peix per sopar.",
+          "en": "There’s fish for dinner.",
+          "ko": "저녁으로 생선이 있어.",
+          "es": "Hay pescado para cenar."
+        },
+        {
+          "ca": "La lluna és plena.",
+          "en": "The moon is full.",
+          "ko": "보름달이야.",
+          "es": "La luna está llena."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "ca": "la vocal",
+      "en": "vowel",
+      "ko": "모음",
+      "es": "la vocal"
+    },
+    {
+      "ca": "la consonant",
+      "en": "consonant",
+      "ko": "자음",
+      "es": "la consonante"
+    },
+    {
+      "ca": "l’accent obert",
+      "en": "grave accent (`)",
+      "ko": "그라브 강세 부호(`)",
+      "es": "el acento grave (`)"
+    },
+    {
+      "ca": "l’accent tancat",
+      "en": "acute accent (´)",
+      "ko": "아큐트 강세 부호(´)",
+      "es": "el acento agudo (´)"
+    },
+    {
+      "ca": "la síl·laba",
+      "en": "syllable",
+      "ko": "음절",
+      "es": "la sílaba"
+    },
+    {
+      "ca": "la ela geminada (l·l)",
+      "en": "geminate l (l·l)",
+      "ko": "겹 l (l·l)",
+      "es": "la ele geminada (l·l)"
+    },
+    {
+      "ca": "la ce trencada (ç)",
+      "en": "c-cedilla (ç)",
+      "ko": "세디유가 붙은 c (ç)",
+      "es": "la c con cedilla (ç)"
+    },
+    {
+      "ca": "la dièresi",
+      "en": "diaeresis (¨)",
+      "ko": "분음 부호(¨)",
+      "es": "la diéresis"
+    },
+    {
+      "ca": "pronunciar",
+      "en": "to pronounce",
+      "ko": "발음하다",
+      "es": "pronunciar"
+    },
+    {
+      "ca": "el cotxe",
+      "en": "car",
+      "ko": "자동차",
+      "es": "el coche"
+    },
+    {
+      "ca": "el peix",
+      "en": "fish",
+      "ko": "생선, 물고기",
+      "es": "el pez, el pescado"
+    },
+    {
+      "ca": "la cançó",
+      "en": "song",
+      "ko": "노래",
+      "es": "la canción"
+    },
+    {
+      "ca": "la plaça",
+      "en": "square (in a town)",
+      "ko": "광장",
+      "es": "la plaza"
+    },
+    {
+      "ca": "el metge",
+      "en": "doctor",
+      "ko": "의사",
+      "es": "el médico"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "sec": "5.1",
+      "q": {
+        "en": "Which spelling of 'song' is correct?",
+        "ko": "'노래'의 올바른 철자는?",
+        "es": "¿Cuál es la grafía correcta de 'canción'?"
+      },
+      "options": [
+        "cancó",
+        "cançó",
+        "canço",
+        "cançò"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Before o we need ç for [s], and the stressed final o is closed [o], so it takes an acute accent: cançó.",
+        "ko": "o 앞에서 [s] 소리를 내려면 ç가 필요하고, 강세 있는 끝 o는 닫힌 [o]라서 아큐트 부호를 써요: cançó.",
+        "es": "Ante o se necesita ç para [s], y la o final tónica es cerrada [o], así que lleva acento agudo: cançó."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.1",
+      "q": {
+        "en": "In Central Catalan, how is the FIRST 'o' of 'professor' pronounced?",
+        "ko": "중부 카탈루냐어에서 'professor'의 '첫 번째' o는 어떻게 발음될까요?",
+        "es": "En catalán central, ¿cómo se pronuncia la PRIMERA 'o' de 'professor'?"
+      },
+      "options": [
+        "[o]",
+        "[ɔ]",
+        "[ə]",
+        "[u]"
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "It is unstressed (the stress falls on -sor), and unstressed o reduces to [u].",
+        "ko": "강세가 -sor에 있어서 첫 o는 강세가 없고, 강세 없는 o는 [u]로 약화돼요.",
+        "es": "Es átona (el acento cae en -sor), y la o átona se reduce a [u]."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "5.1",
+      "q": {
+        "en": "The grave accent (à, è, ò) marks open vowels.",
+        "ko": "그라브 부호(à, è, ò)는 열린 모음을 나타낸다.",
+        "es": "El acento grave (à, è, ò) marca vocales abiertas."
+      },
+      "answer": true,
+      "explain": {
+        "en": "True: grave = open (à, è, ò); acute = closed (é, í, ó, ú).",
+        "ko": "맞아요. 그라브 = 열린 모음(à, è, ò), 아큐트 = 닫힌 모음(é, í, ó, ú)이에요.",
+        "es": "Verdadero: grave = abierta (à, è, ò); agudo = cerrada (é, í, ó, ú)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.1",
+      "q": {
+        "en": "Which word has an OPEN e [ɛ]?",
+        "ko": "열린 e [ɛ]가 있는 단어는?",
+        "es": "¿Qué palabra tiene una e ABIERTA [ɛ]?"
+      },
+      "options": [
+        "també",
+        "només",
+        "cafè",
+        "bé"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The grave accent in cafè shows an open [ɛ]; the others have é = closed [e].",
+        "ko": "cafè의 그라브 부호가 열린 [ɛ]를 보여 줘요. 나머지는 é = 닫힌 [e]예요.",
+        "es": "El acento grave de cafè indica [ɛ] abierta; las demás tienen é = [e] cerrada."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "5.1",
+      "q": {
+        "en": "Write 'is' (verb 'ser') with the correct accent: 'He is from Girona.'",
+        "ko": "'~이다'(ser 동사)를 올바른 부호와 함께 쓰세요: '그는 지로나 출신이야.'",
+        "es": "Escribe 'es' (verbo 'ser') con la tilde correcta: 'Él es de Girona.'"
+      },
+      "ca": "Ell ___ de Girona.",
+      "answer": [
+        "és"
+      ],
+      "explain": {
+        "en": "The verb form 'és' takes a diacritical accent to distinguish it from the pronoun 'es'.",
+        "ko": "동사 'és'는 대명사 'es'와 구별하려고 구별 부호를 붙여요.",
+        "es": "La forma verbal 'és' lleva acento diacrítico para distinguirla del pronombre 'es'."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "5.1",
+      "q": {
+        "en": "'Marta has two brothers.' Write the verb with the correct accent.",
+        "ko": "'마르타는 남자 형제가 둘 있어.' 동사를 올바른 부호와 함께 쓰세요.",
+        "es": "'Marta tiene dos hermanos.' Escribe el verbo con la tilde correcta."
+      },
+      "ca": "La Marta ___ dos germans.",
+      "answer": [
+        "té"
+      ],
+      "explain": {
+        "en": "'Té' (has) carries an accent; 'te' without accent means 'tea' or 'you' (pronoun).",
+        "ko": "'té'(가지다)에는 부호가 있어요. 부호 없는 'te'는 '차'나 대명사 '너를'이에요.",
+        "es": "'Té' (tiene) lleva tilde; 'te' sin tilde significa 'té (bebida)' o el pronombre."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.1",
+      "q": {
+        "en": "Choose the right word: 'I don’t know what you want.'",
+        "ko": "알맞은 단어를 고르세요: '네가 뭘 원하는지 모르겠어.'",
+        "es": "Elige la palabra correcta: 'No sé qué quieres.'"
+      },
+      "ca": "No sé ___ vols.",
+      "options": [
+        "que",
+        "què"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Què' (with accent) means 'what' in questions, including indirect ones; 'que' is 'that'.",
+        "ko": "'què'(부호 있음)는 간접 의문문을 포함한 질문에서 '무엇'이에요. 'que'는 '~라는'이에요.",
+        "es": "'Què' con tilde significa 'qué' en preguntas, también indirectas; 'que' es 'que'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "5.1",
+      "q": {
+        "en": "'Història' needs an accent because Catalan counts it as his-tò-ri-a, stressed on the third-to-last syllable.",
+        "ko": "'història'에 부호가 필요한 이유는 카탈루냐어에서 his-tò-ri-a로 나누어 끝에서 세 번째 음절에 강세가 있다고 보기 때문이다.",
+        "es": "'Història' lleva tilde porque en catalán se divide his-tò-ri-a, con acento en la antepenúltima."
+      },
+      "answer": true,
+      "explain": {
+        "en": "True: consonant + i + vowel is split into two syllables, and words stressed on the third-to-last syllable always take an accent.",
+        "ko": "맞아요. 자음 + i + 모음은 두 음절로 나누고, 끝에서 세 번째 음절에 강세가 있으면 항상 부호를 써요.",
+        "es": "Verdadero: consonante + i + vocal se separa en dos sílabas, y las palabras esdrújulas siempre llevan tilde."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.1",
+      "q": {
+        "en": "Which word is correctly written WITHOUT an accent?",
+        "ko": "부호 '없이' 올바르게 쓰인 단어는?",
+        "es": "¿Qué palabra está bien escrita SIN tilde?"
+      },
+      "options": [
+        "examen",
+        "musica",
+        "cami",
+        "angles"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Exa-men is stressed on the second-to-last syllable and ends in -en, so no accent. The others need one: música, camí, anglès.",
+        "ko": "examen은 끝에서 두 번째 음절에 강세가 있고 -en으로 끝나서 부호가 없어요. 나머지는 música, camí, anglès처럼 부호가 필요해요.",
+        "es": "Examen es llana y acaba en -en, así que no lleva tilde. Las otras sí: música, camí, anglès."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.2",
+      "q": {
+        "en": "Which spelling gives the sound of 'ny' in 'canyon'?",
+        "ko": "'canyon'의 'ny' 소리를 나타내는 철자는?",
+        "es": "¿Qué grafía da el sonido de la ñ?"
+      },
+      "options": [
+        "ñ",
+        "nn",
+        "ny",
+        "ll"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "Catalan writes [ɲ] as ny: Espanya, any. (Spanish uses ñ.)",
+        "ko": "카탈루냐어는 [ɲ]를 ny로 써요: Espanya, any. (스페인어는 ñ를 써요.)",
+        "es": "El catalán escribe [ɲ] con ny: Espanya, any. (El castellano usa ñ.)"
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.2",
+      "q": {
+        "en": "How do you spell 'fish' (sounds like 'pesh')?",
+        "ko": "'생선'('페시'처럼 소리 남)의 철자는?",
+        "es": "¿Cómo se escribe 'pez' (suena 'pesh')?"
+      },
+      "options": [
+        "pex",
+        "peix",
+        "petx",
+        "peig"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "After a vowel the [ʃ] sound is written ix, with a silent i: peix.",
+        "ko": "모음 뒤의 [ʃ] 소리는 ix로 쓰고, i는 소리 나지 않아요: peix.",
+        "es": "Tras vocal, el sonido [ʃ] se escribe ix, con i muda: peix."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "5.2",
+      "q": {
+        "en": "Write the month 'May' (it ends in a 'ch' sound).",
+        "ko": "'5월'을 쓰세요('ch' 소리로 끝나요).",
+        "es": "Escribe el mes 'mayo' (acaba en sonido 'ch')."
+      },
+      "ca": "El meu aniversari és al ___.",
+      "answer": [
+        "maig"
+      ],
+      "explain": {
+        "en": "Final -ig after a vowel sounds [tʃ]: maig.",
+        "ko": "모음 뒤 단어 끝의 -ig는 [tʃ]로 소리 나요: maig.",
+        "es": "La -ig final tras vocal suena [tʃ]: maig."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "5.2",
+      "q": {
+        "en": "Write the 'we' form of 'menjar' (to eat). Keep the same sound!",
+        "ko": "'menjar'(먹다)의 '우리' 형태를 쓰세요. 같은 소리를 유지하세요!",
+        "es": "Escribe la forma de 'nosaltres' de 'menjar'. ¡Mantén el sonido!"
+      },
+      "ca": "Nosaltres ___ a les dues.",
+      "answer": [
+        "mengem"
+      ],
+      "explain": {
+        "en": "Before e, the [ʒ] sound is written g, not j: menjar → mengem.",
+        "ko": "e 앞에서는 [ʒ] 소리를 j가 아니라 g로 써요: menjar → mengem.",
+        "es": "Ante e, el sonido [ʒ] se escribe g, no j: menjar → mengem."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.2",
+      "q": {
+        "en": "How do you spell 'square' (as in a town square)?",
+        "ko": "'광장'의 철자는?",
+        "es": "¿Cómo se escribe 'plaza'?"
+      },
+      "options": [
+        "placa",
+        "plassa",
+        "plaça",
+        "plaza"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The [s] sound before a in this word is written ç: plaça.",
+        "ko": "이 단어에서 a 앞의 [s] 소리는 ç로 써요: plaça.",
+        "es": "El sonido [s] ante a en esta palabra se escribe ç: plaça."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.2",
+      "q": {
+        "en": "In which word does the 's' sound like English 'z'?",
+        "ko": "어느 단어의 's'가 영어 'z'처럼 소리 날까요?",
+        "es": "¿En qué palabra la 's' suena sonora, como la 'z' inglesa?"
+      },
+      "options": [
+        "sopa",
+        "classe",
+        "pensar",
+        "rosa"
+      ],
+      "answer": 3,
+      "explain": {
+        "en": "A single s between vowels is voiced [z]: rosa. Initial s, ss and s after a consonant are [s].",
+        "ko": "모음 사이의 홑 s는 유성음 [z]예요: rosa. 첫머리 s, ss, 자음 뒤 s는 [s]예요.",
+        "es": "Una s simple entre vocales es sonora [z]: rosa. La s inicial, la ss y la s tras consonante son [s]."
+      }
+    },
+    {
+      "type": "match",
+      "sec": "5.2",
+      "q": {
+        "en": "Match each spelling with the English sound it resembles.",
+        "ko": "각 철자와 비슷한 영어 소리를 연결하세요.",
+        "es": "Une cada grafía con el sonido inglés al que se parece."
+      },
+      "pairs": [
+        {
+          "l": "x (xocolata)",
+          "r": {
+            "en": "'sh' in 'shop'",
+            "ko": "'shop'의 'sh'",
+            "es": "'sh' de 'shop'"
+          }
+        },
+        {
+          "l": "tx (cotxe)",
+          "r": {
+            "en": "'ch' in 'chip'",
+            "ko": "'chip'의 'ch'",
+            "es": "'ch' de 'chip'"
+          }
+        },
+        {
+          "l": "j (jove)",
+          "r": {
+            "en": "'s' in 'measure'",
+            "ko": "'measure'의 's'",
+            "es": "'s' de 'measure'"
+          }
+        },
+        {
+          "l": "tg (metge)",
+          "r": {
+            "en": "'j' in 'jeans'",
+            "ko": "'jeans'의 'j'",
+            "es": "'j' de 'jeans'"
+          }
+        },
+        {
+          "l": "ny (any)",
+          "r": {
+            "en": "'ny' in 'canyon'",
+            "ko": "'canyon'의 'ny'",
+            "es": "'ny' de 'canyon'"
+          }
+        }
+      ]
+    },
+    {
+      "type": "tf",
+      "sec": "5.2",
+      "q": {
+        "en": "In 'menjar' and 'professor', the final r is normally not pronounced.",
+        "ko": "'menjar'와 'professor'의 끝 r는 보통 발음하지 않는다.",
+        "es": "En 'menjar' y 'professor', la r final normalmente no se pronuncia."
+      },
+      "answer": true,
+      "explain": {
+        "en": "True: final -r is usually silent in infinitives and in the endings -er and -or.",
+        "ko": "맞아요. 동사 원형과 -er, -or 어미의 끝 r는 보통 소리 나지 않아요.",
+        "es": "Verdadero: la -r final suele ser muda en los infinitivos y en las terminaciones -er y -or."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "5.2",
+      "q": {
+        "en": "Why is 'col·legi' (school) written with l·l?",
+        "ko": "'col·legi'(학교)는 왜 l·l로 쓸까요?",
+        "es": "¿Por qué 'col·legi' se escribe con l·l?"
+      },
+      "options": [
+        "Because it is pronounced like ll [ʎ]",
+        "To avoid confusion with the palatal ll; it sounds like [l]",
+        "Because the h is silent"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "L·l keeps two l’s apart from the palatal ll; in practice it is usually pronounced as a single [l].",
+        "ko": "l·l은 구개음 ll과 구별하기 위한 표기이고, 실제로는 보통 [l] 하나로 발음해요.",
+        "es": "La l·l separa dos eles de la ll palatal; en la práctica suele pronunciarse como una sola [l]."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "5.2",
+      "q": {
+        "en": "In Catalan the 'h' in 'hora' is pronounced like English 'h' in 'hot'.",
+        "ko": "카탈루냐어 'hora'의 'h'는 영어 'hot'의 'h'처럼 발음한다.",
+        "es": "En catalán, la 'h' de 'hora' se pronuncia como la 'h' inglesa de 'hot'."
+      },
+      "answer": false,
+      "explain": {
+        "en": "False: h is never pronounced in Catalan.",
+        "ko": "틀려요. 카탈루냐어에서 h는 절대 발음하지 않아요.",
+        "es": "Falso: la h nunca se pronuncia en catalán."
+      }
+    },
+    {
+      "type": "order",
+      "sec": "5.2",
+      "q": {
+        "en": "Build: 'My father’s car is red.'",
+        "ko": "문장을 만드세요: '우리 아빠 차는 빨간색이야.'",
+        "es": "Ordena: 'El coche de mi padre es rojo.'"
+      },
+      "words": [
+        "El",
+        "cotxe",
+        "del",
+        "meu",
+        "pare",
+        "és",
+        "vermell"
+      ],
+      "answer": "El cotxe del meu pare és vermell",
+      "explain": {
+        "en": "Subject 'el cotxe del meu pare' + 'és' + adjective. Notice tx [tʃ] in cotxe and ll [ʎ] in vermell.",
+        "ko": "주어 'el cotxe del meu pare' + 'és' + 형용사 순서예요. cotxe의 tx [tʃ]와 vermell의 ll [ʎ]에 주의하세요.",
+        "es": "Sujeto 'el cotxe del meu pare' + 'és' + adjetivo. Fíjate en tx [tʃ] de cotxe y ll [ʎ] de vermell."
+      }
+    }
+  ]
+}

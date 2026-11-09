@@ -1,0 +1,272 @@
+{
+  "id": 13,
+  "part": 4,
+  "icon": "💬",
+  "title": {"ca": "La intenció", "en": "Intention", "ko": "의도 표현", "es": "La intención"},
+  "summary": {
+    "en": "This chapter shows how Catalan speakers affirm, deny, ask, exclaim and give orders. You will learn emphatic 'sí que', the position of 'no', negative words like 'res' and 'ningú', question words, exclamations with 'que' and 'quin', and polite ways to ask someone to do something.",
+    "ko": "이 장에서는 카탈루냐어로 긍정하고, 부정하고, 질문하고, 감탄하고, 명령하는 방법을 배워요. 강조의 'sí que', 'no'의 위치, 'res'·'ningú' 같은 부정어, 의문사, 'que'·'quin'을 쓴 감탄문, 그리고 정중하게 부탁하는 표현을 익혀요.",
+    "es": "Este capítulo muestra cómo se afirma, se niega, se pregunta, se exclama y se dan órdenes en catalán. Aprenderás el enfático 'sí que', la posición de 'no', palabras negativas como 'res' y 'ningú', los interrogativos, las exclamaciones con 'que' y 'quin' y maneras corteses de pedir algo."
+  },
+  "goals": [
+    {"en": "You will be able to contradict a negative idea with 'sí que' or 'i tant'.", "ko": "'sí que'나 'i tant'으로 부정적인 생각을 반박할 수 있어요.", "es": "Podrás contradecir una idea negativa con 'sí que' o 'i tant'."},
+    {"en": "You will be able to build negative sentences with 'no', 'pas' and negative words (res, ningú, cap, mai…).", "ko": "'no', 'pas'와 부정어(res, ningú, cap, mai…)로 부정문을 만들 수 있어요.", "es": "Podrás construir frases negativas con 'no', 'pas' y palabras negativas (res, ningú, cap, mai…)."},
+    {"en": "You will be able to ask yes–no questions, wh- questions and tag questions.", "ko": "예/아니오 질문, 의문사 질문, 부가 의문문을 만들 수 있어요.", "es": "Podrás hacer preguntas de sí/no, preguntas con interrogativo y preguntas de confirmación."},
+    {"en": "You will be able to form exclamations with 'que', 'quin' and 'com'.", "ko": "'que', 'quin', 'com'으로 감탄문을 만들 수 있어요.", "es": "Podrás formar exclamaciones con 'que', 'quin' y 'com'."},
+    {"en": "You will be able to give orders and make polite requests.", "ko": "명령을 하고 정중하게 부탁할 수 있어요.", "es": "Podrás dar órdenes y hacer peticiones corteses."}
+  ],
+  "sections": [
+    {
+      "id": "13.1",
+      "title": {"ca": "L’afirmació", "en": "Affirmation", "ko": "긍정", "es": "La afirmación"},
+      "points": [
+        {"en": "A normal sentence is affirmative by default: you don’t need any special word.", "ko": "평범한 문장은 기본적으로 긍정문이에요. 특별한 단어가 필요 없어요.", "es": "Una frase normal es afirmativa por defecto: no necesita ninguna palabra especial."},
+        {"en": "Catalan has no auxiliary like English 'do' ('I <i>do</i> like it'). To insist that something IS true against a negative idea, put <b>sí que</b> before the verb.", "ko": "카탈루냐어에는 영어 'do'('I <i>do</i> like it') 같은 조동사가 없어요. 부정적인 생각에 맞서 '정말 그렇다'고 강조할 때는 동사 앞에 <b>sí que</b>를 써요.", "es": "El catalán no tiene un auxiliar como el inglés 'do'. Para insistir en que algo SÍ es verdad frente a una idea negativa, se pone <b>sí que</b> delante del verbo."},
+        {"en": "In a clear contrast you can just say <b>sí</b> and drop the rest: 'he doesn’t, but I <b>sí</b>'.", "ko": "대조가 분명할 때는 <b>sí</b>만 쓰고 나머지는 생략할 수 있어요: '그는 아니지만 나는 <b>sí</b>'.", "es": "En un contraste claro basta con <b>sí</b>: 'él no, pero yo <b>sí</b>'."},
+        {"en": "<b>I tant!</b> ('of course!') also rejects a negative statement. It can be followed by <b>que</b> or <b>com</b> + clause.", "ko": "<b>I tant!</b>('당연하지!')도 부정적인 말을 반박해요. 뒤에 <b>que</b>나 <b>com</b> + 절이 올 수 있어요.", "es": "<b>I tant!</b> ('¡claro que sí!') también rechaza una afirmación negativa. Puede ir seguido de <b>que</b> o <b>com</b> + oración."},
+        {"en": "<b>Prou (que)</b>, <b>bé (que)</b> and <b>ja</b> add emphasis too, but they don’t need a negative idea to contradict.", "ko": "<b>prou (que)</b>, <b>bé (que)</b>, <b>ja</b>도 강조를 더하지만, 반박할 부정적인 생각이 꼭 필요하지는 않아요.", "es": "<b>Prou (que)</b>, <b>bé (que)</b> y <b>ja</b> también enfatizan, pero no necesitan una idea negativa que contradecir."}
+      ],
+      "examples": [
+        {"ca": "No t’agrada el futbol? Sí que m’agrada!", "en": "You don’t like football? I do like it!", "ko": "축구 안 좋아해? 좋아하거든!", "es": "¿No te gusta el fútbol? ¡Sí que me gusta!"},
+        {"ca": "La Marta no vindrà, però jo sí.", "en": "Marta won’t come, but I will.", "ko": "마르타는 안 오지만 나는 와.", "es": "Marta no vendrá, pero yo sí."},
+        {"ca": "Que no tens deures? I tant que en tinc!", "en": "You have no homework? Of course I have!", "ko": "숙제가 없다고? 당연히 있지!", "es": "¿Que no tienes deberes? ¡Claro que tengo!"},
+        {"ca": "Ja m’ho imaginava.", "en": "I thought as much.", "ko": "그럴 줄 알았어.", "es": "Ya me lo imaginaba."}
+      ]
+    },
+    {
+      "id": "13.2",
+      "title": {"ca": "La negació", "en": "Negation", "ko": "부정", "es": "La negación"},
+      "points": [
+        {"en": "Put <b>no</b> before the conjugated verb. With compound tenses it goes before the auxiliary and before weak pronouns: <b>no ho he vist</b>.", "ko": "활용된 동사 앞에 <b>no</b>를 붙여요. 복합 시제에서는 조동사와 약한 대명사 앞에 와요: <b>no ho he vist</b>.", "es": "Se pone <b>no</b> delante del verbo conjugado. En los tiempos compuestos va delante del auxiliar y de los pronombres átonos: <b>no ho he vist</b>."},
+        {"en": "With modal verbs, the place of <b>no</b> changes the meaning: <b>no cal</b> + infinitive = 'it isn’t necessary'; <b>cal no</b> + infinitive = 'you must avoid…'.", "ko": "조동사와 함께 쓸 때 <b>no</b>의 위치에 따라 의미가 달라져요: <b>no cal</b> + 부정사 = '~할 필요 없다', <b>cal no</b> + 부정사 = '~하지 않아야 한다'.", "es": "Con verbos modales, la posición de <b>no</b> cambia el sentido: <b>no cal</b> + infinitivo = 'no hace falta'; <b>cal no</b> + infinitivo = 'hay que evitar…'."},
+        {"en": "To deny one element (not the whole sentence), use <b>no…, sinó…</b>. 'Not only… but also…' is <b>no només… sinó també…</b> (with a full clause: <b>sinó que també</b>).", "ko": "문장 전체가 아니라 한 요소만 부정할 때는 <b>no…, sinó…</b>를 써요. '~뿐만 아니라 ~도'는 <b>no només… sinó també…</b>예요(뒤에 절이 오면 <b>sinó que també</b>).", "es": "Para negar un solo elemento se usa <b>no…, sinó…</b>. 'No solo… sino también…' es <b>no només… sinó també…</b> (con oración completa: <b>sinó que també</b>)."},
+        {"en": "<b>Pas</b> after the verb strengthens a negation (strict warnings or correcting an assumption). It is optional and typical of central and northern Catalan.", "ko": "동사 뒤의 <b>pas</b>는 부정을 강하게 해요(엄한 경고나 예상을 뒤집을 때). 필수는 아니며 중부·북부 카탈루냐어에서 주로 써요.", "es": "<b>Pas</b> después del verbo refuerza la negación (prohibiciones estrictas o corregir una suposición). Es opcional y típico del catalán central y septentrional."},
+        {"en": "Negative words: <b>res</b> (nothing), <b>ningú</b> (nobody), <b>cap</b> (no / none), <b>mai</b> (never), <b>enlloc</b> (nowhere), <b>gens</b> (not at all), <b>tampoc</b> (neither). Alone, as an answer, they are negative.", "ko": "부정어: <b>res</b>(아무것도), <b>ningú</b>(아무도), <b>cap</b>(하나도), <b>mai</b>(절대), <b>enlloc</b>(어디에도), <b>gens</b>(전혀), <b>tampoc</b>(~도 아니다). 단독으로 대답할 때는 그 자체로 부정이에요.", "es": "Palabras negativas: <b>res</b> (nada), <b>ningú</b> (nadie), <b>cap</b> (ninguno), <b>mai</b> (nunca), <b>enlloc</b> (en ninguna parte), <b>gens</b> (nada de), <b>tampoc</b> (tampoco). Solas, como respuesta, ya son negativas."},
+        {"en": "After the verb they need <b>no</b>: <b>no he vist ningú</b>. Before the verb, many speakers drop <b>no</b>: <b>ningú (no) ho sap</b>.", "ko": "동사 뒤에 오면 반드시 <b>no</b>가 필요해요: <b>no he vist ningú</b>. 동사 앞에 오면 <b>no</b>를 생략하는 사람도 많아요: <b>ningú (no) ho sap</b>.", "es": "Detrás del verbo necesitan <b>no</b>: <b>no he vist ningú</b>. Delante del verbo, muchos hablantes omiten <b>no</b>: <b>ningú (no) ho sap</b>."},
+        {"en": "In questions and doubts the same words mean 'anything, anybody, any, ever, anywhere': <b>Vols res?</b> = 'Do you want anything?'", "ko": "질문이나 의심을 나타낼 때는 같은 단어가 '무언가, 누군가, 어떤, 언젠가, 어딘가'라는 뜻이 돼요: <b>Vols res?</b> = '뭐 필요해?'", "es": "En preguntas y dudas, las mismas palabras significan 'algo, alguien, algún, alguna vez, en algún sitio': <b>Vols res?</b> = '¿Quieres algo?'"}
+      ],
+      "table": {
+        "head": ["", "català", "meaning"],
+        "rows": [
+          ["thing", "res", "nothing / anything"],
+          ["person", "ningú", "nobody / anybody"],
+          ["quantity", "cap", "no, none / any"],
+          ["time", "mai", "never / ever"],
+          ["place", "enlloc", "nowhere / anywhere"],
+          ["degree", "gens", "not at all"],
+          ["addition", "tampoc", "neither, not either"]
+        ],
+        "speak": [1]
+      },
+      "examples": [
+        {"ca": "No ho he dit a ningú.", "en": "I haven’t told anyone.", "ko": "아무한테도 말 안 했어.", "es": "No se lo he dicho a nadie."},
+        {"ca": "No cal portar l’entrepà; cal no arribar tard.", "en": "You don’t need to bring a sandwich; you must not arrive late.", "ko": "샌드위치는 안 가져와도 되지만, 늦으면 안 돼.", "es": "No hace falta traer el bocadillo; hay que no llegar tarde."},
+        {"ca": "No només juga a bàsquet, sinó també a handbol.", "en": "He plays not only basketball but also handball.", "ko": "그는 농구뿐만 아니라 핸드볼도 해.", "es": "No solo juega a baloncesto, sino también a balonmano."},
+        {"ca": "No toquis pas el meu mòbil!", "en": "Don’t you dare touch my phone!", "ko": "내 핸드폰 절대 만지지 마!", "es": "¡Ni se te ocurra tocar mi móvil!"},
+        {"ca": "No he estat mai a Menorca.", "en": "I have never been to Menorca.", "ko": "메노르카에 한 번도 가 본 적 없어.", "es": "Nunca he estado en Menorca."},
+        {"ca": "Has vist mai una balena?", "en": "Have you ever seen a whale?", "ko": "고래 본 적 있어?", "es": "¿Has visto alguna vez una ballena?"}
+      ]
+    },
+    {
+      "id": "13.3",
+      "title": {"ca": "Les preguntes", "en": "Questions", "ko": "의문문", "es": "Las preguntas"},
+      "points": [
+        {"en": "A yes–no question is just a statement with rising intonation: <b>Plou?</b> No word order change is needed.", "ko": "예/아니오 질문은 평서문을 올라가는 억양으로 말하면 돼요: <b>Plou?</b> 어순을 바꿀 필요가 없어요.", "es": "Una pregunta de sí/no es una afirmación con entonación ascendente: <b>Plou?</b> No hace falta cambiar el orden."},
+        {"en": "To highlight something, move it to the end, or to the front with a weak pronoun left behind: <b>El pa, l’has comprat?</b>", "ko": "어떤 요소를 강조하려면 문장 끝으로 보내거나, 앞으로 빼고 원래 자리에 약한 대명사를 남겨요: <b>El pa, l’has comprat?</b>", "es": "Para destacar algo, se lleva al final, o al principio dejando un pronombre átono: <b>El pa, l’has comprat?</b>"},
+        {"en": "A question can start with <b>que</b>. It means nothing by itself but adds a nuance (surprise, politeness, 'there’s a reason I ask'). It must be followed by a verb. For surprise you can also use <b>o</b>.", "ko": "질문은 <b>que</b>로 시작할 수 있어요. 그 자체로는 뜻이 없지만 놀람, 공손함, '물어보는 이유가 있다' 같은 뉘앙스를 더해요. 뒤에 반드시 동사가 와요. 놀람을 나타낼 때는 <b>o</b>도 써요.", "es": "Una pregunta puede empezar con <b>que</b>. No significa nada por sí solo, pero añade un matiz (sorpresa, cortesía, 'tengo un motivo para preguntar'). Debe ir seguido de un verbo. Para la sorpresa también sirve <b>o</b>."},
+        {"en": "Question words: <b>què</b>, <b>qui</b>, <b>quin/quina</b>, <b>quant/quanta</b>, <b>quan</b>, <b>on</b>, <b>com</b>, <b>per què</b>. Most can follow a preposition: <b>amb qui</b>, <b>des de quan</b>, <b>cap a on</b>.", "ko": "의문사: <b>què</b>, <b>qui</b>, <b>quin/quina</b>, <b>quant/quanta</b>, <b>quan</b>, <b>on</b>, <b>com</b>, <b>per què</b>. 대부분 전치사 뒤에 올 수 있어요: <b>amb qui</b>, <b>des de quan</b>, <b>cap a on</b>.", "es": "Interrogativos: <b>què</b>, <b>qui</b>, <b>quin/quina</b>, <b>quant/quanta</b>, <b>quan</b>, <b>on</b>, <b>com</b>, <b>per què</b>. La mayoría puede ir tras preposición: <b>amb qui</b>, <b>des de quan</b>, <b>cap a on</b>."},
+        {"en": "In casual speech, especially to ask 'sorry, what?', the question word can stay where the answer would be: <b>Vas dir què?</b>", "ko": "일상 회화에서, 특히 되물을 때는 의문사가 답이 들어갈 자리에 그대로 남을 수 있어요: <b>Vas dir què?</b>", "es": "En el habla coloquial, sobre todo para pedir aclaración, el interrogativo puede quedarse donde iría la respuesta: <b>Vas dir què?</b>"},
+        {"en": "Tag questions to ask for confirmation: <b>oi?</b>, <b>no?</b>, <b>o no?</b>, <b>veritat?</b>, <b>oi que sí?</b>", "ko": "확인을 구하는 부가 의문문: <b>oi?</b>, <b>no?</b>, <b>o no?</b>, <b>veritat?</b>, <b>oi que sí?</b>", "es": "Preguntas de confirmación: <b>oi?</b>, <b>no?</b>, <b>o no?</b>, <b>veritat?</b>, <b>oi que sí?</b>"}
+      ],
+      "table": {
+        "head": ["català", "meaning"],
+        "rows": [
+          ["què", "what"],
+          ["qui", "who"],
+          ["quin, quina, quins, quines", "which / what (+ noun)"],
+          ["quant, quanta, quants, quantes", "how much / how many"],
+          ["quan", "when"],
+          ["on", "where"],
+          ["com", "how"],
+          ["per què", "why"]
+        ],
+        "speak": [0]
+      },
+      "examples": [
+        {"ca": "Has acabat els deures?", "en": "Have you finished your homework?", "ko": "숙제 다 했어?", "es": "¿Has acabado los deberes?"},
+        {"ca": "Que tens fred?", "en": "Are you cold? (you look like it)", "ko": "추워? (추워 보이네)", "es": "¿Tienes frío? (lo pareces)"},
+        {"ca": "Amb qui vas al concert?", "en": "Who are you going to the concert with?", "ko": "누구랑 콘서트 가?", "es": "¿Con quién vas al concierto?"},
+        {"ca": "Des de quan estudies català?", "en": "How long have you been studying Catalan?", "ko": "카탈루냐어 공부한 지 얼마나 됐어?", "es": "¿Desde cuándo estudias catalán?"},
+        {"ca": "L’examen és dijous, oi?", "en": "The exam is on Thursday, isn’t it?", "ko": "시험 목요일이지, 그렇지?", "es": "El examen es el jueves, ¿verdad?"}
+      ]
+    },
+    {
+      "id": "13.4",
+      "title": {"ca": "L’exclamació", "en": "Exclamation", "ko": "감탄문", "es": "La exclamación"},
+      "points": [
+        {"en": "<b>Que</b> + adjective/adverb + <b>que</b> + verb: <b>Que bonic que és!</b> ('How beautiful it is!')", "ko": "<b>Que</b> + 형용사/부사 + <b>que</b> + 동사: <b>Que bonic que és!</b>('정말 예쁘다!')", "es": "<b>Que</b> + adjetivo/adverbio + <b>que</b> + verbo: <b>Que bonic que és!</b> ('¡Qué bonito es!')"},
+        {"en": "A shorter pattern: <b>si que</b> (unstressed <b>si</b>, no accent) + verb, with the subject at the end: <b>Si que és alt, el teu germà!</b> Don’t confuse it with emphatic <b>sí que</b>.", "ko": "더 짧은 형태: <b>si que</b>(강세 없는 <b>si</b>, 악센트 없음) + 동사, 주어는 끝에 와요: <b>Si que és alt, el teu germà!</b> 강조의 <b>sí que</b>와 헷갈리지 마세요.", "es": "Un patrón más corto: <b>si que</b> (<b>si</b> átono, sin acento) + verbo, con el sujeto al final. No lo confundas con el enfático <b>sí que</b>."},
+        {"en": "For a noun use <b>quin/quina/quins/quines</b>: <b>Quina calor!</b> To add a quality: <b>quin</b> + noun + <b>més</b> / <b>tan</b> + adjective: <b>Quin dia més bonic!</b>", "ko": "명사를 감탄할 때는 <b>quin/quina/quins/quines</b>를 써요: <b>Quina calor!</b> 성질을 덧붙이려면 <b>quin</b> + 명사 + <b>més</b>/<b>tan</b> + 형용사: <b>Quin dia més bonic!</b>", "es": "Con un sustantivo se usa <b>quin/quina/quins/quines</b>: <b>Quina calor!</b> Para añadir una cualidad: <b>quin</b> + sustantivo + <b>més</b> / <b>tan</b> + adjetivo: <b>Quin dia més bonic!</b>"},
+        {"en": "To praise the way someone does something, use <b>com</b> + verb (subject at the end). An extra adverb needs <b>de</b>: <b>Com corre de ràpid!</b>", "ko": "누군가 무언가를 하는 방식을 감탄할 때는 <b>com</b> + 동사(주어는 끝)를 써요. 부사를 더하면 <b>de</b>가 필요해요: <b>Com corre de ràpid!</b>", "es": "Para destacar la manera de hacer algo se usa <b>com</b> + verbo (sujeto al final). Un adverbio añadido necesita <b>de</b>: <b>Com corre de ràpid!</b>"}
+      ],
+      "examples": [
+        {"ca": "Que bé que cuina el teu pare!", "en": "Your dad cooks so well!", "ko": "너희 아빠 요리 정말 잘하신다!", "es": "¡Qué bien cocina tu padre!"},
+        {"ca": "Si que fa calor avui!", "en": "It’s really hot today!", "ko": "오늘 정말 덥다!", "es": "¡Sí que hace calor hoy!"},
+        {"ca": "Quina pel·lícula més divertida!", "en": "What a fun film!", "ko": "정말 재밌는 영화다!", "es": "¡Qué película más divertida!"},
+        {"ca": "Com balla de bé la Laia!", "en": "Laia dances so well!", "ko": "라이아 춤 정말 잘 춘다!", "es": "¡Qué bien baila Laia!"}
+      ]
+    },
+    {
+      "id": "13.5",
+      "title": {"ca": "Donar ordres", "en": "Giving orders", "ko": "명령하기", "es": "Dar órdenes"},
+      "points": [
+        {"en": "The imperative gives direct orders: <b>Tanca la finestra.</b> It can sound abrupt.", "ko": "명령법은 직접적인 명령을 해요: <b>Tanca la finestra.</b> 다소 딱딱하게 들릴 수 있어요.", "es": "El imperativo da órdenes directas: <b>Tanca la finestra.</b> Puede sonar brusco."},
+        {"en": "Requests sound more polite as questions or conditions: <b>Que pots…?</b>, <b>Que podries…?</b>, <b>Et sap greu…?</b>, <b>Si no et sap greu, …</b>", "ko": "질문이나 조건 형태로 말하면 더 공손해요: <b>Que pots…?</b>, <b>Que podries…?</b>, <b>Et sap greu…?</b>, <b>Si no et sap greu, …</b>", "es": "Las peticiones suenan más corteses como preguntas o condiciones: <b>Que pots…?</b>, <b>Que podries…?</b>, <b>Et sap greu…?</b>, <b>Si no et sap greu, …</b>"},
+        {"en": "<b>Si us plau</b> / <b>per favor</b> ('please') go at the start or end of the sentence, not in the middle of the verb phrase.", "ko": "<b>si us plau</b> / <b>per favor</b>('제발, 부탁해요')는 문장 앞이나 끝에 오고, 동사구 중간에는 오지 않아요.", "es": "<b>Si us plau</b> / <b>per favor</b> ('por favor') van al principio o al final de la frase, no en medio del sintagma verbal."},
+        {"en": "Reported orders after <b>dir</b>, <b>demanar</b>, <b>ordenar</b>, <b>suplicar</b> use <b>que</b> + subjunctive, or <b>de</b> + infinitive.", "ko": "<b>dir</b>, <b>demanar</b>, <b>ordenar</b>, <b>suplicar</b> 뒤의 간접 명령은 <b>que</b> + 접속법, 또는 <b>de</b> + 부정사를 써요.", "es": "Las órdenes indirectas tras <b>dir</b>, <b>demanar</b>, <b>ordenar</b>, <b>suplicar</b> usan <b>que</b> + subjuntivo, o <b>de</b> + infinitivo."},
+        {"en": "Public signs usually use the <b>vós</b>/<b>vosaltres</b> form (2nd person plural): <b>No llenceu papers a terra.</b>", "ko": "공공 안내문은 보통 <b>vós</b>/<b>vosaltres</b> 형태(2인칭 복수)를 써요: <b>No llenceu papers a terra.</b>", "es": "Los avisos públicos suelen usar la forma de <b>vós</b>/<b>vosaltres</b> (2.ª persona del plural): <b>No llenceu papers a terra.</b>"}
+      ],
+      "examples": [
+        {"ca": "Que podries apujar la música?", "en": "Could you turn the music up?", "ko": "음악 소리 좀 키워 줄 수 있어?", "es": "¿Podrías subir la música?"},
+        {"ca": "Si no et sap greu, em deixes el carregador?", "en": "If you don’t mind, can you lend me your charger?", "ko": "괜찮으면 충전기 좀 빌려줄래?", "es": "Si no te importa, ¿me dejas el cargador?"},
+        {"ca": "Em passes l’aigua, si us plau?", "en": "Can you pass me the water, please?", "ko": "물 좀 건네줄래?", "es": "¿Me pasas el agua, por favor?"},
+        {"ca": "La professora ens ha dit que parlem en català.", "en": "The teacher told us to speak in Catalan.", "ko": "선생님이 우리한테 카탈루냐어로 말하라고 하셨어.", "es": "La profesora nos ha dicho que hablemos en catalán."},
+        {"ca": "No llenceu papers a terra.", "en": "Do not throw litter on the ground.", "ko": "바닥에 쓰레기를 버리지 마시오.", "es": "No tiren papeles al suelo."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "sí que", "en": "really / indeed (emphatic yes)", "ko": "정말로 ~하다 (강조)", "es": "sí que"},
+    {"ca": "i tant", "en": "of course", "ko": "물론이지", "es": "claro que sí"},
+    {"ca": "res", "en": "nothing / anything", "ko": "아무것도 / 무언가", "es": "nada / algo"},
+    {"ca": "ningú", "en": "nobody / anybody", "ko": "아무도 / 누군가", "es": "nadie / alguien"},
+    {"ca": "cap", "en": "no, none / any", "ko": "하나도 / 어떤", "es": "ningún / algún"},
+    {"ca": "mai", "en": "never / ever", "ko": "절대 / 언젠가", "es": "nunca / alguna vez"},
+    {"ca": "enlloc", "en": "nowhere / anywhere", "ko": "어디에도 / 어딘가", "es": "en ninguna parte"},
+    {"ca": "gens", "en": "not at all", "ko": "전혀", "es": "nada (de)"},
+    {"ca": "tampoc", "en": "neither / not either", "ko": "~도 아니다", "es": "tampoco"},
+    {"ca": "sinó", "en": "but (rather)", "ko": "~가 아니라", "es": "sino"},
+    {"ca": "oi?", "en": "right? / isn’t it?", "ko": "그렇지?", "es": "¿verdad?"},
+    {"ca": "per què", "en": "why", "ko": "왜", "es": "por qué"},
+    {"ca": "quin / quina", "en": "which / what (a)", "ko": "어떤 / 정말 ~한", "es": "qué / cuál"},
+    {"ca": "si us plau", "en": "please", "ko": "부탁해요", "es": "por favor"},
+    {"ca": "saber greu", "en": "to mind, to feel sorry", "ko": "미안하다, 꺼리다", "es": "sentir, importar"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "13.1",
+     "q": {"en": "Your friend thinks you don’t like pizza. Contradict them.", "ko": "친구가 네가 피자를 안 좋아한다고 생각해요. 반박하세요.", "es": "Tu amigo cree que no te gusta la pizza. Contradícelo."},
+     "ca": "No t’agrada la pizza? ___ que m’agrada!",
+     "options": ["Si", "Ni", "Sí", "No"], "answer": 2,
+     "explain": {"en": "Emphatic 'sí que' (with an accent) contradicts a negative idea.", "ko": "악센트가 있는 강조의 'sí que'가 부정적인 생각을 반박해요.", "es": "El enfático 'sí que' (con acento) contradice una idea negativa."}},
+    {"type": "tf", "sec": "13.1",
+     "q": {"en": "Catalan uses an auxiliary verb like English 'do' to say 'I DO like it'.", "ko": "카탈루냐어는 'I DO like it'처럼 영어 'do' 같은 조동사로 강조해요.", "es": "El catalán usa un auxiliar como el inglés 'do' para decir 'I DO like it'."},
+     "answer": false,
+     "explain": {"en": "There is no such auxiliary; Catalan uses 'sí que' or 'i tant' instead.", "ko": "그런 조동사는 없고, 대신 'sí que'나 'i tant'을 써요.", "es": "No existe ese auxiliar; el catalán usa 'sí que' o 'i tant'."}},
+    {"type": "fill", "sec": "13.1",
+     "q": {"en": "Complete the contrast with one word.", "ko": "한 단어로 대조를 완성하세요.", "es": "Completa el contraste con una palabra."},
+     "ca": "El meu germà no menja peix, però jo ___.",
+     "answer": ["sí"],
+     "explain": {"en": "In an explicit contrast, 'sí' alone replaces the repeated verb.", "ko": "대조가 분명할 때는 'sí'만으로 반복되는 동사를 대신해요.", "es": "En un contraste explícito, 'sí' solo sustituye al verbo repetido."}},
+    {"type": "mc", "sec": "13.2",
+     "q": {"en": "Which sentence correctly means 'I haven’t seen it'?", "ko": "'나는 그것을 못 봤어'를 바르게 표현한 문장은?", "es": "¿Qué frase significa correctamente 'No lo he visto'?"},
+     "options": ["He no ho vist.", "Ho no he vist.", "No ho he vist.", "Ho he no vist."], "answer": 2,
+     "explain": {"en": "'No' goes before the weak pronoun and the auxiliary, never after them.", "ko": "'no'는 약한 대명사와 조동사 앞에 와요.", "es": "'No' va delante del pronombre átono y del auxiliar."}},
+    {"type": "mc", "sec": "13.2",
+     "q": {"en": "Which sentence means 'There’s no need to bring a jacket'?", "ko": "'재킷을 가져올 필요 없어'라는 뜻의 문장은?", "es": "¿Qué frase significa 'No hace falta traer chaqueta'?"},
+     "options": ["No cal portar jaqueta.", "Cal no portar jaqueta."], "answer": 0,
+     "explain": {"en": "'No cal' denies the necessity; 'cal no' means you must avoid doing it.", "ko": "'no cal'은 필요성을 부정하고, 'cal no'는 '하지 말아야 한다'는 뜻이에요.", "es": "'No cal' niega la necesidad; 'cal no' significa que hay que evitar hacerlo."}},
+    {"type": "fill", "sec": "13.2",
+     "q": {"en": "Write the Catalan word for 'nothing'.", "ko": "'아무것도'에 해당하는 카탈루냐어를 쓰세요.", "es": "Escribe la palabra catalana para 'nada'."},
+     "ca": "Avui no he esmorzat ___.",
+     "answer": ["res"],
+     "explain": {"en": "'Res' = nothing; after the verb it needs 'no' before the verb.", "ko": "'res'는 '아무것도'예요. 동사 뒤에 오므로 동사 앞에 'no'가 필요해요.", "es": "'Res' = nada; detrás del verbo necesita 'no' delante."}},
+    {"type": "fill", "sec": "13.2",
+     "q": {"en": "Write the Catalan word for 'nobody'.", "ko": "'아무도'에 해당하는 카탈루냐어를 쓰세요.", "es": "Escribe la palabra catalana para 'nadie'."},
+     "ca": "A la festa no hi havia ___ de la meva classe.",
+     "answer": ["ningú"],
+     "explain": {"en": "'Ningú' refers to people and means 'nobody' (or 'anybody' in questions).", "ko": "'ningú'는 사람을 가리키며 '아무도'라는 뜻이에요(질문에서는 '누군가').", "es": "'Ningú' se refiere a personas: 'nadie' (o 'alguien' en preguntas)."}},
+    {"type": "order", "sec": "13.2",
+     "q": {"en": "Build: 'I don’t have any brothers.'", "ko": "'나는 형제가 한 명도 없어'를 만드세요.", "es": "Construye: 'No tengo ningún hermano.'"},
+     "words": ["no", "tinc", "cap", "germà"], "answer": "No tinc cap germà.",
+     "explain": {"en": "'No' + verb + 'cap' + noun: 'cap' after the verb needs 'no'.", "ko": "'no' + 동사 + 'cap' + 명사: 동사 뒤의 'cap'은 'no'가 필요해요.", "es": "'No' + verbo + 'cap' + sustantivo: 'cap' detrás del verbo necesita 'no'."}},
+    {"type": "mc", "sec": "13.2",
+     "q": {"en": "'I’m not going on the trip.' — 'Me neither.'", "ko": "'나 소풍 안 가.' — '나도 안 가.'", "es": "'No voy a la excursión.' — 'Yo tampoco.'"},
+     "ca": "No vaig a l’excursió. — Jo ___.",
+     "options": ["també", "mai", "gens", "tampoc"], "answer": 3,
+     "explain": {"en": "'Tampoc' agrees with a negative statement; 'també' agrees with a positive one.", "ko": "부정문에 동의할 때는 'tampoc', 긍정문에 동의할 때는 'també'를 써요.", "es": "'Tampoc' se suma a una negación; 'també' a una afirmación."}},
+    {"type": "tf", "sec": "13.2",
+     "q": {"en": "In the question 'Vols res?', 'res' means 'anything'.", "ko": "'Vols res?'라는 질문에서 'res'는 '무언가'라는 뜻이에요.", "es": "En la pregunta 'Vols res?', 'res' significa 'algo'."},
+     "answer": true,
+     "explain": {"en": "In questions and doubts, negative words take a positive 'any-' meaning.", "ko": "질문이나 의심에서는 부정어가 '무언가, 누군가' 같은 긍정적 의미가 돼요.", "es": "En preguntas y dudas, las palabras negativas toman sentido positivo ('algo, alguien')."}},
+    {"type": "fill", "sec": "13.2",
+     "q": {"en": "Complete 'not only… but also…'.", "ko": "'~뿐만 아니라 ~도'를 완성하세요.", "es": "Completa 'no solo… sino también…'."},
+     "ca": "M’han regalat no només un llibre, ___ també una samarreta.",
+     "answer": ["sinó"],
+     "explain": {"en": "The pattern is 'no només… sinó també…' ('sinó' written as one word).", "ko": "형태는 'no només… sinó també…'이고 'sinó'는 한 단어로 써요.", "es": "La estructura es 'no només… sinó també…' ('sinó' en una sola palabra)."}},
+    {"type": "mc", "sec": "13.2",
+     "q": {"en": "Which word makes this warning stronger?", "ko": "이 경고를 더 강하게 만드는 단어는?", "es": "¿Qué palabra refuerza esta advertencia?"},
+     "ca": "No toquis ___ el pastís, que és per a l’àvia!",
+     "options": ["res", "pas", "cap", "enlloc"], "answer": 1,
+     "explain": {"en": "'Pas' after the verb reinforces a strict prohibition.", "ko": "동사 뒤의 'pas'는 엄한 금지를 강조해요.", "es": "'Pas' tras el verbo refuerza una prohibición estricta."}},
+    {"type": "mc", "sec": "13.3",
+     "q": {"en": "Choose the question word. Answer: 'In Girona.'", "ko": "의문사를 고르세요. 대답: '지로나에서.'", "es": "Elige el interrogativo. Respuesta: 'En Girona.'"},
+     "ca": "___ vius? — A Girona.",
+     "options": ["Què", "On", "Quan", "Qui"], "answer": 1,
+     "explain": {"en": "'On' asks about place.", "ko": "'on'은 장소를 물어요.", "es": "'On' pregunta por el lugar."}},
+    {"type": "fill", "sec": "13.3",
+     "q": {"en": "Write 'why' in Catalan.", "ko": "'왜'를 카탈루냐어로 쓰세요.", "es": "Escribe 'por qué' en catalán."},
+     "ca": "___ no has vingut a l’entrenament?",
+     "answer": ["Per què"],
+     "explain": {"en": "'Per què' (two words, accent on 'què') asks for a reason; 'perquè' is 'because'.", "ko": "'per què'(두 단어, 'què'에 악센트)는 이유를 묻고, 'perquè'는 '왜냐하면'이에요.", "es": "'Per què' (dos palabras) pregunta la causa; 'perquè' es 'porque'."}},
+    {"type": "mc", "sec": "13.3",
+     "q": {"en": "Add a tag to ask for confirmation.", "ko": "확인을 구하는 부가 의문 표현을 넣으세요.", "es": "Añade una coletilla para pedir confirmación."},
+     "ca": "Demà no hi ha classe, ___?",
+     "options": ["què", "quin", "com", "oi"], "answer": 3,
+     "explain": {"en": "'Oi?' at the end asks the listener to confirm, like 'right?'.", "ko": "끝에 붙는 'oi?'는 '그렇지?'처럼 확인을 구해요.", "es": "'Oi?' al final pide confirmación, como '¿verdad?'."}},
+    {"type": "order", "sec": "13.3",
+     "q": {"en": "Build: 'What colour is your backpack?'", "ko": "'네 배낭은 무슨 색이야?'를 만드세요.", "es": "Construye: '¿De qué color es tu mochila?'"},
+     "words": ["de", "quin", "color", "és", "la", "teva", "motxilla"], "answer": "De quin color és la teva motxilla?",
+     "explain": {"en": "The preposition 'de' goes before the question word 'quin'.", "ko": "전치사 'de'는 의문사 'quin' 앞에 와요.", "es": "La preposición 'de' va delante del interrogativo 'quin'."}},
+    {"type": "tf", "sec": "13.3",
+     "q": {"en": "In 'Que plou?', 'que' means 'what'.", "ko": "'Que plou?'에서 'que'는 '무엇'이라는 뜻이에요.", "es": "En 'Que plou?', 'que' significa 'qué'."},
+     "answer": false,
+     "explain": {"en": "Here 'que' is only a question marker that adds a nuance (e.g. surprise); it has no meaning of its own.", "ko": "여기서 'que'는 놀람 같은 뉘앙스를 더하는 의문 표지일 뿐, 자체 의미는 없어요.", "es": "Aquí 'que' es solo una marca interrogativa que añade un matiz (p. ej. sorpresa)."}},
+    {"type": "mc", "sec": "13.4",
+     "q": {"en": "Complete the exclamation 'What an exciting match!'", "ko": "'정말 흥미진진한 경기다!'를 완성하세요.", "es": "Completa: '¡Qué partido más emocionante!'"},
+     "ca": "___ partit més emocionant!",
+     "options": ["Que", "Quina", "Quin", "Com"], "answer": 2,
+     "explain": {"en": "Before a masculine singular noun use 'quin'.", "ko": "남성 단수 명사 앞에서는 'quin'을 써요.", "es": "Ante un sustantivo masculino singular se usa 'quin'."}},
+    {"type": "fill", "sec": "13.4",
+     "q": {"en": "Complete the exclamation 'How tall your cousin is!'", "ko": "'네 사촌 정말 키 크다!'를 완성하세요.", "es": "Completa: '¡Qué alto es tu primo!'"},
+     "ca": "___ alt que és el teu cosí!",
+     "answer": ["Que"],
+     "explain": {"en": "Exclamations about a quality use 'que' + adjective + 'que' + verb.", "ko": "성질에 대한 감탄문은 'que' + 형용사 + 'que' + 동사 구조예요.", "es": "Las exclamaciones sobre una cualidad usan 'que' + adjetivo + 'que' + verbo."}},
+    {"type": "mc", "sec": "13.4",
+     "q": {"en": "Choose the word that fits after the noun.", "ko": "명사 뒤에 알맞은 단어를 고르세요.", "es": "Elige la palabra que va tras el sustantivo."},
+     "ca": "Quina classe ___ avorrida!",
+     "options": ["tan", "molt", "tant", "quina"], "answer": 0,
+     "explain": {"en": "After 'quin/quina' + noun, the adjective is introduced by 'més' or 'tan'.", "ko": "'quin/quina' + 명사 뒤의 형용사는 'més'나 'tan'으로 이어요.", "es": "Tras 'quin/quina' + sustantivo, el adjetivo se introduce con 'més' o 'tan'."}},
+    {"type": "mc", "sec": "13.5",
+     "q": {"en": "Which is the most polite request?", "ko": "가장 공손한 부탁은?", "es": "¿Cuál es la petición más cortés?"},
+     "options": ["Obre la finestra.", "Has d’obrir la finestra.", "Obres la finestra.", "Que podries obrir la finestra, si us plau?"], "answer": 3,
+     "explain": {"en": "A conditional question with 'que podries' and 'si us plau' is softer than an imperative or 'has de'.", "ko": "'que podries'와 'si us plau'를 쓴 조건법 질문이 명령법이나 'has de'보다 부드러워요.", "es": "Una pregunta en condicional con 'que podries' y 'si us plau' es más suave que el imperativo o 'has de'."}},
+    {"type": "fill", "sec": "13.5",
+     "q": {"en": "Put the verb in the subjunctive (reported order).", "ko": "동사를 접속법으로 바꾸세요(간접 명령).", "es": "Pon el verbo en subjuntivo (orden indirecta)."},
+     "ca": "El professor ens ha dit que ___ (portar) el diccionari demà.",
+     "answer": ["portem"],
+     "explain": {"en": "After 'dir que' giving an order, the verb goes in the present subjunctive: nosaltres → portem.", "ko": "명령을 전하는 'dir que' 뒤에는 접속법 현재를 써요: nosaltres → portem.", "es": "Tras 'dir que' con valor de orden, el verbo va en presente de subjuntivo: nosaltres → portem."}},
+    {"type": "mc", "sec": "13.5",
+     "q": {"en": "Which is a typical public sign?", "ko": "전형적인 공공 안내문은?", "es": "¿Cuál es un aviso público típico?"},
+     "options": ["No trepitja la gespa.", "No trepitgeu la gespa.", "No trepitjo la gespa."], "answer": 1,
+     "explain": {"en": "Public notices use the 2nd person plural (vós/vosaltres) form: 'no trepitgeu'.", "ko": "공공 안내문은 2인칭 복수(vós/vosaltres) 형태를 써요: 'no trepitgeu'.", "es": "Los avisos públicos usan la 2.ª persona del plural: 'no trepitgeu'."}},
+    {"type": "match", "sec": "13.3",
+     "q": {"en": "Match each question word with its meaning.", "ko": "의문사와 뜻을 연결하세요.", "es": "Une cada interrogativo con su significado."},
+     "pairs": [
+       {"l": "quan", "r": {"en": "when", "ko": "언제", "es": "cuándo"}},
+       {"l": "com", "r": {"en": "how", "ko": "어떻게", "es": "cómo"}},
+       {"l": "qui", "r": {"en": "who", "ko": "누구", "es": "quién"}},
+       {"l": "quant", "r": {"en": "how much", "ko": "얼마나", "es": "cuánto"}},
+       {"l": "què", "r": {"en": "what", "ko": "무엇", "es": "qué"}}
+     ]}
+  ]
+}

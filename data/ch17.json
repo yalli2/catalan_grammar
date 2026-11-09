@@ -1,0 +1,699 @@
+{
+  "id": 17,
+  "part": 4,
+  "icon": "🎩",
+  "title": {
+    "ca": "Els tractaments",
+    "en": "Treatments",
+    "ko": "호칭과 경어",
+    "es": "Los tratamientos"
+  },
+  "summary": {
+    "en": "How do you address a friend, a teacher, your grandparents or a king? This chapter explains the three levels of politeness in Catalan (tu, vós, vostè), how each one changes verbs, pronouns and possessives, honorific titles like Sa Majestat, and why titles such as senyor or doctora need an article.",
+    "ko": "친구, 선생님, 조부모님, 왕에게는 어떻게 말을 걸까요? 이 장에서는 카탈루냐어의 세 가지 공손함 단계(tu, vós, vostè), 각각이 동사·대명사·소유사에 미치는 영향, Sa Majestat 같은 존칭, 그리고 senyor나 doctora 같은 호칭 앞에 관사가 필요한 이유를 설명해요.",
+    "es": "¿Cómo te diriges a un amigo, a un profesor, a tus abuelos o a un rey? Este capítulo explica los tres niveles de cortesía en catalán (tu, vós, vostè), cómo cambian los verbos, pronombres y posesivos, los tratamientos honoríficos como Sa Majestat y por qué títulos como senyor o doctora llevan artículo."
+  },
+  "goals": [
+    {
+      "en": "You will be able to choose between tu, vós and vostè.",
+      "ko": "tu, vós, vostè 중 알맞은 것을 고를 수 있어요.",
+      "es": "Podrás elegir entre tu, vós y vostè."
+    },
+    {
+      "en": "You will be able to use the right verb person, pronoun and possessive for each form.",
+      "ko": "각 형태에 맞는 동사 인칭, 대명사, 소유사를 쓸 수 있어요.",
+      "es": "Podrás usar la persona verbal, el pronombre y el posesivo adecuados para cada forma."
+    },
+    {
+      "en": "You will be able to use honorifics (Sa Majestat) and titles (el senyor Vila) correctly.",
+      "ko": "존칭(Sa Majestat)과 호칭(el senyor Vila)을 올바르게 쓸 수 있어요.",
+      "es": "Podrás usar correctamente los honoríficos (Sa Majestat) y los títulos (el senyor Vila)."
+    }
+  ],
+  "sections": [
+    {
+      "id": "17.1",
+      "title": {
+        "ca": "Graus de cortesia",
+        "en": "Degrees of politeness",
+        "ko": "공손함의 단계",
+        "es": "Grados de cortesía"
+      },
+      "points": [
+        {
+          "en": "<b>Tu</b>: informal, for friends, family and people of your own age.",
+          "ko": "<b>tu</b>: 친구, 가족, 또래에게 쓰는 비격식 형태예요.",
+          "es": "<b>Tu</b>: informal, para amigos, familia y gente de tu edad."
+        },
+        {
+          "en": "<b>Vostè</b>: the most formal, for people you don’t know well or who are in a higher position (a doctor, a shop assistant you don’t know, an official).",
+          "ko": "<b>vostè</b>: 가장 격식 있는 형태로, 잘 모르는 사람이나 윗사람(의사, 처음 보는 점원, 공무원)에게 써요.",
+          "es": "<b>Vostè</b>: el más formal, para personas que no conoces bien o de posición superior (un médico, un funcionario)."
+        },
+        {
+          "en": "<b>Vós</b>: respectful but warm, traditionally for older relatives or elders in rural areas. Most speakers use only two levels: <b>tu</b> vs one polite form.",
+          "ko": "<b>vós</b>: 존중하면서도 친근한 형태로, 전통적으로 나이 든 친척이나 시골 어르신에게 써요. 대부분의 화자는 <b>tu</b>와 공손형 하나, 두 단계만 써요.",
+          "es": "<b>Vós</b>: respetuoso pero cercano, tradicionalmente para familiares mayores o en zonas rurales. La mayoría usa solo dos niveles: <b>tu</b> frente a una forma cortés."
+        },
+        {
+          "en": "Public signs addressed to everyone use the <b>vós/vosaltres</b> verb form: <b>No fumeu</b>, <b>Cediu el pas</b>.",
+          "ko": "모든 사람을 대상으로 한 공공 안내문은 <b>vós/vosaltres</b> 동사형을 써요: <b>No fumeu</b>, <b>Cediu el pas</b>.",
+          "es": "Los avisos públicos usan la forma verbal de <b>vós/vosaltres</b>: <b>No fumeu</b>, <b>Cediu el pas</b>."
+        }
+      ],
+      "examples": [
+        {
+          "ca": "Marc, vens a jugar a pàdel?",
+          "en": "Marc, are you coming to play padel?",
+          "ko": "마르크, 파델 치러 올래?",
+          "es": "Marc, ¿vienes a jugar a pádel?"
+        },
+        {
+          "ca": "Perdoni, senyora, vostè sap on és l’estació?",
+          "en": "Excuse me, madam, do you know where the station is?",
+          "ko": "실례합니다, 혹시 역이 어디 있는지 아세요?",
+          "es": "Perdone, señora, ¿sabe usted dónde está la estación?"
+        },
+        {
+          "ca": "Avi, voleu un cafè?",
+          "en": "Grandad, would you like a coffee?",
+          "ko": "할아버지, 커피 드실래요?",
+          "es": "Abuelo, ¿queréis un café?"
+        },
+        {
+          "ca": "No fumeu.",
+          "en": "No smoking.",
+          "ko": "금연.",
+          "es": "Prohibido fumar."
+        }
+      ]
+    },
+    {
+      "id": "17.2",
+      "title": {
+        "ca": "Relacions gramaticals dels pronoms de cortesia",
+        "en": "Grammatical relations of polite pronouns",
+        "ko": "경어 대명사의 문법 관계",
+        "es": "Relaciones gramaticales de los pronombres de cortesía"
+      },
+      "points": [
+        {
+          "en": "Even though you are talking TO the person, <b>vostè</b> takes 3rd person singular verbs, pronouns <b>el/la</b> (direct) and <b>li</b> (indirect) and the possessive <b>el seu</b>.",
+          "ko": "상대방에게 직접 말하는데도 <b>vostè</b>는 3인칭 단수 동사, 대명사 <b>el/la</b>(직접), <b>li</b>(간접), 소유사 <b>el seu</b>를 써요.",
+          "es": "Aunque hablas A la persona, <b>vostè</b> lleva verbo en 3.ª del singular, pronombres <b>el/la</b> (directo) y <b>li</b> (indirecto) y el posesivo <b>el seu</b>."
+        },
+        {
+          "en": "<b>Vós</b> takes 2nd person plural verbs, the pronoun <b>us</b> and the possessive <b>el vostre</b>, like <b>vosaltres</b>.",
+          "ko": "<b>vós</b>는 <b>vosaltres</b>처럼 2인칭 복수 동사, 대명사 <b>us</b>, 소유사 <b>el vostre</b>를 써요.",
+          "es": "<b>Vós</b> lleva verbo en 2.ª del plural, el pronombre <b>us</b> y el posesivo <b>el vostre</b>, como <b>vosaltres</b>."
+        },
+        {
+          "en": "But <b>vós</b> refers to ONE person, so adjectives stay singular: <b>Esteu cansada, àvia?</b>",
+          "ko": "하지만 <b>vós</b>는 한 사람을 가리키므로 형용사는 단수예요: <b>Esteu cansada, àvia?</b>",
+          "es": "Pero <b>vós</b> se refiere a UNA persona, así que los adjetivos van en singular: <b>Esteu cansada, àvia?</b>"
+        },
+        {
+          "en": "In the plural, <b>vós</b> merges with <b>vosaltres</b>; <b>vostès</b> takes 3rd person plural (<b>els</b>, <b>el seu</b>).",
+          "ko": "복수에서 <b>vós</b>는 <b>vosaltres</b>와 같아지고, <b>vostès</b>는 3인칭 복수(<b>els</b>, <b>el seu</b>)를 써요.",
+          "es": "En plural, <b>vós</b> se confunde con <b>vosaltres</b>; <b>vostès</b> lleva 3.ª del plural (<b>els</b>, <b>el seu</b>)."
+        }
+      ],
+      "table": {
+        "head": [
+          "stressed",
+          "direct obj.",
+          "indirect obj.",
+          "verb",
+          "possessive"
+        ],
+        "rows": [
+          [
+            "tu",
+            "et",
+            "et",
+            "2nd sg",
+            "el teu"
+          ],
+          [
+            "vós",
+            "us",
+            "us",
+            "2nd pl",
+            "el vostre"
+          ],
+          [
+            "vostè",
+            "el / la",
+            "li",
+            "3rd sg",
+            "el seu"
+          ],
+          [
+            "vosaltres",
+            "us",
+            "us",
+            "2nd pl",
+            "el vostre"
+          ],
+          [
+            "vostès",
+            "els",
+            "els",
+            "3rd pl",
+            "el seu"
+          ]
+        ],
+        "speak": [
+          0,
+          1,
+          2,
+          4
+        ]
+      },
+      "examples": [
+        {
+          "ca": "Senyor Puig, li he deixat el seu llibre a la taula.",
+          "en": "Mr Puig, I’ve left your book on the table for you.",
+          "ko": "푸이그 선생님, 선생님 책을 책상 위에 두었어요.",
+          "es": "Señor Puig, le he dejado su libro en la mesa."
+        },
+        {
+          "ca": "Senyora, la puc ajudar?",
+          "en": "Madam, can I help you?",
+          "ko": "도와드릴까요?",
+          "es": "Señora, ¿la puedo ayudar?"
+        },
+        {
+          "ca": "Àvia, us porto la vostra jaqueta?",
+          "en": "Grandma, shall I bring you your jacket?",
+          "ko": "할머니, 재킷 가져다드릴까요?",
+          "es": "Abuela, ¿os traigo vuestra chaqueta?"
+        },
+        {
+          "ca": "Vostès són els pares de la Laia?",
+          "en": "Are you Laia’s parents?",
+          "ko": "라이아 부모님이세요?",
+          "es": "¿Ustedes son los padres de Laia?"
+        }
+      ]
+    },
+    {
+      "id": "17.3",
+      "title": {
+        "ca": "Els honorífics",
+        "en": "Honorifics",
+        "ko": "존칭",
+        "es": "Los honoríficos"
+      },
+      "points": [
+        {
+          "en": "Honorific titles use the short feminine possessive <b>sa</b>, whoever the person is: <b>Sa Majestat</b>, <b>Sa Santedat</b>, <b>Sa Excel·lència</b>.",
+          "ko": "존칭에는 대상이 누구든 짧은 여성 소유사 <b>sa</b>를 써요: <b>Sa Majestat</b>, <b>Sa Santedat</b>, <b>Sa Excel·lència</b>.",
+          "es": "Los títulos honoríficos usan el posesivo femenino átono <b>sa</b>, sea quien sea la persona: <b>Sa Majestat</b>, <b>Sa Santedat</b>, <b>Sa Excel·lència</b>."
+        },
+        {
+          "en": "They take 3rd person singular verbs and possessives (<b>el seu</b>). Adjectives agree with the real person: a king → <b>informat</b>, a queen → <b>informada</b>.",
+          "ko": "3인칭 단수 동사와 소유사(<b>el seu</b>)를 써요. 형용사는 실제 인물에 일치해요: 왕 → <b>informat</b>, 여왕 → <b>informada</b>.",
+          "es": "Llevan verbo y posesivo en 3.ª del singular (<b>el seu</b>). Los adjetivos concuerdan con la persona real: un rey → <b>informat</b>, una reina → <b>informada</b>."
+        },
+        {
+          "en": "The royal 'we', <b>nós</b>, takes 1st person plural verbs and possessives, but singular adjectives.",
+          "ko": "왕이 쓰는 '짐', <b>nós</b>는 1인칭 복수 동사와 소유사를 쓰지만 형용사는 단수예요.",
+          "es": "El plural mayestático <b>nós</b> lleva verbo y posesivo en 1.ª del plural, pero adjetivos en singular."
+        }
+      ],
+      "examples": [
+        {
+          "ca": "Sa Majestat ha arribat a Girona.",
+          "en": "His/Her Majesty has arrived in Girona.",
+          "ko": "국왕 폐하께서 지로나에 도착하셨습니다.",
+          "es": "Su Majestad ha llegado a Girona."
+        },
+        {
+          "ca": "Sa Santedat està molt cansat del viatge.",
+          "en": "His Holiness is very tired from the trip.",
+          "ko": "교황 성하께서 여행으로 매우 피곤하십니다.",
+          "es": "Su Santidad está muy cansado del viaje."
+        },
+        {
+          "ca": "Nós, el rei, prometem protegir el nostre poble.",
+          "en": "We, the king, promise to protect our people.",
+          "ko": "짐은 백성을 지킬 것을 약속하노라.",
+          "es": "Nos, el rey, prometemos proteger a nuestro pueblo."
+        }
+      ]
+    },
+    {
+      "id": "17.4",
+      "title": {
+        "ca": "Títols davant del cognom",
+        "en": "Titles before surnames",
+        "ko": "성 앞의 호칭",
+        "es": "Títulos ante el apellido"
+      },
+      "points": [
+        {
+          "en": "Titles like <b>senyor</b>, <b>senyora</b>, <b>doctor</b>, <b>doctora</b> need the definite article when you talk ABOUT the person: <b>La doctora Mas és molt bona.</b>",
+          "ko": "<b>senyor</b>, <b>senyora</b>, <b>doctor</b>, <b>doctora</b> 같은 호칭은 그 사람에 대해 말할 때 정관사가 필요해요: <b>La doctora Mas és molt bona.</b>",
+          "es": "Títulos como <b>senyor</b>, <b>senyora</b>, <b>doctor</b>, <b>doctora</b> llevan artículo cuando hablas SOBRE la persona: <b>La doctora Mas és molt bona.</b>"
+        },
+        {
+          "en": "When you speak directly TO the person (vocative), there is no article: <b>Bon dia, senyor Vila!</b>",
+          "ko": "그 사람에게 직접 말할 때(호격)는 관사를 쓰지 않아요: <b>Bon dia, senyor Vila!</b>",
+          "es": "Cuando hablas directamente A la persona (vocativo), no hay artículo: <b>Bon dia, senyor Vila!</b>"
+        }
+      ],
+      "examples": [
+        {
+          "ca": "El senyor Roca és el nostre veí.",
+          "en": "Mr Roca is our neighbour.",
+          "ko": "로카 씨는 우리 이웃이야.",
+          "es": "El señor Roca es nuestro vecino."
+        },
+        {
+          "ca": "La professora Ferrer ens ha posat un examen.",
+          "en": "Ms Ferrer has given us a test.",
+          "ko": "페레르 선생님이 시험을 내셨어.",
+          "es": "La profesora Ferrer nos ha puesto un examen."
+        },
+        {
+          "ca": "Doctora Puig, quan he de tornar?",
+          "en": "Doctor Puig, when should I come back?",
+          "ko": "푸이그 선생님, 언제 다시 와야 하나요?",
+          "es": "Doctora Puig, ¿cuándo tengo que volver?"
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "ca": "tu",
+      "en": "you (informal)",
+      "ko": "너",
+      "es": "tú"
+    },
+    {
+      "ca": "vostè",
+      "en": "you (formal)",
+      "ko": "당신 (격식)",
+      "es": "usted"
+    },
+    {
+      "ca": "vós",
+      "en": "you (respectful, traditional)",
+      "ko": "당신 (존중, 전통적)",
+      "es": "vos (tratamiento respetuoso)"
+    },
+    {
+      "ca": "vostès",
+      "en": "you (formal plural)",
+      "ko": "여러분 (격식)",
+      "es": "ustedes"
+    },
+    {
+      "ca": "el seu / la seva",
+      "en": "your (vostè), his, her",
+      "ko": "당신의, 그의, 그녀의",
+      "es": "su"
+    },
+    {
+      "ca": "el vostre / la vostra",
+      "en": "your (vós, vosaltres)",
+      "ko": "당신의, 너희의",
+      "es": "vuestro"
+    },
+    {
+      "ca": "senyor / senyora",
+      "en": "Mr / Mrs, sir / madam",
+      "ko": "~씨, 신사 / 부인",
+      "es": "señor / señora"
+    },
+    {
+      "ca": "Sa Majestat",
+      "en": "His/Her Majesty",
+      "ko": "폐하",
+      "es": "Su Majestad"
+    },
+    {
+      "ca": "Sa Santedat",
+      "en": "His Holiness",
+      "ko": "성하 (교황)",
+      "es": "Su Santidad"
+    },
+    {
+      "ca": "Sa Excel·lència",
+      "en": "His/Her Excellency",
+      "ko": "각하",
+      "es": "Su Excelencia"
+    },
+    {
+      "ca": "perdoni",
+      "en": "excuse me (vostè)",
+      "ko": "실례합니다",
+      "es": "perdone"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "mc",
+      "sec": "17.1",
+      "q": {
+        "en": "You are chatting with your best friend. Which form do you use?",
+        "ko": "가장 친한 친구와 대화 중이에요. 어떤 형태를 쓸까요?",
+        "es": "Hablas con tu mejor amigo. ¿Qué forma usas?"
+      },
+      "options": [
+        "tu",
+        "vostè",
+        "vós"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "'Tu' is the informal form for friends and equals.",
+        "ko": "'tu'는 친구와 또래에게 쓰는 비격식 형태예요.",
+        "es": "'Tu' es la forma informal para amigos e iguales."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.1",
+      "q": {
+        "en": "You ask a stranger in the street for directions. Which form is most polite?",
+        "ko": "길에서 모르는 사람에게 길을 물어요. 가장 공손한 형태는?",
+        "es": "Preguntas una dirección a un desconocido. ¿Qué forma es la más cortés?"
+      },
+      "options": [
+        "tu",
+        "vostè",
+        "nós"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Vostè' is the most formal way to address someone you don’t know.",
+        "ko": "'vostè'는 모르는 사람에게 쓰는 가장 격식 있는 형태예요.",
+        "es": "'Vostè' es la forma más formal para dirigirse a un desconocido."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "17.1",
+      "q": {
+        "en": "Public signs such as 'No fumeu' use the vós/vosaltres verb form.",
+        "ko": "'No fumeu' 같은 공공 안내문은 vós/vosaltres 동사형을 써요.",
+        "es": "Los avisos como 'No fumeu' usan la forma verbal de vós/vosaltres."
+      },
+      "answer": true,
+      "explain": {
+        "en": "Notices to an unknown public use the 2nd person plural form.",
+        "ko": "불특정 다수를 위한 안내문은 2인칭 복수형을 써요.",
+        "es": "Los avisos a un público desconocido usan la 2.ª del plural."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "17.1",
+      "q": {
+        "en": "Most Catalan speakers use all three forms (tu, vós, vostè) every day.",
+        "ko": "대부분의 카탈루냐어 화자는 세 형태(tu, vós, vostè)를 모두 매일 써요.",
+        "es": "La mayoría de hablantes usa las tres formas (tu, vós, vostè) a diario."
+      },
+      "answer": false,
+      "explain": {
+        "en": "Most speakers use a two-level system: 'tu' versus one polite form (vós or vostè).",
+        "ko": "대부분은 'tu'와 공손형 하나(vós 또는 vostè)의 두 단계만 써요.",
+        "es": "La mayoría usa dos niveles: 'tu' frente a una forma cortés (vós o vostè)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.2",
+      "q": {
+        "en": "Choose the verb for 'vostè'.",
+        "ko": "'vostè'에 맞는 동사를 고르세요.",
+        "es": "Elige el verbo para 'vostè'."
+      },
+      "ca": "Vostè ___ cansat després del viatge?",
+      "options": [
+        "estàs",
+        "esteu",
+        "està"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "'Vostè' takes 3rd person singular verbs: està.",
+        "ko": "'vostè'는 3인칭 단수 동사를 써요: està.",
+        "es": "'Vostè' lleva verbo en 3.ª del singular: està."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "17.2",
+      "q": {
+        "en": "Direct object pronoun for 'vostè' (talking to a woman).",
+        "ko": "'vostè'(여성에게)의 직접목적 대명사를 쓰세요.",
+        "es": "Pronombre de objeto directo para 'vostè' (a una mujer)."
+      },
+      "ca": "Senyora, ___ puc ajudar?",
+      "answer": [
+        "la"
+      ],
+      "explain": {
+        "en": "'Vostè' works like a 3rd person: direct object 'el' (man) or 'la' (woman).",
+        "ko": "'vostè'는 3인칭처럼 직접목적어로 'el'(남성)이나 'la'(여성)를 써요.",
+        "es": "'Vostè' funciona como 3.ª persona: objeto directo 'el' (hombre) o 'la' (mujer)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.2",
+      "q": {
+        "en": "Indirect object pronoun for 'vostè'.",
+        "ko": "'vostè'의 간접목적 대명사.",
+        "es": "Pronombre de objeto indirecto para 'vostè'."
+      },
+      "ca": "Senyor Puig, ___ he portat les fotocòpies.",
+      "options": [
+        "li",
+        "et",
+        "us"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The indirect object of 'vostè' is 'li' (3rd person singular).",
+        "ko": "'vostè'의 간접목적어는 'li'(3인칭 단수)예요.",
+        "es": "El objeto indirecto de 'vostè' es 'li' (3.ª del singular)."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.2",
+      "q": {
+        "en": "Choose the possessive (talking to a customer as 'vostè').",
+        "ko": "소유사를 고르세요('vostè'로 손님에게).",
+        "es": "Elige el posesivo (hablando de 'vostè' a un cliente)."
+      },
+      "ca": "Senyor, aquest és el ___ abric?",
+      "options": [
+        "teu",
+        "seu",
+        "vostre"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "'Vostè' uses the 3rd person possessive 'el seu'.",
+        "ko": "'vostè'는 3인칭 소유사 'el seu'를 써요.",
+        "es": "'Vostè' usa el posesivo de 3.ª persona 'el seu'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.2",
+      "q": {
+        "en": "You speak to your grandmother with 'vós'. Choose the adjective.",
+        "ko": "할머니께 'vós'로 말해요. 형용사를 고르세요.",
+        "es": "Hablas a tu abuela de 'vós'. Elige el adjetivo."
+      },
+      "ca": "Àvia, esteu ___?",
+      "options": [
+        "cansades",
+        "cansats",
+        "cansada"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The verb is plural with 'vós', but it refers to one woman, so the adjective is feminine singular.",
+        "ko": "'vós'는 동사가 복수지만 한 여성을 가리키므로 형용사는 여성 단수예요.",
+        "es": "Con 'vós' el verbo va en plural, pero se refiere a una mujer: adjetivo femenino singular."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "17.2",
+      "q": {
+        "en": "Conjugate 'ser' for 'vostès'.",
+        "ko": "'vostès'에 맞게 'ser'를 활용하세요.",
+        "es": "Conjuga 'ser' para 'vostès'."
+      },
+      "ca": "Vostès ___ els pares de la Laia?",
+      "answer": [
+        "són"
+      ],
+      "explain": {
+        "en": "'Vostès' takes 3rd person plural verbs: són.",
+        "ko": "'vostès'는 3인칭 복수 동사를 써요: són.",
+        "es": "'Vostès' lleva verbo en 3.ª del plural: són."
+      }
+    },
+    {
+      "type": "match",
+      "sec": "17.2",
+      "q": {
+        "en": "Match each pronoun with the verb person it takes.",
+        "ko": "대명사와 그에 맞는 동사 인칭을 연결하세요.",
+        "es": "Une cada pronombre con la persona verbal que lleva."
+      },
+      "pairs": [
+        {
+          "l": "tu",
+          "r": {
+            "en": "2nd person singular",
+            "ko": "2인칭 단수",
+            "es": "2.ª persona del singular"
+          }
+        },
+        {
+          "l": "vós",
+          "r": {
+            "en": "2nd person plural",
+            "ko": "2인칭 복수",
+            "es": "2.ª persona del plural"
+          }
+        },
+        {
+          "l": "vostè",
+          "r": {
+            "en": "3rd person singular",
+            "ko": "3인칭 단수",
+            "es": "3.ª persona del singular"
+          }
+        },
+        {
+          "l": "vostès",
+          "r": {
+            "en": "3rd person plural",
+            "ko": "3인칭 복수",
+            "es": "3.ª persona del plural"
+          }
+        }
+      ]
+    },
+    {
+      "type": "mc",
+      "sec": "17.3",
+      "q": {
+        "en": "How do you say 'Your Majesty' in Catalan?",
+        "ko": "'폐하'를 카탈루냐어로 어떻게 말할까요?",
+        "es": "¿Cómo se dice 'Su Majestad' en catalán?"
+      },
+      "options": [
+        "Sa Majestat",
+        "Son Majestat",
+        "Seu Majestat"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Honorifics use the feminine possessive 'sa' because 'majestat' is a feminine noun.",
+        "ko": "'majestat'가 여성 명사라서 존칭에 여성 소유사 'sa'를 써요.",
+        "es": "Los honoríficos usan el posesivo femenino 'sa' porque 'majestat' es femenino."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.3",
+      "q": {
+        "en": "Talking about the Pope: choose the adjective.",
+        "ko": "교황에 대해 말할 때 알맞은 형용사를 고르세요.",
+        "es": "Hablando del Papa: elige el adjetivo."
+      },
+      "ca": "Sa Santedat ja ha estat ___.",
+      "options": [
+        "informada",
+        "informat",
+        "informats"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The adjective agrees with the real person (a man, singular), not with the word 'santedat'.",
+        "ko": "형용사는 'santedat'라는 단어가 아니라 실제 인물(남성, 단수)에 일치해요.",
+        "es": "El adjetivo concuerda con la persona real (hombre, singular), no con 'santedat'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "17.3",
+      "q": {
+        "en": "With the royal 'nós', verbs are 1st person plural but adjectives are singular.",
+        "ko": "왕의 'nós'는 동사는 1인칭 복수지만 형용사는 단수예요.",
+        "es": "Con el 'nós' mayestático, el verbo va en 1.ª del plural pero los adjetivos en singular."
+      },
+      "answer": true,
+      "explain": {
+        "en": "'Nós' refers to one person, so adjectives stay singular.",
+        "ko": "'nós'는 한 사람을 가리키므로 형용사는 단수예요.",
+        "es": "'Nós' se refiere a una sola persona, así que los adjetivos van en singular."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "17.4",
+      "q": {
+        "en": "Add the article before the title.",
+        "ko": "호칭 앞에 관사를 넣으세요.",
+        "es": "Añade el artículo delante del título."
+      },
+      "ca": "___ senyor Roca és el nostre veí.",
+      "answer": [
+        "El"
+      ],
+      "explain": {
+        "en": "When talking about someone, titles take the definite article.",
+        "ko": "누군가에 대해 말할 때 호칭 앞에 정관사를 써요.",
+        "es": "Al hablar de alguien, los títulos llevan artículo."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "17.4",
+      "q": {
+        "en": "When greeting someone directly you say 'Bon dia, senyora Vila' with no article.",
+        "ko": "직접 인사할 때는 관사 없이 'Bon dia, senyora Vila'라고 해요.",
+        "es": "Al saludar directamente se dice 'Bon dia, senyora Vila' sin artículo."
+      },
+      "answer": true,
+      "explain": {
+        "en": "In direct address (vocative) the article is dropped.",
+        "ko": "직접 부를 때(호격)는 관사를 생략해요.",
+        "es": "En el vocativo se omite el artículo."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "17.4",
+      "q": {
+        "en": "Which sentence is correct?",
+        "ko": "올바른 문장은?",
+        "es": "¿Qué frase es correcta?"
+      },
+      "options": [
+        "La doctora Puig treballa a l’hospital del Mar.",
+        "Doctora Puig treballa a l’hospital del Mar."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "We are talking about her, not to her, so the article 'la' is needed.",
+        "ko": "그녀에게 말하는 게 아니라 그녀에 대해 말하므로 관사 'la'가 필요해요.",
+        "es": "Se habla de ella, no a ella, así que hace falta el artículo 'la'."
+      }
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": 4,
+  "part": 1,
+  "icon": "🗣️",
+  "title": {"ca": "Els dialectes principals", "en": "Main dialects", "ko": "주요 방언", "es": "Los dialectos principales"},
+  "summary": {
+    "en": "Catalan sounds a little different in Barcelona, Lleida, València or Palma. This chapter explains the big east–west division, the most famous differences in vowels, verb endings and articles, and why this course uses Central Catalan as its model.",
+    "ko": "카탈루냐어는 바르셀로나, 레이다, 발렌시아, 팔마에서 조금씩 다르게 들려요. 이 장에서는 동부와 서부의 큰 구분, 모음·동사 어미·관사의 대표적인 차이, 그리고 이 과정이 왜 중부 카탈루냐어를 기준으로 삼는지 설명해요.",
+    "es": "El catalán suena un poco distinto en Barcelona, Lleida, València o Palma. Este capítulo explica la gran división este–oeste, las diferencias más conocidas en vocales, terminaciones verbales y artículos, y por qué este curso usa el catalán central como modelo."
+  },
+  "goals": [
+    {"en": "You will be able to name the two big dialect groups and where they are spoken.", "ko": "두 큰 방언 그룹과 그 사용 지역을 말할 수 있어요.", "es": "Podrás nombrar los dos grandes bloques dialectales y dónde se hablan."},
+    {"en": "You will be able to explain how unstressed vowels differ between east and west.", "ko": "강세 없는 모음이 동부와 서부에서 어떻게 다른지 설명할 수 있어요.", "es": "Podrás explicar cómo difieren las vocales átonas entre el este y el oeste."},
+    {"en": "You will be able to recognise dialect forms of 'I sing' (canto, cante, cant, canti).", "ko": "'나는 노래한다'의 방언형(canto, cante, cant, canti)을 알아볼 수 있어요.", "es": "Podrás reconocer las formas dialectales de 'yo canto' (canto, cante, cant, canti)."},
+    {"en": "You will be able to recognise the Balearic 'article salat' (es, sa, ses).", "ko": "발레아레스의 'article salat'(es, sa, ses)를 알아볼 수 있어요.", "es": "Podrás reconocer el 'article salat' balear (es, sa, ses)."}
+  ],
+  "sections": [
+    {
+      "id": "4.1",
+      "title": {"ca": "Oriental i occidental", "en": "Eastern and Western Catalan", "ko": "동부 방언과 서부 방언", "es": "Oriental y occidental"},
+      "points": [
+        {"en": "A line running north–south splits Catalan into two blocks: <b>català oriental</b> (eastern) and <b>català occidental</b> (western).", "ko": "북쪽에서 남쪽으로 이어지는 선이 카탈루냐어를 두 덩어리로 나눠요: <b>català oriental</b>(동부)과 <b>català occidental</b>(서부)이에요.", "es": "Una línea de norte a sur divide el catalán en dos bloques: <b>català oriental</b> y <b>català occidental</b>."},
+        {"en": "Eastern: Northern Catalonia, the eastern half of Catalonia (including Barcelona) and the Balearic Islands. Western: Andorra, western and southern Catalonia (Lleida), la Franja and Valencia.", "ko": "동부: 북카탈루냐, 카탈루냐의 동쪽 절반(바르셀로나 포함), 발레아레스 제도. 서부: 안도라, 카탈루냐 서부·남부(레이다), la Franja, 발렌시아예요.", "es": "Oriental: Cataluña del Norte, la mitad este de Cataluña (incluida Barcelona) y Baleares. Occidental: Andorra, el oeste y sur de Cataluña (Lleida), la Franja y Valencia."},
+        {"en": "The biggest difference is in unstressed vowels. In the east, unstressed <b>a</b> and <b>e</b> merge into a neutral sound [ə] (schwa), and unstressed <b>o</b> sounds like [u].", "ko": "가장 큰 차이는 강세 없는 모음이에요. 동부에서는 강세 없는 <b>a</b>와 <b>e</b>가 중성 모음 [ə](슈와)로 합쳐지고, 강세 없는 <b>o</b>는 [u]처럼 들려요.", "es": "La mayor diferencia está en las vocales átonas. En el este, la <b>a</b> y la <b>e</b> átonas se funden en un sonido neutro [ə] (schwa), y la <b>o</b> átona suena [u]."},
+        {"en": "In the west (and in Majorca for the o), unstressed vowels keep their clear sound: [a], [e], [o].", "ko": "서부(그리고 o의 경우 마요르카)에서는 강세 없는 모음도 분명하게 [a], [e], [o]로 발음해요.", "es": "En el oeste (y en Mallorca para la o), las vocales átonas mantienen su sonido claro: [a], [e], [o]."}
+      ],
+      "table": {
+        "head": ["Word", "Eastern (Barcelona)", "Western (Lleida, València)"],
+        "rows": [
+          ["casa", "[ˈkazə]", "[ˈkaza]"],
+          ["pare", "[ˈpaɾə]", "[ˈpaɾe]"],
+          ["taula", "[ˈtawlə]", "[ˈtawla]"],
+          ["formatge", "[fuɾˈmad͡ʒə]", "[foɾˈmad͡ʒe]"]
+        ],
+        "speak": [0]
+      },
+      "examples": [
+        {"ca": "La meva casa és petita.", "en": "My house is small.", "ko": "우리 집은 작아.", "es": "Mi casa es pequeña."},
+        {"ca": "El meu pare és de Lleida.", "en": "My father is from Lleida.", "ko": "우리 아빠는 레이다 출신이야.", "es": "Mi padre es de Lleida."},
+        {"ca": "M’encanta el formatge.", "en": "I love cheese.", "ko": "나는 치즈를 정말 좋아해.", "es": "Me encanta el queso."}
+      ]
+    },
+    {
+      "id": "4.2",
+      "title": {"ca": "Diferències en els verbs", "en": "Differences in verbs", "ko": "동사의 차이", "es": "Diferencias en los verbos"},
+      "points": [
+        {"en": "Verb endings also change from region to region, although only in some persons and tenses.", "ko": "동사 어미도 지역마다 달라요. 다만 일부 인칭과 시제에서만 그래요.", "es": "Las terminaciones verbales también cambian según la zona, aunque solo en algunas personas y tiempos."},
+        {"en": "The most famous case is the 'I' form of the present tense of -ar verbs such as <b>cantar</b> (to sing) or <b>parlar</b> (to speak).", "ko": "가장 유명한 예는 <b>cantar</b>(노래하다), <b>parlar</b>(말하다) 같은 -ar 동사의 현재형 1인칭 단수예요.", "es": "El caso más conocido es la forma de 'jo' del presente de los verbos en -ar, como <b>cantar</b> o <b>parlar</b>."},
+        {"en": "In Central Catalan (Barcelona) it ends in <b>-o</b>, pronounced [u] — the form used in this course.", "ko": "중부 카탈루냐어(바르셀로나)에서는 <b>-o</b>로 끝나고 [u]로 발음해요. 이 과정에서 쓰는 형태예요.", "es": "En catalán central (Barcelona) termina en <b>-o</b>, pronunciada [u]: es la forma que usa este curso."}
+      ],
+      "table": {
+        "head": ["Dialect", "cantar: 'I sing'", "parlar: 'I speak'"],
+        "rows": [
+          ["Central (Barcelona)", "canto [u]", "parlo [u]"],
+          ["North-western (Lleida)", "canto [o]", "parlo [o]"],
+          ["Valencian", "cante", "parle"],
+          ["Balearic", "cant", "parl"],
+          ["Northern (Perpinyà)", "canti", "parli"]
+        ],
+        "speak": [1, 2]
+      },
+      "examples": [
+        {"ca": "Jo canto a la coral de l’escola.", "en": "I sing in the school choir.", "ko": "나는 학교 합창단에서 노래해.", "es": "Yo canto en el coro del colegio."},
+        {"ca": "Parlo català amb els meus avis.", "en": "I speak Catalan with my grandparents.", "ko": "나는 할아버지 할머니와 카탈루냐어로 말해.", "es": "Hablo catalán con mis abuelos."},
+        {"ca": "A València diuen «jo cante».", "en": "In Valencia they say 'jo cante'.", "ko": "발렌시아에서는 'jo cante'라고 해.", "es": "En Valencia dicen 'jo cante'."}
+      ]
+    },
+    {
+      "id": "4.3",
+      "title": {"ca": "L’article salat i l’estàndard", "en": "The 'salty' article and the standard", "ko": "'짠 관사'와 표준어", "es": "El artículo salado y el estándar"},
+      "points": [
+        {"en": "Most Catalan uses the definite articles <b>el, la, l’, els, les</b> (from Latin ILLE).", "ko": "대부분의 카탈루냐어는 정관사 <b>el, la, l’, els, les</b>를 써요(라틴어 ILLE에서 유래).", "es": "La mayor parte del catalán usa los artículos <b>el, la, l’, els, les</b> (del latín ILLE)."},
+        {"en": "In the Balearic Islands (and a few spots on the Costa Brava) people use the <b>article salat</b> (from Latin IPSE): <b>es, sa, s’, es, ses</b>.", "ko": "발레아레스 제도(그리고 코스타 브라바의 몇몇 곳)에서는 <b>article salat</b>(라틴어 IPSE에서 유래)를 써요: <b>es, sa, s’, es, ses</b>예요.", "es": "En Baleares (y en algunos puntos de la Costa Brava) se usa el <b>article salat</b> (del latín IPSE): <b>es, sa, s’, es, ses</b>."},
+        {"en": "The article salat is normal in everyday speech but usually avoided in writing and formal speech. Old place names like <b>Sant Joan Despí</b> (from 'des Pi') show it was once more widespread.", "ko": "article salat는 일상 대화에서는 자연스럽지만 글이나 격식 있는 말에서는 보통 피해요. <b>Sant Joan Despí</b>('des Pi'에서 유래) 같은 옛 지명은 예전에 더 널리 쓰였다는 증거예요.", "es": "El artículo salado es normal en el habla cotidiana, pero suele evitarse en la escritura y el registro formal. Topónimos como <b>Sant Joan Despí</b> (de 'des Pi') muestran que antes era más extenso."},
+        {"en": "In informal north-western speech, <b>el/els</b> can become <b>lo/los</b>.", "ko": "북서부의 비격식 말투에서는 <b>el/els</b>가 <b>lo/los</b>가 되기도 해요.", "es": "En el habla informal del noroeste, <b>el/els</b> pueden ser <b>lo/los</b>."},
+        {"en": "All dialects are correct and speakers understand each other easily. Central forms circulate most widely, so they are a good choice for a general audience — and they are what you learn here.", "ko": "모든 방언은 올바르고, 사용자들은 서로 쉽게 알아들어요. 중부 형태가 가장 널리 퍼져 있어서 일반 청중에게 좋은 선택이고, 여기서 배우는 것도 중부 형태예요.", "es": "Todos los dialectos son correctos y los hablantes se entienden fácilmente. Las formas centrales son las más difundidas, por eso son buena opción para un público general, y son las que aprenderás aquí."}
+      ],
+      "table": {
+        "head": ["", "Standard", "Balearic (salat)"],
+        "rows": [
+          ["masc. sing.", "el / l’", "es / s’"],
+          ["fem. sing.", "la / l’", "sa / s’"],
+          ["masc. pl.", "els", "es"],
+          ["fem. pl.", "les", "ses"]
+        ],
+        "speak": [1, 2]
+      },
+      "examples": [
+        {"ca": "Anem a la platja!", "en": "Let’s go to the beach!", "ko": "해변에 가자!", "es": "¡Vamos a la playa!"},
+        {"ca": "Anam a sa platja!", "en": "Let’s go to the beach! (Majorcan)", "ko": "해변에 가자! (마요르카 방언)", "es": "¡Vamos a la playa! (mallorquín)"},
+        {"ca": "El mar és blau.", "en": "The sea is blue.", "ko": "바다는 파래.", "es": "El mar es azul."},
+        {"ca": "Es mar és blau.", "en": "The sea is blue. (Balearic)", "ko": "바다는 파래. (발레아레스 방언)", "es": "El mar es azul. (balear)"}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "el dialecte", "en": "dialect", "ko": "방언", "es": "el dialecto"},
+    {"ca": "oriental", "en": "eastern", "ko": "동부의", "es": "oriental"},
+    {"ca": "occidental", "en": "western", "ko": "서부의", "es": "occidental"},
+    {"ca": "cantar", "en": "to sing", "ko": "노래하다", "es": "cantar"},
+    {"ca": "la platja", "en": "beach", "ko": "해변", "es": "la playa"},
+    {"ca": "el mar", "en": "sea", "ko": "바다", "es": "el mar"},
+    {"ca": "la casa", "en": "house", "ko": "집", "es": "la casa"},
+    {"ca": "el pare", "en": "father", "ko": "아버지", "es": "el padre"},
+    {"ca": "els avis", "en": "grandparents", "ko": "조부모", "es": "los abuelos"},
+    {"ca": "el formatge", "en": "cheese", "ko": "치즈", "es": "el queso"},
+    {"ca": "entendre’s", "en": "to understand each other", "ko": "서로 이해하다", "es": "entenderse"},
+    {"ca": "l’accent", "en": "accent", "ko": "억양, 말투", "es": "el acento"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "4.1", "q": {"en": "Which city belongs to the EASTERN dialect group?", "ko": "'동부' 방언 그룹에 속하는 도시는?", "es": "¿Qué ciudad pertenece al bloque ORIENTAL?"}, "options": ["Lleida", "València", "Barcelona", "Andorra la Vella"], "answer": 2, "explain": {"en": "Barcelona is in the eastern half of Catalonia; the others are western.", "ko": "바르셀로나는 카탈루냐 동쪽 절반에 있어요. 나머지는 서부예요.", "es": "Barcelona está en la mitad oriental de Cataluña; las demás son occidentales."}},
+    {"type": "tf", "sec": "4.1", "q": {"en": "In Barcelona, the unstressed 'o' in 'formatge' sounds like [u].", "ko": "바르셀로나에서 'formatge'의 강세 없는 'o'는 [u]처럼 들린다.", "es": "En Barcelona, la 'o' átona de 'formatge' suena [u]."}, "answer": true, "explain": {"en": "True: in Eastern Catalan unstressed o is pronounced [u]: [fuɾˈmad͡ʒə].", "ko": "맞아요. 동부 방언에서 강세 없는 o는 [u]로 발음돼요: [fuɾˈmad͡ʒə].", "es": "Verdadero: en catalán oriental la o átona se pronuncia [u]: [fuɾˈmad͡ʒə]."}},
+    {"type": "mc", "sec": "4.1", "q": {"en": "How is the final unstressed 'e' of 'pare' pronounced in Barcelona?", "ko": "바르셀로나에서 'pare'의 마지막 강세 없는 'e'는 어떻게 발음될까요?", "es": "¿Cómo se pronuncia en Barcelona la 'e' átona final de 'pare'?"}, "options": ["[ə] (schwa)", "[e]", "[i]", "it is silent"], "answer": 0, "explain": {"en": "In the east, unstressed a and e both become the neutral vowel [ə].", "ko": "동부에서는 강세 없는 a와 e가 모두 중성 모음 [ə]가 돼요.", "es": "En el este, la a y la e átonas se convierten en la vocal neutra [ə]."}},
+    {"type": "match", "sec": "4.2", "q": {"en": "Match each form of 'I sing' with its dialect.", "ko": "'나는 노래한다'의 각 형태와 방언을 연결하세요.", "es": "Une cada forma de 'yo canto' con su dialecto."}, "pairs": [
+      {"l": "canto", "r": {"en": "Central (Barcelona)", "ko": "중부 (바르셀로나)", "es": "Central (Barcelona)"}},
+      {"l": "cante", "r": {"en": "Valencian", "ko": "발렌시아 방언", "es": "Valenciano"}},
+      {"l": "cant", "r": {"en": "Balearic", "ko": "발레아레스 방언", "es": "Balear"}},
+      {"l": "canti", "r": {"en": "Northern (Perpinyà)", "ko": "북부 (페르피냥)", "es": "Septentrional (Perpiñán)"}}
+    ]},
+    {"type": "fill", "sec": "4.2", "q": {"en": "Use the Central Catalan form: 'I speak Catalan with my grandparents.'", "ko": "중부 카탈루냐어 형태로 쓰세요: '나는 조부모님과 카탈루냐어로 말해.'", "es": "Usa la forma del catalán central: 'Hablo catalán con mis abuelos.'"}, "ca": "___ català amb els meus avis.", "answer": ["Parlo"], "explain": {"en": "Central Catalan 'I' form of -ar verbs ends in -o: parlo.", "ko": "중부 카탈루냐어에서 -ar 동사의 1인칭 단수는 -o로 끝나요: parlo.", "es": "En catalán central la forma de 'jo' de los verbos en -ar termina en -o: parlo."}},
+    {"type": "mc", "sec": "4.3", "q": {"en": "In Majorca, 'la platja' (the beach) is often said as…", "ko": "마요르카에서는 'la platja'(해변)를 흔히 어떻게 말할까요?", "es": "En Mallorca, 'la platja' se dice a menudo…"}, "options": ["lo platja", "es platja", "les platja", "sa platja"], "answer": 3, "explain": {"en": "The Balearic article salat uses 'sa' for feminine singular.", "ko": "발레아레스의 article salat에서 여성 단수는 'sa'예요.", "es": "El artículo salado balear usa 'sa' para el femenino singular."}},
+    {"type": "fill", "sec": "4.3", "q": {"en": "Write the Balearic article: '___ cases' (the houses).", "ko": "발레아레스 관사를 쓰세요: '___ cases'(그 집들).", "es": "Escribe el artículo balear: '___ cases' (las casas)."}, "ca": "___ cases", "answer": ["ses"], "explain": {"en": "Feminine plural article salat = ses (standard: les).", "ko": "여성 복수 article salat는 ses예요(표준어: les).", "es": "El artículo salado femenino plural es ses (estándar: les)."}},
+    {"type": "tf", "sec": "4.3", "q": {"en": "Only Central Catalan is correct; the other dialects are mistakes.", "ko": "중부 카탈루냐어만 올바르고, 다른 방언은 틀린 것이다.", "es": "Solo el catalán central es correcto; los otros dialectos son errores."}, "answer": false, "explain": {"en": "False: all dialects are correct; Central forms are just the most widely used for a general audience.", "ko": "틀려요. 모든 방언이 올바르며, 중부 형태는 일반 청중에게 가장 널리 쓰일 뿐이에요.", "es": "Falso: todos los dialectos son correctos; las formas centrales solo son las más difundidas."}},
+    {"type": "mc", "sec": "4.1", "q": {"en": "Which area belongs to the WESTERN group?", "ko": "'서부' 그룹에 속하는 지역은?", "es": "¿Qué zona pertenece al bloque OCCIDENTAL?"}, "options": ["Mallorca", "País Valencià", "Catalunya del Nord"], "answer": 1, "explain": {"en": "Valencia is western; Majorca and Northern Catalonia are eastern.", "ko": "발렌시아는 서부예요. 마요르카와 북카탈루냐는 동부예요.", "es": "Valencia es occidental; Mallorca y Cataluña del Norte son orientales."}},
+    {"type": "order", "sec": "4.3", "q": {"en": "Build (standard Catalan): 'Let’s go to the beach!'", "ko": "표준 카탈루냐어로 문장을 만드세요: '해변에 가자!'", "es": "Ordena (catalán estándar): '¡Vamos a la playa!'"}, "words": ["Anem", "a", "la", "platja"], "answer": "Anem a la platja!", "explain": {"en": "'Anem' (let’s go) + 'a' (to) + standard article 'la' + 'platja'.", "ko": "'Anem'(가자) + 'a'(~로) + 표준 관사 'la' + 'platja' 순서예요.", "es": "'Anem' (vamos) + 'a' + artículo estándar 'la' + 'platja'."}},
+    {"type": "mc", "sec": "4.3", "q": {"en": "The place name 'Sant Joan Despí' contains an old form of which article?", "ko": "지명 'Sant Joan Despí'에는 어떤 관사의 옛 형태가 들어 있을까요?", "es": "¿Qué artículo antiguo aparece en el topónimo 'Sant Joan Despí'?"}, "options": ["the article salat (des Pi = del pi)", "the article lo", "the indefinite article un"], "answer": 0, "explain": {"en": "'Despí' comes from 'des Pi' (of the pine), with the article salat 'es'; it shows the article was once used outside the Balearics.", "ko": "'Despí'는 article salat 'es'가 들어간 'des Pi'(소나무의)에서 왔어요. 예전에는 발레아레스 밖에서도 쓰였다는 증거예요.", "es": "'Despí' viene de 'des Pi' (del pino), con el artículo salado 'es'; demuestra que antes se usaba fuera de Baleares."}}
+  ]
+}

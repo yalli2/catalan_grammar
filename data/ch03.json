@@ -1,0 +1,107 @@
+{
+  "id": 3,
+  "part": 1,
+  "icon": "📱",
+  "title": {"ca": "El català al segle XXI", "en": "Catalan in the twenty-first century", "ko": "21세기의 카탈루냐어", "es": "El catalán en el siglo XXI"},
+  "summary": {
+    "en": "How alive is Catalan today? This chapter looks at the numbers: how many people live in Catalan-speaking areas, how many can understand, speak, read and write it, and how the language is used at school, in books, newspapers, radio, TV and on the internet.",
+    "ko": "오늘날 카탈루냐어는 얼마나 살아 있을까요? 이 장에서는 숫자로 살펴봐요. 카탈루냐어 지역에 몇 명이 살고, 얼마나 많은 사람이 이해하고 말하고 읽고 쓸 수 있는지, 그리고 학교, 책, 신문, 라디오, TV, 인터넷에서 어떻게 쓰이는지 알아봐요.",
+    "es": "¿Qué vitalidad tiene hoy el catalán? Este capítulo mira las cifras: cuánta gente vive en las zonas catalanohablantes, cuántos lo entienden, hablan, leen y escriben, y cómo se usa en la escuela, los libros, la prensa, la radio, la tele e internet."
+  },
+  "goals": [
+    {"en": "You will be able to describe the four language skills in Catalan: entendre, parlar, llegir, escriure.", "ko": "카탈루냐어로 네 가지 언어 능력(entendre, parlar, llegir, escriure)을 말할 수 있어요.", "es": "Podrás describir las cuatro destrezas en catalán: entendre, parlar, llegir, escriure."},
+    {"en": "You will be able to interpret basic statistics about Catalan speakers.", "ko": "카탈루냐어 사용자에 관한 기본 통계를 해석할 수 있어요.", "es": "Podrás interpretar estadísticas básicas sobre los hablantes de catalán."},
+    {"en": "You will be able to name Catalan media and the .cat internet domain.", "ko": "카탈루냐어 미디어와 .cat 인터넷 도메인을 말할 수 있어요.", "es": "Podrás nombrar medios en catalán y el dominio de internet .cat."},
+    {"en": "You will be able to talk about media habits with simple Catalan sentences.", "ko": "간단한 카탈루냐어 문장으로 미디어 습관에 대해 말할 수 있어요.", "es": "Podrás hablar de tus hábitos con los medios con frases sencillas en catalán."}
+  ],
+  "sections": [
+    {
+      "id": "3.1",
+      "title": {"ca": "Quanta gent sap català?", "en": "How many people know Catalan?", "ko": "카탈루냐어를 아는 사람은 얼마나 될까?", "es": "¿Cuánta gente sabe catalán?"},
+      "points": [
+        {"en": "Around 13.5 million people lived in the Catalan-speaking areas in 2013; the biggest are Catalonia (about 7.5 million) and Valencia (about 4.25 million).", "ko": "2013년 카탈루냐어 지역에는 약 1,350만 명이 살았어요. 가장 큰 곳은 카탈루냐(약 750만 명)와 발렌시아(약 425만 명)예요.", "es": "Unos 13,5 millones de personas vivían en las zonas catalanohablantes en 2013; las mayores son Cataluña (unos 7,5 millones) y Valencia (unos 4,25 millones)."},
+        {"en": "Surveys measure four skills: <b>entendre</b> (understand), <b>parlar</b> (speak), <b>llegir</b> (read) and <b>escriure</b> (write).", "ko": "조사는 네 가지 능력을 측정해요: <b>entendre</b>(이해하다), <b>parlar</b>(말하다), <b>llegir</b>(읽다), <b>escriure</b>(쓰다)예요.", "es": "Las encuestas miden cuatro destrezas: <b>entendre</b> (entender), <b>parlar</b> (hablar), <b>llegir</b> (leer) y <b>escriure</b> (escribir)."},
+        {"en": "In every area, understanding is the highest skill and writing the lowest. In Catalonia about 95% understand Catalan but only about 56% can write it.", "ko": "모든 지역에서 '이해하기'가 가장 높고 '쓰기'가 가장 낮아요. 카탈루냐에서는 약 95%가 이해하지만 쓸 수 있는 사람은 약 56%예요.", "es": "En todas las zonas, entender es la destreza más alta y escribir la más baja. En Cataluña, cerca del 95% entiende el catalán, pero solo un 56% sabe escribirlo."},
+        {"en": "Catalonia has the highest figures; la Franja has the lowest understanding rate (about 65%).", "ko": "카탈루냐의 수치가 가장 높고, la Franja의 이해율(약 65%)이 가장 낮아요.", "es": "Cataluña tiene las cifras más altas; la Franja, la tasa de comprensión más baja (cerca del 65%)."}
+      ],
+      "table": {
+        "head": ["% (2011)", "Catalunya", "País Valencià", "Illes Balears", "la Franja"],
+        "rows": [
+          ["entendre", "95.1", "84.8", "88.5", "64.6"],
+          ["parlar", "73.2", "51.2", "63.4", "53.9"],
+          ["llegir", "78.7", "58.4", "69.2", "43.5"],
+          ["escriure", "55.7", "31.8", "45.1", "24.1"]
+        ],
+        "speak": [0]
+      },
+      "examples": [
+        {"ca": "Entenc el català, però no el parlo gaire.", "en": "I understand Catalan, but I don’t speak it much.", "ko": "카탈루냐어를 알아듣지만 말은 별로 못 해.", "es": "Entiendo el catalán, pero no lo hablo mucho."},
+        {"ca": "La meva germana escriu molt bé.", "en": "My sister writes very well.", "ko": "우리 언니(누나)는 글을 아주 잘 써.", "es": "Mi hermana escribe muy bien."},
+        {"ca": "Llegeixo un llibre cada mes.", "en": "I read a book every month.", "ko": "나는 매달 책을 한 권 읽어.", "es": "Leo un libro cada mes."}
+      ]
+    },
+    {
+      "id": "3.2",
+      "title": {"ca": "El català a l’escola i als llibres", "en": "Catalan at school and in books", "ko": "학교와 책 속의 카탈루냐어", "es": "El catalán en la escuela y en los libros"},
+      "points": [
+        {"en": "Learning Catalan is compulsory in primary and secondary school in Catalonia, Valencia, the Balearic Islands and Andorra.", "ko": "카탈루냐, 발렌시아, 발레아레스 제도, 안도라에서는 초·중등학교에서 카탈루냐어를 의무적으로 배워요.", "es": "Aprender catalán es obligatorio en primaria y secundaria en Cataluña, Valencia, Baleares y Andorra."},
+        {"en": "You can study Catalan at university in the three main regions and at the University of Perpinyà in France.", "ko": "세 주요 지역의 대학과 프랑스의 페르피냥 대학에서 카탈루냐어를 전공할 수 있어요.", "es": "Se puede estudiar catalán en la universidad en las tres regiones principales y en la Universidad de Perpinyà, en Francia."},
+        {"en": "About a quarter of the books published in the main Catalan-speaking regions of Spain (2014) were in Catalan; in the Balearic Islands it was more than half.", "ko": "2014년 스페인의 주요 카탈루냐어 지역에서 출판된 책의 약 4분의 1이 카탈루냐어였어요. 발레아레스 제도에서는 절반이 넘었어요.", "es": "Cerca de una cuarta parte de los libros publicados en las principales zonas catalanohablantes de España (2014) eran en catalán; en Baleares, más de la mitad."}
+      ],
+      "examples": [
+        {"ca": "Tinc classe de català a les nou.", "en": "I have Catalan class at nine.", "ko": "아홉 시에 카탈루냐어 수업이 있어.", "es": "Tengo clase de catalán a las nueve."},
+        {"ca": "Vull estudiar a la universitat.", "en": "I want to study at university.", "ko": "나는 대학에서 공부하고 싶어.", "es": "Quiero estudiar en la universidad."},
+        {"ca": "Aquest llibre està escrit en català.", "en": "This book is written in Catalan.", "ko": "이 책은 카탈루냐어로 쓰여 있어.", "es": "Este libro está escrito en catalán."}
+      ]
+    },
+    {
+      "id": "3.3",
+      "title": {"ca": "Mitjans de comunicació i internet", "en": "Media and the internet", "ko": "미디어와 인터넷", "es": "Medios de comunicación e internet"},
+      "points": [
+        {"en": "Some newspapers have both a Catalan and a Spanish edition (e.g. <b>La Vanguardia</b>), while others, like <b>Ara</b> or <b>El Punt Avui</b>, are only in Catalan.", "ko": "어떤 신문은 카탈루냐어판과 스페인어판이 모두 있고(<b>La Vanguardia</b> 등), <b>Ara</b>나 <b>El Punt Avui</b> 같은 신문은 카탈루냐어로만 나와요.", "es": "Algunos diarios tienen edición en catalán y en castellano (p. ej. <b>La Vanguardia</b>), y otros, como <b>Ara</b> o <b>El Punt Avui</b>, solo en catalán."},
+        {"en": "In Catalonia, Catalan radio stations have more listeners than Spanish ones. <b>TV3</b> is the leading TV channel and broadcasts only in Catalan.", "ko": "카탈루냐에서는 카탈루냐어 라디오 청취자가 스페인어 라디오보다 많아요. <b>TV3</b>는 대표 방송 채널이고 카탈루냐어로만 방송해요.", "es": "En Cataluña, las radios en catalán tienen más oyentes que las de castellano. <b>TV3</b> es la cadena líder y emite solo en catalán."},
+        {"en": "Online, Catalan is strong: Wikipedia in Catalan is among the top 20 by number of articles (17th in 2016), and in 2005 it got its own internet domain, <b>.cat</b> — the first given to a language community.", "ko": "인터넷에서 카탈루냐어는 강해요. 카탈루냐어 위키백과는 문서 수로 상위 20위 안(2016년 17위)이고, 2005년에는 언어 공동체 최초로 자체 도메인 <b>.cat</b>을 받았어요.", "es": "En internet el catalán es fuerte: la Wikipedia en catalán está entre las 20 primeras por número de artículos (17.ª en 2016) y en 2005 obtuvo su propio dominio, <b>.cat</b>, el primero concedido a una comunidad lingüística."},
+        {"en": "The Balearic channel <b>IB3</b> and Andorran TV also broadcast in Catalan; the Valencian channel Canal 9 closed in 2013.", "ko": "발레아레스의 <b>IB3</b>와 안도라 TV도 카탈루냐어로 방송해요. 발렌시아의 Canal 9는 2013년에 문을 닫았어요.", "es": "La cadena balear <b>IB3</b> y la televisión andorrana también emiten en catalán; la valenciana Canal 9 cerró en 2013."}
+      ],
+      "examples": [
+        {"ca": "Cada matí escolto la ràdio.", "en": "Every morning I listen to the radio.", "ko": "나는 매일 아침 라디오를 들어.", "es": "Cada mañana escucho la radio."},
+        {"ca": "Mirem una sèrie a la tele.", "en": "We’re watching a series on TV.", "ko": "우리는 TV로 드라마를 봐.", "es": "Vemos una serie en la tele."},
+        {"ca": "El meu web acaba en .cat.", "en": "My website ends in .cat.", "ko": "내 웹사이트는 .cat으로 끝나.", "es": "Mi web termina en .cat."},
+        {"ca": "Llegeixo el diari al mòbil.", "en": "I read the newspaper on my phone.", "ko": "나는 휴대폰으로 신문을 읽어.", "es": "Leo el periódico en el móvil."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "entendre", "en": "to understand", "ko": "이해하다", "es": "entender"},
+    {"ca": "llegir", "en": "to read", "ko": "읽다", "es": "leer"},
+    {"ca": "escriure", "en": "to write", "ko": "쓰다", "es": "escribir"},
+    {"ca": "escoltar", "en": "to listen to", "ko": "듣다", "es": "escuchar"},
+    {"ca": "mirar", "en": "to look at, to watch", "ko": "보다", "es": "mirar"},
+    {"ca": "el diari", "en": "newspaper", "ko": "신문", "es": "el periódico"},
+    {"ca": "la ràdio", "en": "radio", "ko": "라디오", "es": "la radio"},
+    {"ca": "la tele", "en": "TV", "ko": "텔레비전", "es": "la tele"},
+    {"ca": "el mòbil", "en": "mobile phone", "ko": "휴대폰", "es": "el móvil"},
+    {"ca": "el web", "en": "website", "ko": "웹사이트", "es": "la web"},
+    {"ca": "la universitat", "en": "university", "ko": "대학교", "es": "la universidad"},
+    {"ca": "obligatori", "en": "compulsory", "ko": "의무적인", "es": "obligatorio"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "3.1", "q": {"en": "In all areas, which skill has the LOWEST percentage?", "ko": "모든 지역에서 비율이 '가장 낮은' 능력은?", "es": "En todas las zonas, ¿qué destreza tiene el porcentaje MÁS BAJO?"}, "options": ["entendre", "parlar", "llegir", "escriure"], "answer": 3, "explain": {"en": "Writing (escriure) is always the lowest; in Valencia only about 32% can write Catalan.", "ko": "쓰기(escriure)가 항상 가장 낮아요. 발렌시아에서는 약 32%만 카탈루냐어를 쓸 수 있어요.", "es": "Escribir (escriure) siempre es lo más bajo; en Valencia solo un 32% sabe escribir catalán."}},
+    {"type": "match", "sec": "3.1", "q": {"en": "Match each skill verb with its meaning.", "ko": "능력 동사와 뜻을 연결하세요.", "es": "Une cada verbo con su significado."}, "pairs": [
+      {"l": "entendre", "r": {"en": "to understand", "ko": "이해하다", "es": "entender"}},
+      {"l": "parlar", "r": {"en": "to speak", "ko": "말하다", "es": "hablar"}},
+      {"l": "llegir", "r": {"en": "to read", "ko": "읽다", "es": "leer"}},
+      {"l": "escriure", "r": {"en": "to write", "ko": "쓰다", "es": "escribir"}}
+    ]},
+    {"type": "tf", "sec": "3.1", "q": {"en": "About 95% of people in Catalonia understand Catalan.", "ko": "카탈루냐 사람들의 약 95%가 카탈루냐어를 이해한다.", "es": "Alrededor del 95% de la población de Cataluña entiende el catalán."}, "answer": true, "explain": {"en": "True: the 2011 census gives 95.1% for understanding in Catalonia.", "ko": "맞아요. 2011년 조사에서 카탈루냐의 이해율은 95.1%였어요.", "es": "Verdadero: el censo de 2011 da un 95,1% de comprensión en Cataluña."}},
+    {"type": "mc", "sec": "3.1", "q": {"en": "Which Catalan-speaking territory has the largest population?", "ko": "인구가 가장 많은 카탈루냐어 지역은?", "es": "¿Qué territorio catalanohablante tiene más población?"}, "options": ["País Valencià", "Catalunya", "Illes Balears", "Andorra"], "answer": 1, "explain": {"en": "Catalonia has about 7.5 million inhabitants, more than half of the total.", "ko": "카탈루냐는 인구가 약 750만 명으로 전체의 절반이 넘어요.", "es": "Cataluña tiene unos 7,5 millones de habitantes, más de la mitad del total."}},
+    {"type": "mc", "sec": "3.3", "q": {"en": "What special internet domain does Catalan have?", "ko": "카탈루냐어가 가진 특별한 인터넷 도메인은?", "es": "¿Qué dominio de internet especial tiene el catalán?"}, "options": [".cat", ".ct", ".es", ".ca"], "answer": 0, "explain": {"en": "In 2005 .cat became the first domain given to a language community.", "ko": "2005년 .cat은 언어 공동체에 주어진 최초의 도메인이 되었어요.", "es": "En 2005 .cat fue el primer dominio concedido a una comunidad lingüística."}},
+    {"type": "tf", "sec": "3.3", "q": {"en": "TV3 broadcasts in both Catalan and Spanish.", "ko": "TV3는 카탈루냐어와 스페인어로 모두 방송한다.", "es": "TV3 emite en catalán y en castellano."}, "answer": false, "explain": {"en": "False: TV3, like the other Catalan public channels, broadcasts only in Catalan.", "ko": "틀려요. TV3는 다른 카탈루냐 공영 채널처럼 카탈루냐어로만 방송해요.", "es": "Falso: TV3, como los demás canales públicos catalanes, emite solo en catalán."}},
+    {"type": "fill", "sec": "3.3", "q": {"en": "Complete: 'Every morning I listen to the radio.'", "ko": "완성하세요: '나는 매일 아침 라디오를 들어.'", "es": "Completa: 'Cada mañana escucho la radio.'"}, "ca": "Cada matí ___ la ràdio.", "answer": ["escolto"], "explain": {"en": "'Escolto' is the 'I' form of 'escoltar' (to listen).", "ko": "'escolto'는 'escoltar'(듣다)의 1인칭 단수형이에요.", "es": "'Escolto' es la forma de 'jo' de 'escoltar' (escuchar)."}},
+    {"type": "fill", "sec": "3.1", "q": {"en": "Complete: 'I read a book every month.'", "ko": "완성하세요: '나는 매달 책을 한 권 읽어.'", "es": "Completa: 'Leo un libro cada mes.'"}, "ca": "___ un llibre cada mes.", "answer": ["Llegeixo"], "explain": {"en": "'Llegir' adds -eix- in the present: jo llegeixo.", "ko": "'llegir'는 현재형에서 -eix-가 붙어요: jo llegeixo.", "es": "'Llegir' añade -eix- en presente: jo llegeixo."}},
+    {"type": "mc", "sec": "3.2", "q": {"en": "In which place is learning Catalan at school NOT compulsory?", "ko": "학교에서 카탈루냐어 학습이 의무가 '아닌' 곳은?", "es": "¿Dónde NO es obligatorio aprender catalán en la escuela?"}, "options": ["Andorra", "Illes Balears", "el Carxe (Múrcia)", "Catalunya"], "answer": 2, "explain": {"en": "It is compulsory in Catalonia, Valencia, the Balearics and Andorra; in tiny El Carxe it is not even offered.", "ko": "카탈루냐, 발렌시아, 발레아레스, 안도라에서는 의무예요. 아주 작은 el Carxe에서는 배울 수조차 없어요.", "es": "Es obligatorio en Cataluña, Valencia, Baleares y Andorra; en el pequeño Carxe ni siquiera se ofrece."}},
+    {"type": "order", "sec": "3.3", "q": {"en": "Build: 'I read the newspaper on my phone.'", "ko": "문장을 만드세요: '나는 휴대폰으로 신문을 읽어.'", "es": "Ordena: 'Leo el periódico en el móvil.'"}, "words": ["Llegeixo", "el", "diari", "al", "mòbil"], "answer": "Llegeixo el diari al mòbil", "explain": {"en": "Verb + object 'el diari' + 'al mòbil' (a + el = al, 'on the phone').", "ko": "동사 + 목적어 'el diari' + 'al mòbil'(a + el = al, '휴대폰으로') 순서예요.", "es": "Verbo + objeto 'el diari' + 'al mòbil' (a + el = al)."}},
+    {"type": "tf", "sec": "3.2", "q": {"en": "In 2014, more than half of the books published in the Balearic Islands were in Catalan.", "ko": "2014년 발레아레스 제도에서 출판된 책의 절반 이상이 카탈루냐어였다.", "es": "En 2014, más de la mitad de los libros publicados en Baleares eran en catalán."}, "answer": true, "explain": {"en": "True: about 52% — the highest proportion of all the regions.", "ko": "맞아요. 약 52%로 모든 지역 중 가장 높은 비율이에요.", "es": "Verdadero: cerca del 52%, la proporción más alta de todas las regiones."}},
+    {"type": "mc", "sec": "3.3", "q": {"en": "Which newspaper is published ONLY in Catalan?", "ko": "카탈루냐어로'만' 발행되는 신문은?", "es": "¿Qué diario se publica SOLO en catalán?"}, "options": ["La Vanguardia", "El Periódico", "Ara"], "answer": 2, "explain": {"en": "Ara exists only in Catalan; La Vanguardia and El Periódico have Catalan and Spanish editions.", "ko": "Ara는 카탈루냐어로만 나와요. La Vanguardia와 El Periódico는 두 언어판이 있어요.", "es": "Ara solo existe en catalán; La Vanguardia y El Periódico tienen ediciones en catalán y castellano."}}
+  ]
+}

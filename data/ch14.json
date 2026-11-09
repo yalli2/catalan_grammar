@@ -1,0 +1,681 @@
+{
+  "id": 14,
+  "part": 4,
+  "icon": "🎯",
+  "title": {
+    "ca": "Focalitzar",
+    "en": "Focusing",
+    "ko": "초점 맞추기",
+    "es": "Focalizar"
+  },
+  "summary": {
+    "en": "Sometimes we want to put the spotlight on the object, hide who does the action, or highlight one part of a sentence. This chapter explains the passive with ser + participle, impersonal sentences (weather verbs, 'hom', 'es', 3rd person plural) and the very common pronominal passive (es venen pisos), and finally cleft sentences like 'És la Marta qui ha trucat'.",
+    "ko": "가끔은 목적어에 초점을 맞추거나, 누가 행동했는지 숨기거나, 문장의 한 부분을 강조하고 싶을 때가 있어요. 이 장에서는 ser + 과거분사 수동태, 비인칭문(날씨 동사, 'hom', 'es', 3인칭 복수), 아주 흔한 대명 수동태(es venen pisos), 그리고 'És la Marta qui ha trucat' 같은 분열문을 배워요.",
+    "es": "A veces queremos poner el foco en el objeto, ocultar quién realiza la acción o destacar una parte de la frase. Este capítulo explica la pasiva con ser + participio, las oraciones impersonales (verbos meteorológicos, 'hom', 'es', 3.ª persona del plural), la frecuentísima pasiva refleja (es venen pisos) y las oraciones escindidas como 'És la Marta qui ha trucat'."
+  },
+  "goals": [
+    {
+      "en": "You will be able to turn an active sentence into a passive with ser + participle.",
+      "ko": "능동문을 ser + 과거분사 수동문으로 바꿀 수 있어요.",
+      "es": "Podrás transformar una frase activa en pasiva con ser + participio."
+    },
+    {
+      "en": "You will be able to make impersonal sentences with 'es', 'hom' or the 3rd person plural.",
+      "ko": "'es', 'hom', 3인칭 복수로 비인칭문을 만들 수 있어요.",
+      "es": "Podrás formar oraciones impersonales con 'es', 'hom' o la 3.ª persona del plural."
+    },
+    {
+      "en": "You will be able to use the pronominal passive with correct verb agreement (es venen…).",
+      "ko": "동사 일치를 지켜 대명 수동태(es venen…)를 쓸 수 있어요.",
+      "es": "Podrás usar la pasiva refleja con la concordancia correcta (es venen…)."
+    },
+    {
+      "en": "You will be able to highlight a part of a sentence with a cleft or pseudo-cleft.",
+      "ko": "분열문이나 유사 분열문으로 문장의 한 부분을 강조할 수 있어요.",
+      "es": "Podrás destacar una parte de la frase con una escindida o pseudoescindida."
+    }
+  ],
+  "sections": [
+    {
+      "id": "14.1",
+      "title": {
+        "ca": "La passiva",
+        "en": "Passive",
+        "ko": "수동태",
+        "es": "La pasiva"
+      },
+      "points": [
+        {
+          "en": "To focus on the object, make it the subject and use <b>ser</b> + past participle. The participle agrees in gender and number: <b>Les fotos van ser fetes…</b>",
+          "ko": "목적어에 초점을 맞추려면 그것을 주어로 만들고 <b>ser</b> + 과거분사를 써요. 과거분사는 성·수를 일치시켜요: <b>Les fotos van ser fetes…</b>",
+          "es": "Para destacar el objeto, se convierte en sujeto y se usa <b>ser</b> + participio, que concuerda en género y número: <b>Les fotos van ser fetes…</b>"
+        },
+        {
+          "en": "The agent ('by…') is introduced by <b>per</b>. With verbs of feeling or knowledge it can also be <b>de</b>: <b>estimat de tothom</b>.",
+          "ko": "행위자('~에 의해')는 <b>per</b>로 나타내요. 감정이나 인지 동사는 <b>de</b>도 쓸 수 있어요: <b>estimat de tothom</b>.",
+          "es": "El agente ('por…') se introduce con <b>per</b>. Con verbos de sentimiento o conocimiento también puede ser <b>de</b>: <b>estimat de tothom</b>."
+        },
+        {
+          "en": "This passive is much less common in Catalan than in English. Speakers usually prefer to move the object to the front and repeat it with a weak pronoun: <b>Els premis, els dona la directora.</b>",
+          "ko": "카탈루냐어에서 이 수동태는 영어보다 훨씬 덜 써요. 보통은 목적어를 앞으로 빼고 약한 대명사로 다시 받아요: <b>Els premis, els dona la directora.</b>",
+          "es": "Esta pasiva es mucho menos frecuente en catalán que en inglés. Se prefiere adelantar el objeto y repetirlo con un pronombre átono: <b>Els premis, els dona la directora.</b>"
+        },
+        {
+          "en": "Limits: the indirect object can’t become a passive subject (no 'I was given…' → say <b>M’han donat…</b>); subjects without an article are very rare; verbs like <b>tenir, saber, costar, pesar</b> have no passive.",
+          "ko": "제약: 간접목적어는 수동태 주어가 될 수 없어요('I was given…' 대신 <b>M’han donat…</b>). 관사 없는 주어는 매우 드물어요. <b>tenir, saber, costar, pesar</b> 같은 동사는 수동태가 없어요.",
+          "es": "Límites: el objeto indirecto no puede ser sujeto pasivo (se dice <b>M’han donat…</b>); los sujetos sin artículo son muy raros; verbos como <b>tenir, saber, costar, pesar</b> no tienen pasiva."
+        }
+      ],
+      "examples": [
+        {
+          "ca": "El concurs va ser guanyat per un alumne de segon.",
+          "en": "The contest was won by a Year 8 student.",
+          "ko": "그 대회는 중학교 2학년 학생이 우승했어.",
+          "es": "El concurso fue ganado por un alumno de segundo."
+        },
+        {
+          "ca": "La cantant és estimada de tothom.",
+          "en": "The singer is loved by everyone.",
+          "ko": "그 가수는 모두에게 사랑받아.",
+          "es": "La cantante es querida por todos."
+        },
+        {
+          "ca": "Els pastissos, els ha fet la meva àvia.",
+          "en": "The cakes were made by my grandma.",
+          "ko": "그 케이크들은 우리 할머니가 만드셨어.",
+          "es": "Los pasteles los ha hecho mi abuela."
+        },
+        {
+          "ca": "M’han regalat un rellotge.",
+          "en": "I’ve been given a watch.",
+          "ko": "나 시계 선물 받았어.",
+          "es": "Me han regalado un reloj."
+        }
+      ]
+    },
+    {
+      "id": "14.2",
+      "title": {
+        "ca": "Oracions impersonals i passiva pronominal",
+        "en": "Impersonal sentences and pronominal passive",
+        "ko": "비인칭문과 대명 수동태",
+        "es": "Oraciones impersonales y pasiva refleja"
+      },
+      "points": [
+        {
+          "en": "Weather verbs have no subject at all: <b>plou, neva, fa fred, es fa fosc</b>.",
+          "ko": "날씨 동사는 주어가 전혀 없어요: <b>plou, neva, fa fred, es fa fosc</b>.",
+          "es": "Los verbos meteorológicos no tienen sujeto: <b>plou, neva, fa fred, es fa fosc</b>."
+        },
+        {
+          "en": "<b>Hom</b> ('one') is a very formal impersonal subject with a 3rd person singular verb. In speech it’s replaced by other options.",
+          "ko": "<b>hom</b>('사람들, 누구나')은 3인칭 단수 동사와 쓰이는 아주 격식 있는 비인칭 주어예요. 구어에서는 다른 표현으로 대신해요.",
+          "es": "<b>Hom</b> ('uno') es un sujeto impersonal muy formal con verbo en 3.ª persona del singular. En el habla se sustituye por otras opciones."
+        },
+        {
+          "en": "The 3rd person plural (<b>diuen que…</b>) and, informally, the 2nd person singular (<b>quan estudies, aprens</b>) can also be impersonal.",
+          "ko": "3인칭 복수(<b>diuen que…</b>)와 구어의 2인칭 단수(<b>quan estudies, aprens</b>)도 비인칭으로 쓸 수 있어요.",
+          "es": "La 3.ª persona del plural (<b>diuen que…</b>) y, de manera informal, la 2.ª del singular (<b>quan estudies, aprens</b>) también pueden ser impersonales."
+        },
+        {
+          "en": "Impersonal <b>es</b> works when there is no direct object: <b>Aquí es menja molt bé.</b> It always goes before the verb, even with infinitives: <b>No es pot entrar</b> (not *no pot entrar-se).",
+          "ko": "비인칭 <b>es</b>는 직접목적어가 없을 때 써요: <b>Aquí es menja molt bé.</b> 부정사가 있어도 항상 동사 앞에 와요: <b>No es pot entrar</b>(*no pot entrar-se는 틀려요).",
+          "es": "El <b>es</b> impersonal funciona sin objeto directo: <b>Aquí es menja molt bé.</b> Siempre va delante del verbo, incluso con infinitivos: <b>No es pot entrar</b> (no *no pot entrar-se)."
+        },
+        {
+          "en": "Impersonal <b>es</b> can’t be combined with another <b>es</b> (reflexive verbs): use <b>hom</b> or the 3rd plural instead: <b>Aquí es lleven d’hora.</b>",
+          "ko": "비인칭 <b>es</b>는 다른 <b>es</b>(재귀동사)와 함께 쓸 수 없어요. 대신 <b>hom</b>이나 3인칭 복수를 써요: <b>Aquí es lleven d’hora.</b>",
+          "es": "El <b>es</b> impersonal no puede combinarse con otro <b>es</b> (verbos reflexivos): se usa <b>hom</b> o la 3.ª del plural: <b>Aquí es lleven d’hora.</b>"
+        },
+        {
+          "en": "Pronominal passive: <b>es</b> + verb + thing. The thing is the subject, so the verb agrees with it: <b>Es ven pis</b> / <b>Es venen pisos</b>. This is far more common than the ser-passive.",
+          "ko": "대명 수동태: <b>es</b> + 동사 + 사물. 사물이 주어이므로 동사가 일치해요: <b>Es ven pis</b> / <b>Es venen pisos</b>. ser 수동태보다 훨씬 더 흔해요.",
+          "es": "Pasiva refleja: <b>es</b> + verbo + cosa. La cosa es el sujeto, así que el verbo concuerda: <b>Es ven pis</b> / <b>Es venen pisos</b>. Es mucho más frecuente que la pasiva con ser."
+        }
+      ],
+      "examples": [
+        {
+          "ca": "A l’hivern es fa fosc molt d’hora.",
+          "en": "In winter it gets dark very early.",
+          "ko": "겨울에는 아주 일찍 어두워져.",
+          "es": "En invierno oscurece muy pronto."
+        },
+        {
+          "ca": "Diuen que aquest estiu farà molta calor.",
+          "en": "They say this summer will be very hot.",
+          "ko": "올여름 엄청 더울 거래.",
+          "es": "Dicen que este verano hará mucho calor."
+        },
+        {
+          "ca": "En aquesta escola es parla català, anglès i coreà.",
+          "en": "Catalan, English and Korean are spoken at this school.",
+          "ko": "이 학교에서는 카탈루냐어, 영어, 한국어를 써.",
+          "es": "En esta escuela se habla catalán, inglés y coreano."
+        },
+        {
+          "ca": "Es lloguen bicicletes.",
+          "en": "Bikes for hire.",
+          "ko": "자전거 대여합니다.",
+          "es": "Se alquilan bicicletas."
+        },
+        {
+          "ca": "No es pot fer servir el mòbil a classe.",
+          "en": "You can’t use your phone in class.",
+          "ko": "수업 중에는 휴대폰을 쓸 수 없어.",
+          "es": "No se puede usar el móvil en clase."
+        }
+      ]
+    },
+    {
+      "id": "14.3",
+      "title": {
+        "ca": "Les oracions escindides",
+        "en": "Cleft sentences",
+        "ko": "분열문",
+        "es": "Las oraciones escindidas"
+      },
+      "points": [
+        {
+          "en": "A cleft sentence splits a sentence to highlight one part: <b>ser</b> + focused part + <b>qui/que</b> + rest: <b>És la Marta qui ha trucat.</b>",
+          "ko": "분열문은 한 부분을 강조하려고 문장을 나눠요: <b>ser</b> + 강조할 부분 + <b>qui/que</b> + 나머지: <b>És la Marta qui ha trucat.</b>",
+          "es": "Una escindida divide la frase para destacar una parte: <b>ser</b> + elemento destacado + <b>qui/que</b> + resto: <b>És la Marta qui ha trucat.</b>"
+        },
+        {
+          "en": "In a pseudo-cleft the relative part comes first: <b>Qui ha trucat és la Marta.</b>",
+          "ko": "유사 분열문은 관계절 부분이 먼저 와요: <b>Qui ha trucat és la Marta.</b>",
+          "es": "En la pseudoescindida la parte relativa va primero: <b>Qui ha trucat és la Marta.</b>"
+        },
+        {
+          "en": "Unlike English 'It is us…', the verb <b>ser</b> agrees in person and number: <b>Som nosaltres els qui hem guanyat.</b> It may also match the tense: <b>Ha estat en Pol qui ho ha dit.</b>",
+          "ko": "영어 'It is us…'와 달리 <b>ser</b>는 인칭과 수를 일치시켜요: <b>Som nosaltres els qui hem guanyat.</b> 시제를 맞출 수도 있어요: <b>Ha estat en Pol qui ho ha dit.</b>",
+          "es": "A diferencia del inglés, <b>ser</b> concuerda en persona y número: <b>Som nosaltres els qui hem guanyat.</b> También puede concordar en tiempo: <b>Ha estat en Pol qui ho ha dit.</b>"
+        },
+        {
+          "en": "Prepositions are repeated and never left at the end: <b>És amb tu amb qui vull parlar.</b> With some prepositions plain <b>que</b> is preferred: <b>És de tu que parlen.</b>",
+          "ko": "전치사는 반복하며 문장 끝에 홀로 남기지 않아요: <b>És amb tu amb qui vull parlar.</b> 일부 전치사 뒤에는 단순한 <b>que</b>를 선호해요: <b>És de tu que parlen.</b>",
+          "es": "Las preposiciones se repiten y nunca quedan al final: <b>És amb tu amb qui vull parlar.</b> Con algunas se prefiere <b>que</b>: <b>És de tu que parlen.</b>"
+        }
+      ],
+      "examples": [
+        {
+          "ca": "És en Jordi qui ha marcat el gol.",
+          "en": "It’s Jordi who scored the goal.",
+          "ko": "골을 넣은 건 조르디야.",
+          "es": "Es Jordi quien ha marcado el gol."
+        },
+        {
+          "ca": "Qui ha trencat el vidre ha estat el gat.",
+          "en": "The one who broke the glass was the cat.",
+          "ko": "유리를 깬 건 고양이였어.",
+          "es": "Quien ha roto el cristal ha sido el gato."
+        },
+        {
+          "ca": "Sou vosaltres els qui heu de decidir.",
+          "en": "It’s you who have to decide.",
+          "ko": "결정해야 하는 건 너희들이야.",
+          "es": "Sois vosotros los que tenéis que decidir."
+        },
+        {
+          "ca": "És amb la tutora amb qui has de parlar.",
+          "en": "It’s the form tutor you have to talk to.",
+          "ko": "네가 이야기해야 할 사람은 담임 선생님이야.",
+          "es": "Es con la tutora con quien tienes que hablar."
+        }
+      ]
+    }
+  ],
+  "vocab": [
+    {
+      "ca": "ser + participi",
+      "en": "passive voice",
+      "ko": "수동태",
+      "es": "voz pasiva"
+    },
+    {
+      "ca": "per",
+      "en": "by (agent)",
+      "ko": "~에 의해",
+      "es": "por"
+    },
+    {
+      "ca": "hom",
+      "en": "one (formal impersonal)",
+      "ko": "사람들, 누구나 (격식)",
+      "es": "uno / se"
+    },
+    {
+      "ca": "diuen que",
+      "en": "they say that",
+      "ko": "~라고들 해",
+      "es": "dicen que"
+    },
+    {
+      "ca": "es ven",
+      "en": "for sale (sing.)",
+      "ko": "팝니다 (단수)",
+      "es": "se vende"
+    },
+    {
+      "ca": "es lloguen",
+      "en": "for rent (pl.)",
+      "ko": "임대합니다 (복수)",
+      "es": "se alquilan"
+    },
+    {
+      "ca": "es fa fosc",
+      "en": "it gets dark",
+      "ko": "어두워지다",
+      "es": "oscurece"
+    },
+    {
+      "ca": "es fa tard",
+      "en": "it gets late",
+      "ko": "늦어지다",
+      "es": "se hace tarde"
+    },
+    {
+      "ca": "no es pot",
+      "en": "you can’t / it’s not allowed",
+      "ko": "~할 수 없다",
+      "es": "no se puede"
+    },
+    {
+      "ca": "el qui / la qui",
+      "en": "the one who",
+      "ko": "~한 사람",
+      "es": "el que / la que"
+    },
+    {
+      "ca": "lliurar",
+      "en": "to hand over, to award",
+      "ko": "수여하다, 전달하다",
+      "es": "entregar"
+    },
+    {
+      "ca": "estimat",
+      "en": "loved",
+      "ko": "사랑받는",
+      "es": "querido"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "fill",
+      "sec": "14.1",
+      "q": {
+        "en": "Complete the passive (present).",
+        "ko": "수동태(현재)를 완성하세요.",
+        "es": "Completa la pasiva (presente)."
+      },
+      "ca": "Els premis ___ lliurats per la directora.",
+      "answer": [
+        "són"
+      ],
+      "explain": {
+        "en": "Passive = ser + participle; 'els premis' is plural, so 'són'.",
+        "ko": "수동태 = ser + 과거분사. 'els premis'가 복수라서 'són'이에요.",
+        "es": "Pasiva = ser + participio; 'els premis' es plural: 'són'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.1",
+      "q": {
+        "en": "Choose the preposition for the agent.",
+        "ko": "행위자를 나타내는 전치사를 고르세요.",
+        "es": "Elige la preposición del agente."
+      },
+      "ca": "La novel·la va ser escrita ___ una autora mallorquina.",
+      "options": [
+        "per",
+        "amb",
+        "a",
+        "des de"
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The agent of a passive is introduced by 'per' (= 'by').",
+        "ko": "수동태의 행위자는 'per'(= 'by')로 나타내요.",
+        "es": "El agente de la pasiva se introduce con 'per' (= 'por')."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.1",
+      "q": {
+        "en": "Choose the correct participle.",
+        "ko": "알맞은 과거분사를 고르세요.",
+        "es": "Elige el participio correcto."
+      },
+      "ca": "Les invitacions van ser ___ ahir.",
+      "options": [
+        "enviat",
+        "enviades",
+        "enviats",
+        "enviada"
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "The participle agrees with the subject 'les invitacions' (feminine plural).",
+        "ko": "과거분사는 주어 'les invitacions'(여성 복수)에 일치해요.",
+        "es": "El participio concuerda con el sujeto 'les invitacions' (femenino plural)."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "14.1",
+      "q": {
+        "en": "'He estat donat un regal' is a correct way to say 'I’ve been given a present'.",
+        "ko": "'He estat donat un regal'은 '나는 선물을 받았다'의 올바른 표현이에요.",
+        "es": "'He estat donat un regal' es correcto para decir 'me han dado un regalo'."
+      },
+      "answer": false,
+      "explain": {
+        "en": "An indirect object can’t become a passive subject; say 'M’han donat un regal'.",
+        "ko": "간접목적어는 수동태의 주어가 될 수 없어요. 'M’han donat un regal'이라고 해요.",
+        "es": "El objeto indirecto no puede ser sujeto pasivo; se dice 'M’han donat un regal'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "14.1",
+      "q": {
+        "en": "Verbs like 'tenir', 'saber' and 'costar' cannot be made passive.",
+        "ko": "'tenir', 'saber', 'costar' 같은 동사는 수동태로 만들 수 없어요.",
+        "es": "Verbos como 'tenir', 'saber' y 'costar' no admiten pasiva."
+      },
+      "answer": true,
+      "explain": {
+        "en": "These static verbs don’t describe an action done to something, so they have no passive.",
+        "ko": "이런 정적인 동사는 대상에 가해지는 행위를 나타내지 않아서 수동태가 없어요.",
+        "es": "Estos verbos estáticos no expresan una acción sobre algo, así que no tienen pasiva."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.1",
+      "q": {
+        "en": "Which headline sounds natural in Catalan?",
+        "ko": "카탈루냐어로 자연스러운 헤드라인은?",
+        "es": "¿Qué titular suena natural en catalán?"
+      },
+      "options": [
+        "Les noves escoles seran obertes al setembre.",
+        "Noves escoles seran obertes al setembre."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Passive subjects without an article are very rare; the article is needed.",
+        "ko": "관사 없는 수동태 주어는 매우 드물어서 관사가 필요해요.",
+        "es": "Los sujetos pasivos sin artículo son muy raros; hace falta el artículo."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.1",
+      "q": {
+        "en": "Which is the most usual way to focus on 'els pastissos'?",
+        "ko": "'els pastissos'에 초점을 맞추는 가장 흔한 방법은?",
+        "es": "¿Cuál es la forma más habitual de destacar 'els pastissos'?"
+      },
+      "options": [
+        "Els pastissos, els ha fet l’àvia.",
+        "Els pastissos han estat fets per l’àvia.",
+        "Els pastissos, ha fet l’àvia."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Catalan prefers moving the object forward and repeating it with a weak pronoun ('els').",
+        "ko": "카탈루냐어는 목적어를 앞으로 빼고 약한 대명사('els')로 다시 받는 방식을 선호해요.",
+        "es": "El catalán prefiere adelantar el objeto y repetirlo con un pronombre átono ('els')."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.2",
+      "q": {
+        "en": "Choose the correct sign.",
+        "ko": "올바른 안내문을 고르세요.",
+        "es": "Elige el cartel correcto."
+      },
+      "options": [
+        "Es ven pisos.",
+        "Es venen pisos.",
+        "Se venen pisos."
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "In the pronominal passive 'pisos' is the subject, so the verb is plural: es venen.",
+        "ko": "대명 수동태에서 'pisos'가 주어라서 동사도 복수예요: es venen.",
+        "es": "En la pasiva refleja 'pisos' es el sujeto, así que el verbo va en plural: es venen."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "14.2",
+      "q": {
+        "en": "Make a pronominal passive with 'vendre'.",
+        "ko": "'vendre'로 대명 수동태를 만드세요.",
+        "es": "Forma una pasiva refleja con 'vendre'."
+      },
+      "ca": "En aquesta botiga ___ llibres de segona mà.",
+      "answer": [
+        "es venen"
+      ],
+      "explain": {
+        "en": "Es + verb agreeing with the plural subject 'llibres': es venen.",
+        "ko": "es + 복수 주어 'llibres'에 일치하는 동사: es venen.",
+        "es": "Es + verbo concordado con el sujeto plural 'llibres': es venen."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.2",
+      "q": {
+        "en": "Choose the impersonal form: 'They say it will snow.'",
+        "ko": "비인칭 형태를 고르세요: '눈이 올 거래.'",
+        "es": "Elige la forma impersonal: 'Dicen que nevará.'"
+      },
+      "ca": "___ que demà nevarà al Pirineu.",
+      "options": [
+        "Dic",
+        "Diem",
+        "Diuen"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "The 3rd person plural with no real subject is impersonal: 'diuen que'.",
+        "ko": "실제 주어가 없는 3인칭 복수는 비인칭이에요: 'diuen que'.",
+        "es": "La 3.ª del plural sin sujeto real es impersonal: 'diuen que'."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "14.2",
+      "q": {
+        "en": "'Hom' is very common in everyday conversation.",
+        "ko": "'hom'은 일상 대화에서 아주 흔하게 써요.",
+        "es": "'Hom' es muy frecuente en la conversación diaria."
+      },
+      "answer": false,
+      "explain": {
+        "en": "'Hom' belongs to very formal writing; in speech people use 'es', 'diuen' or 'tu'.",
+        "ko": "'hom'은 아주 격식 있는 글에서 쓰고, 말할 때는 'es', 'diuen', 'tu'를 써요.",
+        "es": "'Hom' es propio de textos muy formales; al hablar se usa 'es', 'diuen' o 'tu'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.2",
+      "q": {
+        "en": "Which sentence is NOT correct?",
+        "ko": "틀린 문장은?",
+        "es": "¿Qué frase NO es correcta?"
+      },
+      "options": [
+        "No pot entrar-se.",
+        "No es pot entrar.",
+        "Aquí es menja molt bé."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "Impersonal 'es' always goes before the verb, even with an infinitive: 'No es pot entrar'.",
+        "ko": "비인칭 'es'는 부정사가 있어도 항상 동사 앞에 와요: 'No es pot entrar'.",
+        "es": "El 'es' impersonal siempre va delante del verbo, incluso con infinitivo: 'No es pot entrar'."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "14.2",
+      "q": {
+        "en": "'It’s getting dark' (fer-se, present).",
+        "ko": "'어두워지고 있어'(fer-se, 현재).",
+        "es": "'Está oscureciendo' (fer-se, presente)."
+      },
+      "ca": "Tornem a casa, que ja ___ fosc.",
+      "answer": [
+        "es fa"
+      ],
+      "explain": {
+        "en": "'Fer-se fosc' is an impersonal weather-type expression: es fa fosc.",
+        "ko": "'fer-se fosc'는 날씨 같은 비인칭 표현이에요: es fa fosc.",
+        "es": "'Fer-se fosc' es una expresión impersonal meteorológica: es fa fosc."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "14.2",
+      "q": {
+        "en": "In 'Quan llegeixes aquest llibre, tens ganes de viatjar', 'tu' can mean 'anyone'.",
+        "ko": "'Quan llegeixes aquest llibre, tens ganes de viatjar'에서 'tu'는 '누구나'라는 뜻일 수 있어요.",
+        "es": "En 'Quan llegeixes aquest llibre, tens ganes de viatjar', 'tu' puede significar 'cualquiera'."
+      },
+      "answer": true,
+      "explain": {
+        "en": "Informally, the 2nd person singular can be impersonal, like English 'you'.",
+        "ko": "구어에서 2인칭 단수는 영어 'you'처럼 비인칭으로 쓰일 수 있어요.",
+        "es": "Informalmente, la 2.ª persona del singular puede ser impersonal."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.2",
+      "q": {
+        "en": "'People get up early here.' Which is correct?",
+        "ko": "'여기선 다들 일찍 일어나.' 올바른 것은?",
+        "es": "'Aquí la gente se levanta temprano.' ¿Cuál es correcta?"
+      },
+      "options": [
+        "Aquí es es lleva d’hora.",
+        "Aquí es lleven d’hora.",
+        "Aquí se’s lleva d’hora."
+      ],
+      "answer": 1,
+      "explain": {
+        "en": "Impersonal 'es' can’t join reflexive 'es'; use the 3rd person plural instead.",
+        "ko": "비인칭 'es'는 재귀 'es'와 함께 쓸 수 없으니 3인칭 복수를 써요.",
+        "es": "El 'es' impersonal no se combina con el reflexivo; se usa la 3.ª del plural."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.3",
+      "q": {
+        "en": "Choose the right form of 'ser'.",
+        "ko": "'ser'의 알맞은 형태를 고르세요.",
+        "es": "Elige la forma correcta de 'ser'."
+      },
+      "ca": "___ nosaltres els qui hem guanyat la lliga.",
+      "options": [
+        "És",
+        "Són",
+        "Som"
+      ],
+      "answer": 2,
+      "explain": {
+        "en": "In a cleft sentence 'ser' agrees with the focused subject 'nosaltres': som.",
+        "ko": "분열문에서 'ser'는 강조된 주어 'nosaltres'에 일치해요: som.",
+        "es": "En la escindida 'ser' concuerda con el sujeto destacado 'nosaltres': som."
+      }
+    },
+    {
+      "type": "fill",
+      "sec": "14.3",
+      "q": {
+        "en": "Repeat the preposition.",
+        "ko": "전치사를 반복하세요.",
+        "es": "Repite la preposición."
+      },
+      "ca": "És amb la directora ___ qui has de parlar.",
+      "answer": [
+        "amb"
+      ],
+      "explain": {
+        "en": "In cleft sentences the preposition is repeated before 'qui'.",
+        "ko": "분열문에서는 'qui' 앞에 전치사를 반복해요.",
+        "es": "En las escindidas la preposición se repite delante de 'qui'."
+      }
+    },
+    {
+      "type": "order",
+      "sec": "14.3",
+      "q": {
+        "en": "Build a cleft sentence: 'It’s Marta who called.'",
+        "ko": "분열문을 만드세요: '전화한 건 마르타야.'",
+        "es": "Construye una escindida: 'Es Marta quien ha llamado.'"
+      },
+      "words": [
+        "és",
+        "la",
+        "Marta",
+        "qui",
+        "ha",
+        "trucat"
+      ],
+      "answer": "És la Marta qui ha trucat.",
+      "alt": [
+        "Qui ha trucat és la Marta."
+      ],
+      "explain": {
+        "en": "Cleft: ser + focus + qui + rest (the pseudo-cleft order is also correct).",
+        "ko": "분열문: ser + 강조 부분 + qui + 나머지(유사 분열문 어순도 맞아요).",
+        "es": "Escindida: ser + foco + qui + resto (el orden pseudoescindido también vale)."
+      }
+    },
+    {
+      "type": "tf",
+      "sec": "14.3",
+      "q": {
+        "en": "'Qui ha trucat és la Marta' is a pseudo-cleft sentence.",
+        "ko": "'Qui ha trucat és la Marta'는 유사 분열문이에요.",
+        "es": "'Qui ha trucat és la Marta' es una oración pseudoescindida."
+      },
+      "answer": true,
+      "explain": {
+        "en": "In a pseudo-cleft the relative part ('qui ha trucat') comes before the verb 'ser'.",
+        "ko": "유사 분열문에서는 관계절('qui ha trucat')이 'ser'보다 먼저 와요.",
+        "es": "En la pseudoescindida la parte relativa va delante de 'ser'."
+      }
+    },
+    {
+      "type": "mc",
+      "sec": "14.3",
+      "q": {
+        "en": "'It’s you they are talking about.' Which is correct?",
+        "ko": "'사람들이 얘기하는 건 너야.' 올바른 것은?",
+        "es": "'Es de ti de quien hablan.' ¿Cuál es correcta?"
+      },
+      "options": [
+        "És de tu que parlen.",
+        "És tu que parlen de.",
+        "És tu de qui parlen."
+      ],
+      "answer": 0,
+      "explain": {
+        "en": "The preposition 'de' must appear with the focused element, never alone at the end.",
+        "ko": "전치사 'de'는 강조되는 요소와 함께 나와야 하고 끝에 혼자 남으면 안 돼요.",
+        "es": "La preposición 'de' debe ir con el elemento destacado, nunca sola al final."
+      }
+    }
+  ]
+}

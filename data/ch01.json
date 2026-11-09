@@ -1,0 +1,114 @@
+{
+  "id": 1,
+  "part": 1,
+  "icon": "🗺️",
+  "title": {"ca": "Els territoris de parla catalana", "en": "Catalan-speaking areas", "ko": "카탈루냐어 사용 지역", "es": "Los territorios de habla catalana"},
+  "summary": {
+    "en": "Catalan is not only spoken in Catalonia: it is used in four different countries, from the Pyrenees to the Balearic Islands and even a city in Sardinia. This chapter shows where Catalan lives and what legal status it has in each place, so you understand the map behind the language you are learning.",
+    "ko": "카탈루냐어는 카탈루냐에서만 쓰이는 언어가 아니에요. 피레네 산맥에서 발레아레스 제도, 그리고 사르데냐의 한 도시까지 네 나라에 걸쳐 사용돼요. 이 장에서는 카탈루냐어가 어디에서 쓰이는지, 지역마다 법적 지위가 어떻게 다른지 알아봐요.",
+    "es": "El catalán no se habla solo en Cataluña: se usa en cuatro países distintos, desde los Pirineos hasta las Islas Baleares e incluso en una ciudad de Cerdeña. Este capítulo muestra dónde vive el catalán y qué estatus legal tiene en cada lugar."
+  },
+  "goals": [
+    {"en": "You will be able to name the main territories where Catalan is spoken.", "ko": "카탈루냐어가 쓰이는 주요 지역의 이름을 말할 수 있어요.", "es": "Podrás nombrar los principales territorios donde se habla catalán."},
+    {"en": "You will be able to say in which four states Catalan is present.", "ko": "카탈루냐어가 존재하는 네 나라를 말할 수 있어요.", "es": "Podrás decir en qué cuatro estados está presente el catalán."},
+    {"en": "You will be able to explain the difference between 'official' and 'co-official' language.", "ko": "'공용어'와 '공동 공용어'의 차이를 설명할 수 있어요.", "es": "Podrás explicar la diferencia entre lengua 'oficial' y 'cooficial'."},
+    {"en": "You will be able to use the Catalan names of these places.", "ko": "이 지역들의 카탈루냐어 이름을 사용할 수 있어요.", "es": "Podrás usar los nombres catalanes de estos lugares."}
+  ],
+  "sections": [
+    {
+      "id": "1.1",
+      "title": {"ca": "On es parla català?", "en": "Where is Catalan spoken?", "ko": "카탈루냐어는 어디에서 쓰일까?", "es": "¿Dónde se habla catalán?"},
+      "points": [
+        {"en": "On the Iberian Peninsula, Catalan covers the east: <b>Catalunya</b>, the <b>País Valencià</b>, a narrow strip of Aragon called <b>la Franja</b>, and a tiny corner of Murcia (<b>el Carxe</b>).", "ko": "이베리아반도에서는 동쪽 지역에서 쓰여요: <b>Catalunya</b>(카탈루냐), <b>País Valencià</b>(발렌시아), 아라곤의 좁은 띠 모양 지역인 <b>la Franja</b>, 그리고 무르시아의 아주 작은 지역(<b>el Carxe</b>)이에요.", "es": "En la península ibérica, el catalán ocupa el este: <b>Catalunya</b>, el <b>País Valencià</b>, una franja estrecha de Aragón llamada <b>la Franja</b> y un rincón diminuto de Murcia (<b>el Carxe</b>)."},
+        {"en": "In the Mediterranean, it is spoken in the <b>Illes Balears</b>: <b>Mallorca</b>, <b>Menorca</b>, <b>Eivissa</b> (Ibiza) and Formentera.", "ko": "지중해에서는 <b>Illes Balears</b>(발레아레스 제도)에서 쓰여요: <b>Mallorca</b>, <b>Menorca</b>, <b>Eivissa</b>(이비사), 포르멘테라예요.", "es": "En el Mediterráneo se habla en las <b>Illes Balears</b>: <b>Mallorca</b>, <b>Menorca</b>, <b>Eivissa</b> (Ibiza) y Formentera."},
+        {"en": "North of the Pyrenees, in France, there is <b>Catalunya del Nord</b> (Northern Catalonia), whose main city is <b>Perpinyà</b> (Perpignan).", "ko": "피레네 산맥 북쪽, 프랑스 땅에는 <b>Catalunya del Nord</b>(북카탈루냐)가 있어요. 중심 도시는 <b>Perpinyà</b>(페르피냥)이에요.", "es": "Al norte de los Pirineos, en Francia, está <b>Catalunya del Nord</b> (Cataluña del Norte), cuya ciudad principal es <b>Perpinyà</b> (Perpiñán)."},
+        {"en": "Two more surprising places: the small country of <b>Andorra</b> in the mountains, and the city of <b>l’Alguer</b> (Alghero) on the Italian island of Sardinia.", "ko": "놀라운 곳이 두 군데 더 있어요: 산속의 작은 나라 <b>Andorra</b>(안도라), 그리고 이탈리아 사르데냐섬의 도시 <b>l’Alguer</b>(알게로)예요.", "es": "Dos lugares más sorprendentes: el pequeño país de <b>Andorra</b>, en la montaña, y la ciudad de <b>l’Alguer</b> (Alghero), en la isla italiana de Cerdeña."},
+        {"en": "So Catalan is present in four states: Spain, France, Andorra and Italy.", "ko": "그래서 카탈루냐어는 스페인, 프랑스, 안도라, 이탈리아 네 나라에 걸쳐 있어요.", "es": "Así, el catalán está presente en cuatro estados: España, Francia, Andorra e Italia."}
+      ],
+      "table": {
+        "head": ["State", "Territory (ca)", "English"],
+        "rows": [
+          ["Spain", "Catalunya", "Catalonia"],
+          ["Spain", "País Valencià", "Valencia"],
+          ["Spain", "Illes Balears", "Balearic Islands"],
+          ["Spain", "la Franja (Aragó)", "the Strip (Aragon)"],
+          ["Spain", "el Carxe (Múrcia)", "El Carxe (Murcia)"],
+          ["France", "Catalunya del Nord", "Northern Catalonia"],
+          ["Andorra", "Andorra", "Andorra"],
+          ["Italy", "l’Alguer (Sardenya)", "Alghero (Sardinia)"]
+        ],
+        "speak": [1]
+      },
+      "examples": [
+        {"ca": "Soc de Barcelona.", "en": "I’m from Barcelona.", "ko": "나는 바르셀로나 출신이야.", "es": "Soy de Barcelona."},
+        {"ca": "La meva àvia viu a Mallorca.", "en": "My grandmother lives in Majorca.", "ko": "우리 할머니는 마요르카에 사셔.", "es": "Mi abuela vive en Mallorca."},
+        {"ca": "A l’Alguer també es parla català.", "en": "Catalan is also spoken in Alghero.", "ko": "알게로에서도 카탈루냐어를 써.", "es": "En Alghero también se habla catalán."},
+        {"ca": "Aquest estiu anirem a Andorra.", "en": "This summer we’ll go to Andorra.", "ko": "이번 여름에 우리는 안도라에 갈 거야.", "es": "Este verano iremos a Andorra."}
+      ]
+    },
+    {
+      "id": "1.2",
+      "title": {"ca": "L’estatus legal del català", "en": "The legal status of Catalan", "ko": "카탈루냐어의 법적 지위", "es": "El estatus legal del catalán"},
+      "points": [
+        {"en": "In <b>Andorra</b>, Catalan is the one and only official language — it is written in the country’s constitution.", "ko": "<b>Andorra</b>에서는 카탈루냐어가 유일한 공용어예요. 헌법에 그렇게 적혀 있어요.", "es": "En <b>Andorra</b>, el catalán es la única lengua oficial: así lo dice su constitución."},
+        {"en": "In Catalonia, Valencia and the Balearic Islands, Catalan is <i>co-official</i>: it shares official status with Spanish.", "ko": "카탈루냐, 발렌시아, 발레아레스 제도에서는 카탈루냐어가 스페인어와 함께 쓰이는 '공동 공용어'예요.", "es": "En Cataluña, Valencia y las Islas Baleares, el catalán es <i>cooficial</i>: comparte el estatus oficial con el castellano."},
+        {"en": "This co-officiality is not perfectly equal: the Spanish constitution says every citizen must know Spanish, while for Catalan citizens have the <i>right</i> to use it.", "ko": "하지만 두 언어가 완전히 평등하지는 않아요. 스페인 헌법은 모든 시민이 스페인어를 '알아야 한다'고 하지만, 카탈루냐어는 '쓸 권리'만 보장해요.", "es": "Esta cooficialidad no es del todo equilibrada: la constitución española dice que todos deben conocer el castellano, mientras que el catalán es un <i>derecho</i> de uso."},
+        {"en": "In the eastern edge of Aragon (<b>la Franja</b>), Catalan is protected by a regional heritage law (2016), but it is not co-official.", "ko": "아라곤 동쪽 끝(<b>la Franja</b>)에서는 2016년 지역 문화유산법으로 보호받지만 공용어는 아니에요.", "es": "En el extremo oriental de Aragón (<b>la Franja</b>), el catalán está protegido por una ley autonómica de patrimonio (2016), pero no es cooficial."},
+        {"en": "In 2006 the new Catalan statute tried to make knowing Catalan a duty; in 2010 the Spanish Constitutional Court rejected it, which fed the political tension in Catalonia.", "ko": "2006년 새 카탈루냐 자치법은 카탈루냐어를 아는 것을 의무로 만들려 했지만, 2010년 스페인 헌법재판소가 이를 받아들이지 않았어요. 이것이 정치적 갈등을 키웠어요.", "es": "En 2006 el nuevo estatuto catalán quiso convertir el conocimiento del catalán en un deber; en 2010 el Tribunal Constitucional lo anuló, lo que alimentó la tensión política."}
+      ],
+      "examples": [
+        {"ca": "El català és la llengua oficial d’Andorra.", "en": "Catalan is the official language of Andorra.", "ko": "카탈루냐어는 안도라의 공용어야.", "es": "El catalán es la lengua oficial de Andorra."},
+        {"ca": "A Catalunya hi ha dues llengües oficials.", "en": "In Catalonia there are two official languages.", "ko": "카탈루냐에는 공용어가 두 개 있어.", "es": "En Cataluña hay dos lenguas oficiales."},
+        {"ca": "A l’escola estudiem en català.", "en": "At school we study in Catalan.", "ko": "학교에서 우리는 카탈루냐어로 공부해.", "es": "En la escuela estudiamos en catalán."}
+      ]
+    },
+    {
+      "id": "1.3",
+      "title": {"ca": "Català i valencià", "en": "Catalan and Valencian", "ko": "카탈루냐어와 발렌시아어", "es": "Catalán y valenciano"},
+      "points": [
+        {"en": "In the Valencian region, people often call the language <b>valencià</b>.", "ko": "발렌시아 지역에서는 이 언어를 흔히 <b>valencià</b>(발렌시아어)라고 불러요.", "es": "En la Comunidad Valenciana, la gente suele llamar a la lengua <b>valencià</b>."},
+        {"en": "<b>Català</b> and <b>valencià</b> are two names for the same language; Spanish high courts have also recognised this.", "ko": "<b>català</b>와 <b>valencià</b>는 같은 언어를 부르는 두 이름이에요. 스페인 최고 법원도 이를 인정했어요.", "es": "<b>Català</b> y <b>valencià</b> son dos nombres de la misma lengua; los tribunales superiores españoles también lo han reconocido."},
+        {"en": "Speakers from Barcelona, València and Palma understand each other without problems.", "ko": "바르셀로나, 발렌시아, 팔마 사람들은 서로 문제없이 알아들어요.", "es": "Los hablantes de Barcelona, València y Palma se entienden sin problemas."}
+      ],
+      "examples": [
+        {"ca": "Parles català?", "en": "Do you speak Catalan?", "ko": "너 카탈루냐어 할 줄 알아?", "es": "¿Hablas catalán?"},
+        {"ca": "A València en diuen valencià.", "en": "In Valencia they call it Valencian.", "ko": "발렌시아에서는 그걸 발렌시아어라고 불러.", "es": "En Valencia lo llaman valenciano."},
+        {"ca": "És la mateixa llengua.", "en": "It’s the same language.", "ko": "같은 언어야.", "es": "Es la misma lengua."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "la llengua", "en": "language", "ko": "언어", "es": "la lengua"},
+    {"ca": "parlar", "en": "to speak", "ko": "말하다", "es": "hablar"},
+    {"ca": "oficial", "en": "official", "ko": "공식의, 공용의", "es": "oficial"},
+    {"ca": "el país", "en": "country", "ko": "나라", "es": "el país"},
+    {"ca": "l’illa", "en": "island", "ko": "섬", "es": "la isla"},
+    {"ca": "les illes Balears", "en": "the Balearic Islands", "ko": "발레아레스 제도", "es": "las islas Baleares"},
+    {"ca": "Catalunya del Nord", "en": "Northern Catalonia", "ko": "북카탈루냐", "es": "Cataluña del Norte"},
+    {"ca": "l’Alguer", "en": "Alghero", "ko": "알게로", "es": "Alguer"},
+    {"ca": "Perpinyà", "en": "Perpignan", "ko": "페르피냥", "es": "Perpiñán"},
+    {"ca": "Eivissa", "en": "Ibiza", "ko": "이비사", "es": "Ibiza"},
+    {"ca": "la frontera", "en": "border", "ko": "국경", "es": "la frontera"},
+    {"ca": "el valencià", "en": "Valencian", "ko": "발렌시아어", "es": "el valenciano"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "1.1", "q": {"en": "In which Italian city is Catalan spoken?", "ko": "카탈루냐어를 쓰는 이탈리아 도시는?", "es": "¿En qué ciudad italiana se habla catalán?"}, "options": ["Roma", "Nàpols", "l’Alguer", "Gènova"], "answer": 2, "explain": {"en": "L’Alguer (Alghero), in Sardinia, was settled by Catalans in the 14th century and still keeps the language.", "ko": "사르데냐의 l’Alguer(알게로)는 14세기에 카탈루냐 사람들이 이주한 곳이라 지금도 이 언어가 남아 있어요.", "es": "L’Alguer (Alghero), en Cerdeña, fue repoblada por catalanes en el siglo XIV y aún conserva la lengua."}},
+    {"type": "mc", "sec": "1.2", "q": {"en": "Where is Catalan the ONLY official language?", "ko": "카탈루냐어가 '유일한' 공용어인 곳은?", "es": "¿Dónde es el catalán la ÚNICA lengua oficial?"}, "options": ["Andorra", "Catalunya", "Illes Balears", "País Valencià"], "answer": 0, "explain": {"en": "Andorra’s constitution makes Catalan its sole official language; in the other places it is co-official with Spanish.", "ko": "안도라 헌법은 카탈루냐어만을 공용어로 정해요. 다른 곳에서는 스페인어와 함께 공용어예요.", "es": "La constitución de Andorra establece el catalán como única lengua oficial; en los demás lugares es cooficial con el castellano."}},
+    {"type": "tf", "sec": "1.1", "q": {"en": "Catalan is spoken in four different states: Spain, France, Andorra and Italy.", "ko": "카탈루냐어는 스페인, 프랑스, 안도라, 이탈리아 네 나라에서 쓰인다.", "es": "El catalán se habla en cuatro estados: España, Francia, Andorra e Italia."}, "answer": true, "explain": {"en": "Correct: the Catalan-speaking area crosses four state borders.", "ko": "맞아요. 카탈루냐어 사용 지역은 네 나라에 걸쳐 있어요.", "es": "Correcto: el área catalanohablante abarca cuatro estados."}},
+    {"type": "tf", "sec": "1.3", "q": {"en": "Valencian is a different language from Catalan.", "ko": "발렌시아어는 카탈루냐어와 다른 언어다.", "es": "El valenciano es una lengua distinta del catalán."}, "answer": false, "explain": {"en": "False: 'valencià' is simply the name used in Valencia for the same language.", "ko": "틀려요. 'valencià'는 발렌시아에서 같은 언어를 부르는 이름일 뿐이에요.", "es": "Falso: 'valencià' es solo el nombre que se usa en Valencia para la misma lengua."}},
+    {"type": "match", "sec": "1.1", "q": {"en": "Match the Catalan place name with its English name.", "ko": "카탈루냐어 지명과 영어 이름을 연결하세요.", "es": "Une el topónimo catalán con su nombre en inglés."}, "pairs": [
+      {"l": "Eivissa", "r": {"en": "Ibiza", "ko": "이비사", "es": "Ibiza"}},
+      {"l": "Perpinyà", "r": {"en": "Perpignan", "ko": "페르피냥", "es": "Perpiñán"}},
+      {"l": "l’Alguer", "r": {"en": "Alghero", "ko": "알게로", "es": "Alguer"}},
+      {"l": "Sardenya", "r": {"en": "Sardinia", "ko": "사르데냐", "es": "Cerdeña"}},
+      {"l": "Mallorca", "r": {"en": "Majorca", "ko": "마요르카", "es": "Mallorca"}}
+    ]},
+    {"type": "mc", "sec": "1.1", "q": {"en": "What is 'la Franja'?", "ko": "'la Franja'는 무엇일까요?", "es": "¿Qué es 'la Franja'?"}, "options": ["an island near Majorca", "a Catalan-speaking strip of eastern Aragon", "a city in France", "a dialect of Andorra"], "answer": 1, "explain": {"en": "La Franja ('the Strip') is the eastern edge of Aragon next to Catalonia, where Catalan is spoken.", "ko": "la Franja('띠')는 카탈루냐와 맞닿은 아라곤 동쪽 끝 지역으로, 카탈루냐어를 써요.", "es": "La Franja es el borde oriental de Aragón junto a Cataluña, donde se habla catalán."}},
+    {"type": "fill", "sec": "1.1", "q": {"en": "Complete: 'I’m from Barcelona.'", "ko": "완성하세요: '나는 바르셀로나 출신이야.'", "es": "Completa: 'Soy de Barcelona.'"}, "ca": "___ de Barcelona.", "answer": ["Soc", "Sóc"], "explain": {"en": "'Soc' means 'I am' (older spelling: 'sóc'); 'ser de' = to be from.", "ko": "'Soc'는 '나는 ~이다'예요(예전 표기: 'sóc'). 'ser de'는 '~출신이다'라는 뜻이에요.", "es": "'Soc' significa 'soy' (grafía antigua: 'sóc'); 'ser de' = ser de un lugar."}},
+    {"type": "fill", "sec": "1.3", "q": {"en": "Ask a friend: 'Do you speak Catalan?'", "ko": "친구에게 물어보세요: '너 카탈루냐어 할 줄 알아?'", "es": "Pregunta a un amigo: '¿Hablas catalán?'"}, "ca": "___ català?", "answer": ["Parles"], "explain": {"en": "'Parles' is the 'you' (tu) form of 'parlar' (to speak).", "ko": "'Parles'는 'parlar'(말하다)의 2인칭 단수(tu) 형태예요.", "es": "'Parles' es la forma de 'tu' del verbo 'parlar' (hablar)."}},
+    {"type": "mc", "sec": "1.2", "q": {"en": "What does 'co-official' mean for Catalan in Catalonia?", "ko": "카탈루냐에서 카탈루냐어가 '공동 공용어'라는 것은 무슨 뜻일까요?", "es": "¿Qué significa que el catalán sea 'cooficial' en Cataluña?"}, "options": ["It is official only at school", "It is not official at all", "It replaces Spanish completely", "It shares official status with Spanish"], "answer": 3, "explain": {"en": "Co-official means two languages are official at the same time: here, Catalan and Spanish.", "ko": "공동 공용어란 두 언어가 동시에 공용어라는 뜻이에요. 여기서는 카탈루냐어와 스페인어예요.", "es": "Cooficial significa que dos lenguas son oficiales a la vez: aquí, catalán y castellano."}},
+    {"type": "order", "sec": "1.2", "q": {"en": "Build: 'Catalan is the official language of Andorra.'", "ko": "문장을 만드세요: '카탈루냐어는 안도라의 공용어야.'", "es": "Ordena: 'El catalán es la lengua oficial de Andorra.'"}, "words": ["El", "català", "és", "la", "llengua", "oficial", "d’Andorra"], "answer": "El català és la llengua oficial d’Andorra", "explain": {"en": "Article + noun + verb 'és' + 'la llengua oficial' + 'd’Andorra' (de + Andorra, apostrophe before a vowel).", "ko": "관사+명사, 동사 'és', 'la llengua oficial', 그리고 모음 앞이라 de가 'd’'로 줄어든 'd’Andorra' 순서예요.", "es": "Artículo + sustantivo + 'és' + 'la llengua oficial' + 'd’Andorra' (de se apostrofa ante vocal)."}},
+    {"type": "tf", "sec": "1.2", "q": {"en": "In 2010 the Spanish Constitutional Court confirmed that knowing Catalan is a legal duty in Catalonia.", "ko": "2010년 스페인 헌법재판소는 카탈루냐에서 카탈루냐어를 아는 것이 법적 의무라고 확인했다.", "es": "En 2010 el Tribunal Constitucional confirmó que conocer el catalán es un deber legal en Cataluña."}, "answer": false, "explain": {"en": "False: the court rejected that duty from the 2006 statute.", "ko": "틀려요. 헌법재판소는 2006년 자치법의 그 의무 조항을 받아들이지 않았어요.", "es": "Falso: el tribunal anuló ese deber del estatuto de 2006."}},
+    {"type": "mc", "sec": "1.1", "q": {"en": "Northern Catalonia (Catalunya del Nord) belongs to which state?", "ko": "북카탈루냐(Catalunya del Nord)는 어느 나라에 속할까요?", "es": "¿A qué estado pertenece Cataluña del Norte?"}, "options": ["Spain", "France", "Andorra"], "answer": 1, "explain": {"en": "It lies north of the Pyrenees, in France; its capital is Perpinyà.", "ko": "피레네 산맥 북쪽 프랑스 땅에 있고, 중심 도시는 Perpinyà예요.", "es": "Está al norte de los Pirineos, en Francia; su capital es Perpinyà."}}
+  ]
+}

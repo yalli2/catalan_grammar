@@ -1,0 +1,1973 @@
+{
+ "id": 6,
+ "part": 2,
+ "icon": "🧩",
+ "title": {
+  "ca": "Classes de paraules",
+  "en": "Word classes",
+  "ko": "품사",
+  "es": "Clases de palabras"
+ },
+ "summary": {
+  "en": "This chapter looks at the building blocks of every noun phrase: nouns, adjectives, articles, stressed pronouns, possessives, demonstratives and quantifiers. You will see how gender and number agreement ties them together and where Catalan behaves differently from English. Mastering these forms makes every sentence you build more accurate.",
+  "ko": "이 장에서는 명사구를 이루는 기본 요소인 명사, 형용사, 관사, 강세형 대명사, 소유사, 지시사, 수량사를 살펴봐요. 성·수 일치가 이들을 어떻게 묶어 주는지, 그리고 카탈루냐어가 영어와 어디서 다른지 알게 될 거예요. 이 형태들을 익히면 모든 문장을 더 정확하게 만들 수 있어요.",
+  "es": "Este capítulo trata las piezas básicas de todo sintagma nominal: sustantivos, adjetivos, artículos, pronombres tónicos, posesivos, demostrativos y cuantificadores. Verás cómo la concordancia de género y número los une y en qué se diferencia el catalán del inglés. Dominar estas formas hará tus frases más correctas."
+ },
+ "goals": [
+  {
+   "en": "You will be able to recognise the gender of common nouns and form their plurals.",
+   "ko": "흔한 명사의 성을 알아보고 복수형을 만들 수 있어요.",
+   "es": "Podrás reconocer el género de sustantivos comunes y formar su plural."
+  },
+  {
+   "en": "You will be able to make adjectives agree and place them correctly (bon, mal, gran…).",
+   "ko": "형용사를 일치시키고 올바른 위치에 놓을 수 있어요(bon, mal, gran…).",
+   "es": "Podrás concordar los adjetivos y colocarlos bien (bon, mal, gran…)."
+  },
+  {
+   "en": "You will be able to use articles, apostrophes and contractions (l’, al, del, pel, cal) and the personal article en / la.",
+   "ko": "관사, 아포스트로피, 축약형(l’, al, del, pel, cal)과 인칭 관사 en / la를 쓸 수 있어요.",
+   "es": "Podrás usar artículos, apóstrofos y contracciones (l’, al, del, pel, cal) y el artículo personal en / la."
+  },
+  {
+   "en": "You will be able to choose the right stressed pronoun, possessive and demonstrative.",
+   "ko": "알맞은 강세형 대명사, 소유사, 지시사를 고를 수 있어요.",
+   "es": "Podrás elegir el pronombre tónico, el posesivo y el demostrativo adecuados."
+  },
+  {
+   "en": "You will be able to use numbers, ordinals and quantifiers like cap, cada, gaire and altre.",
+   "ko": "수, 서수와 cap, cada, gaire, altre 같은 수량사를 쓸 수 있어요.",
+   "es": "Podrás usar números, ordinales y cuantificadores como cap, cada, gaire y altre."
+  }
+ ],
+ "sections": [
+  {
+   "id": "6.1",
+   "title": {
+    "ca": "Els noms",
+    "en": "Nouns",
+    "ko": "명사",
+    "es": "Los sustantivos"
+   },
+   "points": [
+    {
+     "en": "Every Catalan noun is either masculine or feminine. This is grammatical gender: it does not always match the real sex of the person or thing. <b>la persona</b> is feminine even when it refers to a man.",
+     "ko": "카탈루냐어의 모든 명사는 남성 아니면 여성이에요. 이것은 문법적인 성이라서 실제 성별과 항상 일치하지는 않아요. <b>la persona</b>(사람)는 남자를 가리켜도 여성 명사예요.",
+     "es": "Todos los sustantivos catalanes son masculinos o femeninos. Es género gramatical: no siempre coincide con el sexo real. <b>la persona</b> es femenino aunque se refiera a un hombre."
+    },
+    {
+     "en": "Articles, demonstratives and adjectives must agree with the noun in gender and number: <b>la casa blanca</b>, <b>els cotxes blancs</b>.",
+     "ko": "관사, 지시사, 형용사는 명사와 성·수가 일치해야 해요: <b>la casa blanca</b>, <b>els cotxes blancs</b>.",
+     "es": "Artículos, demostrativos y adjetivos concuerdan con el sustantivo en género y número: <b>la casa blanca</b>, <b>els cotxes blancs</b>."
+    },
+    {
+     "en": "Most nouns ending in <b>-a</b> are feminine (<b>taula</b>, <b>cadira</b>), and so are endings like <b>-ió</b>, <b>-tat</b>, <b>-itud</b>. But watch out: <b>el problema</b>, <b>el mapa</b>, <b>el dia</b> are masculine.",
+     "ko": "<b>-a</b>로 끝나는 명사는 대부분 여성이고(<b>taula</b>, <b>cadira</b>), <b>-ió</b>, <b>-tat</b>, <b>-itud</b> 어미도 여성이에요. 하지만 <b>el problema</b>, <b>el mapa</b>, <b>el dia</b>는 남성이니 조심하세요.",
+     "es": "La mayoría de sustantivos en <b>-a</b> son femeninos (<b>taula</b>, <b>cadira</b>), igual que <b>-ió</b>, <b>-tat</b>, <b>-itud</b>. Ojo: <b>el problema</b>, <b>el mapa</b>, <b>el dia</b> son masculinos."
+    },
+    {
+     "en": "Nouns ending in a consonant, <b>-e</b>, <b>-o</b> or <b>-isme</b>, <b>-atge</b> are usually masculine (<b>el braç</b>, <b>el carro</b>, <b>el viatge</b>), but there are exceptions such as <b>la flor</b>, <b>la mare</b>, <b>la foto</b>. When in doubt, check a dictionary!",
+     "ko": "자음, <b>-e</b>, <b>-o</b>, <b>-isme</b>, <b>-atge</b>로 끝나는 명사는 보통 남성이에요(<b>el braç</b>, <b>el carro</b>, <b>el viatge</b>). 하지만 <b>la flor</b>, <b>la mare</b>, <b>la foto</b> 같은 예외도 있어요. 헷갈리면 사전을 확인하세요!",
+     "es": "Los sustantivos en consonante, <b>-e</b>, <b>-o</b>, <b>-isme</b> o <b>-atge</b> suelen ser masculinos (<b>el braç</b>, <b>el carro</b>, <b>el viatge</b>), pero hay excepciones como <b>la flor</b>, <b>la mare</b>, <b>la foto</b>. ¡Si dudas, mira el diccionario!"
+    },
+    {
+     "en": "Plural basic rule: add <b>-s</b>. An unstressed final <b>-a</b> becomes <b>-es</b> (<b>casa → cases</b>), sometimes with a spelling change to keep the sound (<b>coca → coques</b>, <b>pluja → pluges</b>).",
+     "ko": "복수형 기본 규칙은 <b>-s</b>를 붙이는 거예요. 강세 없는 끝 <b>-a</b>는 <b>-es</b>가 되고(<b>casa → cases</b>), 발음을 유지하려고 철자가 바뀌기도 해요(<b>coca → coques</b>, <b>pluja → pluges</b>).",
+     "es": "Regla básica del plural: añadir <b>-s</b>. La <b>-a</b> final átona pasa a <b>-es</b> (<b>casa → cases</b>), a veces con cambio ortográfico para mantener el sonido (<b>coca → coques</b>, <b>pluja → pluges</b>)."
+    },
+    {
+     "en": "Masculine words ending in <b>-s</b>, <b>-ç</b>, <b>-x</b>, <b>-ix</b>, <b>-tx</b> add <b>-os</b>: <b>peix → peixos</b>, <b>braç → braços</b>, <b>despatx → despatxos</b>. Some double the s: <b>nas → nassos</b>.",
+     "ko": "<b>-s</b>, <b>-ç</b>, <b>-x</b>, <b>-ix</b>, <b>-tx</b>로 끝나는 남성 명사는 <b>-os</b>를 붙여요: <b>peix → peixos</b>, <b>braç → braços</b>, <b>despatx → despatxos</b>. <b>nas → nassos</b>처럼 s가 두 개가 되는 것도 있어요.",
+     "es": "Los masculinos en <b>-s</b>, <b>-ç</b>, <b>-x</b>, <b>-ix</b>, <b>-tx</b> añaden <b>-os</b>: <b>peix → peixos</b>, <b>braç → braços</b>, <b>despatx → despatxos</b>. Algunos duplican la s: <b>nas → nassos</b>."
+    },
+    {
+     "en": "Many words ending in a stressed vowel get back a hidden <b>n</b> in the plural: <b>germà → germans</b>, <b>camió → camions</b>. Loanwords usually just add -s: <b>sofà → sofàs</b>, <b>cafè → cafès</b>.",
+     "ko": "강세 모음으로 끝나는 많은 단어는 복수에서 숨어 있던 <b>n</b>이 나타나요: <b>germà → germans</b>, <b>camió → camions</b>. 외래어는 보통 -s만 붙여요: <b>sofà → sofàs</b>, <b>cafè → cafès</b>.",
+     "es": "Muchas palabras con vocal tónica final recuperan una <b>n</b> oculta en plural: <b>germà → germans</b>, <b>camió → camions</b>. Los préstamos solo añaden -s: <b>sofà → sofàs</b>, <b>cafè → cafès</b>."
+    },
+    {
+     "en": "Some nouns don’t change at all in the plural: <b>el llapis → els llapis</b>, <b>el dilluns → els dilluns</b>, <b>l’atles → els atles</b>.",
+     "ko": "복수에서 전혀 변하지 않는 명사도 있어요: <b>el llapis → els llapis</b>, <b>el dilluns → els dilluns</b>, <b>l’atles → els atles</b>.",
+     "es": "Algunos sustantivos no cambian en plural: <b>el llapis → els llapis</b>, <b>el dilluns → els dilluns</b>, <b>l’atles → els atles</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "rule",
+     "singular",
+     "plural"
+    ],
+    "rows": [
+     [
+      "+ s",
+      "el llibre",
+      "els llibres"
+     ],
+     [
+      "-a → -es",
+      "la casa / la coca",
+      "les cases / les coques"
+     ],
+     [
+      "-s, -ç, -x, -ix, -tx → +os",
+      "el peix / el despatx",
+      "els peixos / els despatxos"
+     ],
+     [
+      "stressed vowel → +ns",
+      "el germà / el camió",
+      "els germans / els camions"
+     ],
+     [
+      "loanword vowel → +s",
+      "el sofà / el cafè",
+      "els sofàs / els cafès"
+     ],
+     [
+      "no change",
+      "el llapis / el dilluns",
+      "els llapis / els dilluns"
+     ]
+    ],
+    "speak": [
+     1,
+     2
+    ]
+   },
+   "examples": [
+    {
+     "ca": "La persona que m’ha ajudat era un noi molt amable.",
+     "en": "The person who helped me was a very kind boy.",
+     "ko": "나를 도와준 사람은 아주 친절한 남자애였어.",
+     "es": "La persona que me ayudó era un chico muy amable."
+    },
+    {
+     "ca": "El problema de matemàtiques d’avui és molt llarg.",
+     "en": "Today’s maths problem is very long.",
+     "ko": "오늘 수학 문제는 아주 길어.",
+     "es": "El problema de matemáticas de hoy es muy largo."
+    },
+    {
+     "ca": "Tinc dos germans i tres cosines.",
+     "en": "I have two brothers and three female cousins.",
+     "ko": "나는 남자 형제 두 명과 여자 사촌 세 명이 있어.",
+     "es": "Tengo dos hermanos y tres primas."
+    },
+    {
+     "ca": "Al mercat de la Boqueria venen peixos de tots els colors.",
+     "en": "At the Boqueria market they sell fish of every colour.",
+     "ko": "보케리아 시장에서는 온갖 색깔의 물고기를 팔아.",
+     "es": "En el mercado de la Boqueria venden peces de todos los colores."
+    },
+    {
+     "ca": "He perdut tots els llapis de l’estoig.",
+     "en": "I’ve lost all the pencils from my pencil case.",
+     "ko": "필통에 있던 연필을 전부 잃어버렸어.",
+     "es": "He perdido todos los lápices del estuche."
+    }
+   ]
+  },
+  {
+   "id": "6.2",
+   "title": {
+    "ca": "Els adjectius",
+    "en": "Adjectives",
+    "ko": "형용사",
+    "es": "Los adjetivos"
+   },
+   "points": [
+    {
+     "en": "Adjectives agree with the noun in gender and number. The feminine usually adds <b>-a</b> (an <b>-e</b> is replaced by <b>-a</b>: <b>pobre → pobra</b>), and feminine plurals normally end in <b>-es</b>.",
+     "ko": "형용사는 명사와 성·수가 일치해요. 여성형은 보통 <b>-a</b>를 붙이고(<b>-e</b>는 <b>-a</b>로 바뀜: <b>pobre → pobra</b>), 여성 복수는 대개 <b>-es</b>로 끝나요.",
+     "es": "Los adjetivos concuerdan en género y número. El femenino suele añadir <b>-a</b> (la <b>-e</b> se cambia por <b>-a</b>: <b>pobre → pobra</b>) y el femenino plural suele acabar en <b>-es</b>."
+    },
+    {
+     "en": "Useful spelling changes in the feminine: <b>-au/-iu/-ou</b> → <b>-ava/-iva/-ova</b> (<b>blau → blava</b>, <b>nou → nova</b>), and <b>-t/-c</b> → <b>-da/-ga</b> (<b>mut → muda</b>, <b>cec → cega</b>). Some adjectives have one form for both genders: <b>gran</b>, <b>feliç</b>, <b>important</b>.",
+     "ko": "여성형의 철자 변화: <b>-au/-iu/-ou</b> → <b>-ava/-iva/-ova</b>(<b>blau → blava</b>, <b>nou → nova</b>), <b>-t/-c</b> → <b>-da/-ga</b>(<b>mut → muda</b>, <b>cec → cega</b>). <b>gran</b>, <b>feliç</b>, <b>important</b>처럼 남녀 형태가 같은 형용사도 있어요.",
+     "es": "Cambios ortográficos en femenino: <b>-au/-iu/-ou</b> → <b>-ava/-iva/-ova</b> (<b>blau → blava</b>, <b>nou → nova</b>), y <b>-t/-c</b> → <b>-da/-ga</b> (<b>mut → muda</b>, <b>cec → cega</b>). Algunos adjetivos tienen una sola forma: <b>gran</b>, <b>feliç</b>, <b>important</b>."
+    },
+    {
+     "en": "The normal position is <b>after</b> the noun: <b>una samarreta vermella</b>. An adjective goes before the noun when it adds an opinion or emphasis rather than identifying the noun.",
+     "ko": "형용사의 기본 위치는 명사 <b>뒤</b>예요: <b>una samarreta vermella</b>. 명사를 구별하기보다 의견이나 강조를 더할 때는 명사 앞에 오기도 해요.",
+     "es": "La posición normal es <b>después</b> del sustantivo: <b>una samarreta vermella</b>. Va delante cuando añade opinión o énfasis en vez de identificar."
+    },
+    {
+     "en": "Before a noun, <b>bo</b> becomes <b>bon</b> (<b>un bon amic</b>) and <b>dolent</b> is replaced by <b>mal / mala</b> (<b>un mal dia</b>). After the noun or after <b>ser</b> you use <b>bo/bona</b> and <b>dolent/dolenta</b>.",
+     "ko": "명사 앞에서 <b>bo</b>는 <b>bon</b>이 되고(<b>un bon amic</b>), <b>dolent</b> 대신 <b>mal / mala</b>를 써요(<b>un mal dia</b>). 명사 뒤나 <b>ser</b> 뒤에서는 <b>bo/bona</b>, <b>dolent/dolenta</b>를 써요.",
+     "es": "Delante del sustantivo, <b>bo</b> pasa a <b>bon</b> (<b>un bon amic</b>) y <b>dolent</b> se sustituye por <b>mal / mala</b> (<b>un mal dia</b>). Detrás o tras <b>ser</b> se usa <b>bo/bona</b> y <b>dolent/dolenta</b>."
+    },
+    {
+     "en": "Position can change meaning: <b>un gran home</b> = a great man, <b>un home gran</b> = an old (or big) man; <b>una pobra noia</b> = an unlucky girl, <b>una noia pobra</b> = a girl with no money.",
+     "ko": "위치에 따라 뜻이 달라지기도 해요: <b>un gran home</b> = 위대한 사람, <b>un home gran</b> = 나이 든(큰) 남자; <b>una pobra noia</b> = 불쌍한 소녀, <b>una noia pobra</b> = 가난한 소녀.",
+     "es": "La posición puede cambiar el significado: <b>un gran home</b> = un gran hombre, <b>un home gran</b> = un hombre mayor (o grande); <b>una pobra noia</b> = una pobre chica (desgraciada), <b>una noia pobra</b> = una chica sin dinero."
+    },
+    {
+     "en": "Words like <b>molt</b>, <b>poc</b>, <b>massa</b>, <b>ben</b>, <b>gens</b> can modify an adjective. Used this way they are adverbs and never change: <b>una noia molt alta</b> (not *molta alta).",
+     "ko": "<b>molt</b>, <b>poc</b>, <b>massa</b>, <b>ben</b>, <b>gens</b> 같은 말은 형용사를 꾸밀 수 있어요. 이때는 부사라서 형태가 변하지 않아요: <b>una noia molt alta</b> (*molta alta 아님).",
+     "es": "Palabras como <b>molt</b>, <b>poc</b>, <b>massa</b>, <b>ben</b>, <b>gens</b> modifican adjetivos. Así usadas son adverbios y no cambian: <b>una noia molt alta</b> (no *molta alta)."
+    },
+    {
+     "en": "An adjective can stand alone when the noun is obvious: <b>la vermella o la blava?</b> (no word for “one”). With no noun at all, <b>el</b> + adjective means a general idea: <b>l’important</b> = what matters.",
+     "ko": "명사가 분명할 때는 형용사만 써도 돼요: <b>la vermella o la blava?</b> (영어의 “one”에 해당하는 말이 없음). 명사 없이 <b>el</b> + 형용사는 일반적인 개념이 돼요: <b>l’important</b> = 중요한 것.",
+     "es": "El adjetivo puede ir solo si el sustantivo se sobreentiende: <b>la vermella o la blava?</b>. Sin sustantivo, <b>el</b> + adjetivo expresa una idea general: <b>l’important</b> = lo importante."
+    },
+    {
+     "en": "English “noun + noun” (bank account, waiting room) is usually a <b>de</b> phrase or a derived adjective in Catalan: <b>sala d’espera</b>, <b>compte bancari</b>, <b>aigua potable</b>. Some adjectives take a preposition: <b>content de</b>, <b>al·lèrgic a</b>, <b>útil per a</b>, <b>enfadat amb</b>.",
+     "ko": "영어의 “명사+명사”(bank account, waiting room)는 카탈루냐어에서 보통 <b>de</b> 구나 파생 형용사로 바뀌어요: <b>sala d’espera</b>, <b>compte bancari</b>, <b>aigua potable</b>. 전치사를 취하는 형용사도 있어요: <b>content de</b>, <b>al·lèrgic a</b>, <b>útil per a</b>, <b>enfadat amb</b>.",
+     "es": "El “sustantivo + sustantivo” inglés suele ser en catalán un sintagma con <b>de</b> o un adjetivo derivado: <b>sala d’espera</b>, <b>compte bancari</b>, <b>aigua potable</b>. Algunos adjetivos llevan preposición: <b>content de</b>, <b>al·lèrgic a</b>, <b>útil per a</b>, <b>enfadat amb</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "type",
+     "m. sg.",
+     "f. sg.",
+     "m. pl.",
+     "f. pl."
+    ],
+    "rows": [
+     [
+      "regular",
+      "alt",
+      "alta",
+      "alts",
+      "altes"
+     ],
+     [
+      "-e → -a",
+      "pobre",
+      "pobra",
+      "pobres",
+      "pobres"
+     ],
+     [
+      "-u → -va",
+      "blau",
+      "blava",
+      "blaus",
+      "blaves"
+     ],
+     [
+      "-t → -da",
+      "mut",
+      "muda",
+      "muts",
+      "mudes"
+     ],
+     [
+      "-c → -ga / -c → -ca",
+      "cec / simpàtic",
+      "cega / simpàtica",
+      "cecs / simpàtics",
+      "cegues / simpàtiques"
+     ],
+     [
+      "stressed vowel + n",
+      "català",
+      "catalana",
+      "catalans",
+      "catalanes"
+     ],
+     [
+      "one form",
+      "feliç",
+      "feliç",
+      "feliços",
+      "felices"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Porto una motxilla blava i unes sabatilles noves.",
+     "en": "I’m carrying a blue backpack and some new trainers.",
+     "ko": "나는 파란 배낭을 메고 새 운동화를 신고 있어.",
+     "es": "Llevo una mochila azul y unas zapatillas nuevas."
+    },
+    {
+     "ca": "La Laia és una bona companya de classe.",
+     "en": "Laia is a good classmate.",
+     "ko": "라이아는 좋은 반 친구야.",
+     "es": "Laia es una buena compañera de clase."
+    },
+    {
+     "ca": "La meva àvia és una dona gran, però corre cada matí.",
+     "en": "My grandmother is an elderly woman, but she runs every morning.",
+     "ko": "우리 할머니는 연세가 많으시지만 매일 아침 달리기를 하셔.",
+     "es": "Mi abuela es una mujer mayor, pero corre cada mañana."
+    },
+    {
+     "ca": "Aquesta sopa és massa calenta.",
+     "en": "This soup is too hot.",
+     "ko": "이 수프는 너무 뜨거워.",
+     "es": "Esta sopa está demasiado caliente."
+    },
+    {
+     "ca": "Quina gorra vols, la negra o la blanca?",
+     "en": "Which cap do you want, the black one or the white one?",
+     "ko": "어느 모자를 원해, 검은 거 아니면 흰 거?",
+     "es": "¿Qué gorra quieres, la negra o la blanca?"
+    },
+    {
+     "ca": "Estic molt content de les notes d’aquest trimestre.",
+     "en": "I’m very happy with this term’s marks.",
+     "ko": "이번 학기 성적에 아주 만족해.",
+     "es": "Estoy muy contento con las notas de este trimestre."
+    }
+   ]
+  },
+  {
+   "id": "6.3",
+   "title": {
+    "ca": "Els articles",
+    "en": "Articles",
+    "ko": "관사",
+    "es": "Los artículos"
+   },
+   "points": [
+    {
+     "en": "The definite article is <b>el</b>, <b>la</b>, <b>els</b>, <b>les</b>. In the singular, <b>el</b> and <b>la</b> become <b>l’</b> before a vowel or h: <b>l’avi</b>, <b>l’hora</b>, <b>l’escola</b>.",
+     "ko": "정관사는 <b>el</b>, <b>la</b>, <b>els</b>, <b>les</b>예요. 단수에서 모음이나 h 앞에서는 <b>l’</b>가 돼요: <b>l’avi</b>, <b>l’hora</b>, <b>l’escola</b>.",
+     "es": "El artículo definido es <b>el</b>, <b>la</b>, <b>els</b>, <b>les</b>. En singular, <b>el</b> y <b>la</b> pasan a <b>l’</b> ante vocal o h: <b>l’avi</b>, <b>l’hora</b>, <b>l’escola</b>."
+    },
+    {
+     "en": "Exceptions for <b>la</b>: it stays full before an <b>unstressed i/u</b> (<b>la universitat</b>, <b>la història</b>), before letter names (<b>la e</b>) and with <b>la una</b> (one o’clock). Compare <b>l’illa</b>, where the i is stressed. <b>El</b> stays full before ia/ie/ua sounds: <b>el iogurt</b>.",
+     "ko": "<b>la</b>의 예외: <b>강세 없는 i/u</b> 앞(<b>la universitat</b>, <b>la història</b>), 알파벳 이름 앞(<b>la e</b>), <b>la una</b>(1시)에서는 줄이지 않아요. i에 강세가 있는 <b>l’illa</b>와 비교해 보세요. <b>el</b>도 ia/ie/ua 소리 앞에서는 그대로예요: <b>el iogurt</b>.",
+     "es": "Excepciones de <b>la</b>: no se apostrofa ante <b>i/u átonas</b> (<b>la universitat</b>, <b>la història</b>), ante nombres de letras (<b>la e</b>) y en <b>la una</b> (la una en punto). Compara <b>l’illa</b>, con i tónica. <b>El</b> también se mantiene ante ia/ie/ua: <b>el iogurt</b>."
+    },
+    {
+     "en": "<b>el</b> and <b>els</b> join with the prepositions <b>a</b>, <b>de</b>, <b>per</b> and <b>ca</b>: <b>al</b>, <b>als</b>, <b>del</b>, <b>dels</b>, <b>pel</b>, <b>pels</b>, <b>cal</b>, <b>cals</b>. The feminine never contracts (<b>a la</b>, <b>de les</b>), and neither does <b>l’</b>: <b>a l’institut</b>.",
+     "ko": "<b>el</b>와 <b>els</b>는 전치사 <b>a</b>, <b>de</b>, <b>per</b>, <b>ca</b>와 합쳐져요: <b>al</b>, <b>als</b>, <b>del</b>, <b>dels</b>, <b>pel</b>, <b>pels</b>, <b>cal</b>, <b>cals</b>. 여성형(<b>a la</b>, <b>de les</b>)과 <b>l’</b>(<b>a l’institut</b>)는 합쳐지지 않아요.",
+     "es": "<b>el</b> y <b>els</b> se contraen con <b>a</b>, <b>de</b>, <b>per</b> y <b>ca</b>: <b>al</b>, <b>als</b>, <b>del</b>, <b>dels</b>, <b>pel</b>, <b>pels</b>, <b>cal</b>, <b>cals</b>. El femenino no se contrae (<b>a la</b>, <b>de les</b>), ni tampoco <b>l’</b>: <b>a l’institut</b>."
+    },
+    {
+     "en": "In everyday Catalan you put an article before people’s first names. Central Catalan uses the personal article <b>en</b> for boys’ names starting with a consonant (<b>en Marc</b>) and <b>l’</b> before a vowel (<b>l’Oriol</b>); girls take <b>la / l’</b> (<b>la Júlia</b>, <b>l’Anna</b>). In the Balearics you also hear <b>na</b> for girls.",
+     "ko": "일상 카탈루냐어에서는 사람 이름 앞에 관사를 붙여요. 중부 카탈루냐어는 자음으로 시작하는 남자 이름 앞에 인칭 관사 <b>en</b>(<b>en Marc</b>), 모음 앞에 <b>l’</b>(<b>l’Oriol</b>)를 쓰고, 여자 이름에는 <b>la / l’</b>(<b>la Júlia</b>, <b>l’Anna</b>)를 써요. 발레아레스 제도에서는 여자 이름 앞에 <b>na</b>도 써요.",
+     "es": "En catalán coloquial se pone artículo ante los nombres de pila. El catalán central usa el artículo personal <b>en</b> ante nombres masculinos con consonante (<b>en Marc</b>) y <b>l’</b> ante vocal (<b>l’Oriol</b>); los femeninos llevan <b>la / l’</b> (<b>la Júlia</b>, <b>l’Anna</b>). En Baleares también se oye <b>na</b>."
+    },
+    {
+     "en": "No personal article with famous historical people or authors: <b>Picasso va néixer a Màlaga</b>. Kings and popes have no article before the number: <b>Jaume I</b>.",
+     "ko": "유명한 역사 인물이나 작가 이름 앞에는 인칭 관사를 쓰지 않아요: <b>Picasso va néixer a Màlaga</b>. 왕과 교황 이름의 숫자 앞에도 관사가 없어요: <b>Jaume I</b>.",
+     "es": "No se usa artículo personal con personajes históricos o autores famosos: <b>Picasso va néixer a Màlaga</b>. Reyes y papas no llevan artículo ante el número: <b>Jaume I</b>."
+    },
+    {
+     "en": "Catalan uses the definite article for things in general, where English often uses none: <b>M’agrada la música</b> (I like music), <b>Els gats dormen molt</b> (Cats sleep a lot).",
+     "ko": "카탈루냐어는 일반적인 것을 말할 때도 정관사를 써요(영어는 보통 안 씀): <b>M’agrada la música</b>(나는 음악을 좋아해), <b>Els gats dormen molt</b>(고양이는 잠을 많이 자).",
+     "es": "El catalán usa el artículo definido para hablar en general, donde el inglés no lo pone: <b>M’agrada la música</b>, <b>Els gats dormen molt</b>."
+    },
+    {
+     "en": "The indefinite article is <b>un</b>, <b>una</b>, <b>uns</b>, <b>unes</b>; it never takes an apostrophe. Both articles go before the noun and before any adjective placed in front of it: <b>un bon pla</b>.",
+     "ko": "부정관사는 <b>un</b>, <b>una</b>, <b>uns</b>, <b>unes</b>이고 아포스트로피를 쓰지 않아요. 두 관사 모두 명사와, 명사 앞에 오는 형용사보다 앞에 놓여요: <b>un bon pla</b>.",
+     "es": "El artículo indefinido es <b>un</b>, <b>una</b>, <b>uns</b>, <b>unes</b>; nunca lleva apóstrofo. Ambos artículos van delante del sustantivo y de cualquier adjetivo antepuesto: <b>un bon pla</b>."
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "m. sg.",
+     "f. sg.",
+     "m. pl.",
+     "f. pl."
+    ],
+    "rows": [
+     [
+      "definite",
+      "el / l’",
+      "la / l’",
+      "els",
+      "les"
+     ],
+     [
+      "indefinite",
+      "un",
+      "una",
+      "uns",
+      "unes"
+     ],
+     [
+      "personal (names)",
+      "en / l’",
+      "la / l’ (na)",
+      "–",
+      "–"
+     ],
+     [
+      "a + article",
+      "al / a l’",
+      "a la / a l’",
+      "als",
+      "a les"
+     ],
+     [
+      "de + article",
+      "del / de l’",
+      "de la / de l’",
+      "dels",
+      "de les"
+     ],
+     [
+      "per + article",
+      "pel / per l’",
+      "per la / per l’",
+      "pels",
+      "per les"
+     ],
+     [
+      "ca + article",
+      "cal / ca l’",
+      "ca la / ca l’",
+      "cals",
+      "ca les"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Demà anem al museu i després a l’aquari.",
+     "en": "Tomorrow we’re going to the museum and then to the aquarium.",
+     "ko": "내일 우리는 박물관에 갔다가 아쿠아리움에 갈 거야.",
+     "es": "Mañana vamos al museo y después al acuario."
+    },
+    {
+     "ca": "He quedat amb en Pol i l’Aina a la plaça.",
+     "en": "I’ve arranged to meet Pol and Aina in the square.",
+     "ko": "광장에서 폴이랑 아이나를 만나기로 했어.",
+     "es": "He quedado con Pol y Aina en la plaza."
+    },
+    {
+     "ca": "La meva germana estudia a la universitat de Girona.",
+     "en": "My sister studies at the university of Girona.",
+     "ko": "우리 언니는 지로나 대학교에서 공부해.",
+     "es": "Mi hermana estudia en la universidad de Girona."
+    },
+    {
+     "ca": "Passarem pel carrer dels pintors.",
+     "en": "We’ll go along the painters’ street.",
+     "ko": "화가들의 거리를 지나갈 거야.",
+     "es": "Pasaremos por la calle de los pintores."
+    },
+    {
+     "ca": "Diumenge dinem a cal Pere.",
+     "en": "On Sunday we have lunch at Pere’s place.",
+     "ko": "일요일에 우리는 페레네 집에서 점심을 먹어.",
+     "es": "El domingo comemos en casa de Pere."
+    },
+    {
+     "ca": "M’encanta el bàsquet, però odio la calor.",
+     "en": "I love basketball, but I hate heat.",
+     "ko": "나는 농구는 정말 좋아하지만 더위는 싫어.",
+     "es": "Me encanta el baloncesto, pero odio el calor."
+    }
+   ]
+  },
+  {
+   "id": "6.4",
+   "title": {
+    "ca": "Els pronoms personals forts",
+    "en": "Personal (stressed) pronouns",
+    "ko": "인칭 대명사(강세형)",
+    "es": "Los pronombres personales tónicos"
+   },
+   "points": [
+    {
+     "en": "Stressed pronouns are used as the subject and after prepositions: <b>jo</b>, <b>tu</b>, <b>ell/ella</b>, <b>vostè</b>, <b>nosaltres</b>, <b>vosaltres</b>, <b>ells/elles</b>, <b>vostès</b>.",
+     "ko": "강세형 대명사는 주어로, 그리고 전치사 뒤에서 써요: <b>jo</b>, <b>tu</b>, <b>ell/ella</b>, <b>vostè</b>, <b>nosaltres</b>, <b>vosaltres</b>, <b>ells/elles</b>, <b>vostès</b>.",
+     "es": "Los pronombres tónicos funcionan como sujeto y tras preposición: <b>jo</b>, <b>tu</b>, <b>ell/ella</b>, <b>vostè</b>, <b>nosaltres</b>, <b>vosaltres</b>, <b>ells/elles</b>, <b>vostès</b>."
+    },
+    {
+     "en": "<b>vostè</b> / <b>vostès</b> is the polite “you”. It means “you” but the verb goes in the 3rd person: <b>Vostè parla català?</b>",
+     "ko": "<b>vostè</b> / <b>vostès</b>는 존칭 “당신”이에요. 뜻은 2인칭이지만 동사는 3인칭을 써요: <b>Vostè parla català?</b>",
+     "es": "<b>vostè</b> / <b>vostès</b> es el “usted/ustedes”. Significa “tú/vosotros” formal pero el verbo va en 3.ª persona: <b>Vostè parla català?</b>"
+    },
+    {
+     "en": "After a preposition, “me” is <b>mi</b>: <b>amb mi</b>, <b>per a mi</b>, <b>sense mi</b>. Two exceptions use <b>jo</b>: after <b>segons</b> (<b>segons jo</b>) and when joined with another person (<b>per a tu i jo</b>).",
+     "ko": "전치사 뒤에서 “나”는 <b>mi</b>예요: <b>amb mi</b>, <b>per a mi</b>, <b>sense mi</b>. 두 가지 예외에는 <b>jo</b>를 써요: <b>segons</b> 뒤(<b>segons jo</b>), 그리고 다른 사람과 함께 나열될 때(<b>per a tu i jo</b>).",
+     "es": "Tras preposición, “mí” es <b>mi</b>: <b>amb mi</b>, <b>per a mi</b>, <b>sense mi</b>. Dos excepciones con <b>jo</b>: tras <b>segons</b> (<b>segons jo</b>) y cuando va coordinado (<b>per a tu i jo</b>)."
+    },
+    {
+     "en": "With prepositions ending in <b>de</b> (<b>davant de</b>, <b>darrere de</b>, <b>a prop de</b>) you can also use a possessive: <b>davant de mi = davant meu</b>.",
+     "ko": "<b>de</b>로 끝나는 전치사(<b>davant de</b>, <b>darrere de</b>, <b>a prop de</b>)와는 소유사를 쓸 수도 있어요: <b>davant de mi = davant meu</b>.",
+     "es": "Con preposiciones acabadas en <b>de</b> (<b>davant de</b>, <b>darrere de</b>, <b>a prop de</b>) también puede usarse un posesivo: <b>davant de mi = davant meu</b>."
+    },
+    {
+     "en": "<b>si</b> is the reflexive form for the 3rd person after a preposition, often with <b>mateix/mateixa</b>: <b>ho fa per a si mateix</b> (he does it for himself). <b>ell mateix</b> is also fine.",
+     "ko": "<b>si</b>는 전치사 뒤에서 쓰는 3인칭 재귀형으로, 흔히 <b>mateix/mateixa</b>와 함께 써요: <b>ho fa per a si mateix</b>(그는 자기 자신을 위해 그걸 해). <b>ell mateix</b>라고 해도 돼요.",
+     "es": "<b>si</b> es la forma reflexiva de 3.ª persona tras preposición, a menudo con <b>mateix/mateixa</b>: <b>ho fa per a si mateix</b> (lo hace para sí mismo). También vale <b>ell mateix</b>."
+    },
+    {
+     "en": "Subject pronouns are usually left out because the verb ending shows the person: <b>Parlo anglès</b>. Use them for emphasis or contrast (<b>Jo pago!</b>), to avoid confusion (<b>Què fa ella?</b>), or when there is no verb (<b>—Qui ve? —Jo.</b>).",
+     "ko": "동사 어미가 인칭을 알려 주기 때문에 주어 대명사는 보통 생략해요: <b>Parlo anglès</b>. 강조나 대조(<b>Jo pago!</b>), 혼동을 피할 때(<b>Què fa ella?</b>), 동사가 없을 때(<b>—Qui ve? —Jo.</b>) 써요.",
+     "es": "Los pronombres sujeto se suelen omitir porque la terminación verbal indica la persona: <b>Parlo anglès</b>. Se usan para enfatizar o contrastar (<b>Jo pago!</b>), evitar confusión (<b>Què fa ella?</b>) o cuando no hay verbo (<b>—Qui ve? —Jo.</b>)."
+    },
+    {
+     "en": "<b>ell</b>, <b>ella</b>, <b>ells</b>, <b>elles</b> are normally used for people, not for things.",
+     "ko": "<b>ell</b>, <b>ella</b>, <b>ells</b>, <b>elles</b>는 보통 사람에게만 쓰고 사물에는 쓰지 않아요.",
+     "es": "<b>ell</b>, <b>ella</b>, <b>ells</b>, <b>elles</b> se usan normalmente para personas, no para cosas."
+    }
+   ],
+   "table": {
+    "head": [
+     "person",
+     "subject",
+     "after preposition"
+    ],
+    "rows": [
+     [
+      "1 sg.",
+      "jo",
+      "mi (segons jo)"
+     ],
+     [
+      "2 sg.",
+      "tu",
+      "tu"
+     ],
+     [
+      "3 sg. / polite",
+      "ell, ella, vostè",
+      "ell, ella, vostè, si"
+     ],
+     [
+      "1 pl.",
+      "nosaltres",
+      "nosaltres"
+     ],
+     [
+      "2 pl.",
+      "vosaltres",
+      "vosaltres"
+     ],
+     [
+      "3 pl. / polite",
+      "ells, elles, vostès",
+      "ells, elles, vostès, si"
+     ]
+    ],
+    "speak": [
+     1,
+     2
+    ]
+   },
+   "examples": [
+    {
+     "ca": "Vens al cinema amb mi aquesta tarda?",
+     "en": "Are you coming to the cinema with me this afternoon?",
+     "ko": "오늘 오후에 나랑 영화 보러 갈래?",
+     "es": "¿Vienes al cine conmigo esta tarde?"
+    },
+    {
+     "ca": "Segons jo, el Barça guanyarà la lliga.",
+     "en": "In my opinion, Barça will win the league.",
+     "ko": "내 생각에는 바르사가 리그에서 우승할 거야.",
+     "es": "Según yo, el Barça ganará la liga."
+    },
+    {
+     "ca": "Aquest pastís és per a tu i per a ella.",
+     "en": "This cake is for you and for her.",
+     "ko": "이 케이크는 너랑 그녀를 위한 거야.",
+     "es": "Este pastel es para ti y para ella."
+    },
+    {
+     "ca": "—Qui ha trencat el got? —Jo no!",
+     "en": "“Who broke the glass?” “Not me!”",
+     "ko": "“누가 컵 깼어?” “나 아니야!”",
+     "es": "—¿Quién ha roto el vaso? —¡Yo no!"
+    },
+    {
+     "ca": "La Clara sempre parla de si mateixa.",
+     "en": "Clara always talks about herself.",
+     "ko": "클라라는 항상 자기 얘기만 해.",
+     "es": "Clara siempre habla de sí misma."
+    },
+    {
+     "ca": "Perdoni, vostè és la professora nova?",
+     "en": "Excuse me, are you the new teacher?",
+     "ko": "실례지만, 새로 오신 선생님이세요?",
+     "es": "Perdone, ¿usted es la profesora nueva?"
+    }
+   ]
+  },
+  {
+   "id": "6.5",
+   "title": {
+    "ca": "Possessius i demostratius",
+    "en": "Possessives and demonstratives",
+    "ko": "소유사와 지시사",
+    "es": "Posesivos y demostrativos"
+   },
+   "points": [
+    {
+     "en": "The usual possessive is article + possessive: <b>el meu</b>, <b>la meva</b>, <b>els meus</b>, <b>les meves</b>. Unlike English, it agrees with the <b>thing owned</b>, not with the owner: <b>la meva bici</b>, <b>els meus patins</b>.",
+     "ko": "일반적인 소유사는 관사 + 소유사예요: <b>el meu</b>, <b>la meva</b>, <b>els meus</b>, <b>les meves</b>. 영어와 달리 소유자가 아니라 <b>소유물</b>에 성·수를 맞춰요: <b>la meva bici</b>, <b>els meus patins</b>.",
+     "es": "El posesivo habitual es artículo + posesivo: <b>el meu</b>, <b>la meva</b>, <b>els meus</b>, <b>les meves</b>. A diferencia del inglés, concuerda con <b>lo poseído</b>, no con el poseedor: <b>la meva bici</b>, <b>els meus patins</b>."
+    },
+    {
+     "en": "<b>el seu / la seva</b> can mean his, her, its, their or your (polite <b>vostè</b>). Context tells you who the owner is.",
+     "ko": "<b>el seu / la seva</b>는 그의, 그녀의, 그것의, 그들의, 또는 (존칭 <b>vostè</b>의) 당신의 뜻이 될 수 있어요. 소유자는 문맥으로 알아요.",
+     "es": "<b>el seu / la seva</b> puede significar de él, de ella, de ellos o de usted. El contexto aclara quién es el poseedor."
+    },
+    {
+     "en": "After <b>ser</b>, when you say who something belongs to, drop the article: <b>Aquest mòbil és meu</b>. Keep it when you identify which one: <b>Aquest mòbil és el meu</b> (this is my phone, not another one). After a noun: <b>uns amics meus</b> = some friends of mine.",
+     "ko": "<b>ser</b> 뒤에서 누구의 것인지 말할 때는 관사를 빼요: <b>Aquest mòbil és meu</b>(이 폰은 내 거야). 어느 것인지 가리킬 때는 관사를 써요: <b>Aquest mòbil és el meu</b>(이게 내 폰이야). 명사 뒤에서: <b>uns amics meus</b> = 내 친구 몇 명.",
+     "es": "Tras <b>ser</b>, al indicar a quién pertenece algo, se omite el artículo: <b>Aquest mòbil és meu</b>. Se mantiene al identificar cuál: <b>Aquest mòbil és el meu</b>. Detrás del sustantivo: <b>uns amics meus</b> = unos amigos míos."
+    },
+    {
+     "en": "Catalan uses fewer possessives than English. With body parts and clothes the article is enough: <b>Aixeca la mà</b> (Raise your hand), <b>Em rento les dents</b> (I brush my teeth).",
+     "ko": "카탈루냐어는 영어보다 소유사를 덜 써요. 신체 부위나 옷에는 관사만으로 충분해요: <b>Aixeca la mà</b>(손 들어), <b>Em rento les dents</b>(나는 이를 닦아).",
+     "es": "El catalán usa menos posesivos que el inglés. Con partes del cuerpo y ropa basta el artículo: <b>Aixeca la mà</b>, <b>Em rento les dents</b>."
+    },
+    {
+     "en": "Short (unstressed) possessives without an article — <b>mon</b>, <b>ma</b>, <b>mos</b>, <b>mes</b>, <b>ton</b>, <b>ta</b>, <b>son</b>, <b>sa</b>… — are used mainly with close family (<b>ma mare</b>, <b>mon pare</b>) and always go before the noun. <b>llur(s)</b> (their) is very formal.",
+     "ko": "관사 없이 쓰는 짧은(비강세) 소유사 <b>mon</b>, <b>ma</b>, <b>mos</b>, <b>mes</b>, <b>ton</b>, <b>ta</b>, <b>son</b>, <b>sa</b>…는 주로 가까운 가족에게 쓰고(<b>ma mare</b>, <b>mon pare</b>) 항상 명사 앞에 와요. <b>llur(s)</b>(그들의)는 아주 격식 있는 말이에요.",
+     "es": "Los posesivos átonos sin artículo — <b>mon</b>, <b>ma</b>, <b>mos</b>, <b>mes</b>, <b>ton</b>, <b>ta</b>, <b>son</b>, <b>sa</b>… — se usan sobre todo con familiares cercanos (<b>ma mare</b>, <b>mon pare</b>) y siempre van delante. <b>llur(s)</b> (su de ellos) es muy formal."
+    },
+    {
+     "en": "Demonstratives: <b>aquest, aquesta, aquests, aquestes</b> = this/these (near me, or near you); <b>aquell, aquella, aquells, aquelles</b> = that/those (far away). They work with a noun or alone (this one / that one).",
+     "ko": "지시사: <b>aquest, aquesta, aquests, aquestes</b> = 이것/이것들(나나 상대방 가까이), <b>aquell, aquella, aquells, aquelles</b> = 저것/저것들(멀리 있는 것). 명사와 함께 또는 단독으로 써요.",
+     "es": "Demostrativos: <b>aquest, aquesta, aquests, aquestes</b> = este/esta… (cerca de mí o de ti); <b>aquell, aquella, aquells, aquelles</b> = aquel/aquella… (lejos). Funcionan con sustantivo o solos."
+    },
+    {
+     "en": "<b>aquest</b> also covers things near the person you speak to, where English might say “that”: <b>Què és aquest paper que tens?</b> The neuter forms <b>això</b> (this) and <b>allò</b> (that) refer to ideas or unknown things, never to a noun: <b>Què és això?</b>",
+     "ko": "<b>aquest</b>는 상대방 가까이 있는 것에도 써요(영어로는 “that”): <b>Què és aquest paper que tens?</b> 중성형 <b>això</b>(이것)와 <b>allò</b>(저것)는 생각이나 정체를 모르는 것을 가리키고, 명사 앞에는 쓰지 않아요: <b>Què és això?</b>",
+     "es": "<b>aquest</b> también sirve para cosas cercanas al oyente, donde el inglés diría “that”: <b>Què és aquest paper que tens?</b> Los neutros <b>això</b> (esto) y <b>allò</b> (aquello) se refieren a ideas o cosas sin nombrar, nunca acompañan a un sustantivo: <b>Què és això?</b>"
+    }
+   ],
+   "table": {
+    "head": [
+     "",
+     "m. sg.",
+     "f. sg.",
+     "m. pl.",
+     "f. pl."
+    ],
+    "rows": [
+     [
+      "my",
+      "el meu",
+      "la meva",
+      "els meus",
+      "les meves"
+     ],
+     [
+      "your (tu)",
+      "el teu",
+      "la teva",
+      "els teus",
+      "les teves"
+     ],
+     [
+      "his/her/their/your (vostè)",
+      "el seu",
+      "la seva",
+      "els seus",
+      "les seves"
+     ],
+     [
+      "our",
+      "el nostre",
+      "la nostra",
+      "els nostres",
+      "les nostres"
+     ],
+     [
+      "your (vosaltres)",
+      "el vostre",
+      "la vostra",
+      "els vostres",
+      "les vostres"
+     ],
+     [
+      "my (short form)",
+      "mon",
+      "ma",
+      "mos",
+      "mes"
+     ],
+     [
+      "this / these",
+      "aquest",
+      "aquesta",
+      "aquests",
+      "aquestes"
+     ],
+     [
+      "that / those",
+      "aquell",
+      "aquella",
+      "aquells",
+      "aquelles"
+     ],
+     [
+      "neuter",
+      "això (this)",
+      "allò (that)",
+      "–",
+      "–"
+     ]
+    ],
+    "speak": [
+     1,
+     2,
+     3,
+     4
+    ]
+   },
+   "examples": [
+    {
+     "ca": "La meva germana i els meus cosins viuen a Sabadell.",
+     "en": "My sister and my cousins live in Sabadell.",
+     "ko": "우리 언니와 사촌들은 사바델에 살아.",
+     "es": "Mi hermana y mis primos viven en Sabadell."
+    },
+    {
+     "ca": "Aquesta jaqueta no és meva, és de l’Èric.",
+     "en": "This jacket isn’t mine, it’s Èric’s.",
+     "ko": "이 재킷은 내 게 아니라 에릭 거야.",
+     "es": "Esta chaqueta no es mía, es de Èric."
+    },
+    {
+     "ca": "Ahir vaig veure uns amics teus al parc.",
+     "en": "Yesterday I saw some friends of yours in the park.",
+     "ko": "어제 공원에서 네 친구들을 봤어.",
+     "es": "Ayer vi a unos amigos tuyos en el parque."
+    },
+    {
+     "ca": "Si saps la resposta, aixeca la mà.",
+     "en": "If you know the answer, raise your hand.",
+     "ko": "답을 알면 손을 들어.",
+     "es": "Si sabes la respuesta, levanta la mano."
+    },
+    {
+     "ca": "Vols aquest llibre o aquell de la prestatgeria?",
+     "en": "Do you want this book or that one on the shelf?",
+     "ko": "이 책을 원해, 아니면 책장에 있는 저 책을 원해?",
+     "es": "¿Quieres este libro o aquel de la estantería?"
+    },
+    {
+     "ca": "Què és això que fa tanta olor?",
+     "en": "What is this that smells so strong?",
+     "ko": "이렇게 냄새가 심하게 나는 게 뭐야?",
+     "es": "¿Qué es esto que huele tanto?"
+    }
+   ]
+  },
+  {
+   "id": "6.6",
+   "title": {
+    "ca": "Els quantificadors",
+    "en": "Quantifiers",
+    "ko": "수량사",
+    "es": "Los cuantificadores"
+   },
+   "points": [
+    {
+     "en": "Only <b>1</b> and <b>2</b> (and numbers ending in them, plus hundreds) have a feminine: <b>un/una</b>, <b>dos/dues</b>, <b>vint-i-una noies</b>, <b>dues-centes pàgines</b>. In counting and maths you can use <b>u</b>.",
+     "ko": "<b>1</b>과 <b>2</b>(그리고 그것으로 끝나는 수, 백 단위)만 여성형이 있어요: <b>un/una</b>, <b>dos/dues</b>, <b>vint-i-una noies</b>, <b>dues-centes pàgines</b>. 숫자를 세거나 계산할 때는 <b>u</b>를 쓸 수 있어요.",
+     "es": "Solo el <b>1</b> y el <b>2</b> (y los números que acaban en ellos, más las centenas) tienen femenino: <b>un/una</b>, <b>dos/dues</b>, <b>vint-i-una noies</b>, <b>dues-centes pàgines</b>. Al contar o en matemáticas se usa <b>u</b>."
+    },
+    {
+     "en": "Hyphens: tens–units (<b>vint-i-tres</b>, <b>trenta-cinc</b>) and units–hundreds (<b>tres-cents</b>). No hyphen after <b>cent</b> or around <b>mil</b> and <b>milió</b>: <b>cent vint</b>, <b>dos mil</b>.",
+     "ko": "하이픈: 십 단위–일 단위(<b>vint-i-tres</b>, <b>trenta-cinc</b>), 일 단위–백 단위(<b>tres-cents</b>). <b>cent</b> 뒤나 <b>mil</b>, <b>milió</b> 앞뒤에는 하이픈이 없어요: <b>cent vint</b>, <b>dos mil</b>.",
+     "es": "Guiones: decenas–unidades (<b>vint-i-tres</b>, <b>trenta-cinc</b>) y unidades–centenas (<b>tres-cents</b>). Sin guion tras <b>cent</b> ni con <b>mil</b> y <b>milió</b>: <b>cent vint</b>, <b>dos mil</b>."
+    },
+    {
+     "en": "Ordinals 1–4 are special: <b>primer</b>, <b>segon</b>, <b>tercer</b>, <b>quart</b>. From 5 on add <b>-è / -ena</b>: <b>cinquè</b>, <b>sisè</b>, <b>desè</b>, <b>onzè</b>, <b>vint-i-unè</b>. All ordinals agree: <b>la primera</b>, <b>les cinquenes</b>.",
+     "ko": "서수 1–4는 특별해요: <b>primer</b>, <b>segon</b>, <b>tercer</b>, <b>quart</b>. 5부터는 <b>-è / -ena</b>를 붙여요: <b>cinquè</b>, <b>sisè</b>, <b>desè</b>, <b>onzè</b>, <b>vint-i-unè</b>. 서수는 모두 성·수 일치를 해요: <b>la primera</b>, <b>les cinquenes</b>.",
+     "es": "Los ordinales 1–4 son especiales: <b>primer</b>, <b>segon</b>, <b>tercer</b>, <b>quart</b>. Desde el 5 se añade <b>-è / -ena</b>: <b>cinquè</b>, <b>sisè</b>, <b>desè</b>, <b>onzè</b>, <b>vint-i-unè</b>. Todos concuerdan: <b>la primera</b>, <b>les cinquenes</b>."
+    },
+    {
+     "en": "“Half”: <b>mig / mitja</b> is an adjective (<b>mig entrepà</b>, <b>dues hores i mitja</b>); <b>la meitat</b> is the noun (<b>la meitat de la classe</b>). <b>a mitjan</b> = in the middle of (<b>a mitjan setembre</b>). Groups: <b>un parell de</b>, <b>una dotzena</b>, <b>una quinzena</b>, <b>un centenar</b>, <b>un miler</b>.",
+     "ko": "“반”: <b>mig / mitja</b>는 형용사(<b>mig entrepà</b>, <b>dues hores i mitja</b>), <b>la meitat</b>는 명사(<b>la meitat de la classe</b>)예요. <b>a mitjan</b> = ~의 중순/중간에(<b>a mitjan setembre</b>). 묶음: <b>un parell de</b>, <b>una dotzena</b>, <b>una quinzena</b>, <b>un centenar</b>, <b>un miler</b>.",
+     "es": "“Medio”: <b>mig / mitja</b> es adjetivo (<b>mig entrepà</b>, <b>dues hores i mitja</b>); <b>la meitat</b> es el sustantivo (<b>la meitat de la classe</b>). <b>a mitjan</b> = a mediados de (<b>a mitjan setembre</b>). Grupos: <b>un parell de</b>, <b>una dotzena</b>, <b>una quinzena</b>, <b>un centenar</b>, <b>un miler</b>."
+    },
+    {
+     "en": "Quantifiers that agree: <b>poc</b>, <b>algun</b>, <b>molt</b>, <b>tant</b>, <b>quant</b>, <b>tot</b>, <b>altre</b>, <b>cert</b> (e.g. <b>poques coses</b>, <b>moltes vegades</b>). Invariable ones: <b>cada</b>, <b>cap</b>, <b>prou</b>, <b>força</b>, <b>massa</b>, <b>qualsevol</b> (plural <b>qualssevol</b>).",
+     "ko": "성·수 일치하는 수량사: <b>poc</b>, <b>algun</b>, <b>molt</b>, <b>tant</b>, <b>quant</b>, <b>tot</b>, <b>altre</b>, <b>cert</b>(예: <b>poques coses</b>, <b>moltes vegades</b>). 변하지 않는 것: <b>cada</b>, <b>cap</b>, <b>prou</b>, <b>força</b>, <b>massa</b>, <b>qualsevol</b>(복수 <b>qualssevol</b>).",
+     "es": "Cuantificadores que concuerdan: <b>poc</b>, <b>algun</b>, <b>molt</b>, <b>tant</b>, <b>quant</b>, <b>tot</b>, <b>altre</b>, <b>cert</b> (p. ej. <b>poques coses</b>, <b>moltes vegades</b>). Invariables: <b>cada</b>, <b>cap</b>, <b>prou</b>, <b>força</b>, <b>massa</b>, <b>qualsevol</b> (plural <b>qualssevol</b>)."
+    },
+    {
+     "en": "<b>altre</b> needs an article: <b>un altre suc</b>, <b>una altra vegada</b> (never *altre suc). <b>tot</b> + article = all / the whole: <b>tota la classe</b>, <b>tots els dies</b>.",
+     "ko": "<b>altre</b>는 관사가 필요해요: <b>un altre suc</b>, <b>una altra vegada</b>(*altre suc 아님). <b>tot</b> + 관사 = 모든/전체: <b>tota la classe</b>, <b>tots els dies</b>.",
+     "es": "<b>altre</b> necesita artículo: <b>un altre suc</b>, <b>una altra vegada</b> (nunca *altre suc). <b>tot</b> + artículo = todo/entero: <b>tota la classe</b>, <b>tots els dies</b>."
+    },
+    {
+     "en": "<b>cap</b> means “no / any”: in negative sentences it goes with <b>no</b> (<b>No tinc cap pregunta</b>); in questions it means “any” (<b>Tens cap pregunta?</b>). In negatives and questions <b>molt</b> is often replaced by <b>gaire</b>: <b>No hi ha gaire gent</b>.",
+     "ko": "<b>cap</b>은 “하나도 ~않다 / 어떤”이라는 뜻이에요. 부정문에서는 <b>no</b>와 함께 쓰고(<b>No tinc cap pregunta</b>), 의문문에서는 “어떤”이란 뜻이에요(<b>Tens cap pregunta?</b>). 부정문과 의문문에서는 <b>molt</b> 대신 <b>gaire</b>를 자주 써요: <b>No hi ha gaire gent</b>.",
+     "es": "<b>cap</b> significa “ningún / algún”: en frases negativas va con <b>no</b> (<b>No tinc cap pregunta</b>); en preguntas significa “algún” (<b>Tens cap pregunta?</b>). En negativas y preguntas <b>molt</b> suele cambiarse por <b>gaire</b>: <b>No hi ha gaire gent</b>."
+    },
+    {
+     "en": "<b>cada</b> (each/every) goes with a singular noun: <b>cada dia</b>. Its pronoun forms are <b>cadascú</b> (everyone) and <b>cadascun / cadascuna</b> (each one).",
+     "ko": "<b>cada</b>(각각의/매)는 단수 명사와 함께 써요: <b>cada dia</b>. 대명사 형태는 <b>cadascú</b>(각자)와 <b>cadascun / cadascuna</b>(각각)예요.",
+     "es": "<b>cada</b> va con sustantivo singular: <b>cada dia</b>. Sus formas pronominales son <b>cadascú</b> (cada uno, todos) y <b>cadascun / cadascuna</b> (cada uno/una)."
+    }
+   ],
+   "table": {
+    "head": [
+     "#",
+     "cardinal (m. / f.)",
+     "ordinal (m. / f.)"
+    ],
+    "rows": [
+     [
+      "1",
+      "un / una",
+      "primer / primera"
+     ],
+     [
+      "2",
+      "dos / dues",
+      "segon / segona"
+     ],
+     [
+      "3",
+      "tres",
+      "tercer / tercera"
+     ],
+     [
+      "4",
+      "quatre",
+      "quart / quarta"
+     ],
+     [
+      "5",
+      "cinc",
+      "cinquè / cinquena"
+     ],
+     [
+      "9",
+      "nou",
+      "novè / novena"
+     ],
+     [
+      "10",
+      "deu",
+      "desè / desena"
+     ],
+     [
+      "17",
+      "disset",
+      "dissetè / dissetena"
+     ],
+     [
+      "21",
+      "vint-i-un / vint-i-una",
+      "vint-i-unè / vint-i-unena"
+     ],
+     [
+      "32",
+      "trenta-dos / trenta-dues",
+      "trenta-dosè / trenta-dosena"
+     ],
+     [
+      "100",
+      "cent",
+      "centè / centena"
+     ],
+     [
+      "200",
+      "dos-cents / dues-centes",
+      "–"
+     ],
+     [
+      "1.000",
+      "mil",
+      "mil·lèsim / mil·lèsima"
+     ]
+    ],
+    "speak": [
+     1,
+     2
+    ]
+   },
+   "examples": [
+    {
+     "ca": "A la meva classe som vint-i-dues noies i dotze nois.",
+     "en": "In my class there are twenty-two girls and twelve boys.",
+     "ko": "우리 반에는 여학생 22명과 남학생 12명이 있어.",
+     "es": "En mi clase somos veintidós chicas y doce chicos."
+    },
+    {
+     "ca": "Visc al cinquè pis i la meva amiga al segon.",
+     "en": "I live on the fifth floor and my friend on the second.",
+     "ko": "나는 5층에 살고 내 친구는 2층에 살아.",
+     "es": "Vivo en el quinto piso y mi amiga en el segundo."
+    },
+    {
+     "ca": "El partit va durar una hora i mitja.",
+     "en": "The match lasted an hour and a half.",
+     "ko": "경기는 한 시간 반 동안 했어.",
+     "es": "El partido duró una hora y media."
+    },
+    {
+     "ca": "Vols un altre tros de pizza?",
+     "en": "Do you want another slice of pizza?",
+     "ko": "피자 한 조각 더 먹을래?",
+     "es": "¿Quieres otro trozo de pizza?"
+    },
+    {
+     "ca": "No tinc cap examen aquesta setmana.",
+     "en": "I don’t have any exams this week.",
+     "ko": "이번 주에는 시험이 하나도 없어.",
+     "es": "No tengo ningún examen esta semana."
+    },
+    {
+     "ca": "Cada alumne porta el seu dinar a l’excursió.",
+     "en": "Each student brings their own lunch on the trip.",
+     "ko": "학생마다 소풍에 자기 도시락을 가져와.",
+     "es": "Cada alumno lleva su comida a la excursión."
+    },
+    {
+     "ca": "Avui hi ha força gent a la platja de la Barceloneta.",
+     "en": "There are quite a lot of people at Barceloneta beach today.",
+     "ko": "오늘 바르셀로네타 해변에 사람이 꽤 많아.",
+     "es": "Hoy hay bastante gente en la playa de la Barceloneta."
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "ca": "el problema",
+   "en": "the problem",
+   "ko": "문제",
+   "es": "el problema"
+  },
+  {
+   "ca": "la persona",
+   "en": "the person",
+   "ko": "사람",
+   "es": "la persona"
+  },
+  {
+   "ca": "el germà / la germana",
+   "en": "brother / sister",
+   "ko": "남자 형제 / 여자 형제",
+   "es": "el hermano / la hermana"
+  },
+  {
+   "ca": "bon / bona",
+   "en": "good",
+   "ko": "좋은",
+   "es": "buen / buena"
+  },
+  {
+   "ca": "dolent / dolenta",
+   "en": "bad",
+   "ko": "나쁜",
+   "es": "malo / mala"
+  },
+  {
+   "ca": "gran",
+   "en": "big, old; great (before a noun)",
+   "ko": "큰, 나이 든; (명사 앞) 위대한",
+   "es": "grande, mayor; gran (antepuesto)"
+  },
+  {
+   "ca": "a cal…",
+   "en": "at …’s house",
+   "ko": "~의 집에",
+   "es": "en casa de…"
+  },
+  {
+   "ca": "amb mi",
+   "en": "with me",
+   "ko": "나와 함께",
+   "es": "conmigo"
+  },
+  {
+   "ca": "vostè",
+   "en": "you (polite)",
+   "ko": "당신(존칭)",
+   "es": "usted"
+  },
+  {
+   "ca": "aquest / aquell",
+   "en": "this / that",
+   "ko": "이 / 저",
+   "es": "este / aquel"
+  },
+  {
+   "ca": "això / allò",
+   "en": "this / that (thing)",
+   "ko": "이것 / 저것",
+   "es": "esto / aquello"
+  },
+  {
+   "ca": "la meitat",
+   "en": "half (noun)",
+   "ko": "절반",
+   "es": "la mitad"
+  },
+  {
+   "ca": "cap",
+   "en": "no, not any; any (in questions)",
+   "ko": "하나도 ~않다; (의문문) 어떤",
+   "es": "ningún; algún (en preguntas)"
+  },
+  {
+   "ca": "gaire",
+   "en": "much, many (negatives/questions)",
+   "ko": "(부정·의문) 많이",
+   "es": "mucho (en negativas y preguntas)"
+  },
+  {
+   "ca": "un altre / una altra",
+   "en": "another",
+   "ko": "또 다른",
+   "es": "otro / otra"
+  },
+  {
+   "ca": "cadascú",
+   "en": "everyone, each person",
+   "ko": "각자",
+   "es": "cada uno"
+  }
+ ],
+ "exercises": [
+  {
+   "type": "mc",
+   "sec": "6.1",
+   "q": {
+    "en": "Choose the correct article.",
+    "ko": "알맞은 관사를 고르세요.",
+    "es": "Elige el artículo correcto."
+   },
+   "ca": "___ problema d’avui és molt difícil.",
+   "options": [
+    "La",
+    "El",
+    "L’",
+    "Les"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "<b>problema</b> ends in -a but is masculine (like <b>el mapa</b>, <b>el dia</b>), so it takes <b>el</b>.",
+    "ko": "<b>problema</b>는 -a로 끝나지만 남성 명사예요(<b>el mapa</b>, <b>el dia</b>처럼). 그래서 <b>el</b>을 써요.",
+    "es": "<b>problema</b> acaba en -a pero es masculino (como <b>el mapa</b>, <b>el dia</b>), así que lleva <b>el</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.1",
+   "q": {
+    "en": "Write the plural of the word in brackets.",
+    "ko": "괄호 안 단어의 복수형을 쓰세요.",
+    "es": "Escribe el plural de la palabra entre paréntesis."
+   },
+   "ca": "Al meu carrer hi ha moltes ___ (casa) antigues.",
+   "answer": [
+    "cases"
+   ],
+   "explain": {
+    "en": "An unstressed final -a becomes -es in the plural: <b>casa → cases</b>.",
+    "ko": "강세 없는 끝 -a는 복수에서 -es가 돼요: <b>casa → cases</b>.",
+    "es": "La -a final átona pasa a -es en plural: <b>casa → cases</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.1",
+   "q": {
+    "en": "Write the plural of the word in brackets.",
+    "ko": "괄호 안 단어의 복수형을 쓰세요.",
+    "es": "Escribe el plural de la palabra entre paréntesis."
+   },
+   "ca": "A la peixera tenim tres ___ (peix) taronja.",
+   "answer": [
+    "peixos"
+   ],
+   "explain": {
+    "en": "Masculine nouns ending in -ix add -os: <b>peix → peixos</b>.",
+    "ko": "-ix로 끝나는 남성 명사는 -os를 붙여요: <b>peix → peixos</b>.",
+    "es": "Los masculinos en -ix añaden -os: <b>peix → peixos</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.1",
+   "q": {
+    "en": "Write the plural of the word in brackets.",
+    "ko": "괄호 안 단어의 복수형을 쓰세요.",
+    "es": "Escribe el plural de la palabra entre paréntesis."
+   },
+   "ca": "Els meus dos ___ (germà) juguen a handbol.",
+   "answer": [
+    "germans"
+   ],
+   "explain": {
+    "en": "Many words with a final stressed vowel recover an n: <b>germà → germans</b>.",
+    "ko": "강세 모음으로 끝나는 많은 단어는 n이 다시 나타나요: <b>germà → germans</b>.",
+    "es": "Muchas palabras con vocal tónica final recuperan una n: <b>germà → germans</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.1",
+   "q": {
+    "en": "What is the plural of <b>sofà</b>?",
+    "ko": "<b>sofà</b>의 복수형은?",
+    "es": "¿Cuál es el plural de <b>sofà</b>?"
+   },
+   "options": [
+    "sofans",
+    "sofaes",
+    "sofàs"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "<b>sofà</b> is a loanword without a hidden n, so it simply adds -s: <b>sofàs</b>.",
+    "ko": "<b>sofà</b>는 숨은 n이 없는 외래어라서 -s만 붙여요: <b>sofàs</b>.",
+    "es": "<b>sofà</b> es un préstamo sin n oculta, así que solo añade -s: <b>sofàs</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.1",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "A l’estoig tinc quatre ___ de colors.",
+   "options": [
+    "llapis",
+    "llapisos",
+    "llapises",
+    "llapissos"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "<b>llapis</b> is stressed on the second-to-last syllable and already ends in -s, so it doesn’t change in the plural.",
+    "ko": "<b>llapis</b>는 끝에서 두 번째 음절에 강세가 있고 이미 -s로 끝나서 복수에서도 변하지 않아요.",
+    "es": "<b>llapis</b> es llana y ya acaba en -s, así que no cambia en plural."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "6.1",
+   "q": {
+    "en": "<b>persona</b> is feminine even when it refers to a man: <b>en Pau és una persona simpàtica</b>.",
+    "ko": "<b>persona</b>는 남자를 가리켜도 여성 명사예요: <b>en Pau és una persona simpàtica</b>.",
+    "es": "<b>persona</b> es femenino aunque se refiera a un hombre: <b>en Pau és una persona simpàtica</b>."
+   },
+   "answer": true,
+   "explain": {
+    "en": "Gender in Catalan is grammatical: <b>persona</b> is always feminine, whatever the sex of the person.",
+    "ko": "카탈루냐어의 성은 문법적인 것이라 <b>persona</b>는 실제 성별과 관계없이 항상 여성이에요.",
+    "es": "El género en catalán es gramatical: <b>persona</b> es siempre femenino, sea cual sea el sexo."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.2",
+   "q": {
+    "en": "Write the correct form of the word in brackets.",
+    "ko": "괄호 안 단어의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta de la palabra entre paréntesis."
+   },
+   "ca": "La meva samarreta preferida és ___ (blau).",
+   "answer": [
+    "blava"
+   ],
+   "explain": {
+    "en": "Adjectives ending in -au make the feminine in -ava: <b>blau → blava</b>.",
+    "ko": "-au로 끝나는 형용사의 여성형은 -ava예요: <b>blau → blava</b>.",
+    "es": "Los adjetivos en -au forman el femenino en -ava: <b>blau → blava</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.2",
+   "q": {
+    "en": "Write the correct form of the word in brackets.",
+    "ko": "괄호 안 단어의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta de la palabra entre paréntesis."
+   },
+   "ca": "Les noves companyes de classe són molt ___ (simpàtic).",
+   "answer": [
+    "simpàtiques"
+   ],
+   "explain": {
+    "en": "Feminine plural: <b>simpàtica</b> → <b>simpàtiques</b>; c becomes qu before e to keep the k sound.",
+    "ko": "여성 복수: <b>simpàtica</b> → <b>simpàtiques</b>. k 소리를 유지하려고 e 앞에서 c가 qu로 바뀌어요.",
+    "es": "Femenino plural: <b>simpàtica</b> → <b>simpàtiques</b>; la c pasa a qu ante e para mantener el sonido."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.2",
+   "q": {
+    "en": "Write the correct form of the word in brackets.",
+    "ko": "괄호 안 단어의 알맞은 형태를 쓰세요.",
+    "es": "Escribe la forma correcta de la palabra entre paréntesis."
+   },
+   "ca": "En Biel és un ___ (bo) amic: sempre m’ajuda.",
+   "answer": [
+    "bon"
+   ],
+   "explain": {
+    "en": "Before a masculine singular noun, <b>bo</b> becomes <b>bon</b>.",
+    "ko": "남성 단수 명사 앞에서 <b>bo</b>는 <b>bon</b>이 돼요.",
+    "es": "Delante de un sustantivo masculino singular, <b>bo</b> pasa a <b>bon</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.2",
+   "q": {
+    "en": "Which sentence means “She is a great writer”?",
+    "ko": "“그녀는 위대한 작가예요”라는 뜻의 문장은?",
+    "es": "¿Qué frase significa “Es una gran escritora”?"
+   },
+   "options": [
+    "És una escriptora gran.",
+    "És una gran escriptora.",
+    "És una escriptora grana."
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Before the noun <b>gran</b> means “great”; after the noun it means “old” or “big”.",
+    "ko": "<b>gran</b>이 명사 앞에 오면 “위대한”, 뒤에 오면 “나이 든/큰”이라는 뜻이에요.",
+    "es": "Delante del sustantivo <b>gran</b> significa “gran, importante”; detrás significa “mayor” o “grande”."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.2",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "No compris aquest pa, és ___.",
+   "options": [
+    "mal",
+    "dolent",
+    "bon",
+    "mala"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "After the verb <b>ser</b> (not before a noun) we use the full form <b>dolent</b>; <b>mal</b> only goes before a noun.",
+    "ko": "명사 앞이 아니라 <b>ser</b> 뒤에서는 완전한 형태 <b>dolent</b>를 써요. <b>mal</b>은 명사 앞에서만 써요.",
+    "es": "Tras el verbo <b>ser</b> (no delante de un sustantivo) se usa la forma plena <b>dolent</b>; <b>mal</b> solo va delante del sustantivo."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "6.2",
+   "q": {
+    "en": "“A very tall girl” is <b>una noia molta alta</b>.",
+    "ko": "“아주 키 큰 소녀”는 <b>una noia molta alta</b>이다.",
+    "es": "“Una chica muy alta” es <b>una noia molta alta</b>."
+   },
+   "answer": false,
+   "explain": {
+    "en": "When <b>molt</b> modifies an adjective it is an adverb and does not change: <b>una noia molt alta</b>.",
+    "ko": "<b>molt</b>가 형용사를 꾸밀 때는 부사라서 변하지 않아요: <b>una noia molt alta</b>.",
+    "es": "Cuando <b>molt</b> modifica un adjetivo es adverbio y no varía: <b>una noia molt alta</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.2",
+   "q": {
+    "en": "How do you say “drinking water” in Catalan?",
+    "ko": "“식수(drinking water)”를 카탈루냐어로?",
+    "es": "¿Cómo se dice “agua potable” en catalán?"
+   },
+   "options": [
+    "aigua bevent",
+    "beure aigua",
+    "aigua potable",
+    "aigua de bevent"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "Catalan rarely uses an -ing form as an adjective; it uses a proper adjective instead: <b>aigua potable</b>.",
+    "ko": "카탈루냐어는 -ing 형태를 형용사로 잘 쓰지 않고 대신 형용사를 써요: <b>aigua potable</b>.",
+    "es": "El catalán casi no usa formas en -ing como adjetivo; usa un adjetivo propio: <b>aigua potable</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.3",
+   "q": {
+    "en": "Write the contraction of the preposition and article.",
+    "ko": "전치사와 관사의 축약형을 쓰세요.",
+    "es": "Escribe la contracción de preposición y artículo."
+   },
+   "ca": "Dissabte anem ___ (a + el) cinema.",
+   "answer": [
+    "al"
+   ],
+   "explain": {
+    "en": "<b>a + el</b> always contracts to <b>al</b>.",
+    "ko": "<b>a + el</b>은 항상 <b>al</b>로 줄여요.",
+    "es": "<b>a + el</b> siempre se contrae en <b>al</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.3",
+   "q": {
+    "en": "Choose the correct article.",
+    "ko": "알맞은 관사를 고르세요.",
+    "es": "Elige el artículo correcto."
+   },
+   "ca": "Aquest estiu anirem a ___ illa de Menorca.",
+   "options": [
+    "la",
+    "l’",
+    "el"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "<b>illa</b> begins with a stressed i, so <b>la</b> becomes <b>l’</b>: <b>l’illa</b>.",
+    "ko": "<b>illa</b>는 강세 있는 i로 시작하므로 <b>la</b>가 <b>l’</b>가 돼요: <b>l’illa</b>.",
+    "es": "<b>illa</b> empieza por i tónica, así que <b>la</b> se apostrofa: <b>l’illa</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.3",
+   "q": {
+    "en": "Choose the correct article.",
+    "ko": "알맞은 관사를 고르세요.",
+    "es": "Elige el artículo correcto."
+   },
+   "ca": "La meva cosina estudia a ___ universitat de València.",
+   "options": [
+    "la",
+    "l’",
+    "el",
+    "les"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "<b>universitat</b> begins with an unstressed u, so the feminine article stays <b>la</b>.",
+    "ko": "<b>universitat</b>는 강세 없는 u로 시작하므로 여성 관사는 <b>la</b> 그대로예요.",
+    "es": "<b>universitat</b> empieza por u átona, así que el artículo femenino se mantiene: <b>la</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.3",
+   "q": {
+    "en": "Choose the personal article (Central Catalan).",
+    "ko": "알맞은 인칭 관사를 고르세요(중부 카탈루냐어).",
+    "es": "Elige el artículo personal (catalán central)."
+   },
+   "ca": "Ahir vaig jugar a futbol amb ___ Jordi.",
+   "options": [
+    "la",
+    "na",
+    "l’",
+    "en"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Boys’ names starting with a consonant take <b>en</b> in Central Catalan: <b>en Jordi</b>.",
+    "ko": "중부 카탈루냐어에서 자음으로 시작하는 남자 이름에는 <b>en</b>을 써요: <b>en Jordi</b>.",
+    "es": "Los nombres masculinos que empiezan por consonante llevan <b>en</b> en catalán central: <b>en Jordi</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.3",
+   "q": {
+    "en": "Write the article that goes before the name.",
+    "ko": "이름 앞에 오는 관사를 쓰세요.",
+    "es": "Escribe el artículo que va delante del nombre."
+   },
+   "ca": "Aquesta tarda he quedat amb ___ Anna per estudiar.",
+   "answer": [
+    "l’",
+    "l'"
+   ],
+   "explain": {
+    "en": "Before a name starting with a vowel the article becomes <b>l’</b>: <b>l’Anna</b>.",
+    "ko": "모음으로 시작하는 이름 앞에서는 관사가 <b>l’</b>가 돼요: <b>l’Anna</b>.",
+    "es": "Ante un nombre que empieza por vocal el artículo es <b>l’</b>: <b>l’Anna</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.3",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "La farmàcia és ___ altre costat del carrer.",
+   "options": [
+    "al",
+    "a el",
+    "a l’"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "When the article is already shortened to <b>l’</b> there is no contraction: <b>a l’altre costat</b>.",
+    "ko": "관사가 이미 <b>l’</b>로 줄어 있으면 전치사와 합치지 않아요: <b>a l’altre costat</b>.",
+    "es": "Si el artículo ya está apostrofado no hay contracción: <b>a l’altre costat</b>."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "6.3",
+   "q": {
+    "en": "“Cats are mammals” in Catalan needs an article: <b>Els gats són mamífers</b>.",
+    "ko": "“고양이는 포유류다”를 카탈루냐어로 하면 관사가 필요하다: <b>Els gats són mamífers</b>.",
+    "es": "“Los gatos son mamíferos” en catalán lleva artículo: <b>Els gats són mamífers</b>."
+   },
+   "answer": true,
+   "explain": {
+    "en": "Catalan uses the definite article for nouns used in a general sense, unlike English.",
+    "ko": "카탈루냐어는 영어와 달리 일반적인 의미의 명사에도 정관사를 써요.",
+    "es": "El catalán usa el artículo definido con sustantivos en sentido general, a diferencia del inglés."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.4",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "És un regal per a ___? Moltes gràcies!",
+   "options": [
+    "jo",
+    "em",
+    "mi",
+    "me"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "After a preposition like <b>per a</b>, “me” is <b>mi</b>.",
+    "ko": "<b>per a</b> 같은 전치사 뒤에서 “나”는 <b>mi</b>예요.",
+    "es": "Tras una preposición como <b>per a</b>, “mí” es <b>mi</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.4",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Segons ___, aquesta sèrie és la millor de l’any.",
+   "options": [
+    "jo",
+    "mi",
+    "meu"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "<b>segons</b> is the exception: it takes <b>jo</b>, not <b>mi</b>.",
+    "ko": "<b>segons</b>은 예외라서 <b>mi</b>가 아니라 <b>jo</b>를 써요.",
+    "es": "<b>segons</b> es la excepción: lleva <b>jo</b>, no <b>mi</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.4",
+   "q": {
+    "en": "Write the pronoun meaning “me”.",
+    "ko": "“나”를 뜻하는 대명사를 쓰세요.",
+    "es": "Escribe el pronombre que significa “mí”."
+   },
+   "ca": "Vols venir amb ___ a la biblioteca?",
+   "answer": [
+    "mi"
+   ],
+   "explain": {
+    "en": "After <b>amb</b> (a preposition) we use <b>mi</b>.",
+    "ko": "전치사 <b>amb</b> 뒤에서는 <b>mi</b>를 써요.",
+    "es": "Tras <b>amb</b> (preposición) se usa <b>mi</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.4",
+   "q": {
+    "en": "Write the reflexive pronoun.",
+    "ko": "재귀 대명사를 쓰세요.",
+    "es": "Escribe el pronombre reflexivo."
+   },
+   "ca": "La Marta s’ha comprat el regal per a ___ mateixa.",
+   "answer": [
+    "si"
+   ],
+   "explain": {
+    "en": "<b>si</b> refers back to the 3rd-person subject after a preposition: <b>per a si mateixa</b>.",
+    "ko": "<b>si</b>는 전치사 뒤에서 3인칭 주어 자신을 가리켜요: <b>per a si mateixa</b>.",
+    "es": "<b>si</b> remite al sujeto de 3.ª persona tras preposición: <b>per a si mateixa</b>."
+   }
+  },
+  {
+   "type": "tf",
+   "sec": "6.4",
+   "q": {
+    "en": "In Catalan you must always say the subject pronoun: <b>Jo parlo anglès</b>.",
+    "ko": "카탈루냐어에서는 항상 주어 대명사를 말해야 한다: <b>Jo parlo anglès</b>.",
+    "es": "En catalán siempre hay que decir el pronombre sujeto: <b>Jo parlo anglès</b>."
+   },
+   "answer": false,
+   "explain": {
+    "en": "The verb ending already shows the person (<b>parlo</b> = I speak), so the pronoun is only used for emphasis, contrast or clarity.",
+    "ko": "동사 어미가 이미 인칭을 보여 주기 때문에(<b>parlo</b> = 나는 말한다) 대명사는 강조, 대조, 명확성이 필요할 때만 써요.",
+    "es": "La terminación verbal ya indica la persona (<b>parlo</b> = hablo), así que el pronombre solo se usa para enfatizar, contrastar o aclarar."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.4",
+   "q": {
+    "en": "Choose the polite way to ask an older stranger “Do you speak Catalan?”.",
+    "ko": "처음 보는 어른에게 “카탈루냐어 하세요?”라고 공손하게 묻는 문장을 고르세요.",
+    "es": "Elige la forma educada de preguntar a un desconocido mayor “¿Habla catalán?”."
+   },
+   "options": [
+    "Tu parles català?",
+    "Vosaltres parleu català?",
+    "Vostè parla català?"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "<b>vostè</b> is the polite “you” and takes a 3rd-person verb: <b>parla</b>.",
+    "ko": "<b>vostè</b>는 존칭 “당신”이고 동사는 3인칭 <b>parla</b>를 써요.",
+    "es": "<b>vostè</b> es el tratamiento formal y lleva verbo en 3.ª persona: <b>parla</b>."
+   }
+  },
+  {
+   "type": "match",
+   "sec": "6.4",
+   "q": {
+    "en": "Match each pronoun with its meaning.",
+    "ko": "대명사와 뜻을 연결하세요.",
+    "es": "Relaciona cada pronombre con su significado."
+   },
+   "pairs": [
+    {
+     "l": "nosaltres",
+     "r": {
+      "en": "we",
+      "ko": "우리",
+      "es": "nosotros"
+     }
+    },
+    {
+     "l": "vosaltres",
+     "r": {
+      "en": "you (plural, informal)",
+      "ko": "너희",
+      "es": "vosotros"
+     }
+    },
+    {
+     "l": "vostè",
+     "r": {
+      "en": "you (singular, polite)",
+      "ko": "당신(존칭)",
+      "es": "usted"
+     }
+    },
+    {
+     "l": "elles",
+     "r": {
+      "en": "they (feminine)",
+      "ko": "그녀들",
+      "es": "ellas"
+     }
+    },
+    {
+     "l": "mi",
+     "r": {
+      "en": "me (after a preposition)",
+      "ko": "나(전치사 뒤)",
+      "es": "mí"
+     }
+    }
+   ]
+  },
+  {
+   "type": "fill",
+   "sec": "6.5",
+   "q": {
+    "en": "Write the possessive meaning “my”.",
+    "ko": "“나의”를 뜻하는 소유사를 쓰세요.",
+    "es": "Escribe el posesivo que significa “mi”."
+   },
+   "ca": "La ___ germana fa natació tres dies per setmana.",
+   "answer": [
+    "meva"
+   ],
+   "explain": {
+    "en": "<b>germana</b> is feminine singular, so “my” is <b>la meva</b>.",
+    "ko": "<b>germana</b>는 여성 단수라서 “나의”는 <b>la meva</b>예요.",
+    "es": "<b>germana</b> es femenino singular, así que “mi” es <b>la meva</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.5",
+   "q": {
+    "en": "Choose “your” (tu).",
+    "ko": "“너의”(tu)를 고르세요.",
+    "es": "Elige “tus” (tu)."
+   },
+   "ca": "Els ___ amics són molt divertits.",
+   "options": [
+    "teu",
+    "teves",
+    "teus",
+    "teva"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "The possessive agrees with <b>amics</b> (masculine plural): <b>els teus amics</b>.",
+    "ko": "소유사는 <b>amics</b>(남성 복수)에 맞춰요: <b>els teus amics</b>.",
+    "es": "El posesivo concuerda con <b>amics</b> (masculino plural): <b>els teus amics</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.5",
+   "q": {
+    "en": "Choose the possessive meaning “her”.",
+    "ko": "“그녀의”를 뜻하는 소유사를 고르세요.",
+    "es": "Elige el posesivo que significa “sus” (de ella)."
+   },
+   "ca": "La Núria ha oblidat els ___ llibres a l’autobús.",
+   "options": [
+    "seves",
+    "seus",
+    "seva",
+    "seu"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "It agrees with the thing owned, <b>llibres</b> (masculine plural), not with the owner: <b>els seus llibres</b>.",
+    "ko": "소유자가 아니라 소유물 <b>llibres</b>(남성 복수)에 맞춰요: <b>els seus llibres</b>.",
+    "es": "Concuerda con lo poseído, <b>llibres</b> (masculino plural), no con la poseedora: <b>els seus llibres</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.5",
+   "q": {
+    "en": "Choose the demonstrative for things far away.",
+    "ko": "멀리 있는 것을 가리키는 지시사를 고르세요.",
+    "es": "Elige el demostrativo para cosas lejanas."
+   },
+   "ca": "___ noies d’allà són de la meva escola.",
+   "options": [
+    "Aquestes",
+    "Aquells",
+    "Aquelles",
+    "Això"
+   ],
+   "answer": 2,
+   "explain": {
+    "en": "The girls are far away (“allà”) and <b>noies</b> is feminine plural: <b>aquelles</b>.",
+    "ko": "소녀들이 멀리(“allà”) 있고 <b>noies</b>는 여성 복수라서 <b>aquelles</b>예요.",
+    "es": "Las chicas están lejos (“allà”) y <b>noies</b> es femenino plural: <b>aquelles</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.5",
+   "q": {
+    "en": "Write the neuter demonstrative meaning “this”.",
+    "ko": "“이것”을 뜻하는 중성 지시사를 쓰세요.",
+    "es": "Escribe el demostrativo neutro que significa “esto”."
+   },
+   "ca": "Què és ___? Fa una olor molt estranya!",
+   "answer": [
+    "això"
+   ],
+   "explain": {
+    "en": "For an unknown thing with no noun we use the neuter <b>això</b>.",
+    "ko": "이름을 모르는 것을 명사 없이 가리킬 때는 중성 <b>això</b>를 써요.",
+    "es": "Para algo desconocido sin sustantivo se usa el neutro <b>això</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.5",
+   "q": {
+    "en": "Choose the short (unstressed) possessive meaning “my”.",
+    "ko": "“나의”를 뜻하는 짧은(비강세) 소유사를 고르세요.",
+    "es": "Elige el posesivo átono que significa “mi”."
+   },
+   "ca": "___ mare és de Palma i mon pare és de Lleida.",
+   "options": [
+    "Ma",
+    "Mon",
+    "Mes"
+   ],
+   "answer": 0,
+   "explain": {
+    "en": "<b>mare</b> is feminine singular, so the short form is <b>ma</b> (ma mare).",
+    "ko": "<b>mare</b>는 여성 단수라서 짧은 형태는 <b>ma</b>예요(ma mare).",
+    "es": "<b>mare</b> es femenino singular, así que la forma átona es <b>ma</b> (ma mare)."
+   }
+  },
+  {
+   "type": "order",
+   "sec": "6.5",
+   "q": {
+    "en": "Put the words in order to make a sentence.",
+    "ko": "단어를 순서대로 배열해 문장을 만드세요.",
+    "es": "Ordena las palabras para formar una frase."
+   },
+   "words": [
+    "aquesta",
+    "bicicleta",
+    "és",
+    "meva"
+   ],
+   "answer": "Aquesta bicicleta és meva",
+   "explain": {
+    "en": "After <b>ser</b>, to say who owns something, the possessive goes without an article: <b>és meva</b>.",
+    "ko": "<b>ser</b> 뒤에서 누구 것인지 말할 때는 관사 없이 소유사를 써요: <b>és meva</b>.",
+    "es": "Tras <b>ser</b>, para indicar el dueño, el posesivo va sin artículo: <b>és meva</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.6",
+   "q": {
+    "en": "How do you write 22 in “22 girls”?",
+    "ko": "“22명의 소녀”에서 22는 어떻게 쓰나요?",
+    "es": "¿Cómo se escribe 22 en “22 chicas”?"
+   },
+   "options": [
+    "vint-i-dos",
+    "vint-dues",
+    "vint i dues",
+    "vint-i-dues"
+   ],
+   "answer": 3,
+   "explain": {
+    "en": "Tens and units are joined with <b>-i-</b> and hyphens, and <b>noies</b> is feminine: <b>vint-i-dues noies</b>.",
+    "ko": "십 단위와 일 단위는 하이픈과 <b>-i-</b>로 연결하고, <b>noies</b>는 여성이에요: <b>vint-i-dues noies</b>.",
+    "es": "Decenas y unidades se unen con guiones y <b>-i-</b>, y <b>noies</b> es femenino: <b>vint-i-dues noies</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.6",
+   "q": {
+    "en": "Write the ordinal number.",
+    "ko": "서수를 쓰세요.",
+    "es": "Escribe el número ordinal."
+   },
+   "ca": "La Mireia va arribar ___ (3rd) a la cursa de l’escola.",
+   "answer": [
+    "tercera"
+   ],
+   "explain": {
+    "en": "Ordinals 1–4 are irregular and agree with the noun: <b>tercer → tercera</b> for a girl.",
+    "ko": "서수 1–4는 불규칙이고 성·수 일치를 해요: 여자이므로 <b>tercer → tercera</b>.",
+    "es": "Los ordinales 1–4 son irregulares y concuerdan: para una chica, <b>tercer → tercera</b>."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.6",
+   "q": {
+    "en": "Write the word for “half”.",
+    "ko": "“반”을 뜻하는 말을 쓰세요.",
+    "es": "Escribe la palabra para “media”."
+   },
+   "ca": "Us he esperat dues hores i ___!",
+   "answer": [
+    "mitja"
+   ],
+   "explain": {
+    "en": "To add a half to a quantity Catalan uses the adjective, agreeing with <b>hores</b>: <b>i mitja</b> (not <i>i meitat</i>).",
+    "ko": "수량에 반을 더할 때는 형용사를 쓰고 <b>hores</b>에 맞춰요: <b>i mitja</b>(<i>i meitat</i> 아님).",
+    "es": "Para añadir “y media” se usa el adjetivo, concordando con <b>hores</b>: <b>i mitja</b> (no <i>i meitat</i>)."
+   }
+  },
+  {
+   "type": "fill",
+   "sec": "6.6",
+   "q": {
+    "en": "Write the word meaning “no / not any”.",
+    "ko": "“하나도 (~않다)”를 뜻하는 말을 쓰세요.",
+    "es": "Escribe la palabra que significa “ningún”."
+   },
+   "ca": "Tranquil, no tinc ___ pressa.",
+   "answer": [
+    "cap"
+   ],
+   "explain": {
+    "en": "<b>cap</b> + <b>no</b> means “not any / no”: <b>no tinc cap pressa</b>.",
+    "ko": "<b>cap</b> + <b>no</b>는 “하나도 ~않다”예요: <b>no tinc cap pressa</b>.",
+    "es": "<b>cap</b> + <b>no</b> significa “ningún”: <b>no tinc cap pressa</b>."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.6",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "___ alumne ha de portar el seu portàtil.",
+   "options": [
+    "Cadascú",
+    "Cada",
+    "Cades",
+    "Tot"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "Before a singular noun we use the invariable <b>cada</b>; <b>cadascú</b> is a pronoun and can’t go with a noun.",
+    "ko": "단수 명사 앞에서는 변하지 않는 <b>cada</b>를 써요. <b>cadascú</b>는 대명사라 명사와 함께 쓸 수 없어요.",
+    "es": "Delante de un sustantivo singular se usa <b>cada</b>, invariable; <b>cadascú</b> es pronombre y no acompaña a sustantivos."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.6",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Avui no hi ha ___ gent a la platja.",
+   "options": [
+    "gaires",
+    "gaire",
+    "gaira"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "In negative sentences <b>gaire</b> replaces <b>molt</b>; <b>gent</b> is singular and gaire has no feminine form.",
+    "ko": "부정문에서는 <b>molt</b> 대신 <b>gaire</b>를 써요. <b>gent</b>는 단수이고 gaire에는 여성형이 없어요.",
+    "es": "En frases negativas <b>gaire</b> sustituye a <b>molt</b>; <b>gent</b> es singular y gaire no tiene femenino."
+   }
+  },
+  {
+   "type": "mc",
+   "sec": "6.6",
+   "q": {
+    "en": "Choose the correct option.",
+    "ko": "알맞은 것을 고르세요.",
+    "es": "Elige la opción correcta."
+   },
+   "ca": "Puc agafar ___ galeta, si us plau?",
+   "options": [
+    "altra",
+    "una altra",
+    "un altre",
+    "altre"
+   ],
+   "answer": 1,
+   "explain": {
+    "en": "<b>altre</b> needs an article and agrees with <b>galeta</b> (feminine): <b>una altra galeta</b>.",
+    "ko": "<b>altre</b>는 관사가 필요하고 <b>galeta</b>(여성)에 맞춰요: <b>una altra galeta</b>.",
+    "es": "<b>altre</b> necesita artículo y concuerda con <b>galeta</b> (femenino): <b>una altra galeta</b>."
+   }
+  },
+  {
+   "type": "order",
+   "sec": "6.6",
+   "q": {
+    "en": "Put the words in order to make a sentence.",
+    "ko": "단어를 순서대로 배열해 문장을 만드세요.",
+    "es": "Ordena las palabras para formar una frase."
+   },
+   "words": [
+    "tota",
+    "la",
+    "classe",
+    "va",
+    "d’excursió"
+   ],
+   "answer": "Tota la classe va d’excursió",
+   "explain": {
+    "en": "<b>tot/tota</b> comes before the article to mean “the whole”: <b>tota la classe</b>.",
+    "ko": "<b>tot/tota</b>는 관사 앞에 와서 “전체”를 뜻해요: <b>tota la classe</b>.",
+    "es": "<b>tot/tota</b> va delante del artículo con el sentido de “toda la”: <b>tota la classe</b>."
+   }
+  },
+  {
+   "type": "match",
+   "sec": "6.6",
+   "q": {
+    "en": "Match each number with its figure.",
+    "ko": "숫자 단어와 숫자를 연결하세요.",
+    "es": "Relaciona cada número con su cifra."
+   },
+   "pairs": [
+    {
+     "l": "quinze",
+     "r": {
+      "en": "15",
+      "ko": "15",
+      "es": "15"
+     }
+    },
+    {
+     "l": "disset",
+     "r": {
+      "en": "17",
+      "ko": "17",
+      "es": "17"
+     }
+    },
+    {
+     "l": "dinou",
+     "r": {
+      "en": "19",
+      "ko": "19",
+      "es": "19"
+     }
+    },
+    {
+     "l": "cinquanta",
+     "r": {
+      "en": "50",
+      "ko": "50",
+      "es": "50"
+     }
+    },
+    {
+     "l": "noranta",
+     "r": {
+      "en": "90",
+      "ko": "90",
+      "es": "90"
+     }
+    },
+    {
+     "l": "quart",
+     "r": {
+      "en": "4th",
+      "ko": "네 번째",
+      "es": "cuarto"
+     }
+    }
+   ]
+  }
+ ]
+}

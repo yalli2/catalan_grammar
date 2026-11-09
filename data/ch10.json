@@ -1,0 +1,147 @@
+{
+  "id": 10,
+  "part": 2,
+  "icon": "🔗",
+  "title": {"ca": "Els compostos", "en": "Compounds", "ko": "합성어", "es": "Los compuestos"},
+  "summary": {
+    "en": "A compound is one word built from two stems, like English ‘dishwasher’. Catalan usually puts the main part on the left and the describing part on the right, which is the opposite of English. In this chapter you meet the four main patterns: verb + noun, noun + noun, noun + verb and noun + adjective.",
+    "ko": "합성어는 영어 ‘dishwasher’처럼 두 어간을 합쳐 만든 한 단어예요. 카탈루냐어는 보통 중심이 되는 부분을 왼쪽에, 꾸며 주는 부분을 오른쪽에 두는데, 영어와 반대예요. 이 장에서는 네 가지 주요 유형인 동사 + 명사, 명사 + 명사, 명사 + 동사, 명사 + 형용사를 배워요.",
+    "es": "Un compuesto es una palabra formada por dos raíces, como lavaplatos. El catalán suele poner el elemento principal a la izquierda y el que lo describe a la derecha, al revés que el inglés. En este capítulo verás los cuatro tipos principales: verbo + nombre, nombre + nombre, nombre + verbo y nombre + adjetivo."
+  },
+  "goals": [
+    {"en": "You will be able to understand and form verb + noun compounds like rentaplats.", "ko": "rentaplats 같은 동사 + 명사 합성어를 이해하고 만들 수 있어요.", "es": "Podrás entender y formar compuestos verbo + nombre como rentaplats."},
+    {"en": "You will be able to make the plural of compounds correctly.", "ko": "합성어의 복수형을 올바르게 만들 수 있어요.", "es": "Podrás formar correctamente el plural de los compuestos."},
+    {"en": "You will be able to use noun + noun combinations such as festa sorpresa.", "ko": "festa sorpresa 같은 명사 + 명사 결합을 쓸 수 있어요.", "es": "Podrás usar combinaciones nombre + nombre como festa sorpresa."},
+    {"en": "You will be able to recognise noun + verb and noun + adjective compounds and make them agree.", "ko": "명사 + 동사, 명사 + 형용사 합성어를 알아보고 일치시킬 수 있어요.", "es": "Podrás reconocer compuestos nombre + verbo y nombre + adjetivo y hacerlos concordar."}
+  ],
+  "sections": [
+    {
+      "id": "10.1",
+      "title": {"ca": "Verb + nom", "en": "Verb + noun", "ko": "동사 + 명사", "es": "Verbo + nombre"},
+      "points": [
+        {"en": "The verb comes first, in the form of the 3rd person singular present (<b>renta</b>, <b>obre</b>, <b>talla</b>, <b>porta</b>), followed by a noun: <b>renta + plats → rentaplats</b>.", "ko": "동사가 먼저 오고 3인칭 단수 현재형(<b>renta</b>, <b>obre</b>, <b>talla</b>, <b>porta</b>)으로 쓰며, 그 뒤에 명사가 와요: <b>renta + plats → rentaplats</b>.", "es": "El verbo va primero, en 3.ª persona del singular del presente (<b>renta</b>, <b>obre</b>, <b>talla</b>, <b>porta</b>), seguido de un nombre: <b>renta + plats → rentaplats</b>."},
+        {"en": "The result names a person or a thing that does the action to the noun: an <b>obrellaunes</b> opens tins, a <b>tallaungles</b> cuts nails.", "ko": "그 결과는 명사에 그 행동을 하는 사람이나 물건을 가리켜요: <b>obrellaunes</b>는 캔을 따는 것, <b>tallaungles</b>는 손톱을 깎는 것이에요.", "es": "El resultado nombra a una persona o cosa que realiza la acción sobre el nombre: un <b>obrellaunes</b> abre latas, un <b>tallaungles</b> corta uñas."},
+        {"en": "These compounds are usually masculine: <b>el rentaplats</b>, <b>el paraigua</b>.", "ko": "이런 합성어는 대개 남성이에요: <b>el rentaplats</b>, <b>el paraigua</b>.", "es": "Estos compuestos suelen ser masculinos: <b>el rentaplats</b>, <b>el paraigua</b>."},
+        {"en": "If the noun is already plural, the word is the same in singular and plural: <b>un trencaclosques</b>, <b>dos trencaclosques</b>.", "ko": "명사가 이미 복수형이면 단수와 복수의 형태가 같아요: <b>un trencaclosques</b>, <b>dos trencaclosques</b>.", "es": "Si el nombre ya está en plural, la palabra es igual en singular y en plural: <b>un trencaclosques</b>, <b>dos trencaclosques</b>."},
+        {"en": "If the noun is singular, the compound takes a normal plural: <b>un gratacel → dos gratacels</b>, <b>un portaveu → dos portaveus</b>.", "ko": "명사가 단수형이면 합성어도 일반적인 복수형을 가져요: <b>un gratacel → dos gratacels</b>, <b>un portaveu → dos portaveus</b>.", "es": "Si el nombre está en singular, el compuesto hace un plural normal: <b>un gratacel → dos gratacels</b>, <b>un portaveu → dos portaveus</b>."}
+      ],
+      "table": {
+        "head": ["verb", "noun", "compound", "meaning"],
+        "rows": [
+          ["renta", "plats", "rentaplats", "dishwasher"],
+          ["obre", "llaunes", "obrellaunes", "tin opener"],
+          ["trenca", "closques", "trencaclosques", "jigsaw puzzle"],
+          ["para", "aigua", "paraigua", "umbrella"],
+          ["grata", "cel", "gratacel", "skyscraper"],
+          ["porta", "veu", "portaveu", "spokesperson"]
+        ],
+        "speak": [0, 1, 2]
+      },
+      "examples": [
+        {"ca": "Posa els gots al rentaplats, si us plau.", "en": "Put the glasses in the dishwasher, please.", "ko": "컵들을 식기세척기에 넣어 줘.", "es": "Pon los vasos en el lavavajillas, por favor."},
+        {"ca": "No trobo l’obrellaunes enlloc.", "en": "I can’t find the tin opener anywhere.", "ko": "캔 따개를 어디에서도 못 찾겠어.", "es": "No encuentro el abrelatas por ningún sitio."},
+        {"ca": "El meu germà fa un trencaclosques de mil peces.", "en": "My brother is doing a thousand‑piece jigsaw puzzle.", "ko": "우리 오빠는 천 조각짜리 퍼즐을 맞추고 있어.", "es": "Mi hermano hace un rompecabezas de mil piezas."},
+        {"ca": "Agafa el paraigua, que el cel està tapat.", "en": "Take the umbrella, the sky is cloudy.", "ko": "우산 챙겨, 하늘이 흐려.", "es": "Coge el paraguas, que el cielo está nublado."},
+        {"ca": "A Nova York hi ha gratacels altíssims.", "en": "In New York there are extremely tall skyscrapers.", "ko": "뉴욕에는 엄청 높은 고층 빌딩들이 있어.", "es": "En Nueva York hay rascacielos altísimos."},
+        {"ca": "La portaveu del grup parla amb la directora.", "en": "The group’s spokesperson is talking to the head teacher.", "ko": "모둠 대표가 교장 선생님과 이야기하고 있어.", "es": "La portavoz del grupo habla con la directora."}
+      ]
+    },
+    {
+      "id": "10.2",
+      "title": {"ca": "Nom + nom", "en": "Noun + noun", "ko": "명사 + 명사", "es": "Nombre + nombre"},
+      "points": [
+        {"en": "Two nouns are placed side by side and the second one describes the first, like an adjective: <b>sofà llit</b> (a sofa that is also a bed), <b>camió cisterna</b> (tanker lorry).", "ko": "두 명사를 나란히 두고 두 번째 명사가 형용사처럼 첫 번째를 꾸며요: <b>sofà llit</b>(침대도 되는 소파), <b>camió cisterna</b>(탱크로리).", "es": "Dos nombres van juntos y el segundo describe al primero, como un adjetivo: <b>sofà llit</b> (sofá cama), <b>camió cisterna</b>."},
+        {"en": "They are normally written as two separate words.", "ko": "보통 두 단어로 띄어 써요.", "es": "Normalmente se escriben como dos palabras separadas."},
+        {"en": "In the plural, usually only the first noun changes: <b>una festa sorpresa → dues festes sorpresa</b>, <b>un sofà llit → dos sofàs llit</b>.", "ko": "복수형에서는 보통 첫 번째 명사만 바뀌어요: <b>una festa sorpresa → dues festes sorpresa</b>, <b>un sofà llit → dos sofàs llit</b>.", "es": "En plural, normalmente solo cambia el primer nombre: <b>una festa sorpresa → dues festes sorpresa</b>, <b>un sofà llit → dos sofàs llit</b>."},
+        {"en": "A colour followed by an object or animal gives a precise shade: <b>verd poma</b> (apple green), <b>groc canari</b> (canary yellow), <b>gris perla</b> (pearl grey).", "ko": "색 이름 뒤에 사물이나 동물 이름을 붙이면 정확한 색조를 나타내요: <b>verd poma</b>(사과 초록), <b>groc canari</b>(카나리아 노랑), <b>gris perla</b>(진주 회색).", "es": "Un color seguido de un objeto o animal indica un tono preciso: <b>verd poma</b> (verde manzana), <b>groc canari</b> (amarillo canario), <b>gris perla</b>."}
+      ],
+      "examples": [
+        {"ca": "Hem preparat una festa sorpresa per a la Carla.", "en": "We’ve prepared a surprise party for Carla.", "ko": "우리는 카를라를 위해 깜짝 파티를 준비했어.", "es": "Hemos preparado una fiesta sorpresa para Carla."},
+        {"ca": "Quan venen els cosins, dormo al sofà llit.", "en": "When my cousins come, I sleep on the sofa bed.", "ko": "사촌들이 오면 나는 소파 침대에서 자.", "es": "Cuando vienen los primos, duermo en el sofá cama."},
+        {"ca": "La cuina menjador del pis és molt gran.", "en": "The flat’s kitchen‑diner is very big.", "ko": "그 아파트의 주방 겸 식당은 아주 넓어.", "es": "La cocina comedor del piso es muy grande."},
+        {"ca": "La Martina té una bicicleta groc canari.", "en": "Martina has a canary‑yellow bike.", "ko": "마르티나는 카나리아색 자전거가 있어.", "es": "Martina tiene una bicicleta amarillo canario."},
+        {"ca": "Els camions cisterna porten aigua al poble.", "en": "The tanker lorries bring water to the village.", "ko": "탱크로리들이 마을에 물을 실어 와.", "es": "Los camiones cisterna llevan agua al pueblo."}
+      ]
+    },
+    {
+      "id": "10.3",
+      "title": {"ca": "Nom (o pronom) + verb", "en": "Noun (or pronoun) + verb", "ko": "명사(또는 대명사) + 동사", "es": "Nombre (o pronombre) + verbo"},
+      "points": [
+        {"en": "Here a noun comes before a verb. The noun can play different roles: the object (<b>capgirar</b>, to turn upside down), the subject (<b>terratrèmol</b>, the earth trembles) or an adverbial (<b>manllevar</b>, to borrow).", "ko": "여기서는 명사가 동사 앞에 와요. 명사는 목적어(<b>capgirar</b>, 뒤집다), 주어(<b>terratrèmol</b>, 땅이 흔들림), 부사어(<b>manllevar</b>, 빌리다) 등 여러 역할을 할 수 있어요.", "es": "Aquí el nombre va delante del verbo y puede tener distintas funciones: objeto (<b>capgirar</b>, dar la vuelta), sujeto (<b>terratrèmol</b>, la tierra tiembla) o complemento circunstancial (<b>manllevar</b>, tomar prestado)."},
+        {"en": "If the compound is an infinitive, it is conjugated like any verb: <b>capgiro</b>, <b>no capgiris</b>.", "ko": "합성어가 부정사 형태면 일반 동사처럼 활용해요: <b>capgiro</b>, <b>no capgiris</b>.", "es": "Si el compuesto es un infinitivo, se conjuga como cualquier verbo: <b>capgiro</b>, <b>no capgiris</b>."},
+        {"en": "If it is a participle, it agrees like an adjective: <b>alacaigut</b>, <b>alacaiguda</b>, <b>alacaiguts</b> (downcast).", "ko": "과거분사 형태면 형용사처럼 성·수를 일치시켜요: <b>alacaigut</b>, <b>alacaiguda</b>, <b>alacaiguts</b>(풀이 죽은).", "es": "Si es un participio, concuerda como un adjetivo: <b>alacaigut</b>, <b>alacaiguda</b>, <b>alacaiguts</b> (alicaído)."},
+        {"en": "With the pronoun <b>que</b> we get nouns like <b>queviures</b> (food supplies).", "ko": "대명사 <b>que</b>와 결합하면 <b>queviures</b>(식료품) 같은 명사가 생겨요.", "es": "Con el pronombre <b>que</b> se obtienen nombres como <b>queviures</b> (víveres)."}
+      ],
+      "examples": [
+        {"ca": "No capgiris l’ordre de les paraules.", "en": "Don’t turn the order of the words upside down.", "ko": "단어 순서를 뒤집지 마.", "es": "No inviertas el orden de las palabras."},
+        {"ca": "Ahir hi va haver un terratrèmol al Japó.", "en": "Yesterday there was an earthquake in Japan.", "ko": "어제 일본에서 지진이 났어.", "es": "Ayer hubo un terremoto en Japón."},
+        {"ca": "Vam comprar queviures per a l’excursió.", "en": "We bought food supplies for the trip.", "ko": "우리는 소풍 갈 식료품을 샀어.", "es": "Compramos víveres para la excursión."},
+        {"ca": "Després del partit, la Júlia estava alacaiguda.", "en": "After the match, Júlia was downcast.", "ko": "경기가 끝난 뒤 훌리아는 풀이 죽어 있었어.", "es": "Después del partido, Júlia estaba alicaída."}
+      ]
+    },
+    {
+      "id": "10.4",
+      "title": {"ca": "Nom + adjectiu / adjectiu + nom", "en": "Noun + adjective / adjective + noun", "ko": "명사 + 형용사 / 형용사 + 명사", "es": "Nombre + adjetivo / adjetivo + nombre"},
+      "points": [
+        {"en": "A noun (often a body part) + an adjective gives an adjective that describes how a person or animal looks or behaves: <b>camacurt</b> (short‑legged), <b>galtaplè</b> (chubby‑cheeked), <b>bocamoll</b> (who can’t keep a secret).", "ko": "명사(주로 신체 부위) + 형용사로 사람이나 동물의 생김새나 성격을 묘사하는 형용사가 돼요: <b>camacurt</b>(다리가 짧은), <b>galtaplè</b>(볼이 통통한), <b>bocamoll</b>(입이 가벼운).", "es": "Un nombre (a menudo una parte del cuerpo) + un adjetivo da un adjetivo que describe el aspecto o el carácter: <b>camacurt</b> (paticorto), <b>galtaplè</b> (mofletudo), <b>bocamoll</b> (bocazas)."},
+        {"en": "As adjectives, they agree in gender and number: <b>panxacontent</b>, <b>panxacontenta</b>, <b>panxacontents</b>, <b>panxacontentes</b>.", "ko": "형용사이므로 성과 수를 일치시켜요: <b>panxacontent</b>, <b>panxacontenta</b>, <b>panxacontents</b>, <b>panxacontentes</b>.", "es": "Como adjetivos, concuerdan en género y número: <b>panxacontent</b>, <b>panxacontenta</b>, <b>panxacontents</b>, <b>panxacontentes</b>."},
+        {"en": "A few start with the adjective <b>poca</b> (little): <b>pocatraça</b> (clumsy), <b>pocavergonya</b> (shameless).", "ko": "형용사 <b>poca</b>(적은)로 시작하는 것도 있어요: <b>pocatraça</b>(서투른), <b>pocavergonya</b>(뻔뻔한).", "es": "Algunos empiezan por el adjetivo <b>poca</b>: <b>pocatraça</b> (torpe), <b>pocavergonya</b> (sinvergüenza)."}
+      ],
+      "examples": [
+        {"ca": "No li expliquis el secret, que és molt bocamoll.", "en": "Don’t tell him the secret, he can’t keep his mouth shut.", "ko": "그 애한테 비밀 말하지 마, 입이 엄청 가벼워.", "es": "No le cuentes el secreto, que es muy bocazas."},
+        {"ca": "La gata dorm panxacontenta al sol.", "en": "The cat sleeps, full and happy, in the sun.", "ko": "고양이가 배부르고 만족스럽게 햇볕 아래서 자.", "es": "La gata duerme satisfecha al sol."},
+        {"ca": "Soc una mica pocatraça amb les tisores.", "en": "I’m a bit clumsy with scissors.", "ko": "나는 가위질이 좀 서툴러.", "es": "Soy un poco torpe con las tijeras."},
+        {"ca": "Les bessones són galtaplenes i rialleres.", "en": "The twins are chubby‑cheeked and cheerful.", "ko": "쌍둥이 자매는 볼이 통통하고 잘 웃어.", "es": "Las gemelas son mofletudas y risueñas."}
+      ]
+    }
+  ],
+  "vocab": [
+    {"ca": "rentaplats", "en": "dishwasher", "ko": "식기세척기", "es": "lavavajillas"},
+    {"ca": "obrellaunes", "en": "tin opener", "ko": "캔 따개", "es": "abrelatas"},
+    {"ca": "trencaclosques", "en": "jigsaw puzzle", "ko": "퍼즐", "es": "rompecabezas"},
+    {"ca": "paraigua", "en": "umbrella", "ko": "우산", "es": "paraguas"},
+    {"ca": "gratacel", "en": "skyscraper", "ko": "고층 빌딩", "es": "rascacielos"},
+    {"ca": "portaveu", "en": "spokesperson", "ko": "대변인, 대표", "es": "portavoz"},
+    {"ca": "festa sorpresa", "en": "surprise party", "ko": "깜짝 파티", "es": "fiesta sorpresa"},
+    {"ca": "sofà llit", "en": "sofa bed", "ko": "소파 침대", "es": "sofá cama"},
+    {"ca": "verd poma", "en": "apple green", "ko": "사과 초록색", "es": "verde manzana"},
+    {"ca": "terratrèmol", "en": "earthquake", "ko": "지진", "es": "terremoto"},
+    {"ca": "capgirar", "en": "to turn upside down", "ko": "뒤집다", "es": "dar la vuelta, invertir"},
+    {"ca": "queviures", "en": "food supplies", "ko": "식료품", "es": "víveres"},
+    {"ca": "bocamoll", "en": "blabbermouth", "ko": "입이 가벼운", "es": "bocazas"},
+    {"ca": "pocatraça", "en": "clumsy", "ko": "서투른", "es": "torpe"}
+  ],
+  "exercises": [
+    {"type": "mc", "sec": "10.1", "q": {"en": "A machine that washes dishes is a…", "ko": "접시를 씻는 기계는…", "es": "Una máquina que lava los platos es un…"}, "options": ["platsrenta", "rentaplats", "rentador de plat", "plat-renta"], "answer": 1, "explain": {"en": "Catalan puts the verb first (renta) and the noun second (plats).", "ko": "카탈루냐어는 동사(renta)를 앞에, 명사(plats)를 뒤에 둬요.", "es": "El catalán pone el verbo primero (renta) y el nombre después (plats)."}},
+    {"type": "fill", "sec": "10.1", "q": {"en": "Write the compound: obrir + llaunes (tin opener).", "ko": "합성어를 쓰세요: obrir + llaunes(캔 따개).", "es": "Escribe el compuesto: obrir + llaunes (abrelatas)."}, "ca": "Per obrir aquesta llauna necessito un ___.", "answer": ["obrellaunes"], "explain": {"en": "The verb appears as the 3rd person singular present obre, joined to the plural noun llaunes.", "ko": "동사는 3인칭 단수 현재형 obre로 쓰고 복수 명사 llaunes와 붙여요.", "es": "El verbo aparece en 3.ª persona del singular del presente, obre, unido al nombre plural llaunes."}},
+    {"type": "tf", "sec": "10.1", "q": {"en": "In Catalan verb + noun compounds, the verb comes first, as in ‘tallaungles’.", "ko": "카탈루냐어 동사 + 명사 합성어에서는 ‘tallaungles’처럼 동사가 먼저 온다.", "es": "En los compuestos catalanes verbo + nombre, el verbo va primero, como en ‘tallaungles’."}, "answer": true, "explain": {"en": "talla (cuts) + ungles (nails): the main element, the verb, is on the left.", "ko": "talla(자르다) + ungles(손톱): 중심 요소인 동사가 왼쪽에 와요.", "es": "talla (corta) + ungles (uñas): el elemento principal, el verbo, va a la izquierda."}},
+    {"type": "mc", "sec": "10.1", "q": {"en": "What is the plural of ‘un trencaclosques’?", "ko": "‘un trencaclosques’의 복수형은?", "es": "¿Cuál es el plural de ‘un trencaclosques’?"}, "options": ["dos trencaclosqueses", "dues trencaclosques", "dos trencacloscs", "dos trencaclosques"], "answer": 3, "explain": {"en": "The noun part is already plural, so the word doesn’t change; it is masculine, so dos.", "ko": "명사 부분이 이미 복수라서 형태가 바뀌지 않아요. 남성이므로 dos를 써요.", "es": "La parte nominal ya está en plural, así que no cambia; es masculino, por eso dos."}},
+    {"type": "fill", "sec": "10.1", "q": {"en": "Write the plural of gratacel.", "ko": "gratacel의 복수형을 쓰세요.", "es": "Escribe el plural de gratacel."}, "ca": "Nova York té molts ___.", "answer": ["gratacels"], "explain": {"en": "The noun part (cel) is singular, so the compound takes a normal plural ‑s.", "ko": "명사 부분(cel)이 단수라서 합성어에 일반 복수 ‑s를 붙여요.", "es": "La parte nominal (cel) está en singular, así que el compuesto hace el plural normal en ‑s."}},
+    {"type": "match", "sec": "10.1", "q": {"en": "Match the compounds with their meanings.", "ko": "합성어를 뜻과 연결하세요.", "es": "Une los compuestos con su significado."}, "pairs": [
+      {"l": "paraigua", "r": {"en": "umbrella", "ko": "우산", "es": "paraguas"}},
+      {"l": "portaveu", "r": {"en": "spokesperson", "ko": "대변인", "es": "portavoz"}},
+      {"l": "comptagotes", "r": {"en": "dropper", "ko": "스포이트", "es": "cuentagotas"}},
+      {"l": "eixugamans", "r": {"en": "hand towel / hand dryer", "ko": "손 닦는 수건·핸드 드라이어", "es": "toalla de manos / secamanos"}},
+      {"l": "tallaungles", "r": {"en": "nail clippers", "ko": "손톱깎이", "es": "cortaúñas"}}
+    ]},
+    {"type": "mc", "sec": "10.1", "q": {"en": "In ‘portamonedes’ (purse), which form is the verb part?", "ko": "‘portamonedes’(동전 지갑)에서 동사 부분은 어떤 형태인가요?", "es": "En ‘portamonedes’ (monedero), ¿qué forma tiene la parte verbal?"}, "options": ["porta (3rd person singular present)", "portar (infinitive)", "port (noun)", "portat (participle)"], "answer": 0, "explain": {"en": "Verb + noun compounds use the 3rd person singular present: porta.", "ko": "동사 + 명사 합성어는 3인칭 단수 현재형을 써요: porta.", "es": "Los compuestos verbo + nombre usan la 3.ª persona del singular del presente: porta."}},
+    {"type": "mc", "sec": "10.2", "q": {"en": "What is the plural of ‘una festa sorpresa’?", "ko": "‘una festa sorpresa’의 복수형은?", "es": "¿Cuál es el plural de ‘una festa sorpresa’?"}, "options": ["dues festa sorpreses", "dues festes sorpreses", "dues festes sorpresa", "dues festa sorpresa"], "answer": 2, "explain": {"en": "In noun + noun combinations, usually only the first noun takes the plural.", "ko": "명사 + 명사 결합에서는 보통 첫 번째 명사만 복수가 돼요.", "es": "En las combinaciones nombre + nombre, normalmente solo el primer nombre va en plural."}},
+    {"type": "fill", "sec": "10.2", "q": {"en": "Write the plural of sofà (in sofà llit).", "ko": "sofà llit에서 sofà의 복수형을 쓰세요.", "es": "Escribe el plural de sofà (en sofà llit)."}, "ca": "Al saló tenim dos ___ llit.", "answer": ["sofàs"], "explain": {"en": "Only the first noun changes: sofàs llit. Words ending in stressed ‑à add ‑s here.", "ko": "첫 번째 명사만 바뀌어요: sofàs llit. 여기서는 강세 ‑à 뒤에 ‑s를 붙여요.", "es": "Solo cambia el primer nombre: sofàs llit. Aquí la palabra en ‑à tónica añade ‑s."}},
+    {"type": "tf", "sec": "10.2", "q": {"en": "In ‘camió cisterna’, the word ‘cisterna’ works like an adjective describing the lorry.", "ko": "‘camió cisterna’에서 ‘cisterna’는 트럭을 꾸미는 형용사처럼 쓰인다.", "es": "En ‘camió cisterna’, ‘cisterna’ funciona como un adjetivo que describe el camión."}, "answer": true, "explain": {"en": "In noun + noun combinations, the second noun qualifies the first.", "ko": "명사 + 명사 결합에서는 두 번째 명사가 첫 번째 명사를 꾸며요.", "es": "En las combinaciones nombre + nombre, el segundo nombre califica al primero."}},
+    {"type": "order", "sec": "10.2", "q": {"en": "Build the sentence: ‘We have organised a surprise party.’", "ko": "문장을 만드세요: ‘우리는 깜짝 파티를 준비했어.’", "es": "Forma la frase: ‘Hemos organizado una fiesta sorpresa.’"}, "words": ["Hem", "organitzat", "una", "festa", "sorpresa"], "answer": "Hem organitzat una festa sorpresa", "explain": {"en": "The main noun (festa) comes first and the describing noun (sorpresa) second.", "ko": "중심 명사(festa)가 먼저, 꾸미는 명사(sorpresa)가 뒤에 와요.", "es": "El nombre principal (festa) va primero y el que lo describe (sorpresa) después."}},
+    {"type": "mc", "sec": "10.2", "q": {"en": "How do you say ‘canary yellow’?", "ko": "‘카나리아 노랑’은 어떻게 말하나요?", "es": "¿Cómo se dice ‘amarillo canario’?"}, "options": ["groc canari", "canari groc", "grocanari", "canarigroc"], "answer": 0, "explain": {"en": "The colour comes first and the object or animal that specifies the shade comes after.", "ko": "색 이름이 먼저 오고, 색조를 구체화하는 사물이나 동물이 뒤에 와요.", "es": "Primero va el color y después el objeto o animal que precisa el tono."}},
+    {"type": "mc", "sec": "10.3", "q": {"en": "In ‘terratrèmol’ (earthquake), what role does ‘terra’ play?", "ko": "‘terratrèmol’(지진)에서 ‘terra’는 어떤 역할인가요?", "es": "En ‘terratrèmol’ (terremoto), ¿qué función tiene ‘terra’?"}, "options": ["object of the verb", "subject (the earth trembles)", "adverbial of place"], "answer": 1, "explain": {"en": "It’s the earth that trembles, so terra is the subject of the verb idea.", "ko": "흔들리는 것이 땅이므로 terra는 동사의 주어예요.", "es": "Es la tierra la que tiembla, así que terra es el sujeto de la idea verbal."}},
+    {"type": "fill", "sec": "10.3", "q": {"en": "Use capgirar as a negative command to ‘tu’.", "ko": "capgirar를 ‘tu’에 대한 부정 명령형으로 쓰세요.", "es": "Usa capgirar como imperativo negativo para ‘tu’."}, "ca": "No ___ els mobles, si us plau!", "answer": ["capgiris"], "explain": {"en": "capgirar is a normal ‑ar verb, so the negative command uses the subjunctive: no capgiris.", "ko": "capgirar는 일반 ‑ar 동사라서 부정 명령은 접속법을 써요: no capgiris.", "es": "capgirar es un verbo regular en ‑ar; el imperativo negativo usa el subjuntivo: no capgiris."}},
+    {"type": "tf", "sec": "10.3", "q": {"en": "‘Queviures’ is formed with the pronoun ‘que’ + a verb, and means food supplies.", "ko": "‘queviures’는 대명사 ‘que’ + 동사로 만들어졌고 식료품이라는 뜻이다.", "es": "‘Queviures’ se forma con el pronombre ‘que’ + un verbo y significa víveres."}, "answer": true, "explain": {"en": "que + viure (to live): literally ‘what to live on’.", "ko": "que + viure(살다): 글자 그대로 ‘먹고살 것’이에요.", "es": "que + viure (vivir): literalmente ‘de qué vivir’."}},
+    {"type": "fill", "sec": "10.3", "q": {"en": "Make alacaigut agree with ‘les noies’.", "ko": "alacaigut를 ‘les noies’에 맞게 일치시키세요.", "es": "Haz concordar alacaigut con ‘les noies’."}, "ca": "Després de l’examen, les noies estaven ___.", "answer": ["alacaigudes"], "explain": {"en": "Participle compounds agree like adjectives: feminine plural alacaigudes.", "ko": "과거분사 합성어는 형용사처럼 일치해요: 여성 복수 alacaigudes.", "es": "Los compuestos de participio concuerdan como adjetivos: femenino plural alacaigudes."}},
+    {"type": "fill", "sec": "10.4", "q": {"en": "Make panxacontent agree with ‘la gata’.", "ko": "panxacontent를 ‘la gata’에 맞게 일치시키세요.", "es": "Haz concordar panxacontent con ‘la gata’."}, "ca": "La meva gata dorm ___ al sofà.", "answer": ["panxacontenta"], "explain": {"en": "Noun + adjective compounds are adjectives, so they take the feminine ‑a.", "ko": "명사 + 형용사 합성어는 형용사라서 여성형 ‑a가 붙어요.", "es": "Los compuestos nombre + adjetivo son adjetivos y toman la ‑a del femenino."}},
+    {"type": "mc", "sec": "10.4", "q": {"en": "Someone who can’t keep a secret is…", "ko": "비밀을 지키지 못하는 사람은…", "es": "Alguien que no sabe guardar un secreto es…"}, "options": ["capgròs", "pocatraça", "bocamoll", "galtaplè"], "answer": 2, "explain": {"en": "boca (mouth) + moll (soft, wet): a ‘loose mouth’.", "ko": "boca(입) + moll(물렁한): ‘입이 가벼운’ 사람이에요.", "es": "boca + moll (blando): alguien con la ‘boca floja’."}},
+    {"type": "match", "sec": "10.4", "q": {"en": "Match the descriptive compounds with their meanings.", "ko": "묘사하는 합성어를 뜻과 연결하세요.", "es": "Une los compuestos descriptivos con su significado."}, "pairs": [
+      {"l": "pocatraça", "r": {"en": "clumsy", "ko": "서투른", "es": "torpe"}},
+      {"l": "galtaplè", "r": {"en": "chubby‑cheeked", "ko": "볼이 통통한", "es": "mofletudo"}},
+      {"l": "camacurt", "r": {"en": "short‑legged", "ko": "다리가 짧은", "es": "paticorto"}},
+      {"l": "panxacontent", "r": {"en": "full and satisfied", "ko": "배부르고 만족한", "es": "satisfecho, con la barriga llena"}}
+    ]},
+    {"type": "tf", "sec": "10.4", "q": {"en": "Noun + adjective compounds like ‘camacurt’ never change for gender.", "ko": "‘camacurt’ 같은 명사 + 형용사 합성어는 성에 따라 바뀌지 않는다.", "es": "Los compuestos nombre + adjetivo como ‘camacurt’ nunca cambian de género."}, "answer": false, "explain": {"en": "They behave as adjectives: camacurt, camacurta, camacurts, camacurtes.", "ko": "형용사처럼 변해요: camacurt, camacurta, camacurts, camacurtes.", "es": "Se comportan como adjetivos: camacurt, camacurta, camacurts, camacurtes."}}
+  ]
+}
